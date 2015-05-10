@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd"> -->
 <!DOCTYPE TEI.2 SYSTEM "tei_all.dtd"> 
-<?xml-stylesheet type="text/xsl" href="waves-tei.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="portrait-tei.xsl" ?>
 
 <TEI.2>
 	<teiHeader> 
