@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd"> -->
 <!DOCTYPE TEI.2 SYSTEM "tei_all.dtd"> 
-<?xml-stylesheet type="text/xsl" href="waves-tei.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="portrait-tei.xsl" ?>
 
 <TEI.2>
 	<teiHeader> 
@@ -8639,7 +8639,7 @@
 				<p>--Alone, quite alone. You have no fear of that. And you 
 					know what that word means? Not only to be separate from all 
 					others but to have not even one friend. </p>
-				<p>--I will take the risk, said Stephen. </p>
+				<p><said who="Stephen">--I will take the risk, said Stephen.</said> </p>
 				<p>--And not to have any one person, Cranly said, who would 
 					be more than a friend, more even than the noblest and truest 
 					friend a man ever had. </p>
