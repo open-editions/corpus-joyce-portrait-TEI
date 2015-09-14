@@ -24,7 +24,7 @@
 				<availability><p>Public Domain</p></availability>
 			</publicationStmt>
 			<!--<notesStmt>-->
-				<!--</notesStmt>-->
+			<!--</notesStmt>-->
 			<sourceDesc>
 				<p>This text was adapted from an SGML edition prepared by Hans Gabler, and accessed from the Oxford Text Archive. The original version also references Chester Anderson, ed. New York: Viking Press, 1964</p>
 			</sourceDesc>
@@ -6020,10 +6020,12 @@
 					one after another in his greasy fingers the blue and white 
 					dockets, scrawled and sanded and creased and bearing the 
 					name of the pledger as Daly or MacEvoy. </p>
-				<p>$1 Pair Buskins. </p>
-				<p>$1 D. Coat. </p>
-				<p>$3 Articles and White. </p>
-				<p>$1 Man's Pants. </p>
+				<lg>
+					<l>1 Pair Buskins. </l>
+					<l>1 D. Coat. </l>
+					<l>3 Articles and White. </l>
+					<l>1 Man's Pants. </l>
+				<lg>
 				<p>Then he put them aside and gazed thoughtfully at the lid of 
 					the box, speckled with lousemarks, and asked vaguely: </p>
 				<p>--How much is the clock fast now? </p>
@@ -6096,7 +6098,9 @@
 					boyish beauty, and that passing a grimy marinedealer's shop 
 					beyond the Liffey he would repeat the song by Ben Jonson 
 					which begins: </p>
-				<p>$<emph rend="italic">I was not wearier where I lay.</emph> </p>
+				<lg>
+					<l><emph rend="italic">I was not wearier where I lay.</emph> </l>
+				</lg>
 				<p>His mind, when wearied of its search for the essence of 
 					beauty amid the spectral words of Aristotle or Aquinas, 
 					turned often for its pleasure to the dainty songs of the Elizabethans. 
@@ -6186,11 +6190,13 @@
 					language. His own consciousness of language was ebbing from 
 					his brain and trickling into the very words themselves which 
 					set to band and disband themselves in wayward rhythms: </p>
-				<p>$<emph rend="italic">The ivy whines upon the wall</emph> </p>
-				<p>$<emph rend="italic">And whines and twines upon the wall</emph> </p>
-				<p>$<emph rend="italic">The ivy whines upon the wall</emph> </p>
-				<p>$<emph rend="italic">The yellow ivy on the wall</emph> </p>
-				<p>$<emph rend="italic">Ivy, ivy up the wall.</emph> </p>
+				<lg>
+					<l><emph rend="italic">The ivy whines upon the wall</emph> </l>
+					<l><emph rend="italic">And whines and twines upon the wall</emph> </l>
+					<l><emph rend="italic">The ivy whines upon the wall</emph> </l>
+					<l><emph rend="italic">The yellow ivy on the wall</emph> </l>
+					<l><emph rend="italic">Ivy, ivy up the wall.</emph> </l>
+				</lg>
 				<p>Did any one ever hear such drivel? Lord Almighty! Who 
 					ever heard of ivy whining on a wall? Yellow ivy: that was all 
 					right. Yellow ivory also. And what about ivory ivy? </p>
@@ -6204,7 +6210,7 @@
 					chines of bacon. He had learnt what little he knew of the laws 
 					of Latin verse from a ragged book written by a Portuguese 
 					priest. </p>
-				<p>$<emph rend="italic">Contrahit orator, variant in carmine vates.</emph> </p>
+				<l><emph rend="italic">Contrahit orator, variant in carmine vates.</emph> </l>
 				<p>The crises and victories and secessions in Roman history were 
 					handed on to him in the trite words <emph rend="italic">in tanto discrimine</emph> and he 
 					had tried to peer into the social life of the city of cities through 
