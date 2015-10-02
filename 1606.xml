@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader type="ISBD-ER">
+    <fileDesc>
+      <titleStmt>
+        <title type="uniform">Portrait of the artist as a young man</title>
+        <title type="main">A portrait of the artist as a young man [Electronic resource] / James Joyce</title>
+        <author>Joyce, James, 1882-1941</author>
+        <respStmt>
+          <resp>creation of machine-readable version</resp>
+          <name>Gabler, Hans Walter, 1938-</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <seg type="designation">Text data</seg>
+        <seg type="size">(1 file : ca. 470 kilobytes)</seg>
+      </extent>
+      <publicationStmt>
+        <authority>[Depositor details removed]<date>1992-03-11</date></authority>
+        <distributor>
+          <orgName type="OTA">University of Oxford Text Archive</orgName>
+          <placeName>Oxford</placeName>
+          <address>
+            <orgName type="OTA">University of Oxford Text Archive</orgName>
+            <orgName type="OUCS">Oxford University Computing
+          Services</orgName>
+            <addrLine>13 Banbury Road</addrLine>
+            <addrLine>Oxford</addrLine>
+            <addrLine>OX2 6NN</addrLine>
+          </address>
+          <email>ota@it.ox.ac.uk</email>
+        </distributor>
+        <idno type="ota">1606</idno>
+	<availability n="OTA-new" status="free" rend="visible">
+          <licence target="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+          Distributed by the University of Oxford under a Creative Commons
+          Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+          </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note>Mode of access: Online. OTA website.</note>
+        <note>Title proper taken from electronic text</note>
+        <note>Unknown markup version of this text (1606) available at 1359</note>
+      </notesStmt>
+      <sourceDesc>
+        <biblFull>
+          <titleStmt>
+            <title>A portrait of the artist as a young man</title>
+            <author>Joyce, James, 1882-1941</author>
+            <editor>Anderson, Chester G.</editor>
+            <editor>Ellmann, Richard, 1918-</editor>
+          </titleStmt>
+          <publicationStmt>
+            <publisher>Viking Press</publisher>
+            <pubPlace>New York</pubPlace>
+            <date>1964</date>
+          </publicationStmt>
+          <notesStmt>
+            <note>First ed. 1904</note>
+          </notesStmt>
+        </biblFull>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <editorialDecl>
+        <p>Encoding format: SGML (UVA DTD)</p>
+      </editorialDecl>
+      <classDecl>
+        <taxonomy xml:id="OTASH">
+          <bibl>University of Oxford Text Archive Subject Headings</bibl>
+        </taxonomy>
+        <taxonomy xml:id="LCSH">
+          <bibl>Library of Congress Subject Headings</bibl>
+        </taxonomy>
+      </classDecl>
+    </encodingDesc>
+    <profileDesc>
+      <textClass>
+        <keywords scheme="#OTASH">
+          <term type="genre">Novels</term>
+        </keywords>
+        <keywords scheme="#LCSH">
+          <term type="genre">Irish literature -- 20th century</term>
+        </keywords>
+      </textClass>
+      <textClass>
+        <keywords scheme="http://www.ota.ox.ac.uk/processing">
+          <term type="class">legacy</term>
+          <term type="license">unrestricted</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+     <change><date>2015-04-07</date><label>Cataloguer</label><name>Wynne, Martin</name>Availability and licence changed to freely available under CC, following expiry of author copyright at the end of 2011.
+      </change>
+      <change><date>2002-01-17</date><label>Cataloguer</label><name>Colley, Greg</name>Header recomposed with TEIXML header
+      </change>
+      <change><date>1997-12-18</date><label>Converter</label><name>Fix, Jakob</name>Automatic conversion from OTA DTD to TEI lite DTD
+      </change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="OTA-filemap" rend="visible" n="unrestricted">
+        <ab type="file">
+          <seg type="part">1</seg>
+          <seg type="mimetype">text/plain</seg>
+          <seg type="format">Unknown textual format</seg>
+          <ptr type="resourcePart" target="joyport.1606"/>
+        </ab>
+      </div>
+    </body>
+  </text>
+</TEI>
