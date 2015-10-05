@@ -1413,12 +1413,12 @@ water there. And behind the door of one of the  closets there
 was a drawing in red pencil of a bearded man in a Roman 
 dress with a brick in each hand and underneath was the name 
 of the drawing: </p>
-<p><i>Balbus was building a wall.</i> </p>
+<l><i>Balbus was building a wall.</i> </l>
 <p>Some fellows had drawn it there for a cod. It had a funny 
 face but it was very like a man with a beard. And on the wall 
 of another closet there was written in backhand  in beautiful 
 writing: </p>
-<p><i>Julius C#.^asar  wrote The Calico Belly.</i> </p>
+<l><i>Julius C#.^asar  wrote The Calico Belly.</i> </l>
 <p>Perhaps that was why they were there  because it was a 
 place where some fellows wrote things for cod. But all the 
 same it was queer what Athy said and the way he said it. It 
@@ -2759,8 +2759,8 @@ for. </p>
 <p>Boland, in fact, was said to have written on the slates in the 
 yard a couplet about a classmate of his who often rode home 
 from the college on a pony: </p>
-<p><i>As Tyson was riding into Jerusalem</i> </p>
-<p><i>He fell and hurt his Alec Kafoozelum.</i> </p>
+<l><i>As Tyson was riding into Jerusalem</i> </l>
+<l><i>He fell and hurt his Alec Kafoozelum.</i> </l>
 <p>This thrust put the two lieutenants to silence but Heron 
 	went on: </p>
 <p>--In any case Byron was a heretic and immoral too. </p>
@@ -3004,22 +3004,24 @@ hair and face and moustache with great care, craning his neck
 across the waterjug and drawing it back sideways to see the 
 better. While he did so he sang softly to himself with quaint 
 accent and phrasing: </p>
-<p><i>'Tis youth and folly</i> </p>
-<p><i>Makes young men marry,</i> </p>
-<p><i>So here, my love, I'll</i> </p>
+<lg>
+<l><i>'Tis youth and folly</i> </l>
+<l><i>Makes young men marry,</i> </l>
+<l><i>So here, my love, I'll</i> </l>
 <l><i>No longer stay.</i></l> 
-<p><i>What can't be cured, sure,</i> </p>
-<p><i>Must be injured, sure,</i> </p>
-<p><i>So I'll go to</i> </p>
+<l><i>What can't be cured, sure,</i> </l>
+<l><i>Must be injured, sure,</i> </l>
+<l><i>So I'll go to</i> </l>
 <l><i>Amerikay.</i></l> 
-<p><i>My love she's handsome,</i> </p>
-<p><i>My love she's bonny:</i> </p>
-<p><i>She's like good whisky</i> </p>
+<l><i>My love she's handsome,</i> </l>
+<l><i>My love she's bonny:</i> </l>
+<l><i>She's like good whisky</i> </l>
 <l><i>When it is new;</i></l> 
-<p><i>But when 'tis old</i> </p>
-<p><i>And growing cold</i> </p>
-<p><i>It fades and dies like</i> </p>
+<l><i>But when 'tis old</i> </l>
+<l><i>And growing cold</i> </l>
+<l><i>It fades and dies like</i> </l>
 <l><i>The mountain dew.</i></l> 
+</lg>
 <p>The consciousness of the warm sunny city outside his 
 window and the tender tremors with which his father's voice 
 festooned the strange sad happy air, drove off all the mists of 
@@ -3288,9 +3290,11 @@ filial piety. Nothing stirred within his soul but a cold and cruel
 and loveless lust. His childhood was dead or lost and with it 
 his soul capable of simple joys, and he was drifting amid life 
 like the barren shell of the moon. </p>
-<p><i>Art thou pale for weariness</i> </p>
-<p><i>Of climbing heaven and gazing on the earth,</i> </p>
-<p><i>Wandering companionless ...?</i> </p>
+<lg>
+	<l><i>Art thou pale for weariness</i> </l>
+	<l><i>Of climbing heaven and gazing on the earth,</i> </l>
+	<l><i>Wandering companionless ...?</i> </l>
+</lg>
 <p>He repeated to himself the lines of Shelley's fragment. Its 
 alternation of sad human ineffectualness with vast inhuman 
 cycles of activity chilled him, and he forgot his own human 
@@ -3586,12 +3590,14 @@ plant and lateblossoming tree, symbolising the agelong gradual
 growth of her cultus among men. When it fell to him to 
 read the lesson towards the close of the office he read it in a 
 veiled voice, lulling his conscience to its music. </p>
-<p><i>Quasi cedrus exaltata sum in Libanon et quasi cupressus in</i> 
-<i>monte Sion. Quasi palma exaltata sum in Gades et quasi</i> 
-<i>plantatio rosae in Jericho. Quasi uliva speciosa in campis et</i> 
-<i>quasi platanus exaltata sum juxta aquam in plateis. Sicut</i> 
-<i>cinnamomum et balsamum aromatizans odorem dedi et quasi</i> 
-<i>myrrha electa dedi suavitatem odoris.</i> </p>
+<lg>
+	<l><i>Quasi cedrus exaltata sum in Libanon et quasi cupressus in</i> </l>
+	<l><i>monte Sion. Quasi palma exaltata sum in Gades et quasi</i> </l>
+	<l><i>plantatio rosae in Jericho. Quasi uliva speciosa in campis et</i> </l>
+	<l><i>quasi platanus exaltata sum juxta aquam in plateis. Sicut</i> </l>
+	<l><i>cinnamomum et balsamum aromatizans odorem dedi et quasi</i> </l>
+	<l><i>myrrha electa dedi suavitatem odoris.</i></l>
+</lg>
 <p>His sin, which had covered him from the sight of God, had 
 led him nearer to the refuge of sinners. Her eyes seemed to 
 regard him with mild pity; her holiness, a strange light glowing 
@@ -3609,7 +3615,7 @@ dusk, deepening in the schoolroom, covered over his thoughts.
 The bell rang. The master marked the sums and cuts to be 
 done for the next lesson and went out. Heron, beside Stephen, 
 began to hum tunelessly. </p>
-<p><i>My excellent friend Bombados.</i> </p>
+<l><i>My excellent friend Bombados.</i> </l>
 <p>Ennis, who had gone to the yard, came back, saying: </p>
 <p>--The boy from the house is coming up for the rector. </p>
 <p>A tall boy behind Stephen rubbed his hands and said: </p>
@@ -3948,8 +3954,10 @@ not Addison, the great English writer, who, when on his
 deathbed, sent for the wicked young earl of Warwick to let 
 him see how a christian can meet his end. He it is and he alone, 
 the pious and believing christian, who can say in his heart: </p>
-<p><i>O grave, where is thy victory?</i> </p>
-<p><i>O death, where is thy sting?</i> </p>
+<lg>
+	<l><i>O grave, where is thy victory?</i> </l>
+	<l><i>O death, where is thy sting?</i> </l>
+</lg>
 <p>Every word of it was for him. Against his sin, foul and 
 secret, the whole wrath of God was aimed. The preacher's 
 knife had probed deeply into his diseased conscience and he 
@@ -6104,7 +6112,7 @@ would blow through him like a keen wind, a spirit of wayward
 boyish beauty, and that passing a grimy marinedealer's shop 
 beyond the Liffey he would repeat the song by Ben Jonson 
 which begins: </p>
-<p><i>I was not wearier where I lay.</i> </p>
+<l><i>I was not wearier where I lay.</i> </l>
 <p>His mind, when wearied of its search for the essence of 
 beauty amid the spectral words of Aristotle or Aquinas, 
 turned often for its pleasure to the dainty songs of the Elizabethans. 
@@ -6194,11 +6202,13 @@ with age as he walked on in a lane among heaps of dead
 language. His own consciousness of language was ebbing from 
 his brain and trickling into the very words themselves which 
 set to band and disband themselves in wayward rhythms: </p>
-<p><i>The ivy whines upon the wall</i> </p>
-<p><i>And whines and twines upon the wall</i> </p>
-<p><i>The ivy whines upon the wall</i> </p>
-<p><i>The yellow ivy on the wall</i> </p>
-<p><i>Ivy, ivy up the wall.</i> </p>
+<lg>
+	<l><i>The ivy whines upon the wall</i> </l>
+	<l><i>And whines and twines upon the wall</i> </l>
+	<l><i>The ivy whines upon the wall</i> </l>
+	<l><i>The yellow ivy on the wall</i> </l>
+	<l><i>Ivy, ivy up the wall.</i> </l>
+</lg>
 <p>Did any one ever hear such drivel? Lord Almighty! Who 
 ever heard of ivy whining on a wall? Yellow ivy: that was all 
 right. Yellow ivory also. And what about ivory ivy? </p>
@@ -6212,7 +6222,7 @@ made whimsical by the mention of porkers and potsherds and
 chines of bacon. He had learnt what little he knew of the laws 
 of Latin verse from a ragged book written by a Portuguese 
 priest. </p>
-<p><i>Contrahit orator, variant in carmine vates.</i> </p>
+<l><i>Contrahit orator, variant in carmine vates.</i> </l>
 <p>The crises and victories and secessions in Roman history were 
 handed on to him in the trite words <i>in tanto discrimine</i> and he 
 had tried to peer into the social life of the city of cities through 
@@ -6660,9 +6670,11 @@ ever vaster, farther and more impalpable. </p>
 Perhaps some of you gentlemen may be familiar with the 
 works of Mr W. S. Gilbert. In one of his songs he speaks of 
 the billiard sharp who is condemned to play: </p>
-<p><i>On a cloth untrue</i> </p>
-<p><i>With a twisted cue</i> </p>
-<p><i>And elliptical billiard balls.</i> </p>
+<lg>
+	<l><i>On a cloth untrue</i> </l>
+	<l><i>With a twisted cue</i> </l>
+	<l><i>And elliptical billiard balls.</i> </l>
+</lg>
 <p>--He means a ball having the form of the ellipsoid of the 
 	principal axes of which I spoke a moment ago. </p>
 <p>Moynihan leaned down towards Stephen's ear and murmured: </p>
@@ -6855,8 +6867,10 @@ of Middlesex. Three cheers for John Anthony Collins! </p>
 <p>--Pip! pip! </p>
 <p>Moynihan murmured beside Stephen's ear: </p>
 <p>--And what about John Anthony's poor little sister: </p>
-<p><i>Lottie Collins lost her drawers;</i> </p>
-<p><i>Won't you kindly lend her yours?</i> </p>
+<lg>
+	<l><i>Lottie Collins lost her drawers;</i> </l>
+	<l><i>Won't you kindly lend her yours?</i> </l>
+</lg>
 <p>Stephen laughed and Moynihan, pleased with the result, 
 	murmured again: </p>
 <p>--We'll have five bob each way on John Anthony Collins. </p>
@@ -7319,10 +7333,12 @@ majestic processional song, the <i>Vexilla Regis</i> of Venantius
 Fortunatus. </p>
 <p>Lynch began to sing softly and solemnly in a deep bass 
 	voice: </p>
-<p><i>Impleta sunt qu#.^a concinit</i> </p>
-<p><i>David fideli carmine</i> </p>
-<p><i>Dicendo nationibus</i> </p>
-<p><i>Regnavit a ligno Deus.</i> </p>
+<lg>
+	<l><i>Impleta sunt qu#.^a concinit</i> </l>
+	<l><i>David fideli carmine</i> </l>
+	<l><i>Dicendo nationibus</i> </l>
+	<l><i>Regnavit a ligno Deus.</i> </l>
+</lg>
 <p>--That's great! he said, well pleased. Great music! </p>
 <p>They turned into Lower Mount Street. A few steps from the 
 corner a fat young man, wearing a silk neckcloth, saluted them 
@@ -7589,24 +7605,30 @@ heart, strange that no man had known or would know, wilful
 from before the beginning of the world: and lured by that 
 ardent roselike glow the choirs of the seraphim were falling 
 from heaven. </p>
-<p><i>Are you not weary of ardent ways,</i> </p>
-<p><i>Lure of the fallen seraphim?</i> </p>
-<p><i>Tell no more of enchanted days.</i> </p>
+<lg>
+	<l><i>Are you not weary of ardent ways,</i> </l>
+	<l><i>Lure of the fallen seraphim?</i> </l>
+	<l><i>Tell no more of enchanted days.</i> </l>
+</lg>
 <p>The verses passed from his mind to his lips and, murmuring 
 them over, he felt the rhythmic movement of a villanelle pass 
 through them. The roselike glow sent forth its rays of rhyme; 
 ways, days, blaze, praise, raise. Its rays burned up the world, 
 consumed the hearts of men and angels: the rays from the 
 rose that was her wilful heart. </p>
-<p><i>Your eyes have set man's heart ablaze</i> </p>
-<p><i>And you have had your will of him.</i> </p>
-<p><i>Are you not weary of ardent ways?</i> </p>
+<lg>
+	<l><i>Your eyes have set man's heart ablaze</i> </l>
+	<l><i>And you have had your will of him.</i> </l>
+	<l><i>Are you not weary of ardent ways?</i> </l>
+</lg>
 <p>And then? The rhythm died away, ceased, began again to 
 move and beat. And then? Smoke, incense ascending from the 
 altar of the world. </p>
-<p><i>Above the flame the smoke of praise</i> </p>
-<p><i>Goes up from ocean rim to rim.</i> </p>
-<p><i>Tell no more of enchanted days.</i> </p>
+<lg>
+	<l><i>Above the flame the smoke of praise</i> </l>
+	<l><i>Goes up from ocean rim to rim.</i> </l>
+	<l><i>Tell no more of enchanted days.</i> </l>
+</lg>
 <p>Smoke went up from the whole earth, from the vapoury 
 oceans, smoke of her praise. The earth was like a swinging 
 smoking swaying censer, a ball of incense, an ellipsoidal ball. 
@@ -7720,12 +7742,14 @@ everliving life. </p>
 <p>The radiant image of the eucharist united again in an instant 
 his bitter and despairing thoughts, their cries arising 
 unbroken in a hymn of thanksgiving. </p>
-<p><i>Our broken cries and mournful lays</i> </p>
-<p><i>Rise in one eucharistic hymn.</i> </p>
-<p><i>Are you not weary of ardent ways?</i> </p>
-<p><i>While sacrificing hands upraise</i> </p>
-<p><i>The chalice flowing to the brim,</i> </p>
-<p><i>Tell no more of enchanted days.</i> </p>
+<lg>
+	<l><i>Our broken cries and mournful lays</i> </l>
+	<l><i>Rise in one eucharistic hymn.</i> </l>
+	<l><i>Are you not weary of ardent ways?</i> </l>
+	<l><i>While sacrificing hands upraise</i> </l>
+	<l><i>The chalice flowing to the brim,</i> </l>
+	<l><i>Tell no more of enchanted days.</i> </l>
+</lg>
 <p>He spoke the verses aloud from the first lines till the music 
 and rhythm suffused his mind, turning it to quiet indulgence; 
 then copied them painfully to feel them the better by seeing 
@@ -7787,25 +7811,27 @@ water with a liquid life: and like a cloud of vapour or like
 waters circumfluent in space the liquid letters of speech, 
 symbols of the element of mystery, flowed forth over his 
 brain. </p>
-<p><i>Are you not weary of ardent ways,</i> </p>
-<p><i>Lure of the fallen seraphim?</i> </p>
-<p><i>Tell no more of enchanted days.</i> </p>
-<p><i>Your eyes have set man's heart ablaze</i> </p>
-<p><i>And you have had your will of him.</i> </p>
-<p><i>Are you not weary of ardent ways?</i> </p>
-<p><i>Above the flame the smoke of praise</i> </p>
-<p><i>Goes up from ocean rim to rim.</i> </p>
-<p><i>Tell no more of enchanted days.</i> </p>
-<p><i>Our broken cries and mournful lays</i> </p>
-<p><i>Rise in one eucharistic hymn.</i> </p>
-<p><i>Are you not weary of ardent ways?</i> </p>
-<p><i>While sacrificing hands upraise</i> </p>
-<p><i>The chalice flowing to the brim,</i> </p>
-<p><i>Tell no more of enchanted days.</i> </p>
-<p><i>And still you hold our longing gaze</i> </p>
-<p><i>With languorous look and lavish limb!</i> </p>
-<p><i>Are you not weary of ardent ways?</i> </p>
-<p><i>Tell no more of enchanted days.</i> </p>
+<lg>
+	<l><i>Are you not weary of ardent ways,</i> </l>
+	<l><i>Lure of the fallen seraphim?</i> </l>
+	<l><i>Tell no more of enchanted days.</i> </l>
+	<l><i>Your eyes have set man's heart ablaze</i> </l>
+	<l><i>And you have had your will of him.</i> </l>
+	<l><i>Are you not weary of ardent ways?</i> </l>
+	<l><i>Above the flame the smoke of praise</i> </l>
+	<l><i>Goes up from ocean rim to rim.</i> </l>
+	<l><i>Tell no more of enchanted days.</i> </l>
+	<l><i>Our broken cries and mournful lays</i> </l>
+	<l><i>Rise in one eucharistic hymn.</i> </l>
+	<l><i>Are you not weary of ardent ways?</i> </l>
+	<l><i>While sacrificing hands upraise</i> </l>
+	<l><i>The chalice flowing to the brim,</i> </l>
+	<l><i>Tell no more of enchanted days.</i> </l>
+	<l><i>And still you hold our longing gaze</i> </l>
+	<l><i>With languorous look and lavish limb!</i> </l>
+	<l><i>Are you not weary of ardent ways?</i> </l>
+	<l><i>Tell no more of enchanted days.</i> </l>
+</lg>
 <l>***</l> 
 <p>What birds were they? He stood on the steps of the library 
 to look at them, leaning wearily on his ashplant. They flew 
@@ -7866,10 +7892,12 @@ back from the south. Then he was to go away for they were
 birds ever going and coming, building ever an unlasting home 
 under the eaves of men's houses and ever leaving the homes 
 they had built to wander. </p>
-<p><i>Bend down your faces, Oona and Aleel,</i> </p>
-<p><i>I gaze upon them as the swallow gazes</i> </p>
-<p><i>Upon the nest under the eave before</i> </p>
-<p><i>He wander the loud waters.</i> </p>
+<lg>
+	<l><i>Bend down your faces, Oona and Aleel,</i> </l>
+	<l><i>I gaze upon them as the swallow gazes</i> </l>
+	<l><i>Upon the nest under the eave before</i> </l>
+	<l><i>He wander the loud waters.</i> </l>
+</lg>
 <p>A soft liquid joy like the noise of many waters flowed over 
 his memory and he felt in his heart the soft peace of silent 
 spaces of fading tenuous sky above the waters, of oceanic 
@@ -8123,7 +8151,7 @@ were sleeping. </p>
 <p>She had passed through the dusk. And therefore the air was 
 silent save for one soft hiss that fell. And therefore the tongues 
 about him had ceased their babble. Darkness  was falling. </p>
-<p><i>Darkness falls from the air.</i> </p>
+<l><i>Darkness falls from the air.</i> </l>
 <p>A trembling joy, lambent as a faint light, played like a fairy 
 host around him. But why? Her passage through the darkening 
 air or the verse with its black vowels and its opening 
@@ -8171,7 +8199,7 @@ sudden spasm of despair: and in the darkness he saw the
 brittle bright bodies of lice falling from the air and turning 
 often as they fell. Yes; and it was not darkness that fell from 
 the air. It was brightness. </p>
-<p><i>Brightness falls from the air.</i> </p>
+<l><i>Brightness falls from the air.</i> </l>
 <p>He had not even remembered rightly Nash's line. All the 
 images it  had awakened were false. His mind bred vermin. His 
 thoughts were lice born of the sweat of sloth. </p>
@@ -8556,10 +8584,12 @@ like a young star, shining clearer as the voice intoned the
 proparoxyton and more faintly as the cadence died. </p>
 <p>The singing ceased. They went on together, Cranly repeating 
 	in strongly stressed rhythm the end of the refrain: </p>
-<p><i>And when we are married,</i> </p>
-<p><i>O, how happy we'll be</i> </p>
-<p><i>For I love sweet Rosie O'Grady</i> </p>
-<p><i>And Rosie O'Grady loves me.</i> </p>
+<lg>
+	<l><i>And when we are married,</i> </l>
+	<l><i>O, how happy we'll be</i> </l>
+	<l><i>For I love sweet Rosie O'Grady</i> </l>
+	<l><i>And Rosie O'Grady loves me.</i> </l>
+</lg>
 <p>--There's  real poetry for you, he said. There's real love. </p>
 <p>He glanced sideways at Stephen with a strange smile and 
 	said: </p>
@@ -8729,8 +8759,10 @@ and tossed up dice for the overcoat of the crucified. </p>
 not out yet. Am I alarmed? About what? That she will never 
 be out again. </p>
 <p>Blake wrote: </p>
-<p><i>I wonder if William Bond will die</i> </p>
-<p><i>For assuredly he is very ill.</i> </p>
+<lg>
+	<l><i>I wonder if William Bond will die</i> </l>
+	<l><i>For assuredly he is very ill.</i> </l>
+</lg>
 <p>Alas, poor William! </p>
 <p>I was once at a diorama in Rotunda. At the end were pictures 
 of big nobs. Among them William Ewart Gladstone, just 
