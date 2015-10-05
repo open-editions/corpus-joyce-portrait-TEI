@@ -1,0 +1,19 @@
+<!-- TEI P4 DTD. Generated 2004-07-15T16:23:42-04:00 by odd2dtd.xsl -->
+
+<!-- 8.: Base Tag Set for Prose-->
+<!--
+ ** Copyright 2004 TEI Consortium.
+ ** See the main DTD fragment 'tei2.dtd' or the file 'COPYING' for the
+ ** complete copyright notice.
+-->
+<!--This base tag set does nothing but declare and embed the
+default text structure.  When it is selected, therefore,
+the only tags available are those in the core and those
+defined in other selected tag sets.-->
+<![%TEI.singleBase;[
+
+<!ENTITY % TEI.structure.dtd PUBLIC '-//TEI P4//ELEMENTS Default Text Structure//EN' 'teistr2.dtd' >
+%TEI.structure.dtd;
+
+]]>
+<!-- end of 8.-->
