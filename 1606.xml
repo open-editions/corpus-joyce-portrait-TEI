@@ -106,7 +106,7 @@
         <ab type="file">
           <seg type="part">1</seg>
           <seg type="mimetype">text/plain</seg>
-          <seg type="format">Unknown textual format</seg>
+	  <seg type="format">Unknown textual format</seg> <!-- SGML --> 
 <Text id=JoyPort> 
 <Author>Joyce, James</Author> 
 <Title>Portrait of the Artist As A Young Man</Title> 
