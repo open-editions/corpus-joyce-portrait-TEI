@@ -104,15 +104,6 @@
     <body>
 
 <!-- Begin SGML Text --> 
-<Text id=JoyPort> 
-<Author>Joyce, James</Author> 
-<Title>Portrait of the Artist As A Young Man</Title> 
-<Edition>Chester Anderson, ed. New York: Viking Press, 1964</Edition> 
-<note>No pagination</note> 
-<Date>1904</Date> 
-<body>
-<loc><locdoc>JoyPort  </locdoc> 
-<div0>
 <i>Et ignotas animum dimittit in artes.</i> 
 - Ovid, <i>Metamorphoses</i>, VIII, 188 
 <l>I</l> 
@@ -8869,7 +8860,6 @@ in the smithy of my soul the uncreated conscience of my race.
 in good stead. 
 <p>Dublin 1904 
 <p>Trieste 1914 
-</div0></loc></body></Text> 
 <!-- End SGML Text --> 
 
     </body>
