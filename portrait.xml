@@ -121,12 +121,14 @@ boy named baby tuckoo .... </p>
 		<l>On the little green place.</l> 
 </lg>
 <p>He sang that song. That was his song. </p>
+<lg type="song">
 <l>O, the green wothe botheth.</l> 
+<lg>
 <p>When you wet the bed first it is warm then it gets cold. His 
 	mother put on the oilsheet. That had the  queer smell. </p>
 <p>His mother had a nicer smell than his father. She played on 
 	the piano the sailor's hornpipe for him to dance. He danced: </p>
-	<lg>
+	<lg type="song">
 		<l>Tralala lala</l> 
 		<l>Tralala tralaladdy</l> 
 		<l>Tralala lala</l> 
@@ -735,7 +737,7 @@ be sorry then for what he had done. And the bell would toll
 slowly. </p>
 <p>He could hear the tolling. He said over to himself the song 
 	that Brigid had taught him. </p>
-<lg>
+<lg type="song">
 	<l>Dingdong! The castle bell!</l> 
 	<l>Farewell, my mother!</l> 
 	<l>Bury me in the old churchyard</l> 
@@ -6701,7 +6703,7 @@ ever vaster, farther and more impalpable. </p>
 Perhaps some of you gentlemen may be familiar with the 
 works of Mr W. S. Gilbert. In one of his songs he speaks of 
 the billiard sharp who is condemned to play: </p>
-<lg>
+<lg type="song">
 	<l>On a cloth untrue </l>
 	<l>With a twisted cue </l>
 	<l>And elliptical billiard balls. </l>
@@ -7364,7 +7366,7 @@ majestic processional song, the <hi rend="italic">Vexilla Regis</i> of Venantius
 Fortunatus. </p>
 <p>Lynch began to sing softly and solemnly in a deep bass 
 	voice: </p>
-<lg>
+<lg type="song">
 	<l>Impleta sunt qu#.^a concinit </l>
 	<l>David fideli carmine </l>
 	<l>Dicendo nationibus </l>
