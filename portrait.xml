@@ -535,12 +535,11 @@ He rolled his stockings off and put on his nightshirt quickly
 and knelt trembling at his bedside and repeated his prayers 
 quickly quickly, fearing that the gas would go down. He felt 
 his shoulders shaking as he murmured: </p>
-<l><i>God bless my father and my mother and spare them to</i></l> 
-<l><i>me!</i></l> 
-<l><i>God bless my little brothers and sisters and spare them</i></l> 
-<l><i>to me!</i></l> 
-<l><i>God bless Dante and uncle Charles and spare them</i></l> 
-<l><i>to me!</i></l> 
+<lg>
+	<l>God bless my father and my mother and spare them to me!</l> 
+	<l>God bless my little brothers and sisters and spare them to me!</l> 
+	<l>God bless Dante and uncle Charles and spare them to me!</l> 
+</lg>
 <p>He blessed himself and climbed quickly into bed and, 
 tucking the end of the nightshirt under his feet, curled himself 
 together under the cold white sheets, shaking and trembling. 
@@ -1028,11 +1027,11 @@ right and what is wrong. </p>
 	public sinner. </p>
 <p>--We are all sinners and black sinners, said Mr Casey 
 	coldly. </p>
-<p>--<i>Woe be to the man by whom the scandal cometh!</i> said 
+<p>--<hi rend="italic">Woe be to the man by whom the scandal cometh!</hi> said 
 Mrs Riordan. <hi rend="italic">It would be better for him that a millstone were</i> 
-<i>tied about his neck and that he were cast into the depth of the</i> 
-<i>sea rather than that he should scandalise one of these, my least</i> 
-<i>little ones.</i> That is the language of the Holy Ghost. </p>
+tied about his neck and that he were cast into the depth of the
+sea rather than that he should scandalise one of these, my least
+little ones. That is the language of the Holy Ghost.</hi>
 <p>--And very bad language if you ask me, said Mr Dedalus 
 	coolly. </p>
 <p>--Simon! Simon! said uncle Charles. The boy. </p>
