@@ -104,8 +104,14 @@
     <body>
 
 <!-- Begin SGML Text --> 
-<hi rend="italic">Et ignotas animum dimittit in artes.</hi> 
-- Ovid, <hi rend="italic">Metamorphoses</hi>, VIII, 188 
+
+<epigraph xml:lang="la">
+	<cit> 
+		<quote><hi rend="italic">Et ignotas animum dimittit in artes.</hi></quote>
+		<bibl>- Ovid, <hi rend="italic">Metamorphoses</hi>, VIII, 188</bibl>
+	</cit> 
+</epigraph>
+
 <div n="1" type="chapter">
 <l>I</l> 
 <p>Once upon a time and a very good time it was there was 
