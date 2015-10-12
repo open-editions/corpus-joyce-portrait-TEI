@@ -113,6 +113,7 @@
 </epigraph>
 
 <div n="1" type="chapter">
+
 <l>I</l> 
 <p>Once upon a time and a very good time it was there was 
 a moocow coming down along the road and this moocow 
@@ -122,24 +123,30 @@ boy named baby tuckoo .... </p>
 	through a glass: he had a hairy face. </p>
 <p>He was baby tuckoo. The moocow came down the road 
 	where Betty Byrne lived: she sold lemon platt. </p>
-<lg>
+
+<lg type="song">
 		<l>O, the wild rose blossoms</l> 
 		<l>On the little green place.</l> 
 </lg>
+
 <p>He sang that song. That was his song. </p>
+
 <lg type="song">
-<l>O, the green wothe botheth.</l> 
-<lg>
+	<l>O, the green wothe botheth.</l> 
+</lg>
+
 <p>When you wet the bed first it is warm then it gets cold. His 
 	mother put on the oilsheet. That had the  queer smell. </p>
 <p>His mother had a nicer smell than his father. She played on 
 	the piano the sailor's hornpipe for him to dance. He danced: </p>
-	<lg type="song">
-		<l>Tralala lala</l> 
-		<l>Tralala tralaladdy</l> 
-		<l>Tralala lala</l> 
-		<l>Tralala lala.</l> 
-	</lg>
+
+<lg type="song">
+	<l>Tralala lala</l> 
+	<l>Tralala tralaladdy</l> 
+	<l>Tralala lala</l> 
+	<l>Tralala lala.</l> 
+</lg>
+
 <p>Uncle Charles and Dante clapped. They were older than his 
 	father and mother but uncle Charles was older than Dante. </p>
 <p>Dante had two brushes in her press. The brush with the 
@@ -163,7 +170,9 @@ hid under the table. His mother said: </p>
 	<l>Pull out his eyes,</l> 
 	<l>Apologise.</l> 
 </lg>
-<l> * * * </l> 
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>The wide playgrounds were swarming with boys. All were 
 shouting and the prefects urged them on with strong cries. The 
 evening air was pale and chilly and after every charge and 
@@ -859,7 +868,9 @@ Michael. </p>
 green velvet mantle hanging from her shoulders walking 
 proudly and silently past the people who knelt by the waters' 
 edge. </p>
-<l> *  *  * </l> 
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>A great fire, banked high and red, flamed in the grate and 
 under the ivytwined branches of the chandelier the Christmas 
 table was spread. They had come home a little late and still 
@@ -1311,7 +1322,9 @@ room, her cheeks flushed and quivering with rage: </p>
 <p>He sobbed loudly and bitterly. </p>
 <p>Stephen, raising his terrorstricken face, saw that his father's 
 	eyes were full of tears. </p>
-<l> *  *  * </l> 
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>The fellows talked together in little groups. </p>
 <p>One fellow said: </p>
 <p>—They were caught near the Hill of Lyons. </p>
@@ -2483,7 +2496,9 @@ over it. Ha! Ha! Ha!</p>
 <p>—<i>I told them all at dinner about it and Father Dolan and I</i> 
 <i>and all of us we had a hearty laugh together over it. Ha! Ha!</i> 
 <i>Ha!</i> </p>
-<p>*** </p>
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>The night of the Whitsuntide play had come and Stephen 
 from the window of the dressingroom looked out on  the small 
 grassplot across which lines of Chinese lanterns were 
@@ -2987,7 +3002,9 @@ on the wall of the lane and breathed slowly the rank heavy air. </p>
 <p>—That is horse piss and rotted straw, he thought. It is a 
 good odour to breathe. It will calm my heart. My heart is quite 
 calm now. I will go back. </p>
-<p>***</p>
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>Stephen was once again seated beside his father in the 
 corner of a railway carriage at Kingsbridge. He was travelling 
 with his father by the night mail to Cork. As the train steamed 
@@ -3331,7 +3348,9 @@ like the barren shell of the moon. </p>
 alternation of sad human ineffectualness with vast inhuman 
 cycles of activity chilled him, and he forgot his own human 
 and ineffectual grieving. </p>
-<p>*** </p>
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>Stephen's mother and his brother and one of his cousins 
 waited at the corner of quiet Foster Place while he and his 
 father went up the steps and along the colonnade where the 
@@ -3754,7 +3773,9 @@ his listeners out of his dark stern eyes. </p>
 <p>In the silence their dark fire kindled the dusk into a tawny 
 glow. Stephen's heart had withered up like a flower of the 
 desert that feels the simoom  coming from afar. </p>
-<p>*** </p>
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>—<i>Remember only thy last things and thou shalt not sin for</i> 
 <i>ever</i> -  words taken, my dear little brothers in Christ, from the 
 book of Ecclesiastes, seventh chapter, fortieth verse. In the 
@@ -4740,7 +4761,9 @@ bowed his head, praying with his heart. </p>
 <p>-<i>never more to offend Thee</i> — </p>
 <p>-<i>and to amend my life</i> — </p>
 <p>-<i>and to amend my life</i> — </p>
-<p>*** </p>
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>He  went up to his room after dinner in order to be alone 
 with his soul: and at every step his soul seemed  to sigh: at 
 every step his soul mounted with his feet, sighing in the ascent, 
@@ -5369,7 +5392,9 @@ for his sin? But the surest sign that his confession had been
 good and that he had had sincere sorrow for his sin was, he 
 knew, the amendment of his life. </p>
 <p>—I have amended  my life, have I not? he asked himself. </p>
-<l>^*^*^*</l> 
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>The director stood in the embrasure of the window, his 
 back to the light, leaning an elbow on the brown crossblind 
 and, as he spoke and smiled, slowly dangling and looping the 
@@ -5741,7 +5766,9 @@ remembered that Newman had heard this note also in the
 broken lines of Virgil <hi rend="italic">giving utterance, like the voice of Nature</i> 
 <i>herself, to that pain and weariness yet hope of better things</i> 
 <i>which has been the experience of her children in every time</i>. </p>
-<l>^*^*^*</l> 
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>He could wait no longer. </p>
 <p>From the door of Byron's publichouse to the gate of Clontarf 
 Chapel, from the gate of Clontarf Chapel to the door of 
@@ -7613,7 +7640,9 @@ closing them again, holding their skirts demurely. </p>
 rosary of hours, her life simple and strange as a bird's life, gay 
 in the morning, restless all day, tired at sundown? Her heart 
 simple and wilful  as a bird's heart? </p>
-<l>^*^*^*</l> 
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>Towards dawn he awoke. O what sweet music! His soul 
 was all dewy wet. Over his limbs in sleep pale cool waves of 
 light had passed. He lay still, as if his soul lay amid cool waters, 
@@ -7871,7 +7900,9 @@ brain. </p>
 		<l>Are you not weary of ardent ways? </l>
 		<l>Tell no more of enchanted days. </l>
 </lg>
-<l>***</l> 
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>What birds were they? He stood on the steps of the library 
 to look at them, leaning wearily on his ashplant. They flew 
 round and round the jutting shoulder of a house in Molesworth 
@@ -8739,7 +8770,9 @@ silence. A cold sadness was there. He had spoken of himself,
 of his own loneliness which he feared. </p>
 <p>—Of whom are you speaking? Stephen asked at length. </p>
 <p>Cranly did not answer. </p>
-<p>*** </p>
+
+<milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
 <p>20 <hi rend="italic">March:</i> Long talk with Cranly on the subject of my 
 revolt. He had his grand manner on. I supple and suave. 
 Attacked me on the score of love for one's mother. Tried to 
