@@ -104,14 +104,12 @@
 <text>
 	<body>
 
-<!-- Begin SGML Text --> 
-
-<epigraph xml:lang="la">
-	<cit> 
-		<quote><hi rend="italic">Et ignotas animum dimittit in artes.</hi></quote>
-		<bibl>- Ovid, <hi rend="italic">Metamorphoses</hi>, VIII, 188</bibl>
-	</cit> 
-</epigraph>
+		<epigraph xml:lang="la">
+			<cit> 
+				<quote><hi rend="italic">Et ignotas animum dimittit in artes.</hi></quote>
+				<bibl>- Ovid, <hi rend="italic">Metamorphoses</hi>, VIII, 188</bibl>
+			</cit> 
+		</epigraph>
 
 <div n="1" type="chapter">
 
@@ -9067,8 +9065,6 @@
 
 <p>Dublin 1904 </p>
 <p>Trieste 1914 </p>
-
-<!-- End SGML Text --> 
 
     </body>
   </text>
