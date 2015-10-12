@@ -116,7 +116,8 @@
 
 <div n="1" type="section"> 
 
-<l>I</l> 
+<head><l>I</l></head>
+
 <p>Once upon a time and a very good time it was there was 
 a moocow coming down along the road and this moocow 
 that was coming down along the road met a nicens little 
@@ -2050,13 +2051,17 @@ of the balls: and from here and from there through the quiet
 air the sound of the cricket bats: pick, pack, pock, puck: like 
 drops of water in a fountain falling softly in the brimming 
 bowl. </p>
-</div>
+
+</div><!-- 1.4 --> 
+
+</div><!-- Chapter 1 --> 
 
 <div n="2" type="chapter">
 
-<div n="2.2" type="section"> 
+<div n="2.1" type="section"> 
 
-<l>II</l> 
+<head><l>II</l></head>
+
 <p>Uncle Charles smoked such black twist that at last his 
 nephew suggested to him to enjoy his morning smoke in 
 a little outhouse at the end of the garden. </p>
@@ -3584,9 +3589,9 @@ sin, softer than sound or odour. </p>
 
 <div n="3" type="chapter">
 
-	<div n="3.1" type="section"> 
+<div n="3.1" type="section"> 
 
-<l>III</l> 
+<head><l>III</l></head>
 
 <p>The swift December dusk had come tumbling clownishly 
 after its dull day and, as he stared through the dull 
@@ -5215,7 +5220,8 @@ past was past. </p>
 
 <div n="4.1" type="section">
 
-<l>IV</l> 
+<head><l>IV</l></head>
+
 <p>Sunday was dedicated to the mystery of the Holy 
 Trinity, Monday to the Holy Ghost, Tuesday to the 
 Guardian Angels, Wednesday to Saint Joseph, Thursday to 
@@ -6167,7 +6173,8 @@ pools. </p>
 
 <div n="5.1" type="section"> 
 
-<l>V</l> 
+<head><l>V</l></head>
+
 <p>He drained his third cup of watery tea to the dregs and 
 set to chewing the crusts of fried bread that were scattered 
 near him, staring into the dark pool of the jar. The 
@@ -6178,10 +6185,12 @@ at his elbow had just been rifled and he took up idly
 one after another in his greasy fingers the blue and white 
 dockets, scrawled and sanded and creased and bearing the 
 name of the pledger as Daly or MacEvoy. </p>
+
 <p>1 Pair Buskins. </p>
 <p>1 D. Coat. </p>
 <p>3 Articles and White. </p>
 <p>1 Man's Pants. </p>
+
 <p>Then he put them aside and gazed thoughtfully at the lid of 
 	the box, speckled with lousemarks, and asked vaguely: </p>
 <p>—How much is the clock fast now? </p>
