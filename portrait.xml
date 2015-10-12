@@ -114,6 +114,8 @@
 
 <div n="1" type="chapter">
 
+<div n="1" type="section"> 
+
 <l>I</l> 
 <p>Once upon a time and a very good time it was there was 
 a moocow coming down along the road and this moocow 
@@ -171,7 +173,11 @@ hid under the table. His mother said: </p>
 	<l>Apologise.</l> 
 </lg>
 
+</div> <!-- 1.1 --> 
+
 <milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
+<div n="1.2" type="section"> 
 
 <p>The wide playgrounds were swarming with boys. All were 
 shouting and the prefects urged them on with strong cries. The 
@@ -248,12 +254,14 @@ book. Perhaps Leicester Abbey was like that. And there were
 nice sentences in Doctor Cornwell's Spelling Book. They were 
 like poetry but they were only sentences to learn the spelling 
 from. </p>
+
 <lg>
 	<l>Wolsey died in Leicester Abbey</l> 
 	<l>Where the abbots buried him.</l> 
 	<l>Canker is a disease of plants,</l> 
 	<l>Cancer one of animals.</l> 
 </lg>
+
 <p>It would be nice to lie on the hearthrug before the fire, 
 leaning his head upon his hands, and think on those sentences. 
 He shivered as if he had cold slimy water next his skin. That 
@@ -752,6 +760,7 @@ be sorry then for what he had done. And the bell would toll
 slowly. </p>
 <p>He could hear the tolling. He said over to himself the song 
 	that Brigid had taught him. </p>
+
 <lg type="song">
 	<l>Dingdong! The castle bell!</l> 
 	<l>Farewell, my mother!</l> 
@@ -762,6 +771,7 @@ slowly. </p>
 	<l>Two to sing and two to pray</l> 
 	<l>And two to carry my soul away.</l> 
 </lg>
+
 <p>How beautiful and sad that was! How beautiful the words 
 were where they said <hi rend="italic">Bury me in the old churchyard</hi>! A 
 tremor passed over his body. How sad and how beautiful! He 
@@ -870,6 +880,10 @@ proudly and silently past the people who knelt by the waters'
 edge. </p>
 
 <milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
+</div> <!-- 1.2 --> 
+
+<div n="1.3" type="section"> 
 
 <p>A great fire, banked high and red, flamed in the grate and 
 under the ivytwined branches of the chandelier the Christmas 
@@ -1324,6 +1338,10 @@ room, her cheeks flushed and quivering with rage: </p>
 	eyes were full of tears. </p>
 
 <milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
+</div> <!-- 1.3 --> 
+
+<div n="1.4" type="section"> 
 
 <p>The fellows talked together in little groups. </p>
 <p>One fellow said: </p>
@@ -2033,7 +2051,11 @@ air the sound of the cricket bats: pick, pack, pock, puck: like
 drops of water in a fountain falling softly in the brimming 
 bowl. </p>
 </div>
+
 <div n="2" type="chapter">
+
+<div n="2.2" type="section"> 
+
 <l>II</l> 
 <p>Uncle Charles smoked such black twist that at last his 
 nephew suggested to him to enjoy his morning smoke in 
@@ -2498,6 +2520,10 @@ over it. Ha! Ha! Ha!</p>
 <i>Ha!</i> </p>
 
 <milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
+</div> <!-- 2.1 --> 
+
+<div n="2.2" type="section"> 
 
 <p>The night of the Whitsuntide play had come and Stephen 
 from the window of the dressingroom looked out on  the small 
@@ -3005,6 +3031,10 @@ calm now. I will go back. </p>
 
 <milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
 
+</div> <!-- 2.2 --> 
+
+<div n="2.3" type="section"> 
+
 <p>Stephen was once again seated beside his father in the 
 corner of a railway carriage at Kingsbridge. He was travelling 
 with his father by the night mail to Cork. As the train steamed 
@@ -3351,6 +3381,10 @@ and ineffectual grieving. </p>
 
 <milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
 
+</div> <!-- 2.3 --> 
+
+<div n="2.4" type="section"> 
+
 <p>Stephen's mother and his brother and one of his cousins 
 waited at the corner of quiet Foster Place while he and his 
 father went up the steps and along the colonnade where the 
@@ -3470,6 +3504,7 @@ him of the tryst he had then looked forward to and, in spite of
 the horrible reality which lay between his hope of then and 
 now, of the holy encounter he had then imagined at which 
 weakness and timidity and inexperience were to fall from him. </p>
+
 <p>Such moments passed and the wasting fires of lust sprang 
 up again. The verses passed from his lips and the inarticulate 
 cries and the unspoken brutal words rushed forth from his 
