@@ -114,7 +114,7 @@
 
 <div n="1" type="chapter">
 
-<div n="1" type="section"> 
+<div n="1.1" type="section"> 
 
 <head><l>I</l></head>
 
@@ -174,9 +174,9 @@ hid under the table. His mother said: </p>
 	<l>Apologise.</l> 
 </lg>
 
-</div> <!-- 1.1 --> 
-
 <milestone unit="section" rend="asterixes"><l> * * * </l></milestone>
+
+</div> <!-- 1.1 --> 
 
 <div n="1.2" type="section"> 
 
