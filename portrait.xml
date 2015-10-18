@@ -830,31 +830,31 @@
 			name too, Athy. My name is the name of a town. Your name 
 			is like Latin. </sp></p>
 		<p>Then he asked: </p>
-		<p>—Are you good at riddles? </p>
+		<p><sp who="Athy">—Are you good at riddles? </sp></p>
 		<p>Stephen answered: </p>
-		<p>—Not very good. </p>
+		<p><sp who="Stephen">—Not very good. </sp></p>
 		<p>Then he said: </p>
-		<p>—Can you answer me this one? Why is the county Kildare 
-			like the leg of a fellow's breeches? </p>
+		<p><sp who="Athy">—Can you answer me this one? Why is the county Kildare 
+				like the leg of a fellow's breeches? </sp></p>
 		<p>Stephen thought what could be the answer and then said: </p>
-		<p>—I give it up. </p>
-		<p>—Because there is a thigh in it, he said. Do you see the 
+		<p><sp who="Stephen">—I give it up. </sp></p>
+		<p><sp who="Athy">—Because there is a thigh in it, he said. Do you see the 
 			joke? Athy is the town in the county Kildare and a thigh is the 
-			other thigh. </p>
-		<p>—O, I see, Stephen said. </p>
-		<p>—That's an old riddle, he said. </p>
+			other thigh. </sp></p>
+		<p><sp who="Stephen">—O, I see, Stephen said. </sp></p>
+		<p><sp who="Athy">—That's an old riddle, he said. </sp></p>
 		<p>After a moment he said: </p>
-		<p>—I say! </p>
-		<p>—What? asked Stephen. </p>
-		<p>—You know, he said, you can ask that riddle another way? </p>
-		<p>—Can you? said Stephen. </p>
-		<p>—The same riddle, he said. Do you know the other way to 
-			ask it? </p>
-		<p>—No, said Stephen. </p>
-		<p>—Can you not think of the other way? he said. </p>
+		<p><sp who="Athy">—I say! </sp></p>
+		<p><sp who="Stephen">—What? asked Stephen. </sp></p>
+		<p><sp who="Athy">—You know, he said, you can ask that riddle another way? </sp></p>
+		<p><sp who="Stephen">—Can you? said Stephen. </sp></p>
+		<p><sp who="Athy">—The same riddle, he said. Do you know the other way to 
+				ask it? </sp></p>
+		<p><sp who="Stephen">—No, said Stephen. </sp></p>
+		<p><sp who="Athy">—Can you not think of the other way? he said. </sp></p>
 		<p>He looked at Stephen over the bedclothes as he spoke. 
 			Then he lay back on the pillow and said: </p>
-		<p>—There is another way  but I won't tell you what it is. </p>
+		<p><sp who="Athy">—There is another way but I won't tell you what it is. </sp></p>
 		<p>Why did he not tell it? His father, who kept the racehorses, 
 			must be a magistrate too like Saurin's father and Nasty 
 			Roche's father. He thought of his own father, of how he sang 
@@ -898,9 +898,9 @@
 			Michael. </p>
 		<p>He saw him lift his hand towards the people and heard him 
 			say in a loud voice of sorrow over the waters: </p>
-		<p>—He is dead. We saw him lying upon the catafalque. </p>
+		<p><sp who="Brother Michael">—He is dead. We saw him lying upon the catafalque. </sp></p>
 		<p>A wail of sorrow went up from the people. </p>
-		<p>—Parnell! Parnell! He is dead! </p>
+		<p><sp who="the people">—Parnell! Parnell! He is dead! </sp></p>
 		<p>They fell upon their knees, moaning in sorrow. </p>
 		<p>And he saw Dante in a maroon velvet dress and with a 
 			green velvet mantle hanging from her shoulders walking 
