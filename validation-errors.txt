@@ -1,0 +1,333 @@
+portrait.xml:217: parser error : Opening and ending tag mismatch: sp line 216 and p
+			like to see you. He'd give you a toe in the rump for yourself. </p>
+			                                                                   ^
+portrait.xml:912: parser error : Opening and ending tag mismatch: p line 216 and div
+	</div> <!-- 1.2 --> 
+	      ^
+portrait.xml:1093: parser error : Opening and ending tag mismatch: hi line 1093 and i
+ Riordan. <hi rend="italic">It would be better for him that a millstone were</i>
+                                                                               ^
+portrait.xml:1096: parser error : Opening and ending tag mismatch: p line 1092 and hi
+			little ones. That is the language of the Holy Ghost.</hi>
+			                                                         ^
+portrait.xml:1240: parser error : Opening and ending tag mismatch: hi line 1240 and i
+awling and screaming into my face: <hi rend="italic">Priesthunter! The Paris</i>
+                                                                               ^
+portrait.xml:1257: parser error : Opening and ending tag mismatch: hi line 1257 and i
+			bent down to her and <hi rend="italic">Phth!</i> says I to her like that. </p
+			                                                ^
+portrait.xml:1285: parser error : Opening and ending tag mismatch: hi line 1285 and i
+			he had taken off his hat when the band played <hi rend="italic">God save</i> 
+			                                                                            ^
+portrait.xml:1304: parser error : Opening and ending tag mismatch: hi line 1304 and i
+			They are the apple of God's eye. <hi rend="italic">Touch them not,</i> says C
+			                                                                      ^
+portrait.xml:1491: parser error : Opening and ending tag mismatch: hi line 1491 and i
+had streamed out behind her like gold in the sun. <hi rend="italic">Tower of</i>
+                                                                               ^
+portrait.xml:1646: parser error : Opening and ending tag mismatch: hi line 1646 and i
+			asked Jack Lawton to decline the noun <hi rend="italic">mare</i> and Jack Law
+			                                                                ^
+portrait.xml:1949: parser error : Opening and ending tag mismatch: hi line 1949 and i
+			open book and pointing to the words <hi rend="italic">Ad Majorem Dei</i> 
+			                                                                        ^
+portrait.xml:2183: parser error : Opening and ending tag mismatch: hi line 2183 and i
+			translation of <hi rend="italic">The Count of Monte Cristo</i>. The figure of
+			                                                              ^
+portrait.xml:2544: parser error : Opening and ending tag mismatch: hi line 2544 and i
+		<p>—Annoyed! Not he! <hi rend="italic">Manly little chap!</i> he said. </p>
+		                                                               ^
+portrait.xml:2756: parser error : Opening and ending tag mismatch: hi line 2756 and i
+is companion's jesting mood, began to recite the <hi rend="italic">Confiteor</i>
+                                                                               ^
+portrait.xml:2804: parser error : Opening and ending tag mismatch: hi line 2804 and i
+... rrm ...  Ah! <hi rend="italic">without a possibility of ever approaching</i>
+                                                                               ^
+portrait.xml:2807: parser error : Opening and ending tag mismatch: hi line 2807 and i
+		<p>—I meant <hi rend="italic">without a possibility of ever reaching</i>. </
+		                                                                          ^
+portrait.xml:2810: parser error : Opening and ending tag mismatch: hi line 2810 and i
+		<p>—O ... Ah! <hi rend="italic">ever reaching</i>. That's another story. </p
+		                                                   ^
+portrait.xml:2911: parser error : Opening and ending tag mismatch: hi line 2911 and i
+		<p>While he was still repeating the <hi rend="italic">Confiteor</i> amid the i
+		                                                                   ^
+portrait.xml:3063: parser error : Opening and ending tag mismatch: hi line 3063 and i
+he dark cobbled laneway at its side. He saw the word <hi rend="italic">Lotts</i>
+                                                                               ^
+portrait.xml:3146: parser error : Opening and ending tag mismatch: hi line 3146 and i
+?That's much prettier than any of your other <hi rend="italic">come-all-yous</i>
+                                                                               ^
+portrait.xml:3153: parser error : Opening and ending tag mismatch: hi line 3153 and i
+			could sing a <hi rend="italic">come-all-you</i>, if you like. </p>
+			                                               ^
+portrait.xml:3182: parser error : Opening and ending tag mismatch: hi line 3182 and i
+			read the word <hi rend="italic">F#.^otus</i>  cut several times in the dark s
+			                                            ^
+portrait.xml:3338: parser error : Opening and ending tag mismatch: hi line 3338 and i
+			whether it was correct to say: <hi rend="italic">Tempora mutantur nos et</i> 
+			                                                                            ^
+portrait.xml:3339: parser error : Opening and ending tag mismatch: hi line 3339 and i
+r in illis</i> or <hi rend="italic">Tempora mutantur et nos mutamur in illis</i>
+                                                                               ^
+portrait.xml:3476: parser error : Opening and ending tag mismatch: hi line 3476 and i
+			of three or four to the theatre to see <hi rend="italic">Ingomar</i> or <hi r
+			                                                                    ^
+portrait.xml:3476: parser error : Opening and ending tag mismatch: hi line 3476 and i
+heatre to see <hi rend="italic">Ingomar</i> or <hi rend="italic">The Lady of</i>
+                                                                               ^
+portrait.xml:3742: parser error : Opening and ending tag mismatch: hi line 3742 and i
+			her whose emblem is the morning star, <hi rend="italic">bright and</i> 
+			                                                                      ^
+portrait.xml:3843: parser error : Opening and ending tag mismatch: hi line 3843 and i
+	conqueror, true to the motto of our order: <hi rend="italic">ad majorem Dei</i>
+	                                                                              ^
+portrait.xml:3900: parser error : Opening and ending tag mismatch: hi line 3900 and i
+		<p>—Now what is the meaning of this word <hi rend="italic">retreat</i> and w
+		                                                                        ^
+portrait.xml:4056: parser error : Opening and ending tag mismatch: hi line 4056 and i
+			Him, crying in His offended majesty: <hi rend="italic">Depart from me, ye</i>
+			                                                                            ^
+portrait.xml:4146: parser error : Opening and ending tag mismatch: hi line 4146 and i
+t it had not offended her whose beauty <hi rend="italic">is not like earthly</i>
+                                                                               ^
+portrait.xml:4190: parser error : Opening and ending tag mismatch: hi line 4190 and i
+			in an instant: <hi rend="italic">non serviam: I will not serve</i>. That 
+			                                                                  ^
+portrait.xml:4438: parser error : Opening and ending tag mismatch: hi line 4438 and i
+ejection: <hi rend="italic">Depart from me, ye cursed, into everlasting fire</i>
+                                                                               ^
+portrait.xml:4579: parser error : Opening and ending tag mismatch: hi line 4579 and i
+			soul is capable of bearing, <hi rend="italic">p#.^ona damni</i>, the pain of 
+			                                                               ^
+portrait.xml:5133: parser error : Opening and ending tag mismatch: hi line 5133 and i
+			bowing his head, he repeated the <hi rend="italic">Confiteor</i> in fright. A
+			                                                                ^
+portrait.xml:5134: parser error : Opening and ending tag mismatch: hi line 5134 and i
+			words <hi rend="italic">my most grievous fault</i> he ceased, breathless. </p
+			                                                  ^
+portrait.xml:5441: parser error : Opening and ending tag mismatch: hi line 5441 and i
+with the same inaudible voice, surrendering herself: <hi rend="italic">Inter</i>
+                                                                               ^
+portrait.xml:5680: parser error : Opening and ending tag mismatch: hi line 5680 and i
+			people, and sing the chant <hi rend="italic">Ite, missa est</i>. If ever he h
+			                                                               ^
+portrait.xml:5848: parser error : Opening and ending tag mismatch: hi line 5848 and i
+he fireplace began to sing the air <hi rend="italic">Oft in the Stilly Night</i>
+                                                                               ^
+portrait.xml:5918: parser error : Opening and ending tag mismatch: hi line 5918 and i
+			only a proud cadence from Newman: <hi rend="italic">Whose feet are as the</i>
+			                                                                            ^
+portrait.xml:6306: parser error : Opening and ending tag mismatch: hi line 6306 and i
+nd psychology and a <hi rend="italic">Synopsis Philosophi#.^a Scholastic#.^a</i>
+                                                                               ^
+portrait.xml:6307: parser error : Opening and ending tag mismatch: hi line 6307 and i
+			<hi rend="italic">ad mentem divi Thom#.^a</i>. His thinking was a dusk 
+			                                             ^
+portrait.xml:6394: parser error : Opening and ending tag mismatch: hi line 6394 and i
+any ivory sawn from the mottled tusks of elephants. <hi rend="italic">Ivory,</i>
+                                                                               ^
+portrait.xml:6396: parser error : Opening and ending tag mismatch: hi line 6396 and i
+			learnt in Latin had run: <hi rend="italic">India mittit ebur</i>; and he reca
+			                                                                ^
+portrait.xml:6405: parser error : Opening and ending tag mismatch: hi line 6405 and i
+			handed on to him in the trite words <hi rend="italic">in tanto discrimine</i>
+			                                                                            ^
+portrait.xml:6407: parser error : Opening and ending tag mismatch: hi line 6407 and i
+			the words <hi rend="italic">implere ollam denariorum</i> which the rector had
+			                                                        ^
+portrait.xml:6533: parser error : Opening and ending tag mismatch: hi line 6533 and i
+n over the threshold  and said: <hi rend="italic">Come in and stay the night</i>
+                                                                               ^
+portrait.xml:6572: parser error : Opening and ending tag mismatch: hi line 6572 and i
+			were printed the words: <hi rend="italic">Vive l'Irlande!</i> </p>
+			                                                             ^
+portrait.xml:6631: parser error : Opening and ending tag mismatch: hi line 6631 and i
+—Aquinas, answered Stephen, says <hi rend="italic">Pulcra sunt qu#.^a visa</i>
+                                                                               ^
+portrait.xml:6637: parser error : Opening and ending tag mismatch: hi line 6637 and i
+			Aquinas also says <hi rend="italic">Bonum est in quod tendit appetitus</i>. I
+			                                                                          ^
+portrait.xml:6657: parser error : Opening and ending tag mismatch: hi line 6657 and i
+aster and little, if at all, the ends he served. <hi rend="italic">Similiter</i>
+                                                                               ^
+portrait.xml:6714: parser error : Opening and ending tag mismatch: hi line 6714 and i
+			different. <hi rend="italic">I hope I am not detaining you.</i> </p>
+			                                                               ^
+portrait.xml:6718: parser error : Opening and ending tag mismatch: hi line 6718 and i
+			point: <hi rend="italic">detain</i>. </p>
+			                                   ^
+portrait.xml:6770: parser error : Opening and ending tag mismatch: hi line 6770 and i
+ine. How different are the words <hi rend="italic">home, Christ, ale, master</i>
+                                                                               ^
+portrait.xml:6926: parser error : Opening and ending tag mismatch: hi line 6926 and i
+			tone and to pronounce the word <hi rend="italic">science</i> as a monosyllabl
+			                                                            ^
+portrait.xml:6963: parser error : Opening and ending tag mismatch: hi line 6963 and i
+do ut vos sanguinarius mendax estis</i>, said Cranly, <hi rend="italic">quia</i>
+                                                                               ^
+portrait.xml:6976: parser error : Opening and ending tag mismatch: hi line 6976 and i
+<i>Quis est in malo humore</i>, said Stephen, <hi rend="italic">ego aut vos?</i>
+                                                                               ^
+portrait.xml:7330: parser error : Opening and ending tag mismatch: hi line 7330 and i
+			it. You see I use the word <hi rend="italic">arrest</i>. I mean that the trag
+			                                                       ^
+portrait.xml:7422: parser error : Opening and ending tag mismatch: hi line 7422 and i
+I remember that, he said. <hi rend="italic">Pulcra sunt qu#.^a visa placent.</i>
+                                                                               ^
+portrait.xml:7423: parser error : Opening and ending tag mismatch: hi line 7423 and i
+		<p>—He uses the word <hi rend="italic">visa</i>, said Stephen, to cover esth
+		                                                 ^
+portrait.xml:7464: parser error : Opening and ending tag mismatch: hi line 7464 and i
+			with one hand on <hi rend="italic">The Origin of Species</i> and the other 
+			                                                            ^
+portrait.xml:7507: parser error : Opening and ending tag mismatch: hi line 7507 and i
+			words <hi rend="italic">Pange lingua gloriosi</i>. They say it is the highest
+			                                                 ^
+portrait.xml:7510: parser error : Opening and ending tag mismatch: hi line 7510 and i
+			majestic processional song, the <hi rend="italic">Vexilla Regis</i> of Venant
+			                                                                   ^
+portrait.xml:7555: parser error : Opening and ending tag mismatch: hi line 7555 and i
+			all that. The <hi rend="italic">Laocoon</i> interested me very much when I re
+			                                           ^
+portrait.xml:7576: parser error : Opening and ending tag mismatch: hi line 7576 and i
+uinas says: <hi rend="italic">ad pulcritudinem tria requiruntur, integritas,</i>
+                                                                               ^
+portrait.xml:7577: parser error : Opening and ending tag mismatch: hi line 7577 and i
+, claritas</i>. I translate it so: <hi rend="italic">Three things are needed</i>
+                                                                               ^
+portrait.xml:7596: parser error : Opening and ending tag mismatch: hi line 7596 and i
+			which is not it. You apprehend it as <hi rend="italic">one</i> thing. You see
+			                                                              ^
+portrait.xml:7597: parser error : Opening and ending tag mismatch: hi line 7597 and i
+one whole. You apprehend its wholeness. That is <hi rend="italic">integritas</i>
+                                                                               ^
+portrait.xml:7603: parser error : Opening and ending tag mismatch: hi line 7603 and i
+analysis of apprehension. Having first felt that it is <hi rend="italic">one</i>
+                                                                               ^
+portrait.xml:7604: parser error : Opening and ending tag mismatch: hi line 7604 and i
+			thing you feel now that it is a <hi rend="italic">thing</i>. You apprehend it
+			                                                           ^
+portrait.xml:7616: parser error : Opening and ending tag mismatch: hi line 7616 and i
+			symbol. I thought he might mean that <hi rend="italic">claritas</i> is the ar
+			                                                                   ^
+portrait.xml:7626: parser error : Opening and ending tag mismatch: hi line 7626 and i
+			<i>quidditas</i>, the <hi rend="italic">whatness</i> of a thing. This supreme
+			                                                    ^
+portrait.xml:7661: parser error : Opening and ending tag mismatch: hi line 7661 and i
+set myself: <hi rend="italic">Is a chair finely made tragic or comic? Is the</i>
+                                                                               ^
+portrait.xml:7667: parser error : Opening and ending tag mismatch: hi line 7667 and i
+tinued, <hi rend="italic">make there an image of a cow, is that image a work</i>
+                                                                               ^
+portrait.xml:7688: parser error : Opening and ending tag mismatch: hi line 7688 and i
+			English ballad <hi rend="italic">Turpin Hero</i> which begins in the first pe
+			                                                ^
+portrait.xml:8130: parser error : Opening and ending tag mismatch: hi line 8130 and i
+			closed his copy of <hi rend="italic">The Tablet</i> with an angry snap and st
+			                                                   ^
+portrait.xml:8140: parser error : Opening and ending tag mismatch: hi line 8140 and i
+itlepage of Cranly's book on which was printed <hi rend="italic">Diseases of</i>
+                                                                               ^
+portrait.xml:8171: parser error : Opening and ending tag mismatch: hi line 8171 and i
+	<p>—What are you reading now, captain? Dixon asked. <hi rend="italic">The</i>
+	                                                                              ^
+portrait.xml:8262: parser error : Opening and ending tag mismatch: hi line 8262 and i
+			known to science as a <hi rend="italic">paulo post futurum</i>. </p>
+			                                                              ^
+portrait.xml:8433: parser error : Opening and ending tag mismatch: hi line 8433 and i
+—Do you intend that now, the squat student said, as <hi rend="italic">ipso</i>
+                                                                               ^
+portrait.xml:8522: parser error : Opening and ending tag mismatch: hi line 8522 and i
+			The birdcall from <hi rend="italic">Siegfried</i> whistled softly followed th
+			                                                 ^
+portrait.xml:8758: parser error : Opening and ending tag mismatch: hi line 8758 and i
+			broken bars, <hi rend="italic">Rosie O'Grady</i>. </p>
+			                                                ^
+portrait.xml:8900: parser error : Opening and ending tag mismatch: hi line 8900 and i
+		<p>20 <hi rend="italic">March:</i> Long talk with Cranly on the subject of my 
+		                                  ^
+portrait.xml:8913: parser error : Opening and ending tag mismatch: hi line 8913 and i
+		<p>21 <hi rend="italic">March, morning:</i> Thought this in bed last night but
+		                                           ^
+portrait.xml:8922: parser error : Opening and ending tag mismatch: hi line 8922 and i
+		<p>21 <hi rend="italic">March, night:</i> Free. Soulfree and fancyfree. Let th
+		                                         ^
+portrait.xml:8924: parser error : Opening and ending tag mismatch: hi line 8924 and i
+		<p>22 <hi rend="italic">March:</i> In company with Lynch followed a sizable 
+		                                  ^
+portrait.xml:8927: parser error : Opening and ending tag mismatch: hi line 8927 and i
+		<p>23 <hi rend="italic">March:</i> Have not seen her since that night. Unwell?
+		                                  ^
+portrait.xml:8930: parser error : Opening and ending tag mismatch: hi line 8930 and i
+		<p>24 <hi rend="italic">March:</i> Began with a discussion with my mother. Sub
+		                                  ^
+portrait.xml:8945: parser error : Opening and ending tag mismatch: hi line 8945 and i
+>risotto alla bergamasca</i>. When he pronounces a  soft <hi rend="italic">o</i>
+                                                                               ^
+portrait.xml:8965: parser error : Opening and ending tag mismatch: hi line 8965 and i
+	then dead. Orchestra played <hi rend="italic">O, Willie, we have missed you</i>
+	                                                                              ^
+portrait.xml:8967: parser error : Opening and ending tag mismatch: hi line 8967 and i
+		<p>25 <hi rend="italic">March, morning:</i> A troubled night of dreams. Want t
+		                                           ^
+portrait.xml:8979: parser error : Opening and ending tag mismatch: hi line 8979 and i
+		<p>30 <hi rend="italic">March:</i> This evening Cranly was in the porch of the
+		                                  ^
+portrait.xml:8988: parser error : Opening and ending tag mismatch: hi line 8988 and i
+		<p>1 <hi rend="italic">April:</i> Disapprove of this last phrase. </p>
+		                                 ^
+portrait.xml:8989: parser error : Opening and ending tag mismatch: hi line 8989 and i
+		<p>2 <hi rend="italic">April:</i> Saw her drinking tea and eating cakes in Joh
+		                                 ^
+portrait.xml:8995: parser error : Opening and ending tag mismatch: hi line 8995 and i
+		<p>3 <hi rend="italic">April:</i> Met Davin at the cigar shop opposite Findlat
+		                                 ^
+portrait.xml:8998: parser error : Opening and ending tag mismatch: hi line 8998 and i
+			shortest way to Tara was <hi rend="italic">via</i> Holyhead. Just then my fat
+			                                                  ^
+portrait.xml:9006: parser error : Opening and ending tag mismatch: hi line 9006 and i
+		<p>5 <hi rend="italic">April:</i> Wild spring. Scudding clouds. O life! Dark s
+		                                 ^
+portrait.xml:9011: parser error : Opening and ending tag mismatch: hi line 9011 and i
+		<p>6 <hi rend="italic">April:</i> Certainly she remembers the past. Lynch says
+		                                 ^
+portrait.xml:9018: parser error : Opening and ending tag mismatch: hi line 9018 and i
+		<p>6 <hi rend="italic">April, later:</i> Michael Robartes remembers forgotten 
+		                                        ^
+portrait.xml:9023: parser error : Opening and ending tag mismatch: hi line 9023 and i
+		<p>10 <hi rend="italic">April:</i> Faintly, under the heavy night, through  th
+		                                  ^
+portrait.xml:9032: parser error : Opening and ending tag mismatch: hi line 9032 and i
+		<p>11 <hi rend="italic">April:</i> Read what I wrote last night. Vague words f
+		                                  ^
+portrait.xml:9035: parser error : Opening and ending tag mismatch: hi line 9035 and i
+		<p>13 <hi rend="italic">April:</i> That tundish has been on my mind for a long
+		                                  ^
+portrait.xml:9040: parser error : Opening and ending tag mismatch: hi line 9040 and i
+		<p>14 <hi rend="italic">April:</i> John Alphonsus Mulrennan has just returned 
+		                                  ^
+portrait.xml:9053: parser error : Opening and ending tag mismatch: hi line 9053 and i
+		<p>15 <hi rend="italic">April:</i> Met her today pointblank in Grafton Street.
+		                                  ^
+portrait.xml:9073: parser error : Opening and ending tag mismatch: hi line 9073 and i
+		<p>16 <hi rend="italic">April:</i> Away! Away! </p>
+		                                  ^
+portrait.xml:9081: parser error : Opening and ending tag mismatch: hi line 9081 and i
+		<p>26 <hi rend="italic">April:</i> Mother is putting my new secondhand clothes
+		                                  ^
+portrait.xml:9087: parser error : Opening and ending tag mismatch: hi line 9087 and i
+		<p>27 <hi rend="italic">April:</i> Old father, old artificer, stand me now and
+		                                  ^
+portrait.xml:9096: parser error : Opening and ending tag mismatch: div line 114 and body
+    </body>
+           ^
+portrait.xml:9097: parser error : Opening and ending tag mismatch: body line 105 and text
+  </text>
+         ^
+portrait.xml:9098: parser error : Opening and ending tag mismatch: text line 104 and TEI
+</TEI>
+      ^
+portrait.xml:9099: parser error : Premature end of data in tag TEI line 2
+
+^
