@@ -63,18 +63,18 @@
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
-			<editorialDecl></p>
-			<p>Encoding format: SGML (UVA DTD)</p>
-		</editorialDecl>
-		<classDecl>
-			<taxonomy xml:id="OTASH">
-				<bibl>University of Oxford Text Archive Subject Headings</bibl>
-			</taxonomy>
-			<taxonomy xml:id="LCSH">
-				<bibl>Library of Congress Subject Headings</bibl>
-			</taxonomy>
-		</classDecl>
-	</encodingDesc>
+			<editorialDecl>
+				<p>Encoding format: TEI XML</p>
+			</editorialDecl>
+			<classDecl>
+				<taxonomy xml:id="OTASH">
+					<bibl>University of Oxford Text Archive Subject Headings</bibl>
+				</taxonomy>
+				<taxonomy xml:id="LCSH">
+					<bibl>Library of Congress Subject Headings</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
 	<profileDesc>
 		<textClass>
 			<keywords scheme="#OTASH">
