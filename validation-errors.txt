@@ -1,9 +1,3 @@
-portrait.xml:217: parser error : Opening and ending tag mismatch: sp line 216 and p
-			like to see you. He'd give you a toe in the rump for yourself. </p>
-			                                                                   ^
-portrait.xml:912: parser error : Opening and ending tag mismatch: p line 216 and div
-	</div> <!-- 1.2 --> 
-	      ^
 portrait.xml:1093: parser error : Opening and ending tag mismatch: hi line 1093 and i
  Riordan. <hi rend="italic">It would be better for him that a millstone were</i>
                                                                                ^
