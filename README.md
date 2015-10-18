@@ -2,7 +2,7 @@
 This is the open collaborative scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_–corrected, revised, and richly annotated. 
 
 ##(Planned) Features: 
- * Dialogue is marked by speaker, using `<sp who="">` tags, facilitating speaker-specific dialogue extraction. 
+ * Dialogue is marked by speaker, using `<said who="">` tags, facilitating speaker-specific dialogue extraction. 
  * Verse is indicated by `<lg>` and `<l>` tags. 
  * Features such as epigraphs marked with their respective tags, e.g. `<epigraph>`.  
  * Editorial decisions such as "green" -> "geen" are noted in `<note resp="">`
