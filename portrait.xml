@@ -138,7 +138,7 @@
 		</lg>
 
 		<p>When you wet the bed first it is warm then it gets cold. His 
-			mother put on the oilsheet. That had the  queer smell. </p>
+			mother put on the oilsheet. That had the queer smell. </p>
 		<p>His mother had a nicer smell than his father. She played on 
 			the piano the sailor's hornpipe for him to dance. He danced: </p>
 
@@ -159,9 +159,9 @@
 			father and mother. They were Eileen's father and mother. 
 			When they were grown up he was going to marry Eileen. He 
 			hid under the table. His mother said: </p>
-		<p>—O, Stephen will apologise. </p>
+		<p><sp who="Mary Dedalus">—O, Stephen will apologise. </sp></p>
 		<p>Dante said: </p>
-		<p>—O, if not, the eagles will come and pull out his eyes. </p>
+		<p><sp who="Dante">—O, if not, the eagles will come and pull out his eyes. </sp></p>
 		<l>Pull out his eyes,</l> 
 		<lg>
 			<l>Apologise,</l> 
@@ -194,28 +194,28 @@
 			in the refectory. Nasty Roche had big hands. He called the 
 			Friday pudding dog-in-the-blanket. And one day he had 
 			asked: </p>
-		<p>—What is your name? </p>
+		<p><sp who="Nasty Roche">—What is your name? </sp></p>
 		<p>Stephen had answered: </p>
-		<p>—Stephen Dedalus. </p>
+		<p><sp who="Stephen">—Stephen Dedalus. </sp></p>
 		<p>Then Nasty Roche had said: </p>
-		<p>—What kind of a name is that? </p>
+		<p><sp who="Nasty Roche">—What kind of a name is that? </sp></p>
 		<p>And when Stephen had not been able to answer Nasty 
 			Roche had asked: </p>
-		<p>—What is your father? </p>
+		<p><sp who="Nasty Roche">—What is your father? </sp></p>
 		<p>Stephen had answered: </p>
-		<p>—A gentleman. </p>
+		<p><sp who="Stephen">—A gentleman. </sp></p>
 		<p>Then Nasty Roche had asked: </p>
-		<p>—Is he a magistrate? </p>
+		<p><sp who="Nasty Roche">—Is he a magistrate? </sp></p>
 		<p>He crept about from point to point on the fringe of his line, 
 			making little runs now and then. But his hands were bluish 
 			with cold. He kept his hands in the sidepockets of his belted 
 			grey suit. That was a belt round his pocket. And belt was also 
 			to give a fellow a belt. One day a fellow had said to Cantwell: </p>
-		<p>—I'd give you such a belt in a second. </p>
+		<p><sp who="a fellow">—I'd give you such a belt in a second. </sp></p>
 		<p>Cantwell had answered: </p>
-		<p>—Go and fight your match. Give Cecil Thunder a belt. I'd 
+		<p><sp who="Cantwell">—Go and fight your match. Give Cecil Thunder a belt. I'd 
 			like to see you. He'd give you a toe in the rump for yourself. </p>
-		<p>That  was not a nice expression. His mother had told him 
+		<p>That was not a nice expression. His mother had told him 
 			not to speak with the rough boys in the college. Nice mother! 
 			The first day in the hall of the castle when she had said goodbye 
 			she had put up her veil double to her nose to kiss him: 
@@ -229,8 +229,10 @@
 			mother, his soutane fluttering in the breeze, and the car had 
 			driven off with his father and mother on it. They had cried to 
 			him from the car, waving their hands: </p>
-		<p>—Goodbye, Stephen, goodbye! </p>
-		<p>—Goodbye, Stephen, goodbye! </p>
+		<sp who="Mary Dedalus, Simon Dedalus"> 
+			<p>—Goodbye, Stephen, goodbye! </p>
+			<p>—Goodbye, Stephen, goodbye! </p>
+		</sp>
 		<p>He was caught in the whirl of a scrimmage and, fearful of 
 			the flashing eyes and muddy boots, bent down to look through 
 			the legs. The fellows were struggling and groaning and their 
@@ -281,16 +283,20 @@
 			woman. And when Dante made that noise after dinner and 
 			then put up her hand to her mouth: that was heartburn. </p>
 		<p>A voice cried far out on the playground: </p>
-		<p>—All in! </p>
+		<sp who="a voice">
+			<p>—All in! </p>
+		</sp>
 		<p>Then other voices cried from the lower and third lines: </p>
-		<p>—All in! All in! </p>
+		<sp who="other voices from the lower and third lines">
+			<p>—All in! All in! </p>
+		</sp>
 		<p>The players closed around, flushed and muddy, and he went 
 			among them, glad to go in. Rody Kickham held the ball by its 
 			greasy lace. A fellow asked him to give it one last: but he 
 			walked on without even answering the fellow. Simon Moonan 
 			told him not to because the prefect was looking. The fellow 
 			turned to Simon Moonan and said: </p>
-		<p>—We all know why you speak. You are McGlade's suck. </p>
+		<p><sp who="a fellow">—We all know why you speak. You are McGlade's suck.</sp></p>
 		<p>Suck was a queer word. The fellow called Simon Moonan 
 			that name because Simon Moonan used to tie the prefect's 
 			false sleeves behind his back and the prefect used to let on to 
@@ -311,8 +317,8 @@
 			fellows stopped talking in the playroom you could hear it. </p>
 		<p>It was the hour for sums. Father Arnall wrote a hard sum 
 			on the board and then said: </p>
-		<p>—Now then, who will win? Go ahead, York! Go ahead, 
-			Lancaster! </p>
+		<p><sp who="Father Arnall">—Now then, who will win? Go ahead, York! Go ahead, 
+				Lancaster!</sp></p>
 		<p>Stephen tried his best but the sum was too hard and he felt 
 			confused. The little silk badge with the white rose on it that 
 			was pinned on the breast of his jacket began to flutter. He was 
@@ -320,8 +326,8 @@
 			lose. Father Arnall's face looked very black but he was not in 
 			a wax: he was laughing. Then Jack Lawton cracked his fingers 
 			and Father Arnall looked at his copybook and said: </p>
-		<p>—Right. Bravo Lancaster! The red rose wins. Come on 
-			now, York! Forge ahead! </p>
+		<p><sp who="Father Arnall">—Right. Bravo Lancaster! The red rose wins. Come on 
+				now, York! Forge ahead!</sp></p>
 		<p>Jack Lawton looked over from his side. The little silk badge 
 			with the red rose on it looked very rich because he had a blue 
 			sailor top on.  Stephen felt his own face red too, thinking of all 
@@ -357,11 +363,11 @@
 			he could not: and so he longed for the play and study and 
 			prayers to be over and to be in bed. </p>
 		<p>He drank another cup of hot tea and Fleming said: </p>
-		<p>—What's up? Have you a pain or what's up with you? </p>
-		<p>—I don't know, Stephen said. </p>
-		<p>—Sick in your breadbasket, Fleming said, because your 
-			face looks white. It will go away. </p>
-		<p>—O yes, Stephen said. </p>
+		<p><sp who="Fleming">—What's up? Have you a pain or what's up with you? </sp></p>
+		<p><sp who="Stephen">—I don't know, Stephen said. </sp></p>
+		<p><sp who="Fleming">—Sick in your breadbasket, Fleming said, because your 
+				face looks white. It will go away. </sp></p>
+		<p><sp who="Stephen">—O yes, Stephen said. </sp></p>
 		<p>But he was not sick there. He thought that he was sick in 
 			his heart if you could be sick in that place. Fleming was very 
 			decent to ask him. He wanted to cry. He leaned his elbows on 
@@ -387,19 +393,19 @@
 			sleeves. He was telling them something about Tullabeg. </p>
 		<p>Then he went away from the door and Wells came over to 
 			Stephen and said: </p>
-		<p>—Tell us, Dedalus, do you kiss your mother before you go 
-			to bed? </p>
+		<p><sp who="Wells">—Tell us, Dedalus, do you kiss your mother before you go 
+				to bed? </sp></p>
 		<p>Stephen answered: </p>
-		<p>—I do. </p>
+		<p><sp who="Stephen">—I do. </sp></p>
 		<p>Wells turned to the other fellows and said: </p>
-		<p>—O, I say, here's a fellow says he kisses his mother every 
-			night before he goes to bed. </p>
+		<p><sp who="Wells">—O, I say, here's a fellow says he kisses his mother every 
+				night before he goes to bed. </sp></p>
 		<p>The other fellows stopped their game and turned round, 
 			laughing. Stephen blushed under their eyes and said: </p>
-		<p>—I do not. </p>
+		<p><sp who="Stephen">—I do not. </sp></p>
 		<p>Wells said: </p>
-		<p>—O, I say, here's a fellow says he doesn't kiss his mother 
-			before he goes to bed. </p>
+		<p><sp who="Wells">—O, I say, here's a fellow says he doesn't kiss his mother 
+				before he goes to bed. </sp></p>
 		<p>They all laughed again. Stephen tried to laugh with them. 
 			He felt his whole body hot and confused in a moment. What 
 			was the right answer to the question? He had given two and 
@@ -548,11 +554,15 @@
 		<p>He heard the voice of the prefect of the chapel saying the 
 			last prayer. He prayed it too against the dark outside under 
 			the trees. </p>
-		<l><i>Visit, we beseech Thee, O Lord, this habitation and</i></l> 
-		<i>drive away from it all the snares of the enemy. May</i> 
-		<i>Thy holy angels dwell herein to preserve us in peace</i> 
-		<i>and may Thy blessing be always upon us through</i> 
-		<i>Christ, Our Lord. Amen.</i> 
+
+		<lg>
+			<l>Visit, we beseech Thee, O Lord, this habitation and</l>
+			<l>drive away from it all the snares of the enemy. May </l>
+			<l>Thy holy angels dwell herein to preserve us in peace </l>
+			<l>and may Thy blessing be always upon us through </l>
+			<l>Christ, Our Lord. Amen. </l>
+		</lg>
+
 		<p>His fingers trembled as he undressed himself in the dormitory. 
 			He told his fingers to hurry up. He had to undress and 
 			then kneel and say his own prayers and be in bed before the 
