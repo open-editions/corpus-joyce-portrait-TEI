@@ -24,7 +24,13 @@ This is the open collaborative scholarly edition of James Joyce's novel _A Portr
 
 
 ```xml
-<p>The word now shone in his brain, clearer and brighter than any ivory sawn from the mottled tusks of elephants. <hi rend="italic">Ivory, <seg xml:lang="fra">ivoire</seg>, <seg xml:lang="ita">avorio</seg>, <seg xml:lang="lat">ebur</seg>.</hi> One of the first examples that he had learnt in Latin had run: <seg xml:lang="lat"><hi rend="italic">India mittit ebur</hi></seg>; 
+<p>The word now shone in his brain, clearer and brighter 
+than any ivory sawn from the mottled tusks of elephants. 
+<hi rend="italic">Ivory, <seg xml:lang="fra">ivoire</seg>, 
+<seg xml:lang="ita">avorio</seg>, 
+<seg xml:lang="lat">ebur</seg>.</hi> One of the first 
+examples that he had learnt in Latin had run: 
+<seg xml:lang="lat"><hi rend="italic">India mittit ebur</hi></seg>; 
 ```
 
 ##How to contribute:
