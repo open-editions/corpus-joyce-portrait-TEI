@@ -670,9 +670,9 @@
 		<p><sp who="Fleming">—Are you not well? </sp></p>
 		<p>He did not know; and Fleming said: </p>
 		<p><sp who="Fleming">—Get back into bed. I'll tell McGlade you're not well. </sp></p>
-		<p><sp who="">—He's sick. </sp></p>
+		<p><sp who="Fleming">—He's sick. </sp></p>
 		<p><sp who="">—Who is? </sp></p>
-		<p><sp who="">—Tell McGlade. </sp></p>
+		<p><sp who="Fleming">—Tell McGlade. </sp></p>
 		<p><sp who="">—Get back into bed. </sp></p>
 		<p><sp who="">—Is he sick? </sp></p>
 		<p>A fellow held his arms while he loosened the stocking 
@@ -683,15 +683,15 @@
 			him into the square ditch, they were saying. </p>
 		<p>Then their voices ceased; they had gone. A voice at his bed 
 			said: </p>
-		<p>—Dedalus, don't spy on us, sure you won't? </p>
+		<p><sp who="Wells">—Dedalus, don't spy on us, sure you won't? </sp></p>
 		<p>Wells's face was there. He looked at it and saw that Wells 
 			was afraid. </p>
-		<p>—I didn't mean to. Sure you won't? </p>
+		<p><sp who="Wells">—I didn't mean to. Sure you won't? </sp></p>
 		<p>His father had told him, whatever he did, never to peach on 
 			a fellow. He shook his head and answered no and felt glad. 
 			Wells said: </p>
-		<p>—I didn't mean to, honour bright. It was only for cod. I'm 
-			sorry. </p>
+		<p><sp who="Wells">—I didn't mean to, honour bright. It was only for cod. I'm 
+				sorry. </sp></p>
 		<p>The face and the voice went away. Sorry because he was 
 			afraid. Afraid that it was some disease. Canker was a disease 
 			of plants and cancer one of animals: or another different. That 
@@ -715,14 +715,14 @@
 			saying that he was to get up, that Father Minister had said he 
 			was to get up and dress and go to the infirmary. And while he 
 			was dressing himself as quickly as he could the prefect said: </p>
-		<p>—We must pack off to Brother Michael because we have 
+		<p><sp who="the prefect">—We must pack off to Brother Michael because we have 
 			the collywobbles! Terrible thing to have the collywobbles! 
-			How we wobble when we have the collywobbles! </p>
+			How we wobble when we have the collywobbles! </sp></p>
 		<p>He was very decent to say that. That was all to make him 
 			laugh. But he could not laugh because his cheeks and lips 
 			were all shivery: and then the prefect had to laugh by himself. </p>
 		<p>The prefect cried: </p>
-		<p>—Quick march! Hayfoot! Strawfoot! </p>
+		<p><sp who="the prefect">—Quick march! Hayfoot! Strawfoot! </sp></p>
 		<p>They went together down the staircase and along the corridor 
 			and past the bath. As he passed the door he remembered 
 			with a vague fear the warm turfcoloured bogwater, the warm 
@@ -740,17 +740,17 @@
 			catch up on the others? </p>
 		<p>There were two beds in the room and in one bed there was 
 			a fellow: and when they went in he called out: </p>
-		<p>—Hello! It's young Dedalus! What's up? </p>
-		<p>—The sky is up, Brother Michael said. </p>
+		<p><sp who="a fellow out of the third of grammar">—Hello! It's young Dedalus! What's up? </sp></p>
+		<p><sp who="Brother Michael">—The sky is up, Brother Michael said. </sp></p>
 		<p>He was a fellow out of the third of grammar and, while 
 			Stephen was undressing, he asked Brother Michael to bring 
 			him a round of buttered toast. </p>
-		<p>—Ah, do! he said. </p>
-		<p>—Butter you up! said Brother Michael. You'll get your 
-			walking papers in the morning when the doctor comes. </p>
-		<p>—Will I? the fellow said. I'm not well yet. </p>
+		<p><sp who="a fellow out of the third of grammar">—Ah, do! he said. </sp></p>
+		<p><sp who="Brother Michael">—Butter you up! said Brother Michael. You'll get your 
+				walking papers in the morning when the doctor comes. </sp></p>
+		<p><sp who="a fellow out of the third of grammar">—Will I? the fellow said. I'm not well yet. </sp></p>
 		<p>Brother  Michael repeated: </p>
-		<p>—You'll get your walking papers, I tell you. </p>
+		<p><sp who="a fellow out of the third of grammar">—You'll get your walking papers, I tell you. </sp></p>
 		<p>He bent down to rake the fire. He had a long back like the 
 			long back of a tramhorse. He shook the poker gravely and 
 			nodded his head at the fellow out of third of grammar. </p>
