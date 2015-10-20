@@ -162,8 +162,8 @@
 		<p><said who="Mary Dedalus">—O, Stephen will apologise. </said></p>
 		<p>Dante said: </p>
 		<p><said who="Dante">—O, if not, the eagles will come and pull out his eyes. </said></p>
-		<l>Pull out his eyes,</l> 
 		<lg>
+			<l>Pull out his eyes,</l> 
 			<l>Apologise,</l> 
 			<l>Apologise,</l> 
 			<l>Pull out his eyes.</l> 
@@ -1099,11 +1099,11 @@
 				public sinner. </said></p>
 		<p><said who="John Casey">—We are all sinners and black sinners, said Mr Casey 
 				coldly. </said></p>
-		<p><said who="Dante">—<hi rend="italic">Woe be to the man by whom the scandal cometh!</hi> said 
-			Mrs Riordan. <hi rend="italic">It would be better for him that a millstone were 
+		<p><said who="Dante">—<quote>Woe be to the man by whom the scandal cometh!</quote> said 
+			Mrs Riordan. <quote>It would be better for him that a millstone were 
 			tied about his neck and that he were cast into the depth of the
 			sea rather than that he should scandalise one of these, my least
-			little ones.</hi> That is the language of the Holy Ghost.</said></p>
+			little ones.</quote> That is the language of the Holy Ghost.</said></p>
 		<p>—And very bad language if you ask me, said Mr Dedalus 
 			coolly. </p>
 		<p>—Simon! Simon! said uncle Charles. The boy. </p>
