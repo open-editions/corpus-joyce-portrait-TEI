@@ -943,14 +943,14 @@
 			Victoria. </p>
 		<p>Mr Casey tapped the gland of his neck and smiled at Stephen 
 			with sleepy eyes: and Mr Dedalus said to him: </p>
-		<p>—Yes. Well now, that's all right. O, we had a good walk, 
+		<p><said who="Simon Dedalus">—Yes. Well now, that's all right. O, we had a good walk, 
 			hadn't we, John? Yes ...  I wonder if there's any likelihood 
 			of dinner this evening. Yes ....  O, well now, we got a good 
-			breath of ozone round the Head today. Ay, bedad. </p>
+			breath of ozone round the Head today. Ay, bedad. </sp></p>
 		<p>He turned to Dante and said: </p>
-		<p>—You didn't stir out at all, Mrs Riordan? </p>
+		<p><said who="John Casey">—You didn't stir out at all, Mrs Riordan? </said></p>
 		<p>Dante frowned and said shortly: </p>
-		<p>—No. </p>
+		<p><said who="Dante">—No. </said></p>
 		<p>Mr Dedalus dropped his coattails and went over to the 
 			sideboard. He brought forth a great stone jar of whisky from 
 			the locker and filled the decanter slowly, bending now and 
@@ -958,42 +958,50 @@
 			jar in the locker he poured a little of the whisky into two 
 			glasses, added a little water and came back with them to the 
 			fireplace. </p>
-		<p>—A thimbleful, John, he said, just to whet your appetite. </p>
+		<p><said who="Simon Dedalus">—A thimbleful, John, he said, just to whet your appetite. </said></p>
 		<p>Mr Casey took the glass, drank, and placed it near him on 
 			the mantelpiece. Then he said: </p>
-		<p>—Well, I can't help thinking of our friend Christopher 
-			manufacturing ... </p>
+		<p><said who="John Casey">—Well, I can't help thinking of our friend Christopher 
+				manufacturing ... </said></p>
 		<p>He broke into a fit of laughter and coughing and added: </p>
-		<p>—... manufacturing that champagne for those fellows. </p>
+		<p><said who="John Casey">—... manufacturing that champagne for those fellows. </said></p>
 		<p>Mr Dedalus laughed loudly. </p>
-		<p>—Is it Christy? he said. There's more cunning in one of 
-			those warts on his bald head than in a pack of jack foxes. </p>
+		<p><said who="Simon Dedalus">—Is it Christy? he said. There's more cunning in one of 
+				those warts on his bald head than in a pack of jack foxes. </said></p>
 		<p>He inclined his head, closed his eyes, and, licking his lips 
 			profusely, began to speak with the voice of the hotelkeeper. </p>
-		<p>—And he has such a soft mouth when he's speaking to you, 
+		<p><said who="Simon Dedalus">—And he has such a soft mouth when he's speaking to you, 
 			don't you know. He's very moist and watery about the dewlaps, 
-			God bless him. </p>
+			God bless him. </said></p>
 		<p>Mr Casey was still struggling through his fit of coughing and 
 			laughter. Stephen, seeing and hearing the hotelkeeper through 
 			his father's face and voice, laughed. </p>
 		<p>Mr Dedalus put up his eyeglass and, staring down at him, 
 			said quietly and kindly: </p>
-		<p>—What are you laughing at, you little puppy, you? </p>
+		<p><said who="Simon Dedalus">—What are you laughing at, you little puppy, you? </said></p>
 		<p>The servants entered and placed the dishes on the table. 
 			Mrs Dedalus followed and the places were arranged. </p>
-		<p>—Sit over, she said. </p>
+		<p><said who="Mary Dedalus">—Sit over, she said. </said></p>
 		<p>Mr Dedalus went to the end of the table and said: </p>
-		<p>—Now, Mrs Riordan, sit over. John, sit you down, my 
-			hearty. </p>
+		<p><said who="Simon Dedalus">—Now, Mrs Riordan, sit over. John, sit you down, my 
+				hearty. </said></p>
 		<p>He looked round to where uncle Charles sat and said: </p>
-		<p>—Now then, sir, there's a bird here waiting for you. </p>
+		<p><said who="Simon Dedalus">—Now then, sir, there's a bird here waiting for you. </said></p>
 		<p>When all had taken their seats he laid his hand on the cover 
 			and then said quickly, withdrawing it: </p>
-		<p>—Now, Stephen. </p>
+		<p><said who="Simon Dedalus">—Now, Stephen. </said></p>
 		<p>Stephen stood up in his place to say the grace before meals: </p>
-		<l><hi rend="italic">Bless us, O Lord, and these Thy gifts which 
-				through Thy bounty we are about to receive through Christ Our Lord.</hi></l>
-		<l>Amen.</l>/hi> 
+
+		<seg type="prayer"> 
+			<said who="Stephen">
+				<hi rend="italic">
+					<l>Bless us, O Lord, and these Thy gifts which through Thy bounty 
+				we are about to receive through Christ Our Lord.</l>
+					<l>Amen.</l>
+				</hi> 
+			</said> 
+		</seg>
+
 		<p>All blessed themselves and Mr Dedalus with a sigh of 
 			pleasure lifted from the dish the heavy cover pearled around 
 			the edge with glistening drops. </p>
@@ -1003,7 +1011,7 @@
 			the man had prodded it often at the breastbone to show how 
 			good it was: and he remembered the man's voice when he had 
 			said: </p>
-		<p>—Take that one, sir. That's the real Ally Daly. </p>
+		<p><said who="the butcher">—Take that one, sir. That's the real Ally Daly. </said></p>
 		<p>Why did Mr Barrett in Clongowes call his pandybat a 
 			turkey? But Clongowes was far away: and the warm heavy 
 			smell of turkey and ham and celery rose from the plates and 
@@ -1023,79 +1031,79 @@
 			said so too. </p>
 		<p>Mr Dedalus covered the dish and began to eat hungrily. 
 			Then he said: </p>
-		<p>—Poor old Christy, he's nearly lopsided now with roguery. </p>
-		<p>—Simon, said Mrs Dedalus, you haven't given Mrs Riordan 
-			any sauce. </p>
+		<p><said who="Simon Dedalus">—Poor old Christy, he's nearly lopsided now with roguery. </said></p>
+		<p><said who="Mary Dedalus">—Simon, said Mrs Dedalus, you haven't given Mrs Riordan 
+				any sauce. </said></p>
 		<p>Mr Dedalus seized the sauceboat. </p>
-		<p>—Haven't I?  he cried. Mrs Riordan, pity the poor blind. </p>
+		<p><said who="Simon Dedalus">—Haven't I?  he cried. Mrs Riordan, pity the poor blind. </said></p>
 		<p>Dante covered her plate with her hands and said: </p>
-		<p>—No, thanks. </p>
+		<p><said who="Dante">—No, thanks. </said></p>
 		<p>Mr Dedalus turned to uncle Charles. </p>
-		<p>—How are you off, sir? </p>
-		<p>—Right as the mail, Simon. </p>
-		<p>—You, John? </p>
-		<p>—I'm all right. Go on yourself. </p>
-		<p>—Mary? Here, Stephen, here's something to make your 
-			hair curl. </p>
+		<p><said who="Simon Dedalus">—How are you off, sir? </said></p>
+		<p><said who="Uncle Charles">—Right as the mail, Simon. </said></p>
+		<p><said who="Simon Dedalus">—You, John? </said></p>
+		<p><said who="John Casey">—I'm all right. Go on yourself. </said></p>
+		<p><said who="Simon Dedalus">—Mary? Here, Stephen, here's something to make your 
+				hair curl. </said></p>
 		<p>He poured sauce freely over Stephen's plate and set the 
 			boat again on the table. Then he asked uncle Charles was it 
 			tender. Uncle Charles could not speak because his mouth 
 			was full but he nodded that it was. </p>
-		<p>—That was a good answer our friend made to the canon. 
-			What? said Mr Dedalus. </p>
-		<p>—I didn't think he had that much in him, said Mr Casey. </p>
-		<p>—<hi rend="italic">I'll pay you your dues, father, when you cease turning the
-				house of God into a pollingbooth.</hi> </p>
-		<p>—A nice answer, said Dante, for any man calling himself a 
-			catholic to give to his priest. </p>
-		<p>—They have only themselves to blame, said Mr Dedalus 
+		<p><said who="Simon Dedalus">—That was a good answer our friend made to the canon. 
+				What? said Mr Dedalus. </said></p>
+		<p><said who="John Casey">—I didn't think he had that much in him, said Mr Casey. </said></p>
+		<p><said who="Simon Dedalus">—<hi rend="italic"><quote>I'll pay you your dues, father, when you cease turning the
+						house of God into a pollingbooth.</quote></hi></said></p>
+		<p><said who="Dante">—A nice answer, said Dante, for any man calling himself a 
+				catholic to give to his priest. </said></p>
+		<p><said who="Simon Dedalus">—They have only themselves to blame, said Mr Dedalus 
 			suavely. If they took a fool's advice they would confine their 
-			attention to religion. </p>
-		<p>—It is religion, Dante said. They are doing their duty in 
-			warning the people. </p>
-		<p>—We go to the house of God, Mr Casey said, in all humility 
-			to pray to our Maker and not to hear election addresses. </p>
-		<p>—It is religion, Dante said again. They are right. They must 
-			direct their flocks. </p>
-		<p>—And preach politics from the altar, is it? asked Mr Dedalus. </p>
-		<p>—Certainly, said Dante. It is a question of public morality. 
+			attention to religion. </said></p>
+		<p><said who="Dante">—It is religion, Dante said. They are doing their duty in 
+			warning the people. </said></p>
+		<p><said who="John Casey">—We go to the house of God, Mr Casey said, in all humility 
+			to pray to our Maker and not to hear election addresses. </said></p>
+		<p><said who="Dante">—It is religion, Dante said again. They are right. They must 
+			direct their flocks. </said></p>
+		<p><said who="Simon Dedalus">—And preach politics from the altar, is it? asked Mr Dedalus. </said></p>
+		<p><said who="Dante">—Certainly, said Dante. It is a question of public morality. 
 			A priest would not be a priest if he did not tell his flock what is 
-			right and what is wrong. </p>
+			right and what is wrong. </said></p>
 		<p>Mrs Dedalus laid down her knife and fork, saying: </p>
-		<p>—For pity's sake and for pity sake let us have no political 
-			discussion on this day of all days in the year. </p>
-		<p>—Quite right, ma'am, said uncle Charles. Now, Simon, 
-			that's quite enough now. Not another word now. </p>
-		<p>—Yes, yes, said Mr Dedalus quickly. </p>
+		<p><said who="Mary Dedalus">—For pity's sake and for pity sake let us have no political 
+				discussion on this day of all days in the year. </said></p>
+		<p><said who="Uncle Charles">—Quite right, ma'am, said uncle Charles. Now, Simon, 
+				that's quite enough now. Not another word now. </said></p>
+		<p><said who="Simon Dedalus">—Yes, yes, said Mr Dedalus quickly. </said></p>
 		<p>He uncovered the dish boldly and said: </p>
-		<p>—Now then, who's  for more turkey? </p>
+		<p><said who="Simon Dedalus">—Now then, who's for more turkey? </said></p>
 		<p>Nobody answered. Dante said: </p>
-		<p>—Nice language for any catholic to use! </p>
-		<p>—Mrs Riordan, I appeal to you, said Mrs Dedalus, to let 
-			the matter drop now. </p>
+		<p><said who="Dante">—Nice language for any catholic to use! </said></p>
+		<p><said who="Mary Dedalus">—Mrs Riordan, I appeal to you, said Mrs Dedalus, to let 
+				the matter drop now. </said></p>
 		<p>Dante turned on her and said: </p>
-		<p>—And am I to sit here and listen to the pastors of my 
-			church being flouted? </p>
-		<p>—Nobody is saying a word against them, said Mr Dedalus, 
-			so long as they don't meddle in politics. </p>
-		<p>—The bishops and priests of Ireland have spoken, said 
-			Dante, and they must be obeyed. </p>
-		<p>—Let them leave politics alone, said Mr Casey, or the 
-			people may leave their church alone. </p>
-		<p>—You hear? said Dante turning to Mrs Dedalus. </p>
-		<p>—Mr Casey! Simon! said Mrs Dedalus. Let it end now. </p>
-		<p>—Too bad! Too bad! said uncle Charles. </p>
-		<p>—What? cried Mr Dedalus. Were we to desert him at the 
-			bidding of the English people? </p>
-		<p>—He was no longer worthy to lead, said Dante. He was a 
-			public sinner. </p>
-		<p>—We are all sinners and black sinners, said Mr Casey 
-			coldly. </p>
-		<p>—<hi rend="italic">Woe be to the man by whom the scandal cometh!</hi> said 
+		<p><said who="Dante">—And am I to sit here and listen to the pastors of my 
+				church being flouted? </said></p>
+		<p><said who="Simon Dedalus">—Nobody is saying a word against them, said Mr Dedalus, 
+				so long as they don't meddle in politics. </said></p>
+		<p><said who="Dante">—The bishops and priests of Ireland have spoken, said 
+				Dante, and they must be obeyed. </said></p>
+		<p><said who="John Casey">—Let them leave politics alone, said Mr Casey, or the 
+				people may leave their church alone. </said></p>
+		<p><said who="Dante">—You hear? said Dante turning to Mrs Dedalus. </said></p>
+		<p><said who="Mary Dedalus">—Mr Casey! Simon! said Mrs Dedalus. Let it end now. </said></p>
+		<p><said who="Uncle Charles">—Too bad! Too bad! said uncle Charles. </said></p>
+		<p><said who="Simon Dedalus">—What? cried Mr Dedalus. Were we to desert him at the 
+				bidding of the English people? </said></p>
+		<p><said who="Dante">—He was no longer worthy to lead, said Dante. He was a 
+				public sinner. </said></p>
+		<p><said who="John Casey">—We are all sinners and black sinners, said Mr Casey 
+				coldly. </said></p>
+		<p><said who="Dante">—<hi rend="italic">Woe be to the man by whom the scandal cometh!</hi> said 
 			Mrs Riordan. <hi rend="italic">It would be better for him that a millstone were 
 			tied about his neck and that he were cast into the depth of the
 			sea rather than that he should scandalise one of these, my least
-			little ones. That is the language of the Holy Ghost.</hi></p>
+			little ones.</hi> That is the language of the Holy Ghost.</said></p>
 		<p>—And very bad language if you ask me, said Mr Dedalus 
 			coolly. </p>
 		<p>—Simon! Simon! said uncle Charles. The boy. </p>
