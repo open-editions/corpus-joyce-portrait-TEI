@@ -7,7 +7,12 @@ This is the open collaborative scholarly edition of James Joyce's novel _A Portr
  * Features such as epigraphs marked with their respective tags, e.g. `<epigraph>`.  
  * Editorial decisions such as "green" -> "geen" are noted in `<note resp="">`
  * Prayers are marked up as `<seg type="prayer">`, with `<lg>` tags if it is in verse. 
+ * Songs are marked up as `<seg type="song">`
  * Non-English languages are marked up with `<seg xml:lang="">`. 
+
+##Notes on Markup
+
+ * Tags presumed to be rendered in italics include: `<lg>`, `<quote>`, `<seg type="prayer">`, `<seg type="song">`. 
 
 ##An Example Epigraph 
 
