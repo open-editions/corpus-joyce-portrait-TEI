@@ -1541,48 +1541,50 @@
 		<p>At last Fleming said: </p>
 		<p><said who="Fleming">—And we are all to be punished for what other fellows did? </said></p>
 		<p><said who="Cecil Thunder">—I won't come back, see if I do, Cecil Thunder said. Three 
-			days' silence in the refectory and sending us up for six and 
-			eight every minute. </said></p>
+				days' silence in the refectory and sending us up for six and 
+				eight every minute. </said></p>
 		<p><said who="Wells">—Yes, said Wells. And old Barrett has a new way of twisting 
-			the note so that you can't open it and fold it again to see 
-			how many ferul#.^a  you are to get. I won't come back too. </said></p>
+				the note so that you can't open it and fold it again to see 
+				how many ferul#.^a  you are to get. I won't come back too. </said></p>
 		<p><said who="Cecil Thunder">—Yes, said Cecil Thunder, and the prefect of studies was in 
-			second of grammar this morning. </said></p>
-	<p><said who="Fleming">—Let us get up a rebellion, Fleming said. Will we? </said></p>
+				second of grammar this morning. </said></p>
+		<p><said who="Fleming">—Let us get up a rebellion, Fleming said. Will we? </said></p>
 		<p>All the fellows were silent. The air was very silent and you 
 			could hear the cricketbats but more slowly than before: pick, 
 			pock. </p>
 		<p>Wells asked: </p>
 		<p><said who="Wells">—What is going to be done to them? </said></p>
 		<p><said who="Athy">—Simon Moonan and Tusker are going to be flogged, Athy 
-			said, and the fellows in the higher line got their choice of 
-			flogging or being expelled. </said></p>
-	<p><said who="a fellow">—And which are they taking? asked the fellow who had 
-			spoken first. </said></p>
-	<p><said who="Athy">—All are taking expulsion except Corrigan, Athy answered. 
-			He's going to be flogged by Mr Gleeson. </said></p>
-	<p><said who="Fleming">—Is it Corrigan that big fellow? said Fleming. Why, he'd be 
-			able for two of Gleeson! </said></p>
+				said, and the fellows in the higher line got their choice of 
+				flogging or being expelled. </said></p>
+		<p><said who="a fellow">—And which are they taking? asked the fellow who had 
+				spoken first. </said></p>
+		<p><said who="Athy">—All are taking expulsion except Corrigan, Athy answered. 
+				He's going to be flogged by Mr Gleeson. </said></p>
+		<p><said who="Fleming">—Is it Corrigan that big fellow? said Fleming. Why, he'd be 
+				able for two of Gleeson! </said></p>
 		<p><said who="Cecil Thunder">—I know why, Cecil Thunder said. He is right and the 
-			other fellows are wrong because a flogging wears off after a bit 
-			but a fellow that has been expelled from college is known all 
-			his life on  account of it. Besides Gleeson won't flog him hard. </said></p>
-	<p><said who="Fleming">—It's best of his play not to, Fleming said. </said></p>
+				other fellows are wrong because a flogging wears off after a bit 
+				but a fellow that has been expelled from college is known all 
+				his life on  account of it. Besides Gleeson won't flog him hard. </said></p>
+		<p><said who="Fleming">—It's best of his play not to, Fleming said. </said></p>
 		<p><said who="Cecil Thunder">—I wouldn't like to be Simon Moonan and Tusker,  Cecil 
-			Thunder said. But I don't believe they will be flogged. Perhaps 
-			they will be sent up for twice nine. </said></p>
-	<p><said who="Athy">—No, no, said Athy. They'll both get it on the vital spot. </said></p>
+				Thunder said. But I don't believe they will be flogged. Perhaps 
+				they will be sent up for twice nine. </said></p>
+		<p><said who="Athy">—No, no, said Athy. They'll both get it on the vital spot. </said></p>
 		<p>Wells rubbed himself and said in a crying voice: </p>
 		<p><said who="Wells">—Please, sir, let me off! </said></p>
 		<p>Athy grinned and turned up the sleeves of his jacket, saying: </p>
 
 		<said who="Athy">
-		<lg>
-			<l>It can't be helped;</l> 
-			<l>It must be done.</l> 
-			<l>So down with your breeches</l> 
-			<l>And out with your bum.</l> 
-		</lg>
+			<seg type="chant">
+				<lg>
+					<l>It can't be helped;</l> 
+					<l>It must be done.</l> 
+					<l>So down with your breeches</l> 
+					<l>And out with your bum.</l> 
+				</lg>
+			</seg>
 		</said> 
 
 		<p>The fellows laughed; but he felt that they were a little 
@@ -1618,16 +1620,16 @@
 			Corrigan hard. And Fleming had said he would not because it 
 			was  best of his play not to. But that was not why. </p>
 		<p>A voice from far out on the playground cried: </p>
-		<p>—All in! </p>
+		<p><said who="a fellow">—All in! </said></p>
 		<p>And other voices cried: </p>
-		<p>—All in! All in! </p>
+		<p><said who="other voices">—All in! All in! </said></p>
 		<p>During the writing lesson he sat with his arms folded, 
 			listening to the slow scraping of the pens. Mr Harford went to 
 			and fro making little signs in red pencil and sometimes sitting 
 			beside the boy to show him how to hold the pen. He had tried 
 			to spell out the headline for himself though he knew already 
 			what it was for it was the last of the book. <hi rend="italic">Zeal without prudence
-				is like a ship adrift.</hi> But the lines of the letters were like 
+			is like a ship adrift.</hi> But the lines of the letters were like 
 			fine invisible threads and it was only by closing his right eye 
 			tight tight and staring out of the left eye that he could make 
 			out the full curves of the capital. </p>
@@ -1665,8 +1667,8 @@
 			what was the happiest day of his life. They thought he 
 			would say the day he won some great battle or the day he was 
 			made an emperor. But he said: </p>
-		<p>—Gentlemen, the happiest day of my life was the day on 
-			which I made my first holy communion. </p>
+		<p><said who="Napoleon">—Gentlemen, the happiest day of my life was the day on 
+				which I made my first holy communion. </said></p>
 		<p>Father Arnall came in and the Latin lesson began and he 
 			remained still, leaning on the desk with his arms folded. Father 
 			Arnall gave out the themebooks and he said that they 
@@ -1678,8 +1680,8 @@
 			asked Jack Lawton to decline the noun <hi rend="italic">mare</hi> and Jack Lawton 
 			stopped at the ablative singular and could not go on with the 
 			plural. </p>
-		<p>—You should be ashamed of yourself, said Father Arnall 
-			sternly. You, the leader of the class! </p>
+		<p><said who="Father Arnall">—You should be ashamed of yourself, said Father Arnall 
+				sternly. You, the leader of the class! </said></p>
 		<p>Then he asked the next boy and the next and the next. 
 			Nobody knew. Father Arnall became very quiet, more and 
 			more quiet as each boy tried to answer and could not. But his 
@@ -1687,9 +1689,9 @@
 			voice was so quiet. Then he asked Fleming and Fleming said 
 			that that word had no plural. Father Arnall suddenly shut the 
 			book and shouted at him: </p>
-		<p>—Kneel out there in the middle of the class. You are one of 
+		<p><said who="Father Arnall">—Kneel out there in the middle of the class. You are one of 
 			the idlest boys I ever met. Copy out your themes again the rest 
-			of you. </p>
+			of you. </said></p>
 		<p>Fleming moved heavily out of his place and knelt between 
 			the two last benches. The others boys bent over their theme-books 
 			and began to write. A silence filled the classroom and 
@@ -1717,73 +1719,73 @@
 			through the class: the prefect of studies. There was an instant 
 			of dead silence and then the loud crack of a pandybat on the 
 			last desk. Stephen's heart leapt up in fear. </p>
-		<p>—Any boys want flogging here, Father Arnall? cried the 
+		<p><said who="Father Dolan">—Any boys want flogging here, Father Arnall? cried the 
 			prefect of studies. Any lazy idle loafers that want flogging in 
-			this class? </p>
+			this class? </said></p>
 		<p>He came to the middle of the class and saw Fleming on his 
 			knees. </p>
-		<p>—Hoho! he cried. Who is this boy? Why is he on his knees? 
-			What is your name, boy? </p>
-		<p>—Fleming, sir. </p>
-		<p>—Hoho, Fleming! An idler of course. I can see it in your 
-			eye. Why is he on his knees, Father Arnall? </p>
-		<p>—He wrote a bad Latin theme, Father Arnall said, and he 
-			missed all the questions in grammar. </p>
-		<p>—Of course he did! cried the prefect of studies. Of course 
-			he did! A born idler! I can see it in the corner of his eye. </p>
+		<p><said who="Father Dolan">—Hoho! he cried. Who is this boy? Why is he on his knees? 
+				What is your name, boy? </said></p>
+		<p><said who="Fleming">—Fleming, sir. </said></p>
+		<p><said who="Father Dolan">—Hoho, Fleming! An idler of course. I can see it in your 
+				eye. Why is he on his knees, Father Arnall? </said></p>
+		<p><said who="Father Arnall">—He wrote a bad Latin theme, Father Arnall said, and he 
+				missed all the questions in grammar. </said></p>
+		<p><said who="Father Dolan">—Of course he did! cried the prefect of studies. Of course 
+				he did! A born idler! I can see it in the corner of his eye. </said></p>
 		<p>He banged his pandybat down on the desk and cried: </p>
-		<p>—Up, Fleming! Up, my boy! </p>
+		<p><said who="Father Dolan">—Up, Fleming! Up, my boy! </said></p>
 		<p>Fleming stood up slowly. </p>
-		<p>—Hold out! cried the prefect of studies. </p>
+		<p><said who="Father Dolan">—Hold out! cried the prefect of studies. </said></p>
 		<p>Fleming held out his hand. The pandybat came down on it 
 			with a loud smacking sound: one, two, three, four, five, six. </p>
-		<p>—Other hand! </p>
+		<p><said who="Father Dolan">—Other hand! </said></p>
 		<p>The pandybat came down again in six loud quick smacks. </p>
-		<p>—Kneel down! cried the prefect of studies. </p>
+		<p><said who="Father Dolan">—Kneel down! cried the prefect of studies. </said></p>
 		<p>Fleming knelt down squeezing his hands under his armpits, 
 			his face contorted with pain, but Stephen knew how hard his 
 			hands were because Fleming was always rubbing rosin into 
 			them. But perhaps he was in great pain for the noise of the 
 			pandies was terrible. Stephen's heart was beating and fluttering. </p>
-		<p>—At your work, all of you! shouted the prefect of studies. 
+		<p><said who="Father Dolan">—At your work, all of you! shouted the prefect of studies. 
 			We want no lazy idle loafers here, lazy idle little schemers. At 
 			your work, I tell you. Father Dolan will be in to see you every 
-			day. Father Dolan will be in tomorrow. </p>
+			day. Father Dolan will be in tomorrow. </said></p>
 		<p>He poked one of the boys in the side with the pandybat, 
 			saying: </p>
-		<p>—You, boy! When will Father Dolan be in again? </p>
-		<p>—Tomorrow, sir, said Tom Furlong's voice. </p>
-		<p>—Tomorrow and tomorrow and tomorrow, said the prefect 
+		<p><said who="Father Dolan">—You, boy! When will Father Dolan be in again? </said></p>
+		<p><said who="Tom Furlong">—Tomorrow, sir, said Tom Furlong's voice. </said></p>
+		<p><said who="Father Dolan">—Tomorrow and tomorrow and tomorrow, said the prefect 
 			of studies. Make up your minds for that. Every day Father 
-			Dolan. Write away. You, boy, who are you? </p>
+			Dolan. Write away. You, boy, who are you? </said></p>
 		<p>Stephen's heart jumped suddenly. </p>
-		<p>—Dedalus, sir. </p>
-		<p>—Why are you not writing like the others? </p>
-		<p>—I ... my ... </p>
+		<p><said who="Stephen">—Dedalus, sir. </said></p>
+		<p><said who="Father Dolan">—Why are you not writing like the others? </said></p>
+		<p><said who="Stephen">—I ... my ... </said></p>
 		<p>He could not speak with fright. </p>
-		<p>—Why is he not writing, Father Arnall? </p>
-		<p>—He broke his glasses, said Father Arnall, and I exempted 
-			him from work. </p>
-		<p>—Broke? What is this I hear? What is this your name is? 
-			said the prefect of studies. </p>
-		<p>—Dedalus, sir. </p>
-		<p>—Out here, Dedalus. Lazy little schemer. I see schemer in 
-			your face. Where did you break your glasses? </p>
+		<p><said who="Father Dolan">—Why is he not writing, Father Arnall? </said></p>
+		<p><said who="Father Arnall">—He broke his glasses, said Father Arnall, and I exempted 
+				him from work. </said></p>
+		<p><said who="Father Dolan">—Broke? What is this I hear? What is this your name is? 
+				said the prefect of studies. </said></p>
+		<p><said who="Stephen">—Dedalus, sir. </said></p>
+		<p><said who="Father Dolan">—Out here, Dedalus. Lazy little schemer. I see schemer in 
+				your face. Where did you break your glasses? </said></p>
 		<p>Stephen stumbled into the middle of the class, blinded by 
 			fear and haste. </p>
-		<p>—Where did you break your glasses? repeated the prefect 
-			of studies. </p>
-		<p>—The cinderpath, sir. </p>
-		<p>—Hoho! The cinderpath! cried the prefect of studies. I 
-			know that trick. </p>
+		<p><said who="Father Dolan">—Where did you break your glasses? repeated the prefect 
+				of studies. </said></p>
+		<p><said who="Stephen">—The cinderpath, sir. </said></p>
+		<p><said who="Father Dolan">—Hoho! The cinderpath! cried the prefect of studies. I 
+				know that trick. </said></p>
 		<p>Stephen lifted his eyes in wonder and saw for a moment 
 			Father Dolan's whitegrey not young face, his baldy whitegrey 
 			head with fluff at the sides of it, the steel rims of his spectacles 
 			and his nocoloured eyes looking through the glasses. Why did 
 			he say he knew that trick? </p>
-		<p>—Lazy idle little loafer! cried the prefect of studies. Broke 
+		<p><said who="Father Dolan">—Lazy idle little loafer! cried the prefect of studies. Broke 
 			my glasses! An old schoolboy trick! Out with your hand this 
-			moment! </p>
+			moment! </said></p>
 		<p>Stephen closed his eyes and held out in the air his trembling 
 			hand with the palm upwards. He felt the prefect of studies 
 			touch it for a moment at the fingers to straighten it and then 
@@ -1797,7 +1799,7 @@
 			sprang to his lips, a prayer to be let off. But though the tears 
 			scalded his eyes and his limbs quivered with pain and fright he 
 			held back the hot tears and the cry that scalded his throat. </p>
-		<p>—Other hand! shouted the prefect of studies. </p>
+		<p><said who="Father Dolan">—Other hand! shouted the prefect of studies. </said></p>
 		<p>Stephen drew back his maimed and quivering right arm and 
 			held out his left hand. The soutane sleeve swished again as the 
 			pandybat was lifted and a loud crashing sound and a fierce 
@@ -1809,7 +1811,7 @@
 			a palsy of fright and in shame and rage he felt the scalding cry 
 			come from his throat and the scalding tears falling out of his 
 			eyes and down his flaming cheeks. </p>
-		<p>—Kneel down! cried the prefect of studies. </p>
+		<p><said who="Father Dolan">—Kneel down! cried the prefect of studies. </said></p>
 		<p>Stephen knelt down quickly pressing his beaten hands to his 
 			sides. To think of them  beaten and swollen with pain all in a 
 			moment made him feel so sorry for them as if they were not 
@@ -1820,17 +1822,17 @@
 			of the firm touch of the prefect of studies when he had steadied 
 			the shaking fingers and of the beaten swollen reddened 
 			mass of palm and fingers that shook helplessly  in the air. </p>
-		<p>—Get at your work, all of you, cried the prefect of studies 
+		<p><said who="Father Dolan">—Get at your work, all of you, cried the prefect of studies 
 			from the door. Father Dolan will be in every day to see if any 
 			boy, any lazy idle little loafer wants flogging. Every day. 
-			Every day. </p>
+			Every day. </said></p>
 		<p>The door closed behind him. </p>
 		<p>The hushed class continued to copy out the themes. Father 
 			Arnall rose from his seat and went among them, helping the 
 			boys with gentle words and telling them the mistakes they had 
 			made. His voice was very gentle and soft. Then he returned to 
 			his seat and said to Fleming and Stephen: </p>
-		<p>—You may return to your places, you two. </p>
+		<p><said who="Father Arnall">—You may return to your places, you two. </said></p>
 		<p>Fleming and Stephen rose and, walking to their seats, sat 
 			down. Stephen, scarlet with shame, opened a book quickly 
 			with one weak hand and bent down upon it, his face close to 
@@ -1857,32 +1859,32 @@
 			nocoloured eyes behind the steelrimmed spectacles were 
 			cruel looking because he had steadied the hand first with his 
 			firm soft fingers and that was to hit it better and louder. </p>
-		<p>—It's a stinking mean thing, that's what it is, said Fleming 
+		<p><said who="Fleming">—It's a stinking mean thing, that's what it is, said Fleming 
 			in the corridor as the classes were passing out in file to the 
-			refectory, to pandy a fellow for what is not his fault. </p>
-		<p>—You really broke your glasses by accident, didn't you? 
-			Nasty Roche asked. </p>
+			refectory, to pandy a fellow for what is not his fault. </said></p>
+		<p><said who="Nasty Roche">—You really broke your glasses by accident, didn't you? 
+			Nasty Roche asked. </said></p>
 		<p>Stephen felt his heart filled by Fleming's words and did not 
 			answer. </p>
-		<p>—Of course he did! said Fleming. I wouldn't stand it. I'd go 
-			up and tell the rector on him. </p>
-		<p>—Yes, said Cecil Thunder eagerly, and I saw him lift the 
-			pandybat over his shoulder and he's not allowed to do that. </p>
-		<p>—Did they hurt much? Nasty Roche asked. </p>
-		<p>—Very much, Stephen said. </p>
-		<p>—I wouldn't stand it, Fleming repeated, from Baldyhead or 
+		<p><said who="Fleming">—Of course he did! said Fleming. I wouldn't stand it. I'd go 
+				up and tell the rector on him. </said></p>
+			<p><said who="Cecil Thunder">—Yes, said Cecil Thunder eagerly, and I saw him lift the 
+				pandybat over his shoulder and he's not allowed to do that. </said></p>
+		<p><said who="Nasty Roche">—Did they hurt much? Nasty Roche asked. </said></p>
+		<p><said who="Stephen">—Very much, Stephen said. </said></p>
+		<p><said who="Fleming">—I wouldn't stand it, Fleming repeated, from Baldyhead or 
 			any other Baldyhead. It's a stinking mean low trick, that's 
 			what it is. I'd go straight up to the rector and tell him about it 
-			after dinner. </p>
-		<p>—Yes, do. Yes, do, said Cecil Thunder. </p>
-		<p>—Yes, do. Yes, go up and tell the rector on him, Dedalus, 
+			after dinner. </said></p>
+		<p><said who="Cecil Thunder">—Yes, do. Yes, do, said Cecil Thunder. </said></p>
+		<p><said who="Nasty Roche">—Yes, do. Yes, go up and tell the rector on him, Dedalus, 
 			said Nasty Roche, because he said that he'd come in tomorrow 
-			again to pandy you. </p>
-		<p>—Yes, yes. Tell the rector, all said. </p>
+			again to pandy you. </said></p>
+	<p><said who="all">—Yes, yes. Tell the rector, all said. </said></p>
 		<p>And there were some fellows out of second of grammar 
 			listening and one of them said: </p>
-		<p>—The senate and the Roman people declared that Dedalus 
-			had been wrongly punished. </p>
+		<p><said who="some fellows out of second of grammar">—The senate and the Roman people declared that Dedalus 
+				had been wrongly punished. </said></p>
 		<p>It was wrong; it was unfair and cruel: and, as he sat in the 
 			refectory, he suffered time after time in memory the same 
 			humiliation until he began to wonder whether it might not 
@@ -1952,7 +1954,7 @@
 			that. And if he went and was pandied all the same all the 
 			fellows would make fun and talk about young Dedalus going 
 			up to the rector to tell on the prefect of studies. </p>
-		<p>He  was walking down along the matting and he saw the 
+		<p>He was walking down along the matting and he saw the 
 			door before him. It was impossible: he could not. He thought 
 			of the baldy head of the prefect of studies with the cruel 
 			nocoloured eyes looking at him and he heard the voice of the 
@@ -1997,7 +1999,7 @@
 			went on to it and knocked. </p>
 		<p>There was no answer. He knocked again more loudly and 
 			his heart jumped when he heard a muffled voice say: </p>
-		<p>—Come in! </p>
+		<p><said who="the rector">—Come in! </said></p>
 		<p>He turned the handle and opened the door and fumbled for 
 			the handle of the green baize door inside. He found it and 
 			pushed it open and went in. </p>
@@ -2007,57 +2009,57 @@
 		<p>His heart was beating fast on account of the solemn place 
 			he was in and the silence of the room:  and he looked at the 
 			skull and at the rector's kindlooking face. </p>
-		<p>—Well, my little man, said the rector, what is it? </p>
+		<p><said who="the rector">—Well, my little man, said the rector, what is it? </said></p>
 		<p>Stephen swallowed down the thing in his throat and said: </p>
-		<p>—I broke my glasses, sir. </p>
+		<p><said who="Stephen">—I broke my glasses, sir. </said></p>
 		<p>The rector opened his mouth and said: </p>
-		<p>—O! </p>
+		<p><said who="the rector">—O! </said></p>
 		<p>Then he smiled and said: </p>
-		<p>—Well, if we broke our glasses we must write home for a 
-			new pair. </p>
-		<p>—I wrote home, sir, said Stephen, and Father Arnall said I 
-			am not to study till they come. </p>
-		<p>—Quite right! said the rector. </p>
+		<p><said who="the rector">—Well, if we broke our glasses we must write home for a 
+				new pair. </said></p>
+		<p><said who="Stephen">—I wrote home, sir, said Stephen, and Father Arnall said I 
+				am not to study till they come. </said></p>
+		<p><said who="the rector">—Quite right! said the rector. </said></p>
 		<p>Stephen swallowed down the thing again  and tried to keep 
 			his legs and his voice from shaking. </p>
-		<p>—But, sir ... </p>
-		<p>—Yes? </p>
-		<p>—Father Dolan came in today and pandied me because I 
-			was not writing my theme. </p>
+		<p><said who="Stephen">—But, sir ... </said></p>
+		<p><said who="the rector">—Yes? </said></p>
+		<p><said who="Stephen">—Father Dolan came in today and pandied me because I 
+				was not writing my theme. </said></p>
 		<p>The rector looked at him in silence and he could feel the 
 			blood rising to his face and the tears about to rise to his eyes. </p>
 		<p>The rector said: </p>
-		<p>—Your name is Dedalus, isn't it? </p>
-		<p>—Yes, sir. </p>
-		<p>—And where did you break your glasses? </p>
-		<p>—On the cinderpath, sir. A fellow was coming out of the 
+		<p><said who="the rector">—Your name is Dedalus, isn't it? </said></p>
+		<p><said who="Stephen">—Yes, sir. </said></p>
+		<p><said who="the rector">—And where did you break your glasses? </said></p>
+		<p><said who="Stephen">—On the cinderpath, sir. A fellow was coming out of the 
 			bicycle house and I fell and they got broken. I don't know the 
-			fellow's name. </p>
+			fellow's name. </said></p>
 		<p>The rector looked at him again in silence. Then he smiled 
 			and said: </p>
-		<p>—O, well, it was a mistake; I am sure Father Dolan did not 
-			know. </p>
-		<p>—But I told him I broke them, sir, and he pandied me. </p>
-		<p>—Did you tell him that you had written home for a new 
-			pair? the rector asked. </p>
-		<p>—No, sir. </p>
-		<p>—O well then, said the rector, Father Dolan did not understand. 
+		<p><said who="the rector">—O, well, it was a mistake; I am sure Father Dolan did not 
+				know. </said></p>
+		<p><said who="Stephen">—But I told him I broke them, sir, and he pandied me. </said></p>
+		<p><said who="the rector">—Did you tell him that you had written home for a new 
+				pair? the rector asked. </said></p>
+		<p><said who="Stephen">—No, sir. </said></p>
+		<p><said who="the rector">—O well then, said the rector, Father Dolan did not understand. 
 			You can say that I excuse you from your lessons for a 
-			few days. </p>
+			few days. </said></p>
 		<p>Stephen said quickly for fear his trembling would prevent 
 			him: </p>
-		<p>—Yes, sir, but Father Dolan said he will come in tomorrow 
-			to pandy me again for it. </p>
-		<p>—Very well, the rector said, it is a mistake and I shall 
-			speak to Father Dolan myself. Will that do now? </p>
+		<p><said who="Stephen">—Yes, sir, but Father Dolan said he will come in tomorrow 
+				to pandy me again for it. </said></p>
+		<p><said who="the rector">—Very well, the rector said, it is a mistake and I shall 
+				speak to Father Dolan myself. Will that do now? </said></p>
 		<p>Stephen felt the tears wetting his eyes and murmured: </p>
-		<p>—O yes sir, thanks. </p>
+		<p><said who="Stephen">—O yes sir, thanks. </said></p>
 		<p>The rector held his hand across the side of the desk where 
 			the skull was and Stephen, placing his hand in it for a moment, 
 			felt a cool moist palm. </p>
-		<p>—Good day now, said the rector, withdrawing his hand and 
-			bowing. </p>
-		<p>—Good day, sir, said Stephen. </p>
+		<p><said who="the rector">—Good day now, said the rector, withdrawing his hand and 
+				bowing. </said></p>
+		<p><said who="Stephen">—Good day, sir, said Stephen. </said></p>
 		<p>He bowed and walked quietly out of the room, closing the 
 			doors carefully and slowly. </p>
 		<p>But when he had passed the old servant on the landing and 
@@ -2072,24 +2074,24 @@
 			panting. </p>
 		<p>The fellows had seen him running. They closed round him 
 			in a ring, pushing one against another to hear. </p>
-		<p>—Tell us! Tell us! </p>
-		<p>—What did he say? </p>
-		<p>—Did you go in? </p>
-		<p>—What did he say? </p>
-		<p>—Tell us! Tell us! </p>
+		<p><said who="the fellows">—Tell us! Tell us! </said></p>
+		<p><said who="the fellows">—What did he say? </said></p>
+		<p><said who="the fellows">—Did you go in? </said></p>
+		<p><said who="the fellows">—What did he say? </said></p>
+		<p><said who="the fellows">—Tell us! Tell us! </said></p>
 		<p>He told them what he had said and what the rector had said 
 			and, when he had told them, all the fellows flung their caps 
 			spinning up into the air and cried: </p>
-		<p>—Hurroo! </p>
+		<p><said who="the fellows">—Hurroo! </said></p>
 		<p>They caught their caps and sent them up again spinning 
 			skyhigh and cried again: </p>
-		<p>—Hurroo! Hurroo! </p>
+		<p><said who="the fellows">—Hurroo! Hurroo! </said></p>
 		<p>They made a cradle of their locked hands and hoisted him 
 			up among them and carried him along till he struggled to get 
 			free. And when he had escaped from them they broke away in 
 			all directions, flinging their caps again into the air and whistling 
 			as they went spinning up and crying: </p>
-		<p>—Hurroo! </p>
+		<p><said who="the fellows">—Hurroo! </said></p>
 		<p>And they gave three groans for Baldyhead Dolan and three 
 			cheers for Conmee and they said he was the decentest rector 
 			that was ever in Clongowes. </p>
