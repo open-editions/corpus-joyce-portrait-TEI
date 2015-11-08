@@ -776,8 +776,8 @@
 
 		<lg type="letter">
 			<l>Dear Mother</l> 
-			<l>I am sick. I want to go home. Please come and take me</l> 
-			home. I am in the infirmary. 
+			<l>I am sick. I want to go home. Please come and take me
+			home. I am in the infirmary.</l>
 			<l>Your fond son,</l> 
 			<l>Stephen</l> 
 		</lg>
@@ -1000,6 +1000,7 @@
 		<p><said who="Simon Dedalus">—Now, Stephen. </said></p>
 		<p>Stephen stood up in his place to say the grace before meals: </p>
 
+		<p>
 		<seg type="prayer"> 
 			<said who="Stephen">
 				<hi rend="italic">
@@ -1009,6 +1010,7 @@
 				</hi> 
 			</said> 
 		</seg>
+		</p>
 
 		<p>All blessed themselves and Mr Dedalus with a sigh of 
 			pleasure lifted from the dish the heavy cover pearled around 
