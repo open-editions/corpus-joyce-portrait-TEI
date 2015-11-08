@@ -106,6 +106,9 @@
 <text>
 	<body>
 
+<div n="1" type="chapter">
+
+	<div n="1.1" type="section"> 
 		<epigraph xml:lang="la">
 			<cit> 
 				<quote><hi rend="italic">Et ignotas animum dimittit in artes.</hi></quote>
@@ -113,9 +116,6 @@
 			</cit> 
 		</epigraph>
 
-<div n="1" type="chapter">
-
-	<div n="1.1" type="section"> 
 
 		<head><l>I</l></head>
 
@@ -544,14 +544,12 @@
 		<p>The prefect of the chapel prayed above his head and his 
 			memory knew the responses: </p>
 
-		<seg type="prayer">
-			<lg>
+			<lg type="prayer">
 				<l>O Lord, open our lips</l> 
 				<l>And our mouth shall announce Thy praise.</l> 
 				<l>Incline unto our aid, O God!</l> 
 				<l>O Lord, make haste to help us!</l> 
 			</lg>
-		</seg>
 
 		<p>There was a cold night smell in the chapel. But it was a holy 
 			smell. It was not like the smell of the old peasants who knelt at 
@@ -571,13 +569,13 @@
 			last prayer. He prayed it too against the dark outside under 
 			the trees. </p>
 
-		<seg type="prayer">
+		<p type="prayer">
 			Visit, we beseech Thee, O Lord, this habitation and
 			drive away from it all the snares of the enemy. May Thy
 			holy angels dwell herein to preserve us in peace and
 			may Thy blessing be always upon us through Christ, Our
 			Lord. Amen. 
-		</seg>
+		</p>
 
 		<p>His fingers trembled as he undressed himself in the dormitory. 
 			He told his fingers to hurry up. He had to undress and 
@@ -588,13 +586,11 @@
 			quickly quickly, fearing that the gas would go down. He felt 
 			his shoulders shaking as he murmured: </p>
 
-		<seg type="prayer">
-			<lg>
-				<l>God bless my father and my mother and spare them to me!</l> 
-				<l>God bless my little brothers and sisters and spare them to me!</l> 
-				<l>God bless Dante and uncle Charles and spare them to me!</l> 
-			</lg>
-		</seg> 
+		<lg type="prayer">
+			<l>God bless my father and my mother and spare them to me!</l> 
+			<l>God bless my little brothers and sisters and spare them to me!</l> 
+			<l>God bless Dante and uncle Charles and spare them to me!</l> 
+		</lg>
 
 		<p>He blessed himself and climbed quickly into bed and, 
 			tucking the end of the nightshirt under his feet, curled himself 
@@ -630,10 +626,10 @@
 			on battlefields far away over the sea. What did they 
 			wish to say that their faces were so strange? </p>
 
-		<seg type="prayer">
+		<p type="prayer">
 			Visit, we beseech Thee, O Lord, this habitation and drive 
 			away from it all ... 
-		</seg>
+		</p>
 
 		<p>Going home for the holidays! That would be lovely: the 
 			fellows had told him. Getting up on the cars in the early wintry 
@@ -9137,11 +9133,11 @@
 		<p>27 > Old father, old artificer, stand me now and ever 
 			in good stead. </p>
 
-	</div><!-- 5.4 --> 
-</div><!-- Chapter 5 --> 
-
 <p>Dublin 1904 </p>
 <p>Trieste 1914 </p>
+
+	</div><!-- 5.4 --> 
+</div><!-- Chapter 5 --> 
 
     </body>
   </text>
