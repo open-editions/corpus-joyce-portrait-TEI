@@ -93,6 +93,7 @@
 	</profileDesc>
 	<revisionDesc>
 		<change><date>2015-10-02</date><label>Editor</label><name>Reeve, Jonathan</name>Began creation of open TEI edition. Further revisions logged in git.
+		</change>
 		<change><date>2015-04-07</date><label>Cataloguer</label><name>Wynne, Martin</name>Availability and licence changed to freely available under CC, following expiry of author copyright at the end of 2011.
 		</change>
 		<change><date>2002-01-17</date><label>Cataloguer</label><name>Colley, Greg</name>Header recomposed with TEIXML header
@@ -1507,7 +1508,7 @@
 			he was always at his nails, paring them. </p>
 		<p>Eileen had long thin cool white hands too because she was a 
 			girl. They were like ivory; only soft. That was the meaning of 
-			<emph>Tower of Ivory</i> but protestants could not understand it and 
+			<emph>Tower of Ivory</emph> but protestants could not understand it and 
 			made fun of it. One day he had stood beside her looking into 
 			the hotel grounds. A waiter was running up a trail of bunting 
 			on the flagstaff and a fox terrier was scampering to and fro on 
@@ -1527,7 +1528,7 @@
 			dress with a brick in each hand and underneath was the name 
 			of the drawing: </p>
 
-		<l><emph>Balbus was building a wall.</i> </l>
+		<l><emph>Balbus was building a wall.</emph> </l>
 
 		<p>Some fellows had drawn it there for a cod. It had a funny 
 			face but it was very like a man with a beard. And on the wall 
@@ -3045,7 +3046,7 @@
 			black and blue by the elderly man he listened distractedly to 
 			the voice of the plump young jesuit which bade him speak up 
 			and make his points clearly. He could hear the band playing 
-			<emph>The Lily of Killarney</i> and knew that in a few moments the 
+			<emph>The Lily of Killarney</emph> and knew that in a few moments the 
 			curtain would go up. He felt no stage fright but the thought of 
 			the part he had to play humiliated him. A remembrance  of 
 			some of his lines made a sudden flush rise to his painted 
@@ -3305,7 +3306,7 @@
 			governor passed. He didn't say a word, or stop even. But the 
 			next day, Sunday, we were out for a walk together and when 
 			we were coming home he took out his cigar case and said: 
-			<emph>By the bye, Simon, I didn't know you smoked:</i> or something 
+			<emph>By the bye, Simon, I didn't know you smoked:</emph> or something 
 			like that. Of course I tried to carry it off as best I could. <hi rend="italic">If
 				you want a good smoke</hi>, he said, <hi rend="italic">try one of these cigars. An
 				American captain made me a present of them last night in
@@ -7283,7 +7284,7 @@
 			way to the matriculation class, putting a very strong stress on 
 			the first syllable. You remember? Then you used to address 
 			the jesuits as father, you remember? I ask myself about you: 
-			<i>Is he as innocent as his speech?</i> </p>
+			<emph>Is he as innocent as his speech?</emph> </p>
 		<p>—I'm a simple person, said Davin. You know that. When 
 			you told me that night in Harcourt Street those things about 
 			your private life, honest to God, Stevie, I was not able to eat 
@@ -8480,7 +8481,7 @@
 		<p>—I allude to that. </p>
 		<p>—Um, Cranly said as before. </p>
 		<p>—Do you intend that now, the squat student said, as > 
-			<i>facto</i> or, let us say, as so to speak? </p>
+			<emph>facto</emph> or, let us say, as so to speak? </p>
 		<p>Dixon turned aside from his group, saying: </p>
 		<p>—Goggins was waiting for you, Glynn. He has gone round 
 			to the Adelphi to look for you and Moynihan. What have you 
@@ -8991,7 +8992,7 @@
 			Italian and ended in pidgin English. He said Bruno was a 
 			terrible heretic. I said he was terribly burned. He agreed to 
 			this with some sorrow. Then gave me recipe for what he calls 
-			<i>risotto alla bergamasca</i>. When he pronounces a  soft > he 
+			<emph>risotto alla bergamasca</emph>. When he pronounces a soft <emph>o</emph> he 
 			protrudes his full carnal lips as if he kissed the vowel. Has he? 
 			And could he repent? Yes, he could: and cry two round 
 			rogue's tears, one from each eye. </p>
