@@ -7559,13 +7559,11 @@
 		<p>Lynch began to sing softly and solemnly in a deep bass 
 			voice: </p>
 
-		<lg type="song">
-			<seg xml:lang="lat">
+		<lg type="song" xml:lang="lat">
 				<l>Impleta sunt quae concinit </l>
 				<l>David fideli carmine </l>
 				<l>Dicendo nationibus </l>
 				<l>Regnavit a ligno Deus. </l>
-			</seg>
 		</lg>
 
 		<p>—That's great! he said, well pleased. Great music! </p>
