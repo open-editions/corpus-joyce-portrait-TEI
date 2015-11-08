@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="portrait.xsl"/ ?>
+<TEI>
 	<teiHeader type="ISBD-ER">
 		<fileDesc>
 			<titleStmt>
@@ -1985,7 +1986,7 @@
 			could not see. But he thought they were the portraits of the 
 			saints and great men of the order who were looking down on 
 			him silently as he passed: saint Ignatius Loyola holding an 
-			open book and pointing to the words <seg xml:lang="lat">Ad Majorem Dei
+			open book and pointing to the words <seg xml:lang="la">Ad Majorem Dei
 			Gloriam</seg> in it, saint Francis Xavier pointing to his chest, 
 			Lorenzo Ricci with his berretta on his head like one of the 
 			prefects of the lines, the three patrons of holy youth, saint 
@@ -2796,7 +2797,7 @@
 		<p>The stroke was playful but not so lightly given as the first 
 			one had been. Stephen felt the skin tingle and glow slightly 
 			and almost painlessly; and bowing submissively, as if to meet 
-			his companion's jesting mood, began to recite the <seg xml:lang="lat">Confiteor</seg>. 
+			his companion's jesting mood, began to recite the <seg xml:lang="la">Confiteor</seg>. 
 			The episode ended well for both Heron and Wallis laughed 
 			indulgently at the irreverence. </p>
 		<p>The confession came only from Stephen's lips and, while 
@@ -2951,7 +2952,7 @@
 			at him, while he, torn and flushed and panting, stumbled after 
 			them half blinded with tears, clenching his fists madly and 
 			sobbing. </p>
-		<p>While he was still repeating the <seg xml:lang="lat">Confiteor</seg> amid the indulgent 
+		<p>While he was still repeating the <seg xml:lang="la">Confiteor</seg> amid the indulgent 
 			laughter of his hearers and while the scenes of that malignant 
 			episode were still passing sharply and swiftly before his 
 			mind he wondered why he bore no malice now to those who 
@@ -3378,8 +3379,8 @@
 			him admit that the Lee was a much finer river than the Liffey. 
 			One of them in order to put his Latin to the proof had made 
 			him translate short passages from Dilectus and asked him 
-			whether it was correct to say: <seg xml:lang="lat">Tempora mutantur nos et 
-					mutamur in illis</seg> or <seg xml:lang="lat">Tempora mutantur et nos mutamur in illis</seg>. 
+			whether it was correct to say: <seg xml:lang="la">Tempora mutantur nos et 
+					mutamur in illis</seg> or <seg xml:lang="la">Tempora mutantur et nos mutamur in illis</seg>. 
 			Another, a brisk old man, whom Mr Dedalus called Johnny 
 			Cashman, had covered him with confusion by asking him to 
 			say which were prettier, the Dublin girls or the Cork girls. </p>
@@ -3883,7 +3884,7 @@
 			before him, went on: </p>
 		<p>—He had the faith in him that moves mountains. Ten 
 			thousand souls won for God in a single month! That is a true 
-			conqueror, true to the motto of our order: <seg xml:lang="lat">ad majorem Dei 
+			conqueror, true to the motto of our order: <seg xml:lang="la">ad majorem Dei 
 				gloriam</seg>! A saint who has great power in heaven, remember: 
 			power to intercede for us in our grief, power to obtain whatever 
 			we pray for if it be for the good of our souls, power 
@@ -4619,7 +4620,7 @@
 			separated for ever from its greatest good, from God, and to 
 			feel the anguish of that separation, knowing full well that it is 
 			unchangeable, this is the greatest torment which the created 
-			soul is capable of bearing, <seg xml:lang="lat">></seg>, the pain of loss. </p>
+			soul is capable of bearing, <seg xml:lang="la">></seg>, the pain of loss. </p>
 		<p>—The second pain which will afflict the souls of the damned 
 			in hell is the pain of conscience. Just as in dead bodies worms 
 			are engendered by putrefaction so in the souls of the lost there 
@@ -5176,7 +5177,7 @@
 			The face of an old priest was at the grating, averted from him, 
 			leaning upon a hand. He made the sign of the cross and 
 			prayed of the priest to bless him for he had sinned. Then, 
-			bowing his head, he repeated the <seg xml:lang="lat">></seg> in fright. At the 
+			bowing his head, he repeated the <seg xml:lang="la">></seg> in fright. At the 
 			words <emph>my most grievous fault</emph> he ceased, breathless. </p>
 		<p>—How long is it since your last confession, my child? </p>
 		<p>—A long time, father. </p>
@@ -5275,16 +5276,16 @@
 			were trembling, and his soul trembled as he heard the priest 
 			pass with the ciborium from communicant to communicant. </p>
 
-		<p>—<seg xml:lang="lat">Corpus Domini nostri.</seg></p>
+		<p>—<seg xml:lang="la">Corpus Domini nostri.</seg></p>
 
 		<p>Could it be? He knelt there sinless and timid: and he would 
 			hold upon his tongue the host and God would enter his 
 			purified body. </p>
-		<p>—<seg xml:lang="lat">In vitam eternam. Amen.</seg> </p>
+		<p>—<seg xml:lang="la">In vitam eternam. Amen.</seg> </p>
 		<p>Another life! A life of grace and virtue and happiness! It 
 			was true. It was not a dream from which he would wake.  The 
 			past was past. </p>
-		<p>—<seg xml:lang="lat">Corpus Domini nostri.</seg> </p>
+		<p>—<seg xml:lang="la">Corpus Domini nostri.</seg> </p>
 		<p>The ciborium had come to him. </p>
 
 	</div><!-- 3.3 --> 
@@ -5486,7 +5487,7 @@
 			and glories, bidding her arise as for espousal and come away, 
 			bidding her look forth, a spouse, from Amana and from the 
 			mountains of the leopards; and the soul seemed to answer 
-			with the same inaudible voice, surrendering herself: <seg xml:lang="lat">Inter 
+			with the same inaudible voice, surrendering herself: <seg xml:lang="la">Inter 
 				ubera mea commorabitur</seg>. </p>
 		<p>This idea of surrender had a perilous attraction for his mind 
 			now that he felt his soul beset once again by the insistent 
@@ -5725,7 +5726,7 @@
 			within its folds, or, when the sacrifice had  been accomplished, 
 			to stand as deacon in a dalmatic of cloth of gold on the step 
 			below the celebrant, his hands joined and his face towards the 
-			people, and sing the chant <seg xml:lang="lat">Ite, missa est</seg>. If ever he had seen 
+			people, and sing the chant <seg xml:lang="la">Ite, missa est</seg>. If ever he had seen 
 			himself celebrant it was as in the pictures of the mass in his 
 			child's massbook, in a church without worshippers, save for 
 			the angel of the sacrifice, at a bare altar and served by an 
@@ -6351,7 +6352,7 @@
 		<p>The lore which he was believed to pass his days brooding 
 			upon so that it had rapt him from the companionships of 
 			youth was only a garner of slender sentences from Aristotle's 
-			poetics and psychology and a <seg xml:lang="lat">Synopsis Philosophiae Scholasticae ad mentem divi Thomae</seg>. His thinking was a dusk 
+			poetics and psychology and a <seg xml:lang="la">Synopsis Philosophiae Scholasticae ad mentem divi Thomae</seg>. His thinking was a dusk 
 			of doubt and selfmistrust lit up at moments by the lightnings of 
 			intuition, but lightnings of so clear a splendour that in those 
 			moments the world perished about his feet as if it had been 
@@ -6439,19 +6440,19 @@
 			right. Yellow ivory also. And what about ivory ivy? </p>
 		<p>The word now shone in his brain, clearer and brighter than 
 			any ivory sawn from the mottled tusks of elephants. <emph>Ivory, 
-				<seg xml:lang="fra">ivoire</seg>, <seg xml:lang="ita">avorio</seg>, <seg xml:lang="lat">ebur</seg>.</emph> One of the first examples that he had 
-			learnt in Latin had run: <seg xml:lang="lat">India mittit ebur</seg>; and he recalled the 
+				<seg xml:lang="fra">ivoire</seg>, <seg xml:lang="ita">avorio</seg>, <seg xml:lang="la">ebur</seg>.</emph> One of the first examples that he had 
+			learnt in Latin had run: <seg xml:lang="la">India mittit ebur</seg>; and he recalled the 
 			shrewd northern face of the rector who had taught him to 
 			construe the Metamorphoses of Ovid in a courtly English, 
 			made whimsical by the mention of porkers and potsherds and 
 			chines of bacon. He had learnt what little he knew of the laws 
 			of Latin verse from a ragged book written by a Portuguese 
 			priest. </p>
-		<l><seg xml:lang="lat">Contrahit orator, variant in carmine vates.</seg> </l>
+		<l><seg xml:lang="la">Contrahit orator, variant in carmine vates.</seg> </l>
 		<p>The crises and victories and secessions in Roman history were 
-			handed on to him in the trite words <seg xml:lang="lat">in tanto discrimine</seg> and he 
+			handed on to him in the trite words <seg xml:lang="la">in tanto discrimine</seg> and he 
 			had tried to peer into the social life of the city of cities through 
-			the words <seg xml:lang="lat">implere ollam denariorum</seg> which the rector had 
+			the words <seg xml:lang="la">implere ollam denariorum</seg> which the rector had 
 			rendered sonorously as the filling of a pot with denaries.  The 
 			pages of his timeworn Horace never felt cold to the touch even 
 			when his own fingers were cold:  they were human pages: and 
@@ -6616,7 +6617,7 @@
 			He remembered with bitterness that scene of tawdry tribute. 
 			There were four French delegates in a brake and one, a plump 
 			smiling young man, held, wedged on a stick,  a card on which 
-			were printed the words: <seg xml:lang="fra"><emph>Vive l'Irlande!</seg></p>
+			were printed the words: <seg xml:lang="fra">Vive l'Irlande!</seg></p>
 		<p>But the trees in Stephen's Green were fragrant of rain and 
 			the rainsodden earth gave forth its mortal odour, a faint 
 			incense rising upward through the mould from many hearts. 
@@ -6675,13 +6676,13 @@
 			another question. </p>
 		<p>He rubbed his hands slowly and drily over the difficulty. </p>
 		<p>—Can you solve that question now? he asked. </p>
-		<p>—Aquinas, answered Stephen, says <seg xml:lang="lat">Pulcra
+		<p>—Aquinas, answered Stephen, says <seg xml:lang="la">Pulcra
 			sunt quae visa placent</seg>.</p>
 		<p>—This fire before us, said the dean, will be pleasing to the 
 			eye. Will it therefore be beautiful? </p>
 		<p>—In so far as it is apprehended by the sight, which I suppose 
 			means here esthetic intellection, it will be beautiful. But 
-			Aquinas also says <seg xml:lang="lat">Bonum est in quod tendit appetitus</seg>. In so 
+			Aquinas also says <seg xml:lang="la">Bonum est in quod tendit appetitus</seg>. In so 
 			far as it satisfies the animal craving for warmth fire is a good. 
 			In hell however it is an evil. </p>
 		<p>—Quite so, said the dean, you have certainly hit the nail on 
@@ -6701,7 +6702,7 @@
 			handling or hatred of that in them which was evil but turning 
 			them, with a firm gesture of obedience, back upon themselves: 
 			and for all this silent service it seemed as if he loved not at all 
-			the master and little, if at all, the ends he served. <seg xml:lang="lat">Similiter 
+			the master and little, if at all, the ends he served. <seg xml:lang="la">Similiter 
 			atque senis baculus</seg>, he was, as the founder would have had 
 			him, like a staff in an old man's hand, to be left in a corner, to 
 			be leaned on in the road at nightfall or in stress of weather,  to 
@@ -6839,7 +6840,7 @@
 		<p>—I may not have his talent, said Stephen quietly. </p>
 		<p>—You never know, said the dean brightly. We never can 
 			say what is in us. I most certainly should not be despondent. 
-			<seg xml:lang="lat">Per aspera ad astra.</seg> </p>
+			<seg xml:lang="la">Per aspera ad astra.</seg> </p>
 		<p>He left the hearth quickly and went towards the landing to 
 			oversee the arrival of the first arts' class. </p>
 		<p>Leaning against the fireplace Stephen heard him greet 
@@ -6992,13 +6993,13 @@
 		<p>—Have you signed? Stephen asked. </p>
 		<p>Cranly closed his long thinlipped mouth, communed with 
 			himself an instant and answered: </p>
-		<p>—<seg xml:lang="lat">Ego habeo.</seg> </p>
+		<p>—<seg xml:lang="la">Ego habeo.</seg> </p>
 		<p>—What is it for? </p>
-		<p>—<seg xml:lang="lat">Quod?</seg> </p>
+		<p>—<seg xml:lang="la">Quod?</seg> </p>
 		<p>—What is it for? </p>
 		<p>Cranly turned his pale face to Stephen and said blandly and 
 			bitterly: </p>
-		<p>—<seg xml:lang="lat">Per pax universalis.</seg> </p>
+		<p>—<seg xml:lang="la">Per pax universalis.</seg> </p>
 		<p>Stephen pointed to the Csar's photograph and said: </p>
 		<p>—He has the face of a besotted Christ. </p>
 		<p>The scorn and anger in his voice brought Cranly's eyes back 
@@ -7007,7 +7008,7 @@
 		<p>—No, answered Stephen. </p>
 		<p>—Are you in bad humour? </p>
 		<p>—No. </p>
-		<p>—<seg xml:lang="lat">Credo ut vos sanguinarius mendax estis</emph>, said Cranly, <emph>quia 
+		<p>—<seg xml:lang="la">Credo ut vos sanguinarius mendax estis</seg>, said Cranly, <seg xml:lang="la">quia 
 					facies vostra monstrat ut vos in damno malo humore estis.</seg></p>
 		<p>Moynihan, on his way to the table, said in Stephen's ear: </p>
 		<p>—MacCann is in tiptop form. Ready to shed the last drop. 
@@ -7020,7 +7021,7 @@
 			the table where Moynihan had bent to write his name on the 
 			roll, and then said flatly: </p>
 		<p>—A sugar! </p>
-		<p>—<seg xml:lang="lat">Quis est in malo humore</seg>, said Stephen, <seg xml:lang="lat">ego aut vos?</seg></p>
+		<p>—<seg xml:lang="la">Quis est in malo humore</seg>, said Stephen, <seg xml:lang="la">ego aut vos?</seg></p>
 		<p>Cranly did not take up the taunt. He brooded sourly on his 
 			judgment and repeated with the same flat force: </p>
 		<p>—A flaming bloody sugar, that's what he is! </p>
@@ -7114,7 +7115,7 @@
 			as the question of universal peace. </p>
 		<p>Cranly raised his head and held the handball between the 
 			two students by way of a peaceoffering, saying: </p>
-		<p>—<seg xml:lang="lat">Pax super totum sanguinarium globum.</seg> </p>
+		<p>—<seg xml:lang="la">Pax super totum sanguinarium globum.</seg> </p>
 		<p>Stephen, moving away the bystanders, jerked his shoulder 
 			angrily in the direction of the Csar's image, saying: </p>
 		<p>—Keep your icon. If we must have a Jesus, let us have a 
@@ -7141,7 +7142,7 @@
 			because I'm a  believer in the power of mind. </p>
 		<p>Cranly linked his arms into those of Stephen and his admirer 
 			and said: </p>
-		<p>—<seg xml:lang="lat">Nos ad manum ballum jocabimus.</seg></p>
+		<p>—<seg xml:lang="la">Nos ad manum ballum jocabimus.</seg></p>
 		<p>Stephen, in the act of being led away, caught sight of MacCann's 
 			flushed bluntfeatured face. </p>
 		<p>—My signature is of no account, he said politely. You are 
@@ -7209,7 +7210,7 @@
 			said sternly: </p>
 		<p>—Temple, I declare to the living God if you say another 
 			word, do you know, to anybody on any subject I'll kill you 
-			<seg xml:lang="lat">super spottum</seg>. </p>
+			<seg xml:lang="la">super spottum</seg>. </p>
 		<p>—He was like you, I fancy, said Stephen, an emotional 
 			man. </p>
 		<p>—Blast him, curse him! said Cranly broadly. Don't talk to 
@@ -7466,8 +7467,8 @@
 		<p>—Aquinas, said Stephen, says that is beautiful the apprehension 
 			of which pleases. </p>
 		<p>Lynch nodded. </p>
-		<p>—I remember that, he said. <seg xml:lang="lat">Pulcra sunt quae visa placent.</seg></p>
-		<p>—He uses the word <seg xml:lang="lat">visa</seg>, said Stephen, to cover esthetic 
+		<p>—I remember that, he said. <seg xml:lang="la">Pulcra sunt quae visa placent.</seg></p>
+		<p>—He uses the word <seg xml:lang="la">visa</seg>, said Stephen, to cover esthetic 
 			apprehensions of all kinds, whether through sight or hearing 
 			or through any other avenue of apprehension. This word, 
 			though it is vague, is clear enough to keep away good and evil 
@@ -7551,15 +7552,15 @@
 		<p>—Who knows? said Stephen, smiling. Perhaps Aquinas 
 			would understand me better than you. He was a poet himself. 
 			He wrote a hymn for Maundy Thursday. It begins with the 
-			words <seg xml:lang="lat">Pange lingua gloriosi</seg>. They say it is the highest glory 
+			words <seg xml:lang="la">Pange lingua gloriosi</seg>. They say it is the highest glory 
 			of the hymnal. It is an intricate and soothing hymn.  I like it: 
 			but there is no hymn that can be put beside that mournful and 
-			majestic processional song, the <seg xml:lang="lat">Vexilla Regis</seg> of <seg xml:lang="lat">Venantius 
+			majestic processional song, the <seg xml:lang="la">Vexilla Regis</seg> of <seg xml:lang="la">Venantius 
 			Fortunatus</seg>. </p>
 		<p>Lynch began to sing softly and solemnly in a deep bass 
 			voice: </p>
 
-		<lg type="song" xml:lang="lat">
+		<lg type="song" xml:lang="la">
 				<l>Impleta sunt quae concinit </l>
 				<l>David fideli carmine </l>
 				<l>Dicendo nationibus </l>
@@ -7622,7 +7623,7 @@
 			the most satisfying relations of the sensible must therefore 
 			correspond to the necessary phases of artistic apprehension. 
 			Find these and you find the qualities of universal beauty. 
-			Aquinas says: <seg xml:lang="lat">ad pulcritudinem tria requiruntur, integritas, 
+			Aquinas says: <seg xml:lang="la">ad pulcritudinem tria requiruntur, integritas, 
 			consonantia, claritas</seg>. I translate it so: <emph>Three things are needed 
 			for beauty, wholeness, harmony and radiance</emph>. Do these correspond 
 			to the phases of apprehension? Are you following? </p>
@@ -7643,7 +7644,7 @@
 			first luminously apprehended as selfbounded and selfcontained 
 			upon the immeasurable background of space or time 
 			which is not it. You apprehend it as > thing. You see it as 
-			one whole. You apprehend its wholeness. That is <seg xml:lang="lat">integritas</seg>. </p>
+			one whole. You apprehend its wholeness. That is <seg xml:lang="la">integritas</seg>. </p>
 		<p>—Bull's eye! said Lynch, laughing. Go on. </p>
 		<p>—Then, said Stephen, you pass from point to point, led by 
 			its formal lines; you apprehend it as balanced part against part 
@@ -7653,16 +7654,16 @@
 			thing you feel now that it is a <emph>thing</emph>. You apprehend it as 
 			complex, multiple, divisible, separable, made up of its parts, 
 			the result of its parts and their sum, harmonious. That is 
-			<seg xml:lang="lat">consonantia</seg>.</p>
+			<seg xml:lang="la">consonantia</seg>.</p>
 		<p>—Bull's eye again! said Lynch wittily. Tell me now what is 
-			<seg xml:lang="lat">claritas</seg> and you win the cigar. </p>
+			<seg xml:lang="la">claritas</seg> and you win the cigar. </p>
 		<p>—The connotation of the word, Stephen said, is rather 
 			vague. Aquinas uses a term which seems to be inexact. It 
 			baffled me for a long time. It would lead you to believe that 
 			he had in mind symbolism or idealism, the supreme quality of 
 			beauty being a light from some other world, the idea of which 
 			the matter is but the shadow, the reality of which it is but the 
-			symbol. I thought he might mean that <seg xml:lang="lat">claritas</seg> is the artistic 
+			symbol. I thought he might mean that <seg xml:lang="la">claritas</seg> is the artistic 
 			discovery and representation of the divine purpose in anything 
 			or a force of generalisation which would make the esthetic 
 			image a universal one, make it outshine its proper conditions. 
@@ -7672,7 +7673,7 @@
 			make the only synthesis which is logically and esthetically 
 			permissible. You see that it is that thing which it is and no 
 			other thing. The radiance of which he speaks is the scholastic 
-			<seg xml:lang="lat">quidditas</seg>, the <emph>whatness</emph> of a thing. This supreme quality is 
+			<seg xml:lang="la">quidditas</seg>, the <emph>whatness</emph> of a thing. This supreme quality is 
 			felt by the artist when the esthetic image is first conceived in his 
 			imagination. The mind in that mysterious instant Shelley 
 			likened beautifully to a fading coal. The instant wherein that 
@@ -7784,7 +7785,7 @@
 		<p>—Don't mind him. There's  plenty of money to be made in a 
 			big commercial city. </p>
 		<p>—Depends on the practice. </p>
-		<p>—<seg xml:lang="lat">Ego credo ut vita pauperum est simpliciter atrox, simpliciter 
+		<p>—<seg xml:lang="la">Ego credo ut vita pauperum est simpliciter atrox, simpliciter 
 			sanguinarius atrox, in Liverpoolio.</seg> </p>
 		<p>Their voices reached his ears as if from a distance in interrupted 
 			pulsation. She was preparing to go away with her 
@@ -8297,7 +8298,7 @@
 			student with dark eyes. </p>
 		<p>—Baldhead, Cranly repeated, sucking at a crevice in his 
 			teeth. </p>
-		<p>—<seg xml:lang="lat">Pernobilis et pervetusta familia</seg>, Temple said to Stephen. </p>
+		<p>—<seg xml:lang="la">Pernobilis et pervetusta familia</seg>, Temple said to Stephen. </p>
 		<p>The stout student who stood below them on the steps farted 
 			briefly. Dixon turned towards him saying in a soft voice: </p>
 		<p>—Did an angel speak? </p>
@@ -8307,7 +8308,7 @@
 		<p>—I had it on my mind to say that, Goggins answered 
 			firmly. It did no one any harm, did it? </p>
 		<p>—We hope, Dixon said suavely, that it was not of the kind 
-			known to science as a <seg xml:lang="lat">paulo post futurum</seg>. </p>
+			known to science as a <seg xml:lang="la">paulo post futurum</seg>. </p>
 		<p>—Didn't I tell you he was a smiler? said Temple, turning 
 			right and left. Didn't I give him that name? </p>
 		<p>—You did. We're not deaf, said the tall consumptive. </p>
@@ -8805,7 +8806,7 @@
 			was heard singing as she sharpened knives. She sang, in short 
 			broken bars, >. </p>
 		<p>Cranly stopped to listen, saying: </p>
-		<p>—<seg xml:lang="lat">Mulier cantat.</seg> </p>
+		<p>—<seg xml:lang="la">Mulier cantat.</seg> </p>
 		<p>The soft beauty of the Latin word touched with an enchanting 
 			touch the  dark of the evening, with a touch fainter and 
 			more persuading than the touch of music or of a woman's 
@@ -8816,7 +8817,7 @@
 			high as a boy's, was heard intoning from a distant choir the 
 			first words of a woman which pierce the gloom and clamour of 
 			the first chanting of the passion: </p>
-		<p>—<seg xml:lang="lat">Et tu cum Jesu Galileao eras.</seg> </p>
+		<p>—<seg xml:lang="la">Et tu cum Jesu Galileao eras.</seg> </p>
 		<p>And all  hearts were touched and turned to her voice, shining 
 			like a young star, shining clearer as the voice intoned the 
 			proparoxyton and more faintly as the cadence died. </p>
