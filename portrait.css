@@ -1,0 +1,25 @@
+/* Turning Metadata off for the moment */
+div#metadata { display: none; } 
+
+/* Container */
+#textBody { 
+	width: 500px; 
+	margin: 0 auto; 
+}
+
+sup.lexeme-id { 
+	color: #A33; 
+	font-size: 0.7em; 
+} 
+
+span.lexeme:hover { 
+	color: #A33; 
+} 
+
+p.song { 
+	margin-left: 30%; 
+} 
+
+span.emph { 
+	font-style: italic; 
+} 
