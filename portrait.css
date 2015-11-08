@@ -7,17 +7,12 @@ div#metadata { display: none; }
 	margin: 0 auto; 
 }
 
-sup.lexeme-id { 
-	color: #A33; 
-	font-size: 0.7em; 
-} 
-
-span.lexeme:hover { 
-	color: #A33; 
-} 
-
 p.song { 
 	margin-left: 30%; 
+} 
+
+p.dialog { 
+	color: red; 
 } 
 
 span.emph { 
