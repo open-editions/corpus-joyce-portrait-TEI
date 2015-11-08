@@ -53,7 +53,7 @@
 
 <xsl:template match="@who">
 	<xsl:attribute name="class">dialog</xsl:attribute>
-	<span class="dialog-tag">
+	<span class="tag dialog">
 		<xsl:value-of select="."/>
 	</span>
 </xsl:template> 
@@ -65,7 +65,7 @@
 </xsl:template>
 
 <xsl:template match="@xml:lang">
-	<span class="lang-tag">
+	<span class="tag lang">
 		<xsl:choose>
 			<xsl:when test=".='la'"> 
 				Latin
@@ -80,6 +80,15 @@
 	</span>
 </xsl:template> 
 
+<xsl:template match="lg[@type]">
+		<xsl:apply-templates select="@type | node()"/>
+</xsl:template>
+
+<xsl:template match="@type">
+	<span class="tag type">
+		<xsl:value-of select="."/>
+	</span>
+</xsl:template> 
 
 <!--<xsl:template match="TEI/teiHeader/fileDesc/titleStmt">-->
 	<!--<h1 id="bookTitle">-->
