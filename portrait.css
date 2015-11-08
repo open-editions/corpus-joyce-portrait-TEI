@@ -16,7 +16,12 @@ p.dialog {
 	color: #962828; 
 } 
 
-span.dialog-tag, span.lang-tag { 
+span.emph, span.lang { 
+	font-style: italic; 
+} 
+
+/* this magically matches any class ending in "-tag" */ 
+span.tag { 
 	position: absolute; 
 	color: black; 
 	border: 1px solid #A0A0C3; 
@@ -26,16 +31,13 @@ span.dialog-tag, span.lang-tag {
 	max-width: 14%; 
 } 
 
-span.lang-tag { 
+span.tag.type, span.tag.lang { 
 	right: 5%; 
 	font-style: normal;
 } 
 
-span.dialog-tag { 
+span.tag.dialog { 
 	left: 5%; 
 } 
 
-span.emph, span.lang { 
-	font-style: italic; 
-} 
 
