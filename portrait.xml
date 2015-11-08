@@ -92,6 +92,7 @@
 		</textClass>
 	</profileDesc>
 	<revisionDesc>
+		<change><date>2015-10-02</date><label>Editor</label><name>Reeve, Jonathan</name>Began creation of open TEI edition. Further revisions logged in git.
 		<change><date>2015-04-07</date><label>Cataloguer</label><name>Wynne, Martin</name>Availability and licence changed to freely available under CC, following expiry of author copyright at the end of 2011.
 		</change>
 		<change><date>2002-01-17</date><label>Cataloguer</label><name>Colley, Greg</name>Header recomposed with TEIXML header
@@ -1107,8 +1108,8 @@
 				public sinner. </said></p>
 		<p><said who="John Casey">—We are all sinners and black sinners, said Mr Casey 
 				coldly. </said></p>
-		<p><said who="Dante">—<quote>Woe be to the man by whom the scandal cometh!</quote> said 
-			Mrs Riordan. <quote>It would be better for him that a millstone were 
+		<p><said who="Dante">—<quote><ref>Matthew 18.7</ref>>Woe be to the man by whom the scandal cometh!</quote> said 
+			Mrs Riordan. <quote><ref>Luke 17.1-2</ref>It would be better for him that a millstone were 
 			tied about his neck and that he were cast into the depth of the
 			sea rather than that he should scandalise one of these, my least
 			little ones.</quote> That is the language of the Holy Ghost.</said></p>
