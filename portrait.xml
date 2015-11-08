@@ -955,7 +955,7 @@
 		<p><said who="Simon Dedalus">—Yes. Well now, that's all right. O, we had a good walk, 
 			hadn't we, John? Yes ...  I wonder if there's any likelihood 
 			of dinner this evening. Yes ....  O, well now, we got a good 
-			breath of ozone round the Head today. Ay, bedad. </sp></p>
+			breath of ozone round the Head today. Ay, bedad. </said></p>
 		<p>He turned to Dante and said: </p>
 		<p><said who="John Casey">—You didn't stir out at all, Mrs Riordan? </said></p>
 		<p>Dante frowned and said shortly: </p>
@@ -1326,15 +1326,18 @@
 			his two feet under his mahogany. </said></p>
 		<p>Dante broke in angrily: </p>
 		<p><said who="Dante">—If we are a priestridden race we ought to be proud of it! 
-			They are the apple of God's eye. <hi rend="italic">Touch them not, says Christ, 
-			for they are the apple of My eye.</hi> </said></p>
+				They are the apple of God's eye. 
+
+				<quote><ref>Zacharia 2:8</ref><hi rend="italic">Touch them not, says Christ, 
+				for they are the apple of My eye.</hi></quote></said></p>
+
 		<p><said who="John Casey">—And can we not love our country then? asked Mr 
 			Casey. Are we not to follow the man that was born to lead 
 			us? </said></p>
-	<p><said who="Dante">—A traitor to his country! replied Dante. A traitor, an 
+		<p><said who="Dante">—A traitor to his country! replied Dante. A traitor, an 
 			adulterer! The priests were right to abandon him. The priests 
 			were always the true friends of Ireland. </said></p>
-	<p><said who="John Casey">—Were they, faith? said Mr Casey. </said></p>
+		<p><said who="John Casey">—Were they, faith? said Mr Casey. </said></p>
 		<p>He threw his fist on the table and, frowning angrily, protruded 
 			one finger after another. </p>
 		<p><said who="John Casey">—Didn't the bishops of Ireland betray us in the time of the 
@@ -1504,7 +1507,7 @@
 			he was always at his nails, paring them. </p>
 		<p>Eileen had long thin cool white hands too because she was a 
 			girl. They were like ivory; only soft. That was the meaning of 
-			<i>Tower of Ivory</i> but protestants could not understand it and 
+			<emph>Tower of Ivory</i> but protestants could not understand it and 
 			made fun of it. One day he had stood beside her looking into 
 			the hotel grounds. A waiter was running up a trail of bunting 
 			on the flagstaff and a fox terrier was scampering to and fro on 
@@ -1524,7 +1527,7 @@
 			dress with a brick in each hand and underneath was the name 
 			of the drawing: </p>
 
-		<l><i>Balbus was building a wall.</i> </l>
+		<l><emph>Balbus was building a wall.</i> </l>
 
 		<p>Some fellows had drawn it there for a cod. It had a funny 
 			face but it was very like a man with a beard. And on the wall 
@@ -2707,8 +2710,12 @@
 			the rector's pedantic bass and then, laughing at his failure, 
 			asked Stephen to do it. </p>
 		<p>—Go on, Dedalus, he urged, you can take him off rippingly. 
-			<i>He that will not hear the churcha let him be to theea as</i> 
-			<i>the heathena and the publicana.</i> </p>
+			<lg>
+				<l>He that will not hear the churcha let him be to theea as</l> 
+				<l>the heathena and the publicana.</l> 
+			</lg>
+		</p>
+
 		<p>The imitation was prevented by a mild expression of anger 
 			from Wallis in whose mouthpiece the cigarette had become 
 			too tightly wedged. </p>
@@ -2747,8 +2754,8 @@
 			Stephen urbanely. </p>
 		<p>—Indeed you might, answered Heron. We saw her, Wallis, 
 			didn't we? And deucedly pretty she is too. And so inquisitive! 
-			<i>And what part does Stephen take, Mr Dedalus? And will</i> 
-			<i>Stephen not sing, Mr Dedalus?</i> Your governor was staring at 
+			<emph>And what part does Stephen take, Mr Dedalus? And will 
+			Stephen not sing, Mr Dedalus?</emph> Your governor was staring at 
 			her through that eyeglass of his for all he was worth so that I 
 			think the old man has found you out too. I wouldn't care a 
 			bit, by Jove. She's  ripping, isn't she, Wallis? </p>
@@ -3038,7 +3045,7 @@
 			black and blue by the elderly man he listened distractedly to 
 			the voice of the plump young jesuit which bade him speak up 
 			and make his points clearly. He could hear the band playing 
-			<i>The Lily of Killarney</i> and knew that in a few moments the 
+			<emph>The Lily of Killarney</i> and knew that in a few moments the 
 			curtain would go up. He felt no stage fright but the thought of 
 			the part he had to play humiliated him. A remembrance  of 
 			some of his lines made a sudden flush rise to his painted 
@@ -3298,7 +3305,7 @@
 			governor passed. He didn't say a word, or stop even. But the 
 			next day, Sunday, we were out for a walk together and when 
 			we were coming home he took out his cigar case and said: 
-			<i>By the bye, Simon, I didn't know you smoked:</i> or something 
+			<emph>By the bye, Simon, I didn't know you smoked:</i> or something 
 			like that. Of course I tried to carry it off as best I could. <hi rend="italic">If
 				you want a good smoke</hi>, he said, <hi rend="italic">try one of these cigars. An
 				American captain made me a present of them last night in
@@ -3783,7 +3790,7 @@
 			The bell rang. The master marked the sums and cuts to be 
 			done for the next lesson and went out. Heron, beside Stephen, 
 			began to hum tunelessly. </p>
-		<l><i>My excellent friend Bombados.</i> </l>
+		<l><emph>My excellent friend Bombados.</emph> </l>
 		<p>Ennis, who had gone to the yard, came back, saying: </p>
 		<p>—The boy from the house is coming up for the rector. </p>
 		<p>A tall boy behind Stephen rubbed his hands and said: </p>
@@ -3894,8 +3901,8 @@
 
 	<div n="3.2" type="section"> 
 
-		<p>—<i>Remember only thy last things and thou shalt not sin for</i> 
-			<i>ever</i> -  words taken, my dear little brothers in Christ, from the 
+		<p>—<emph>Remember only thy last things and thou shalt not sin for 
+			ever</emph> -  words taken, my dear little brothers in Christ, from the 
 			book of Ecclesiastes, seventh chapter, fortieth verse. In the 
 			name of the Father and of the Son and of the Holy Ghost. 
 			Amen. </p>
@@ -4204,8 +4211,8 @@
 			litter of the wreckage of the world. Forty days and forty nights 
 			the rain would fall till the waters covered the face of the earth. </p>
 		<p>It might be. Why not? </p>
-		<p>—<i>Hell has enlarged its soul and opened its mouth without</i> 
-			<i>any limits</i> - words taken, my dear little brothers in Christ 
+		<p>—<emph>Hell has enlarged its soul and opened its mouth without 
+			any limits</emph> - words taken, my dear little brothers in Christ 
 			Jesus, from the book of Isaias, fifth chapter, fourteenth verse. 
 			In the name of the Father and of the Son and of the Holy 
 			Ghost. Amen. </p>
@@ -4557,7 +4564,7 @@
 			without was already failing and, as it fell slowly through the 
 			dull red blinds, it seemed that the sun of the last day was going 
 			down and that all souls were being gathered for the judgment. </p>
-		<p>—<i>I am cast away from the sight of Thine eyes:</i> words 
+		<p>—<emph>I am cast away from the sight of Thine eyes:</emph> words 
 			taken, my dear little brothers in Christ, from the Book of 
 			Psalms, thirtieth chapter, twentythird verse. In the name of 
 			the Father and of the Son and of the Holy Ghost. Amen. </p>
@@ -4855,30 +4862,33 @@
 			phrase by phrase, with fervour. The boys answered him 
 			phrase by phrase. Stephen, his tongue cleaving to his palate, 
 			bowed his head, praying with his heart. </p>
-		<p>-<i>O my God!</i> — </p>
-		<p>-<i>O my God!</i> — </p>
-		<p>-<i>I am heartily sorry</i> — </p>
-		<p>-<i>I am heartily sorry</i> — </p>
-		<p>-<i>for having offended Thee</i> — </p>
-		<p>-<i>for having offended Thee</i> — </p>
-		<p>-<i>and I detest my sins</i> — </p>
-		<p>-<i>and I detest my sins</i> — </p>
-		<p>-<i>above every other evil</i> — </p>
-		<p>-<i>above every other evil</i> — </p>
-		<p>-<i>because they displease Thee, my God</i> — </p>
-		<p>-<i>because they displease Thee, my God</i> — </p>
-		<p>-<i>Who art so deserving</i> — </p>
-		<p>-<i>Who art so deserving</i> — </p>
-		<p>-<i>of all my love</i> — </p>
-		<p>-<i>of all my love</i> — </p>
-		<p>-<i>and I firmly purpose</i> — </p>
-		<p>-<i>and I firmly purpose</i> — </p>
-		<p>-<i>by Thy holy grace</i> — </p>
-		<p>-<i>by Thy holy grace</i> — </p>
-		<p>-<i>never more to offend Thee</i> — </p>
-		<p>-<i>never more to offend Thee</i> — </p>
-		<p>-<i>and to amend my life</i> — </p>
-		<p>-<i>and to amend my life</i> — </p>
+
+		<lg>
+			<l>-O my God! — </l>
+			<l>-O my God! — </l>
+			<l>-I am heartily sorry — </l>
+			<l>-I am heartily sorry — </l>
+			<l>-for having offended Thee — </l>
+			<l>-for having offended Thee — </l>
+			<l>-and I detest my sins — </l>
+			<l>-and I detest my sins — </l>
+			<l>-above every other evil — </l>
+			<l>-above every other evil — </l>
+			<l>-because they displease Thee, my God — </l>
+			<l>-because they displease Thee, my God — </l>
+			<l>-Who art so deserving — </l>
+			<l>-Who art so deserving — </l>
+			<l>-of all my love — </l>
+			<l>-of all my love — </l>
+			<l>-and I firmly purpose — </l>
+			<l>-and I firmly purpose — </l>
+			<l>-by Thy holy grace — </l>
+			<l>-by Thy holy grace — </l>
+			<l>-never more to offend Thee — </l>
+			<l>-never more to offend Thee — </l>
+			<l>-and to amend my life — </l>
+			<l>-and to amend my life — </l>
+		</lg>
 
 		<milestone unit="section" rend="asterixes"/>
 
@@ -4988,19 +4998,19 @@
 			peace and shimmering lights and quiet fragrance he made a 
 			covenant with his heart. </p>
 		<p>He prayed: </p>
-		<p>—<i>He once had meant to come on earth in heavenly glory</i> 
-			<i>but we sinned: and then He could not safely visit us but with a</i> 
-			<i>shrouded majesty and a bedimmed radiance for He was God.</i> 
-			<i>So He came Himself in weakness not in power and He sent</i> 
-			<i>thee, a creature in His stead, with a creature's comeliness and</i> 
-			<i>lustre suited to our state. And now thy very face and form,</i> 
-			<i>dear mother, speak to us of the Eternal; not like earthly</i> 
-			<i>beauty, dangerous to look upon, but like the morning star</i> 
-			<i>which is thy emblem, bright and musical, breathing purity,</i> 
-			<i>telling of heaven and infusing peace. O harbinger of day! O</i> 
-			<i>light of the pilgrim! Lead us still as thou hast led. In the dark</i> 
-			<i>night, across the bleak wilderness guide us on to our Lord</i> 
-			<i>Jesus, guide us home.</i> </p>
+		<p>—<emph>He once had meant to come on earth in heavenly glory 
+			but we sinned: and then He could not safely visit us but with a 
+			shrouded majesty and a bedimmed radiance for He was God. 
+			So He came Himself in weakness not in power and He sent 
+			thee, a creature in His stead, with a creature's comeliness and 
+			lustre suited to our state. And now thy very face and form, 
+			dear mother, speak to us of the Eternal; not like earthly 
+			beauty, dangerous to look upon, but like the morning star 
+			which is thy emblem, bright and musical, breathing purity, 
+			telling of heaven and infusing peace. O harbinger of day! O 
+			light of the pilgrim! Lead us still as thou hast led. In the dark 
+			night, across the bleak wilderness guide us on to our Lord 
+			Jesus, guide us home.</emph> </p>
 		<p>His eyes were dimmed with tears and, looking humbly up to 
 			heaven, he wept for the innocence he had lost. </p>
 		<p>When evening had fallen he left the house and the first 
@@ -5263,15 +5273,17 @@
 			altar cloth with them over a living rail of hands. His hands 
 			were trembling, and his soul trembled as he heard the priest 
 			pass with the ciborium from communicant to communicant. </p>
-		<p>—<i>Corpus Domini nostri.</i> </p>
+
+		<p>—<seg xml:lang="lat">Corpus Domini nostri.</seg></p>
+
 		<p>Could it be? He knelt there sinless and timid: and he would 
 			hold upon his tongue the host and God would enter his 
 			purified body. </p>
-		<p>—<i>In vitam eternam. Amen.</i> </p>
+		<p>—<seg xml:lang="lat">In vitam eternam. Amen.</seg> </p>
 		<p>Another life! A life of grace and virtue and happiness! It 
 			was true. It was not a dream from which he would wake.  The 
 			past was past. </p>
-		<p>—<i>Corpus Domini nostri.</i> </p>
+		<p>—<seg xml:lang="lat">Corpus Domini nostri.</seg> </p>
 		<p>The ciborium had come to him. </p>
 
 	</div><!-- 3.3 --> 
@@ -5573,10 +5585,10 @@
 		<p>—Of course it is, of course. Just imagine when I was in 
 			Belgium I used to see them out cycling in all kinds of weather 
 			with this thing up about their knees! It was really ridiculous. 
-			<i>Les jupes</i>, they call them in Belgium. </p>
+			<seg xml:lang="fra">Les jupes</seg>, they call them in Belgium. </p>
 		<p>The vowel was so modified as to be indistinct. </p>
 		<p>—What do they call them? </p>
-		<p>—<i>Les jupes.</i> </p>
+		<p>—<seg xml:lang="fra">Les jupes.</seg> </p>
 		<p>—O. </p>
 		<p>Stephen smiled again in answer to the smile which he could 
 			not see on the priest's shadowed face, its image or spectre only 
@@ -6325,7 +6337,7 @@
 			boyish beauty, and that passing a grimy marinedealer's shop 
 			beyond the Liffey he would repeat the song by Ben Jonson 
 			which begins: </p>
-		<l><i>I was not wearier where I lay.</i> </l>
+		<l><emph>I was not wearier where I lay.</emph> </l>
 		<p>His mind, when wearied of its search for the essence of 
 			beauty amid the spectral words of Aristotle or Aquinas, 
 			turned often for its pleasure to the dainty songs of the Elizabethans. 
@@ -6434,7 +6446,7 @@
 			chines of bacon. He had learnt what little he knew of the laws 
 			of Latin verse from a ragged book written by a Portuguese 
 			priest. </p>
-		<l><i>Contrahit orator, variant in carmine vates.</i> </l>
+		<l><seg xml:lang="lat">Contrahit orator, variant in carmine vates.</seg> </l>
 		<p>The crises and victories and secessions in Roman history were 
 			handed on to him in the trite words <seg xml:lang="lat"><hi rend="italic">in tanto discrimine</hi></seg> and he 
 			had tried to peer into the social life of the city of cities through 
@@ -6826,7 +6838,7 @@
 		<p>—I may not have his talent, said Stephen quietly. </p>
 		<p>—You never know, said the dean brightly. We never can 
 			say what is in us. I most certainly should not be despondent. 
-			<i>Per aspera ad astra.</i> </p>
+			<seg xml:lang="lat">Per aspera ad astra.</seg> </p>
 		<p>He left the hearth quickly and went towards the landing to 
 			oversee the arrival of the first arts' class. </p>
 		<p>Leaning against the fireplace Stephen heard him greet 
@@ -6979,13 +6991,13 @@
 		<p>—Have you signed? Stephen asked. </p>
 		<p>Cranly closed his long thinlipped mouth, communed with 
 			himself an instant and answered: </p>
-		<p>—<i>Ego habeo.</i> </p>
+		<p>—<seg xml:lang="lat">Ego habeo.</seg> </p>
 		<p>—What is it for? </p>
-		<p>—<i>Quod?</i> </p>
+		<p>—<seg xml:lang="lat">Quod?</seg> </p>
 		<p>—What is it for? </p>
 		<p>Cranly turned his pale face to Stephen and said blandly and 
 			bitterly: </p>
-		<p>—<i>Per pax universalis.</i> </p>
+		<p>—<seg xml:lang="lat">Per pax universalis.</seg> </p>
 		<p>Stephen pointed to the Csar's photograph and said: </p>
 		<p>—He has the face of a besotted Christ. </p>
 		<p>The scorn and anger in his voice brought Cranly's eyes back 
@@ -7101,7 +7113,7 @@
 			as the question of universal peace. </p>
 		<p>Cranly raised his head and held the handball between the 
 			two students by way of a peaceoffering, saying: </p>
-		<p>—<i>Pax super totum sanguinarium globum.</i> </p>
+		<p>—<seg xml:lang="lat">Pax super totum sanguinarium globum.</seg> </p>
 		<p>Stephen, moving away the bystanders, jerked his shoulder 
 			angrily in the direction of the Csar's image, saying: </p>
 		<p>—Keep your icon. If we must have a Jesus, let us have a 
@@ -7124,11 +7136,11 @@
 			opinion about the mind of Jesus? </p>
 		<p>—Go on, Temple, said the stout ruddy student, returning, 
 			as was his wont, to his first idea, that pint is waiting for you. </p>
-		<p>—He thinks I'm an  imbecile,  Temple explained to Stephen, 
+		<p>—He thinks I'm an imbecile, Temple explained to Stephen, 
 			because I'm a  believer in the power of mind. </p>
 		<p>Cranly linked his arms into those of Stephen and his admirer 
 			and said: </p>
-		<p>—<i>Nos ad manum ballum jocabimus.</i> </p>
+		<p>—<seg xml:lang="lat">Nos ad manum ballum jocabimus.</seg></p>
 		<p>Stephen, in the act of being led away, caught sight of MacCann's 
 			flushed bluntfeatured face. </p>
 		<p>—My signature is of no account, he said politely. You are 
@@ -7196,7 +7208,7 @@
 			said sternly: </p>
 		<p>—Temple, I declare to the living God if you say another 
 			word, do you know, to anybody on any subject I'll kill you 
-			<i>super spottum</i>. </p>
+			<seg xml:lang="lat">super spottum</seg>. </p>
 		<p>—He was like you, I fancy, said Stephen, an emotional 
 			man. </p>
 		<p>—Blast him, curse him! said Cranly broadly. Don't talk to 
@@ -7642,9 +7654,9 @@
 			thing you feel now that it is a <hi rend="italic">thing</hi>. You apprehend it as 
 			complex, multiple, divisible, separable, made up of its parts, 
 			the result of its parts and their sum, harmonious. That is 
-			<i>consonantia</i>. </p>
+			<seg xml:lang="lat">consonantia</seg>.</p>
 		<p>—Bull's eye again! said Lynch wittily. Tell me now what is 
-			<i>claritas</i> and you win the cigar. </p>
+			<seg xml:lang="lat">claritas</seg> and you win the cigar. </p>
 		<p>—The connotation of the word, Stephen said, is rather 
 			vague. Aquinas uses a term which seems to be inexact. It 
 			baffled me for a long time. It would lead you to believe that 
@@ -7701,9 +7713,8 @@
 			Sir Philip Crampton lyrical, epical or dramatic? Can excrement 
 			or a child or a louse be a work of art? If not, why not?</hi> </p>
 		<p>—Why not, indeed? said Lynch, laughing. </p>
-		<p>—<i>If a man hacking in fury at a block of wood</i>, Stephen 
-			continued, > 
-			<i>of art? If not, why not?</i> </p>
+		<p>—<emph>If a man hacking in fury at a block of wood</emph>, Stephen 
+			continued, <emph>of art? If not, why not?</emph> </p>
 		<p>—That's a lovely one, said  Lynch, laughing again. That has 
 			the true scholastic stink. </p>
 		<p>—Lessing, said Stephen, should not have taken a group of 
@@ -7723,7 +7734,7 @@
 			personal. The personality of the artist passes into the narration 
 			itself, flowing round and round the persons and the action 
 			like a vital sea. This progress you will see easily in that old 
-			English ballad > which begins in the first person 
+			English ballad which begins in the first person 
 			and ends in the third person. The dramatic form is reached 
 			when the vitality which has flowed and eddied round each 
 			person fills every person with such vital force that he or she 
@@ -7774,12 +7785,12 @@
 		<p>—Don't mind him. There's  plenty of money to be made in a 
 			big commercial city. </p>
 		<p>—Depends on the practice. </p>
-		<p>—<i>Ego credo ut vita pauperum est simpliciter atrox, simpliciter</i> 
-			<i>sanguinarius atrox, in Liverpoolio.</i> </p>
+		<p>—<seg xml:lang="lat">Ego credo ut vita pauperum est simpliciter atrox, simpliciter 
+			sanguinarius atrox, in Liverpoolio.</seg> </p>
 		<p>Their voices reached his ears as if from a distance in interrupted 
 			pulsation. She was preparing to go away with her 
 			companions. </p>
-		<p>The  quick light shower had drawn off, tarrying in clusters of 
+		<p>The quick light shower had drawn off, tarrying in clusters of 
 			diamonds among the shrubs of the quadrangle where an 
 			exhalation  was breathed forth by the blackened earth. Their 
 			trim boots prattled as they stood on the steps of the colonnade, 
@@ -7934,7 +7945,7 @@
 			face who had called herself his own girl and begged his handsel, 
 			the kitchengirl in the next house who sang over the clatter 
 			of her plates with the drawl of a country singer the first bars of 
-			<i>By Killarney's Lakes and Fells</i>, a girl who had laughed gaily to 
+			<emph>By Killarney's Lakes and Fells</emph>, a girl who had laughed gaily to 
 			see him stumble when the iron grating in the footpath near 
 			Cork Hill had caught the broken sole of his shoe, a girl he had 
 			glanced at, attracted by her small ripe mouth, as she passed 
@@ -8379,7 +8390,7 @@
 		<p>She had passed through the dusk. And therefore the air was 
 			silent save for one soft hiss that fell. And therefore the tongues 
 			about him had ceased their babble. Darkness  was falling. </p>
-		<l><i>Darkness falls from the air.</i> </l>
+		<l><emph>Darkness falls from the air.</emph> </l>
 		<p>A trembling joy, lambent as a faint light, played like a fairy 
 			host around him. But why? Her passage through the darkening 
 			air or the verse with its black vowels and its opening 
@@ -8427,7 +8438,7 @@
 			brittle bright bodies of lice falling from the air and turning 
 			often as they fell. Yes; and it was not darkness that fell from 
 			the air. It was brightness. </p>
-		<l><i>Brightness falls from the air.</i> </l>
+		<l><emph>Brightness falls from the air.</emph> </l>
 		<p>He had not even remembered rightly Nash's line. All the 
 			images it  had awakened were false. His mind bred vermin. His 
 			thoughts were lice born of the sweat of sloth. </p>
@@ -8795,7 +8806,7 @@
 			was heard singing as she sharpened knives. She sang, in short 
 			broken bars, >. </p>
 		<p>Cranly stopped to listen, saying: </p>
-		<p>—<i>Mulier cantat.</i> </p>
+		<p>—<seg xml:lang="lat">Mulier cantat.</seg> </p>
 		<p>The soft beauty of the Latin word touched with an enchanting 
 			touch the  dark of the evening, with a touch fainter and 
 			more persuading than the touch of music or of a woman's 
@@ -8806,7 +8817,7 @@
 			high as a boy's, was heard intoning from a distant choir the 
 			first words of a woman which pierce the gloom and clamour of 
 			the first chanting of the passion: </p>
-		<p>—<i>Et tu cum Jesu Galil#.^ao eras.</i> </p>
+		<p>—<seg xml:lang="lat">Et tu cum Jesu Galileao eras.</seg> </p>
 		<p>And all  hearts were touched and turned to her voice, shining 
 			like a young star, shining clearer as the voice intoned the 
 			proparoxyton and more faintly as the cadence died. </p>
