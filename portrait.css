@@ -24,8 +24,7 @@ span.emph, span.lang {
 span.tag { 
 	position: absolute; 
 	color: black; 
-	border: 1px solid #A0A0C3; 
-	background-color: #D5D5F3; 
+	font-style: normal;
 	border-radius: 4px; 
 	padding: 3px; 
 	max-width: 14%; 
@@ -33,10 +32,21 @@ span.tag {
 
 span.tag.type, span.tag.lang { 
 	right: 5%; 
-	font-style: normal;
+} 
+
+span.tag.type { 
+	border: 1px solid #D7A192; 
+	background-color: #F6CCC0; 
+} 
+
+span.tag.lang { 
+	border: 1px solid #95CB95; 
+	background-color: #CBEFCB; 
 } 
 
 span.tag.dialog { 
+	border: 1px solid #A0A0C3; 
+	background-color: #D5D5F3; 
 	left: 5%; 
 } 
 
