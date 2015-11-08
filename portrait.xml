@@ -770,15 +770,13 @@
 			for one of the priests to go himself to tell them. Or he would 
 			write a letter for the priest to bring. </p>
 
-		<seg type="letter">
-			<lg>
-				<l>Dear Mother</l> 
-				<l>I am sick. I want to go home. Please come and take me</l> 
-				home. I am in the infirmary. 
-				<l>Your fond son,</l> 
-				<l>Stephen</l> 
-			</lg>
-		</seg> 
+		<lg type="letter">
+			<l>Dear Mother</l> 
+			<l>I am sick. I want to go home. Please come and take me</l> 
+			home. I am in the infirmary. 
+			<l>Your fond son,</l> 
+			<l>Stephen</l> 
+		</lg>
 
 		<p>How far away they were! There was cold sunlight outside 
 			the window. He wondered if he would die. You could die just 
