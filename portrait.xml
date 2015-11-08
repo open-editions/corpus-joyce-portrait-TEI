@@ -111,8 +111,8 @@
 	<div n="1.1" type="section"> 
 		<epigraph xml:lang="la">
 			<cit> 
-				<quote><hi rend="italic">Et ignotas animum dimittit in artes.</hi></quote>
-				<bibl>- Ovid, <hi rend="italic">Metamorphoses</hi>, VIII, 188</bibl>
+				<quote><emph>Et ignotas animum dimittit in artes.</emph></quote>
+				<bibl>- Ovid, <emph>Metamorphoses</emph>, VIII, 188</bibl>
 			</cit> 
 		</epigraph>
 
@@ -491,9 +491,9 @@
 			was very big to think about everything and everywhere. Only 
 			God could do that. He tried to think what a big thought that 
 			must be but he could think only of God. God was God's name 
-			just as his name was Stephen. <hi rend="italic">Dieu</hi> was the French for God 
+			just as his name was Stephen. <emph>Dieu</emph> was the French for God 
 			and that was God's name too; and when anyone prayed to 
-			God and said <hi rend="italic">Dieu</hi> then God knew at once that it was a 
+			God and said <emph>Dieu</emph> then God knew at once that it was a 
 			French person that was praying. But though there were 
 			different names for God in all the different languages in the 
 			world and God understood what all the people who prayed 
@@ -811,7 +811,7 @@
 		</lg>
 
 		<p>How beautiful and sad that was! How beautiful the words 
-			were where they said <hi rend="italic">Bury me in the old churchyard</hi>! A 
+			were where they said <emph>Bury me in the old churchyard</emph>! A 
 			tremor passed over his body. How sad and how beautiful! He 
 			wanted to cry quietly but not for himself: for the words, so 
 			beautiful and sad, like music. The bell! The bell! Farewell! O 
@@ -1003,11 +1003,11 @@
 		<p>
 		<seg type="prayer"> 
 			<said who="Stephen">
-				<hi rend="italic">
+				<emph>
 					<l>Bless us, O Lord, and these Thy gifts which through Thy bounty 
 				we are about to receive through Christ Our Lord.</l>
 					<l>Amen.</l>
-				</hi> 
+				</emph> 
 			</said> 
 		</seg>
 		</p>
@@ -1238,8 +1238,8 @@
 			to play with Eileen because Eileen was a protestant and when 
 			she was young she knew children that used to play with protestants 
 			and the protestants used to make fun of the litany of 
-			the Blessed Virgin. <hi rend="italic">Tower of Ivory</hi>, they used to say, 
-			<hi rend="italic">House of Gold!</hi> How could a woman be a tower of ivory or a house of 
+			the Blessed Virgin. <emph>Tower of Ivory</emph>, they used to say, 
+			<emph>House of Gold!</emph> How could a woman be a tower of ivory or a house of 
 			gold? Who was right then? And he remembered the evening in 
 			the infirmary in Clongowes, the dark waters, the light at the 
 			pierhead and the moan of sorrow from the people when they 
@@ -1247,7 +1247,7 @@
 		<p>Eileen had long white hands. One evening when playing tig 
 			she had put her hands over his eyes: long and white and thin 
 			and cold and soft. That was ivory: a cold white thing. That 
-			was the meaning of <hi rend="italic">Tower of Ivory</hi>. </p>
+			was the meaning of <emph>Tower of Ivory</emph>. </p>
 		<p><said who="John Casey">—The story is very short and sweet, Mr Casey said. It was 
 			one day down in Arklow, a cold bitter day, not long before the 
 			chief died. May God have mercy on him! </said></p>
@@ -1263,15 +1263,15 @@
 			names in the world. Well there was one old lady, and a 
 			drunken old harridan she was surely, that paid all her attention 
 			to me. She kept dancing along beside me in the mud 
-			bawling and screaming into my face: <hi rend="italic">Priesthunter! The Paris 
-				Funds! Mr Fox! Kitty O'Shea!</hi> </said></p>
+			bawling and screaming into my face: <emph>Priesthunter! The Paris 
+				Funds! Mr Fox! Kitty O'Shea!</emph> </said></p>
 		<p><said who="Simon Dedalus">—And what did you do, John? asked Mr Dedalus. </said></p>
 		<p><said who="John Casey">—I let her bawl away, said Mr Casey. It was a cold day and 
 				to keep up my heart I had (saving your presence, ma'am) a 
 				quid of Tullamore in my mouth and sure I couldn't say a word 
 				in any case because my mouth was full of tobacco juice. </said></p>
 		<p><said who="Simon Dedalus">—Well, John? </said></p>
-		<p><said who="John Casey">—Well. I let her bawl away, to her heart's content, <hi rend="italic">Kitty O'Shea</hi> 
+		<p><said who="John Casey">—Well. I let her bawl away, to her heart's content, <emph>Kitty O'Shea</emph> 
 			and the rest of it till at last she called that lady a name 
 			that I won't sully this Christmas board nor your ears, ma'am, 
 			nor my own lips by repeating. </said></p>
@@ -1280,15 +1280,15 @@
 		<p><said who="Simon Dedalus">—And what did you do, John? </said></p>
 		<p><said who="John Casey">—Do! said Mr Casey. She stuck her ugly old face up at me 
 			when she said it and I had my mouth full of tobacco juice. I 
-			bent down to her and <hi rend="italic">Phth!</hi> says I to her like that. </said></p>
+			bent down to her and <emph>Phth!</emph> says I to her like that. </said></p>
 		<p>He turned aside and made the act of spitting. </p>
-		<p><said who="John Casey">—<hi rend="italic">Phth!</hi> says I to her like that, right into her eye. </said></p>
+		<p><said who="John Casey">—<emph>Phth!</emph> says I to her like that, right into her eye. </said></p>
 		<p>He clapped a hand to his eye and gave a hoarse scream of 
 			pain. </p>
-		<p><said who="John Casey">—<hi rend="italic">O Jesus, Mary and Joseph!</hi> says she. <hi rend="italic">I'm blinded! I'm 
-					blinded and drownded!</hi> </said></p>
+		<p><said who="John Casey">—<emph>O Jesus, Mary and Joseph!</emph> says she. <emph>I'm blinded! I'm 
+					blinded and drownded!</emph> </said></p>
 		<p>He stopped in a fit of coughing and laughter, repeating: </p>
-		<p><said who="John Casey">—<hi rend="italic">I'm blinded entirely.</hi> </said></p>
+		<p><said who="John Casey">—<emph>I'm blinded entirely.</emph> </said></p>
 		<p>Mr Dedalus laughed loudly and lay back in his chair while 
 			uncle Charles swayed his head to and fro. </p>
 		<p>Dante looked terribly angry and repeated while they 
@@ -1308,8 +1308,8 @@
 		<p>He was for Ireland and Parnell and so was his father: and 
 			so was Dante too for one night at the band on the esplanade 
 			she had hit a gentleman on the head with her umbrella because 
-			he had taken off his hat when the band played <hi rend="italic">God save 
-			the Queen</hi> at the end. </p>
+			he had taken off his hat when the band played <emph>God save 
+			the Queen</emph> at the end. </p>
 		<p>Mr Dedalus gave a snort of contempt. </p>
 		<p><said who="Simon Dedalus">—Ah, John, he said. It is true for them. We are an unfortunate 
 			priestridden race and always were and always will be till 
@@ -1329,8 +1329,8 @@
 		<p><said who="Dante">—If we are a priestridden race we ought to be proud of it! 
 				They are the apple of God's eye. 
 
-				<quote><ref>Zacharia 2:8</ref><hi rend="italic">Touch them not, says Christ, 
-				for they are the apple of My eye.</hi></quote></said></p>
+				<quote><ref>Zacharia 2:8</ref><emph>Touch them not, says Christ, 
+				for they are the apple of My eye.</emph></quote></said></p>
 
 		<p><said who="John Casey">—And can we not love our country then? asked Mr 
 			Casey. Are we not to follow the man that was born to lead 
@@ -1517,8 +1517,8 @@
 			hand was. She had said that pockets were funny things to 
 			have: and then all of a sudden she had broken away and had 
 			run laughing down the sloping curve of the path. Her fair hair 
-			had streamed out behind her like gold in the sun. <hi rend="italic">Tower of
-			Ivory. House of Gold.</hi> By thinking of things you could understand 
+			had streamed out behind her like gold in the sun. <emph>Tower of
+			Ivory. House of Gold.</emph> By thinking of things you could understand 
 			them. </p>
 		<p>But why in the square? You went there when you wanted to 
 			do something. It was all thick slabs of slate and water trickled 
@@ -1633,8 +1633,8 @@
 			and fro making little signs in red pencil and sometimes sitting 
 			beside the boy to show him how to hold the pen. He had tried 
 			to spell out the headline for himself though he knew already 
-			what it was for it was the last of the book. <hi rend="italic">Zeal without prudence
-			is like a ship adrift.</hi> But the lines of the letters were like 
+			what it was for it was the last of the book. <emph>Zeal without prudence
+			is like a ship adrift.</emph> But the lines of the letters were like 
 			fine invisible threads and it was only by closing his right eye 
 			tight tight and staring out of the left eye that he could make 
 			out the full curves of the capital. </p>
@@ -1682,7 +1682,7 @@
 			theme because the pages were stuck together by a blot: 
 			and Father Arnall held it up by a corner and said it was an 
 			insult to any master to send him up such a theme. Then he 
-			asked Jack Lawton to decline the noun <hi rend="italic">mare</hi> and Jack Lawton 
+			asked Jack Lawton to decline the noun <emph>mare</emph> and Jack Lawton 
 			stopped at the ablative singular and could not go on with the 
 			plural. </p>
 		<p><said who="Father Arnall">—You should be ashamed of yourself, said Father Arnall 
@@ -1985,8 +1985,8 @@
 			could not see. But he thought they were the portraits of the 
 			saints and great men of the order who were looking down on 
 			him silently as he passed: saint Ignatius Loyola holding an 
-			open book and pointing to the words <seg xml:lang="lat"><hi rend="italic">Ad Majorem Dei
-			Gloriam</hi></seg> in it, saint Francis Xavier pointing to his chest, 
+			open book and pointing to the words <seg xml:lang="lat"><emph>Ad Majorem Dei
+			Gloriam</emph></seg> in it, saint Francis Xavier pointing to his chest, 
 			Lorenzo Ricci with his berretta on his head like one of the 
 			prefects of the lines, the three patrons of holy youth, saint 
 			Stanislaus Kostka, saint Aloysius Gonzaga and blessed John 
@@ -2147,8 +2147,8 @@
 			arbour, as he called the reeking outhouse which he shared 
 			with the cat and the garden tools, served him also as a soundingbox: 
 			and every morning he hummed contentedly one of his 
-			favourite songs: <hi rend="italic">O, twine me a bower</hi> or <hi rend="italic">Blue eyes and golden
-				hair</hi> or <hi rend="italic">The Groves of Blarney</hi> while the grey and blue coils of 
+			favourite songs: <emph>O, twine me a bower</emph> or <emph>Blue eyes and golden
+				hair</emph> or <emph>The Groves of Blarney</emph> while the grey and blue coils of 
 			smoke rose slowly from his pipe and vanished in the pure air. </p>
 		<p>During the first part of the summer in Blackrock uncle 
 			Charles was Stephen's constant companion. Uncle Charles 
@@ -2219,7 +2219,7 @@
 			to make ready for the great part which he felt awaited him the 
 			nature of which he only dimly apprehended. </p>
 		<p>His evenings were his own; and he pored over a ragged 
-			translation of <hi rend="italic">The Count of Monte Cristo</hi>. The figure of that 
+			translation of <emph>The Count of Monte Cristo</emph>. The figure of that 
 			dark avenger stood forth in his mind for whatever he had 
 			heard or divined in childhood of the strange and terrible. At 
 			night he built up on the parlour table an image of the wonderful 
@@ -2580,20 +2580,20 @@
 			friendly and he asked me did our friend here wear glasses still 
 			and then he told me the whole story. </p>
 		<p>—And was he annoyed, Simon? </p>
-		<p>—Annoyed! Not he! <hi rend="italic">Manly little chap!</hi> he said. </p>
+		<p>—Annoyed! Not he! <emph>Manly little chap!</emph> he said. </p>
 		<p>Mr Dedalus imitated the mincing nasal tone of the provincial. </p>
 		<p>—Father Dolan and I, when I told them all at dinner about 
-			it, Father Dolan and I had a great laugh over it. <hi rend="italic">You better
-				mind yourself, Father Dolan</hi>, said I, <hi rend="italic">or young Dedalus will 
-				send you up for twice nine</hi>. We had a famous laugh together 
+			it, Father Dolan and I had a great laugh over it. <emph>You better
+				mind yourself, Father Dolan</emph>, said I, <emph>or young Dedalus will 
+				send you up for twice nine</emph>. We had a famous laugh together 
 			over it. Ha! Ha! Ha!</p>
 		<p>Mr Dedalus turned to his wife and interjected in his natural 
 			voice: </p>
 		<p>—Shows you the spirit in which they take the boys there. 
 			O, a jesuit for your life, for diplomacy! </p>
 		<p>He reassumed the provincial's voice and repeated: </p>
-		<p>—<hi rend="italic">I told them all at dinner about it and Father Dolan and I
-				and all of us we had a hearty laugh together over it. Ha! Ha! Ha!</hi></p>
+		<p>—<emph>I told them all at dinner about it and Father Dolan and I
+				and all of us we had a hearty laugh together over it. Ha! Ha! Ha!</emph></p>
 
 		<milestone unit="section" rend="asterixes"/>
 
@@ -2796,7 +2796,7 @@
 		<p>The stroke was playful but not so lightly given as the first 
 			one had been. Stephen felt the skin tingle and glow slightly 
 			and almost painlessly; and bowing submissively, as if to meet 
-			his companion's jesting mood, began to recite the <seg xml:lang="lat"><hi rend="italic">Confiteor</hi></seg>. 
+			his companion's jesting mood, began to recite the <seg xml:lang="lat"><emph>Confiteor</emph></seg>. 
 			The episode ended well for both Heron and Wallis laughed 
 			indulgently at the irreverence. </p>
 		<p>The confession came only from Stephen's lips and, while 
@@ -2844,13 +2844,13 @@
 		<p>Mr Tate withdrew his delving hand and spread out the 
 			essay. </p>
 		<p>—Here. It's about the Creator and the soul. Rrm ... rrm 
-			... rrm ...  Ah! <hi rend="italic">without a possibility of ever approaching 
-			nearer</hi>. That's heresy. </p>
+			... rrm ...  Ah! <emph>without a possibility of ever approaching 
+			nearer</emph>. That's heresy. </p>
 		<p>Stephen murmured: </p>
-		<p>—I meant <hi rend="italic">without a possibility of ever reaching</hi>. </p>
+		<p>—I meant <emph>without a possibility of ever reaching</emph>. </p>
 		<p>It was a submission and Mr Tate, appeased, folded up the 
 			essay and passed it across to him, saying: </p>
-		<p>—O ... Ah! <hi rend="italic">ever reaching</hi>. That's another story. </p>
+		<p>—O ... Ah! <emph>ever reaching</emph>. That's another story. </p>
 		<p>But the class was not so soon appeased. Though nobody 
 			spoke to him of the affair after class he could feel about him a 
 			vague general malignant joy. </p>
@@ -2951,7 +2951,7 @@
 			at him, while he, torn and flushed and panting, stumbled after 
 			them half blinded with tears, clenching his fists madly and 
 			sobbing. </p>
-		<p>While he was still repeating the <seg xml:lang="lat"><hi rend="italic">Confiteor</hi></seg> amid the indulgent 
+		<p>While he was still repeating the <seg xml:lang="lat"><emph>Confiteor</emph></seg> amid the indulgent 
 			laughter of his hearers and while the scenes of that malignant 
 			episode were still passing sharply and swiftly before his 
 			mind he wondered why he bore no malice now to those who 
@@ -3103,7 +3103,7 @@
 			power, akin to that which had often made anger or resentment 
 			fall from him, brought his steps to rest. He stood still and 
 			gazed up at the sombre porch of the morgue and from that to 
-			the dark cobbled laneway at its side. He saw the word <hi rend="italic">Lotts</hi> 
+			the dark cobbled laneway at its side. He saw the word <emph>Lotts</emph> 
 			on the wall of the lane and breathed slowly the rank heavy air. </p>
 		<p>—That is horse piss and rotted straw, he thought. It is a 
 			good odour to breathe. It will calm my heart. My heart is quite 
@@ -3186,14 +3186,14 @@
 			festooned the strange sad happy air, drove off all the mists of 
 			the night's ill humour from Stephen's brain. He got up quickly 
 			to dress and, when the song had ended, said: </p>
-		<p>—That's much prettier than any of your other <hi rend="italic">come-all-yous</hi>. </p>
+		<p>—That's much prettier than any of your other <emph>come-all-yous</emph>. </p>
 		<p>—Do you think so? asked Mr Dedalus. </p>
 		<p>—I like it, said Stephen. </p>
 		<p>—It's a pretty old air, said Mr Dedalus, twirling the points 
 			of his moustache. Ah, but you should have heard Mick Lacy 
 			sing it! Poor Mick Lacy! He had little turns for it, grace notes 
 			he used to put in that I haven't got. That was the boy who 
-			could sing a <hi rend="italic">come-all-you</hi>, if you like. </p>
+			could sing a <emph>come-all-you</emph>, if you like. </p>
 		<p>Mr Dedalus had ordered drisheens for breakfast and during 
 			the meal he crossexamined the waiter for local news. For the 
 			most part they spoke at crosspurposes when a name was 
@@ -3222,7 +3222,7 @@
 			Stephen remained in the background, depressed more than 
 			ever by the darkness and silence of the theatre and by the air it 
 			wore of jaded and formal study. On the desk before him he 
-			read the word <hi rend="italic">Foetus</hi>  cut several times in the dark stained 
+			read the word <emph>Foetus</emph>  cut several times in the dark stained 
 			wood. The sudden legend startled his blood: he seemed to feel 
 			the absent students of the college about him and to shrink 
 			from their company. A vision of their life, which his father's 
@@ -3307,10 +3307,10 @@
 			next day, Sunday, we were out for a walk together and when 
 			we were coming home he took out his cigar case and said: 
 			<emph>By the bye, Simon, I didn't know you smoked:</emph> or something 
-			like that. Of course I tried to carry it off as best I could. <hi rend="italic">If
-				you want a good smoke</hi>, he said, <hi rend="italic">try one of these cigars. An
+			like that. Of course I tried to carry it off as best I could. <emph>If
+				you want a good smoke</emph>, he said, <emph>try one of these cigars. An
 				American captain made me a present of them last night in
-				Queenstown</hi>. </p>
+				Queenstown</emph>. </p>
 		<p>Stephen heard his father's voice break into a laugh which 
 			was almost a sob. </p>
 		<p>—He was the handsomest man in Cork at that time, by 
@@ -3378,8 +3378,8 @@
 			him admit that the Lee was a much finer river than the Liffey. 
 			One of them in order to put his Latin to the proof had made 
 			him translate short passages from Dilectus and asked him 
-			whether it was correct to say: <seg xml:lang="lat"><hi rend="italic">Tempora mutantur nos et 
-					mutamur in illis</hi></seg> or <seg xml:lang="lat"><hi rend="italic">Tempora mutantur et nos mutamur in illis</hi></seg>. 
+			whether it was correct to say: <seg xml:lang="lat"><emph>Tempora mutantur nos et 
+					mutamur in illis</emph></seg> or <seg xml:lang="lat"><emph>Tempora mutantur et nos mutamur in illis</emph></seg>. 
 			Another, a brisk old man, whom Mr Dedalus called Johnny 
 			Cashman, had covered him with confusion by asking him to 
 			say which were prettier, the Dublin girls or the Cork girls. </p>
@@ -3516,8 +3516,8 @@
 			ran through Stephen's  fingers. Great parcels of groceries and 
 			delicacies and dried fruits arrived from the city. Every day he 
 			drew up a bill of fare for the family and every night led a party 
-			of three or four to the theatre to see <hi rend="italic">Ingomar</hi> or <hi rend="italic">The Lady of 
-			Lyons</hi>. In his coat pockets he carried squares of Vienna chocolate 
+			of three or four to the theatre to see <emph>Ingomar</emph> or <emph>The Lady of 
+			Lyons</emph>. In his coat pockets he carried squares of Vienna chocolate 
 			for his guests while his trousers' pockets bulged with 
 			masses of silver and copper coins. He bought presents for 
 			everyone, overhauled his room, wrote out resolutions, marshalled 
@@ -3782,8 +3782,8 @@
 			and to repent the impulse that moved him was the wish to be 
 			her knight. If ever his soul, reentering her dwelling shyly after 
 			the frenzy of his body's lust had spent itself, was turned towards 
-			her whose emblem is the morning star, <hi rend="italic">bright and 
-			musical, telling of heaven and infusing peace</hi>, it was when her 
+			her whose emblem is the morning star, <emph>bright and 
+			musical, telling of heaven and infusing peace</emph>, it was when her 
 			names were murmured softly by lips whereon there still lingered 
 			foul and shameful words, the savour itself of a lewd kiss. </p>
 		<p>That was strange. He tried to think how it could be but the 
@@ -3883,8 +3883,8 @@
 			before him, went on: </p>
 		<p>—He had the faith in him that moves mountains. Ten 
 			thousand souls won for God in a single month! That is a true 
-			conqueror, true to the motto of our order: <seg xml:lang="lat"><hi rend="italic">ad majorem Dei 
-				gloriam</hi></seg>! A saint who has great power in heaven, remember: 
+			conqueror, true to the motto of our order: <seg xml:lang="lat"><emph>ad majorem Dei 
+				gloriam</emph></seg>! A saint who has great power in heaven, remember: 
 			power to intercede for us in our grief, power to obtain whatever 
 			we pray for if it be for the good of our souls, power 
 			above all to obtain for us the grace to repent if we be in sin. A 
@@ -3940,7 +3940,7 @@
 			preceding the feast day set apart by our holy mother  the 
 			church to transmit to all the ages the name and fame of one of 
 			the greatest sons of catholic Spain. </p>
-		<p>—Now what is the meaning of this word <hi rend="italic">retreat</hi> and why is 
+		<p>—Now what is the meaning of this word <emph>retreat</emph> and why is 
 			it allowed on all hands to be a most salutary practice for all 
 			who desire to lead before God and in the eyes of men a truly 
 			christian life? A retreat, my dear boys, signifies a withdrawal 
@@ -4096,9 +4096,9 @@
 			from His sentence there will be and can be no appeal. He calls 
 			the just to His side, bidding them enter into the kingdom, the 
 			eternity of bliss, prepared for them. The unjust He casts from 
-			Him, crying in His offended majesty: <hi rend="italic">Depart from me, ye 
+			Him, crying in His offended majesty: <emph>Depart from me, ye 
 			cursed, into everlasting fire which was prepared for the devil
-			and his angels.</hi> O what agony then for the miserable sinners! 
+			and his angels.</emph> O what agony then for the miserable sinners! 
 			Friend is torn apart from friend, children are torn from their 
 			parents, husbands from their wives. The poor sinner holds out 
 			his arms to those who were dear to him in this earthly world, 
@@ -4186,9 +4186,9 @@
 			drifting westward amid a pale green sea of heaven, they stood 
 			together, children that had  erred. Their error had offended 
 			deeply God's majesty though it was the error of two children, 
-			but it had not offended her whose beauty <hi rend="italic">is not like earthly 
+			but it had not offended her whose beauty <emph>is not like earthly 
 			beauty, dangerous to look upon, but like the morning star 
-			which is its emblem, bright and musical</hi>. The eyes were not 
+			which is its emblem, bright and musical</emph>. The eyes were not 
 			offended which she turned upon them nor reproachful. She 
 			placed their hands together, hand in hand, and said, speaking 
 			to their hearts: </p>
@@ -4230,7 +4230,7 @@
 			the host of heaven: he fell and was hurled with his rebellious 
 			angels into hell. What his sin was we cannot say. Theologians 
 			consider that it was the sin of pride, the sinful thought conceived 
-			in an instant: <hi rend="italic">non serviam: I will not serve</hi>. That 
+			in an instant: <emph>non serviam: I will not serve</emph>. That 
 			instant was his ruin. He offended the majesty of God by the 
 			sinful thought of one instant and God cast him out of heaven 
 			into hell for ever. </p>
@@ -4478,8 +4478,8 @@
 			found among those miserable beings whom the Great Judge 
 			shall command to depart for ever from His sight, that not one 
 			of us may ever hear ringing in his ears the awful sentence of 
-			rejection: <hi rend="italic">Depart from me, ye cursed, into everlasting fire 
-			which was prepared for the devil and his angels!</hi> </p>
+			rejection: <emph>Depart from me, ye cursed, into everlasting fire 
+			which was prepared for the devil and his angels!</emph> </p>
 		<p>He came down the aisle of the chapel, his legs shaking and 
 			the scalp of his head trembling as though it had been touched 
 			by ghostly fingers. He passed up the staircase and into the 
@@ -5177,7 +5177,7 @@
 			leaning upon a hand. He made the sign of the cross and 
 			prayed of the priest to bless him for he had sinned. Then, 
 			bowing his head, he repeated the <seg xml:lang="lat">></seg> in fright. At the 
-			words <hi rend="italic">my most grievous fault</hi> he ceased, breathless. </p>
+			words <emph>my most grievous fault</emph> he ceased, breathless. </p>
 		<p>—How long is it since your last confession, my child? </p>
 		<p>—A long time, father. </p>
 		<p>—A month, my child? </p>
@@ -5486,8 +5486,8 @@
 			and glories, bidding her arise as for espousal and come away, 
 			bidding her look forth, a spouse, from Amana and from the 
 			mountains of the leopards; and the soul seemed to answer 
-			with the same inaudible voice, surrendering herself: <seg xml:lang="lat"><hi rend="italic">Inter 
-				ubera mea commorabitur</hi></seg>. </p>
+			with the same inaudible voice, surrendering herself: <seg xml:lang="lat"><emph>Inter 
+				ubera mea commorabitur</emph></seg>. </p>
 		<p>This idea of surrender had a perilous attraction for his mind 
 			now that he felt his soul beset once again by the insistent 
 			voices of the flesh which began to murmur to him again during 
@@ -5725,7 +5725,7 @@
 			within its folds, or, when the sacrifice had  been accomplished, 
 			to stand as deacon in a dalmatic of cloth of gold on the step 
 			below the celebrant, his hands joined and his face towards the 
-			people, and sing the chant <seg xml:lang="lat"><hi rend="italic">Ite, missa est</hi></seg>. If ever he had seen 
+			people, and sing the chant <seg xml:lang="lat"><emph>Ite, missa est</emph></seg>. If ever he had seen 
 			himself celebrant it was as in the pictures of the mass in his 
 			child's massbook, in a church without worshippers, save for 
 			the angel of the sacrifice, at a bare altar and served by an 
@@ -5893,7 +5893,7 @@
 		<p>—Becauseboro theboro landboro lordboro willboro putboro 
 			usboro outboro. </p>
 		<p>The voice of his youngest brother from the farther side of 
-			the fireplace began to sing the air <hi rend="italic">Oft in the Stilly Night</hi>. One 
+			the fireplace began to sing the air <emph>Oft in the Stilly Night</emph>. One 
 			by one the others took up the air until a full choir of voices 
 			was singing. They would sing so for hours, melody after 
 			melody, glee after glee, till the last pale light died down on the 
@@ -5910,9 +5910,9 @@
 			echo also of the recurring note of weariness and pain. All 
 			seemed weary of life even before entering upon it. And he 
 			remembered that Newman had heard this note also in the 
-			broken lines of Virgil <hi rend="italic">giving utterance, like the voice of Nature 
+			broken lines of Virgil <emph>giving utterance, like the voice of Nature 
 				herself, to that pain and weariness yet hope of better things 
-				which has been the experience of her children in every time.</hi></p>
+				which has been the experience of her children in every time.</emph></p>
 
 		<milestone unit="section" rend="asterixes"/>
 
@@ -5963,8 +5963,8 @@
 			upon the leaves. Their feet passed in pattering tumult over his 
 			mind, the feet of hares and rabbits, the feet of harts and hinds 
 			and antelopes, until he heard them no more and remembered 
-			only a proud cadence from Newman: <hi rend="italic">Whose feet are as the 
-			feet of harts and underneath the everlasting arms.</hi> </p>
+			only a proud cadence from Newman: <emph>Whose feet are as the 
+			feet of harts and underneath the everlasting arms.</emph> </p>
 		<p>The pride of that dim image brought back to his mind the 
 			dignity of the office he had refused. All through his boyhood 
 			he had mused upon that which he had so often thought to be 
@@ -6351,7 +6351,7 @@
 		<p>The lore which he was believed to pass his days brooding 
 			upon so that it had rapt him from the companionships of 
 			youth was only a garner of slender sentences from Aristotle's 
-			poetics and psychology and a <seg xml:lang="lat"><hi rend="italic">Synopsis Philosophiae Scholasticae ad mentem divi Thomae</hi></seg>. His thinking was a dusk 
+			poetics and psychology and a <seg xml:lang="lat"><emph>Synopsis Philosophiae Scholasticae ad mentem divi Thomae</emph></seg>. His thinking was a dusk 
 			of doubt and selfmistrust lit up at moments by the lightnings of 
 			intuition, but lightnings of so clear a splendour that in those 
 			moments the world perished about his feet as if it had been 
@@ -6438,9 +6438,9 @@
 			ever heard of ivy whining on a wall? Yellow ivy: that was all 
 			right. Yellow ivory also. And what about ivory ivy? </p>
 		<p>The word now shone in his brain, clearer and brighter than 
-			any ivory sawn from the mottled tusks of elephants. <hi rend="italic">Ivory, 
-				<seg xml:lang="fra">ivoire</seg>, <seg xml:lang="ita">avorio</seg>, <seg xml:lang="lat">ebur</seg>.</hi> One of the first examples that he had 
-			learnt in Latin had run: <seg xml:lang="lat"><hi rend="italic">India mittit ebur</hi></seg>; and he recalled the 
+			any ivory sawn from the mottled tusks of elephants. <emph>Ivory, 
+				<seg xml:lang="fra">ivoire</seg>, <seg xml:lang="ita">avorio</seg>, <seg xml:lang="lat">ebur</seg>.</emph> One of the first examples that he had 
+			learnt in Latin had run: <seg xml:lang="lat"><emph>India mittit ebur</emph></seg>; and he recalled the 
 			shrewd northern face of the rector who had taught him to 
 			construe the Metamorphoses of Ovid in a courtly English, 
 			made whimsical by the mention of porkers and potsherds and 
@@ -6449,9 +6449,9 @@
 			priest. </p>
 		<l><seg xml:lang="lat">Contrahit orator, variant in carmine vates.</seg> </l>
 		<p>The crises and victories and secessions in Roman history were 
-			handed on to him in the trite words <seg xml:lang="lat"><hi rend="italic">in tanto discrimine</hi></seg> and he 
+			handed on to him in the trite words <seg xml:lang="lat"><emph>in tanto discrimine</emph></seg> and he 
 			had tried to peer into the social life of the city of cities through 
-			the words <seg xml:lang="lat"><hi rend="italic">implere ollam denariorum</hi></seg> which the rector had 
+			the words <seg xml:lang="lat"><emph>implere ollam denariorum</emph></seg> which the rector had 
 			rendered sonorously as the filling of a pot with denaries.  The 
 			pages of his timeworn Horace never felt cold to the touch even 
 			when his own fingers were cold:  they were human pages: and 
@@ -6577,9 +6577,9 @@
 			talking, Stevie,  she had her eyes fixed on my face and she 
 			stood so close to me I could hear her breathing. When I 
 			handed her back the mug at last she took my hand to draw me 
-			in over the threshold and said: <hi rend="italic">Come in and stay the night
+			in over the threshold and said: <emph>Come in and stay the night
 			here. You've no call to be frightened. There's no one in it but
-			ourselves</hi> .... I didn't go in, Stevie.  I thanked her and went 
+			ourselves</emph> .... I didn't go in, Stevie.  I thanked her and went 
 			on my way again, all in a fever. At the first bend of the road I 
 			looked back and she was standing at the door. </p>
 		<p>The last words of Davin's story sang in his memory  and the 
@@ -6616,7 +6616,7 @@
 			He remembered with bitterness that scene of tawdry tribute. 
 			There were four French delegates in a brake and one, a plump 
 			smiling young man, held, wedged on a stick,  a card on which 
-			were printed the words: <seg xml:lang="fra"><hi rend="italic">Vive l'Irlande!</hi></seg></p>
+			were printed the words: <seg xml:lang="fra"><emph>Vive l'Irlande!</emph></seg></p>
 		<p>But the trees in Stephen's Green were fragrant of rain and 
 			the rainsodden earth gave forth its mortal odour, a faint 
 			incense rising upward through the mould from many hearts. 
@@ -6675,13 +6675,13 @@
 			another question. </p>
 		<p>He rubbed his hands slowly and drily over the difficulty. </p>
 		<p>—Can you solve that question now? he asked. </p>
-		<p>—Aquinas, answered Stephen, says <seg xml:lang="lat"><hi rend="italic">Pulcra
-			sunt quae visa placent</hi></seg>.</p>
+		<p>—Aquinas, answered Stephen, says <seg xml:lang="lat"><emph>Pulcra
+			sunt quae visa placent</emph></seg>.</p>
 		<p>—This fire before us, said the dean, will be pleasing to the 
 			eye. Will it therefore be beautiful? </p>
 		<p>—In so far as it is apprehended by the sight, which I suppose 
 			means here esthetic intellection, it will be beautiful. But 
-			Aquinas also says <seg xml:lang="lat"><hi rend="italic">Bonum est in quod tendit appetitus</hi></seg>. In so 
+			Aquinas also says <seg xml:lang="lat"><emph>Bonum est in quod tendit appetitus</emph></seg>. In so 
 			far as it satisfies the animal craving for warmth fire is a good. 
 			In hell however it is an evil. </p>
 		<p>—Quite so, said the dean, you have certainly hit the nail on 
@@ -6701,8 +6701,8 @@
 			handling or hatred of that in them which was evil but turning 
 			them, with a firm gesture of obedience, back upon themselves: 
 			and for all this silent service it seemed as if he loved not at all 
-			the master and little, if at all, the ends he served. <seg xml:lang="lat"><hi rend="italic">Similiter 
-			atque senis baculus</hi></seg>, he was, as the founder would have had 
+			the master and little, if at all, the ends he served. <seg xml:lang="lat"><emph>Similiter 
+			atque senis baculus</emph></seg>, he was, as the founder would have had 
 			him, like a staff in an old man's hand, to be left in a corner, to 
 			be leaned on in the road at nightfall or in stress of weather,  to 
 			lie with a lady's nosegay on a garden seat, to be raised in 
@@ -6758,11 +6758,11 @@
 			remember a sentence of Newman's in which he says of the 
 			Blessed Virgin that she was detained in the full company of the 
 			saints. The use of the word in the marketplace is quite 
-			different. <hi rend="italic">I hope I am not detaining you.</hi> </p>
+			different. <emph>I hope I am not detaining you.</emph> </p>
 		<p>—Not in the least, said the dean politely. </p>
 		<p>—No, no, said Stephen, smiling, I mean ... </p>
 		<p>—Yes, yes: I see, said the dean quickly, I quite catch the 
-			point: <hi rend="italic">detain</hi>. </p>
+			point: <emph>detain</emph>. </p>
 		<p>He thrust forward his under jaw and uttered a dry short 
 			cough. </p>
 		<p>—To return to the lamp, he said, the feeding of it is also a 
@@ -6814,7 +6814,7 @@
 			with a smart of dejection that the man to whom he was speaking 
 			was a countryman of Ben Jonson. He thought: </p>
 		<p>—The language in which we are speaking is his before it is 
-			mine. How different are the words <hi rend="italic">home, Christ, ale, master</hi>, 
+			mine. How different are the words <emph>home, Christ, ale, master</emph>, 
 			on his lips and on mine! I cannot speak or write these words 
 			without unrest of spirit. His language, so familiar and so 
 			foreign, will always be for me an acquired speech. I have not 
@@ -6970,7 +6970,7 @@
 			bartered and its elect betrayed - by the questioner or  by the 
 			mocker? Patience. Remember Epictetus. It is probably in his 
 			character to ask such a question at such a moment in such a 
-			tone and to pronounce the word <hi rend="italic">science</hi> as a monosyllable. </p>
+			tone and to pronounce the word <emph>science</emph> as a monosyllable. </p>
 		<p>The droning voice of the professor continued to wind itself 
 			slowly round and round the coils it spoke of, doubling, trebling, 
 			quadrupling its somnolent energy as the coil multiplied 
@@ -7007,8 +7007,8 @@
 		<p>—No, answered Stephen. </p>
 		<p>—Are you in bad humour? </p>
 		<p>—No. </p>
-		<p>—<seg xml:lang="lat"><hi rend="italic">Credo ut vos sanguinarius mendax estis</hi>, said Cranly, <hi rend="italic">quia 
-					facies vostra monstrat ut vos in damno malo humore estis.</hi></seg></p>
+		<p>—<seg xml:lang="lat"><emph>Credo ut vos sanguinarius mendax estis</emph>, said Cranly, <emph>quia 
+					facies vostra monstrat ut vos in damno malo humore estis.</emph></seg></p>
 		<p>Moynihan, on his way to the table, said in Stephen's ear: </p>
 		<p>—MacCann is in tiptop form. Ready to shed the last drop. 
 			Brandnew world. No stimulants and votes for the bitches. </p>
@@ -7020,7 +7020,7 @@
 			the table where Moynihan had bent to write his name on the 
 			roll, and then said flatly: </p>
 		<p>—A sugar! </p>
-		<p>—<seg xml:lang="lat"><hi rend="italic">Quis est in malo humore</hi></seg>, said Stephen, <seg xml:lang="lat"><hi rend="italic">ego aut vos?</hi></seg></p>
+		<p>—<seg xml:lang="lat"><emph>Quis est in malo humore</emph></seg>, said Stephen, <seg xml:lang="lat"><emph>ego aut vos?</emph></seg></p>
 		<p>Cranly did not take up the taunt. He brooded sourly on his 
 			judgment and repeated with the same flat force: </p>
 		<p>—A flaming bloody sugar, that's what he is! </p>
@@ -7374,7 +7374,7 @@
 			of my definitions. </p>
 		<p>—The tragic emotion, in fact, is a face looking two ways, 
 			towards terror and towards pity, both of which are phases of 
-			it. You see I use the word <hi rend="italic">arrest</hi>. I mean that the tragic emotion 
+			it. You see I use the word <emph>arrest</emph>. I mean that the tragic emotion 
 			is static. Or rather the dramatic emotion is. The feelings 
 			excited by improper art are kinetic, desire or loathing. Desire 
 			urges us to possess, to go to something; loathing  urges us to 
@@ -7466,8 +7466,8 @@
 		<p>—Aquinas, said Stephen, says that is beautiful the apprehension 
 			of which pleases. </p>
 		<p>Lynch nodded. </p>
-		<p>—I remember that, he said. <seg xml:lang="lat"><hi rend="italic">Pulcra sunt quae visa placent.</hi></seg></p>
-		<p>—He uses the word <seg xml:lang="lat"><hi rend="italic">visa</hi></seg>, said Stephen, to cover esthetic 
+		<p>—I remember that, he said. <seg xml:lang="lat"><emph>Pulcra sunt quae visa placent.</emph></seg></p>
+		<p>—He uses the word <seg xml:lang="lat"><emph>visa</emph></seg>, said Stephen, to cover esthetic 
 			apprehensions of all kinds, whether through sight or hearing 
 			or through any other avenue of apprehension. This word, 
 			though it is vague, is clear enough to keep away good and evil 
@@ -7508,7 +7508,7 @@
 			than even you, Lynch, imagined. For my part I dislike that 
 			way out. It leads to eugenics rather than to esthetic. It leads 
 			you out of the maze into a new gaudy lectureroom where MacCann, 
-			with one hand on <hi rend="italic">The Origin of Species</hi> and the other 
+			with one hand on <emph>The Origin of Species</emph> and the other 
 			hand on the new testament, tells you that you admired the 
 			great flanks of Venus because you felt that she would bear you 
 			burly offspring and admired her great breasts because you felt 
@@ -7551,10 +7551,10 @@
 		<p>—Who knows? said Stephen, smiling. Perhaps Aquinas 
 			would understand me better than you. He was a poet himself. 
 			He wrote a hymn for Maundy Thursday. It begins with the 
-			words <seg xml:lang="lat"><hi rend="italic">Pange lingua gloriosi</hi></seg>. They say it is the highest glory 
+			words <seg xml:lang="lat"><emph>Pange lingua gloriosi</emph></seg>. They say it is the highest glory 
 			of the hymnal. It is an intricate and soothing hymn.  I like it: 
 			but there is no hymn that can be put beside that mournful and 
-			majestic processional song, the <seg xml:lang="lat"><hi rend="italic">Vexilla Regis</hi></seg> of <seg xml:lang="lat">Venantius 
+			majestic processional song, the <seg xml:lang="lat"><emph>Vexilla Regis</emph></seg> of <seg xml:lang="lat">Venantius 
 			Fortunatus</seg>. </p>
 		<p>Lynch began to sing softly and solemnly in a deep bass 
 			voice: </p>
@@ -7601,7 +7601,7 @@
 		<p>Stephen made a vague gesture of denial. </p>
 		<p>—Goethe and Lessing, said Donovan, have written a lot on 
 			that subject, the classical school and the romantic school and 
-			all that. The <hi rend="italic">Laocoon</hi> interested me very much when I read it. 
+			all that. The <emph>Laocoon</emph> interested me very much when I read it. 
 			Of course it is idealistic, German, ultraprofound. </p>
 		<p>Neither of the others spoke. Donovan took leave of them 
 			urbanely. </p>
@@ -7622,9 +7622,9 @@
 			the most satisfying relations of the sensible must therefore 
 			correspond to the necessary phases of artistic apprehension. 
 			Find these and you find the qualities of universal beauty. 
-			Aquinas says: <seg xml:lang="lat"><hi rend="italic">ad pulcritudinem tria requiruntur, integritas, 
-			consonantia, claritas</hi></seg>. I translate it so: <hi rend="italic">Three things are needed 
-			for beauty, wholeness, harmony and radiance</hi>. Do these correspond 
+			Aquinas says: <seg xml:lang="lat"><emph>ad pulcritudinem tria requiruntur, integritas, 
+			consonantia, claritas</emph></seg>. I translate it so: <emph>Three things are needed 
+			for beauty, wholeness, harmony and radiance</emph>. Do these correspond 
 			to the phases of apprehension? Are you following? </p>
 		<p>—Of course, I am, said Lynch. If you think I have an 
 			excrementitious intelligence run after Donovan and ask him to 
@@ -7643,14 +7643,14 @@
 			first luminously apprehended as selfbounded and selfcontained 
 			upon the immeasurable background of space or time 
 			which is not it. You apprehend it as > thing. You see it as 
-			one whole. You apprehend its wholeness. That is <seg xml:lang="lat"><hi rend="italic">integritas</hi></seg>. </p>
+			one whole. You apprehend its wholeness. That is <seg xml:lang="lat"><emph>integritas</emph></seg>. </p>
 		<p>—Bull's eye! said Lynch, laughing. Go on. </p>
 		<p>—Then, said Stephen, you pass from point to point, led by 
 			its formal lines; you apprehend it as balanced part against part 
 			within its limits; you feel the rhythm of its structure. In other 
 			words the synthesis of immediate perception is followed by 
 			the analysis of apprehension. Having first felt that it is > 
-			thing you feel now that it is a <hi rend="italic">thing</hi>. You apprehend it as 
+			thing you feel now that it is a <emph>thing</emph>. You apprehend it as 
 			complex, multiple, divisible, separable, made up of its parts, 
 			the result of its parts and their sum, harmonious. That is 
 			<seg xml:lang="lat">consonantia</seg>.</p>
@@ -7662,7 +7662,7 @@
 			he had in mind symbolism or idealism, the supreme quality of 
 			beauty being a light from some other world, the idea of which 
 			the matter is but the shadow, the reality of which it is but the 
-			symbol. I thought he might mean that <seg xml:lang="lat"><hi rend="italic">claritas</hi></seg> is the artistic 
+			symbol. I thought he might mean that <seg xml:lang="lat"><emph>claritas</emph></seg> is the artistic 
 			discovery and representation of the divine purpose in anything 
 			or a force of generalisation which would make the esthetic 
 			image a universal one, make it outshine its proper conditions. 
@@ -7672,7 +7672,7 @@
 			make the only synthesis which is logically and esthetically 
 			permissible. You see that it is that thing which it is and no 
 			other thing. The radiance of which he speaks is the scholastic 
-			<seg xml:lang="lat"><hi rend="italic">quidditas</hi></seg>, the <hi rend="italic">whatness</hi> of a thing. This supreme quality is 
+			<seg xml:lang="lat"><emph>quidditas</emph></seg>, the <emph>whatness</emph> of a thing. This supreme quality is 
 			felt by the artist when the esthetic image is first conceived in his 
 			imagination. The mind in that mysterious instant Shelley 
 			likened beautifully to a fading coal. The instant wherein that 
@@ -7707,10 +7707,10 @@
 			written down questions which are more amusing than yours 
 			were. In finding the answers to them I found the theory of 
 			esthetic which I am trying to explain. Here are some questions 
-			I set myself: <hi rend="italic">Is a chair finely made tragic or comic? Is the 
+			I set myself: <emph>Is a chair finely made tragic or comic? Is the 
 			portrait of Mona Lisa good if I desire to see it? Is the bust of
 			Sir Philip Crampton lyrical, epical or dramatic? Can excrement 
-			or a child or a louse be a work of art? If not, why not?</hi> </p>
+			or a child or a louse be a work of art? If not, why not?</emph> </p>
 		<p>—Why not, indeed? said Lynch, laughing. </p>
 		<p>—<emph>If a man hacking in fury at a block of wood</emph>, Stephen 
 			continued, <emph>of art? If not, why not?</emph> </p>
@@ -8175,7 +8175,7 @@
 			confessor to the face of the medical student who was reading 
 			to him a problem from the chess page of a journal. Stephen sat 
 			down at his right and the priest at the other side of the  table 
-			closed his copy of <hi rend="italic">The Tablet</hi> with an angry snap and stood 
+			closed his copy of <emph>The Tablet</emph> with an angry snap and stood 
 			up. </p>
 		<p>Cranly gazed after him blandly and vaguely. The medical 
 			student went on in a softer voice: </p>
@@ -8185,8 +8185,8 @@
 		<p>Dixon folded the journal and rose with dignity, saying: </p>
 		<p>—Our men retired in good order. </p>
 		<p>—With guns and cattle, added Stephen, pointing to the 
-			titlepage of Cranly's book on which was printed <hi rend="italic">Diseases of 
-			the Ox</hi>. </p>
+			titlepage of Cranly's book on which was printed <emph>Diseases of 
+			the Ox</emph>. </p>
 		<p>As they passed through a lane of the tables Stephen said: </p>
 		<p>—Cranly, I want to speak to you. </p>
 		<p>Cranly did not answer or turn. He laid his book on the 
@@ -8216,8 +8216,8 @@
 		<p>Cranly smiled and said kindly: </p>
 		<p>—The captain has only one love: sir Walter Scott. Isn't that 
 			so, captain? </p>
-		<p>—What are you reading now, captain? Dixon asked. <hi rend="italic">The 
-			Bride of Lammermoor?</hi> </p>
+		<p>—What are you reading now, captain? Dixon asked. <emph>The 
+			Bride of Lammermoor?</emph> </p>
 		<p>—I love old Scott, the flexible lips said. I think he writes 
 			something lovely. There is no writer can touch sir Walter 
 			Scott. </p>
@@ -8297,7 +8297,7 @@
 			student with dark eyes. </p>
 		<p>—Baldhead, Cranly repeated, sucking at a crevice in his 
 			teeth. </p>
-		<p>—<seg xml:lang="lat"><hi rend="italic">Pernobilis et pervetusta familia</hi></seg>, Temple said to Stephen. </p>
+		<p>—<seg xml:lang="lat"><emph>Pernobilis et pervetusta familia</emph></seg>, Temple said to Stephen. </p>
 		<p>The stout student who stood below them on the steps farted 
 			briefly. Dixon turned towards him saying in a soft voice: </p>
 		<p>—Did an angel speak? </p>
@@ -8307,7 +8307,7 @@
 		<p>—I had it on my mind to say that, Goggins answered 
 			firmly. It did no one any harm, did it? </p>
 		<p>—We hope, Dixon said suavely, that it was not of the kind 
-			known to science as a <seg xml:lang="lat"><hi rend="italic">paulo post futurum</hi></seg>. </p>
+			known to science as a <seg xml:lang="lat"><emph>paulo post futurum</emph></seg>. </p>
 		<p>—Didn't I tell you he was a smiler? said Temple, turning 
 			right and left. Didn't I give him that name? </p>
 		<p>—You did. We're not deaf, said the tall consumptive. </p>
