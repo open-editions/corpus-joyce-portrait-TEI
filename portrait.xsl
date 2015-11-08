@@ -28,7 +28,7 @@
 </xsl:template>
 
 <xsl:template match="lg">
-	<p class="song">
+	<p class="lg">
 		<xsl:apply-templates/>
 	</p>
 </xsl:template>
@@ -41,33 +41,45 @@
 	<span class="emph"><xsl:apply-templates/></span>
 </xsl:template>
 
-<xsl:template match="seg">
-	<span class="lexeme">
-	<xsl:apply-templates select="@n | node()"/>
-	</span>
-</xsl:template>
-
-<xsl:template match="@n">
-	<sup class="lexeme-id">
-	<xsl:value-of select="."/>
-	</sup>
-</xsl:template> 
-
 <xsl:template match="head">
 	<h2><xsl:apply-templates/></h2>
 </xsl:template>
 
 <xsl:template match="said">
 	<p>
-		<xsl:apply-templates select="@* | node()"/>
+		<xsl:apply-templates select="@who | node()"/>
 	</p>
 </xsl:template>
 
 <xsl:template match="@who">
-	<xsl:attribute name="class">
-		<xsl:value-of select="substring(., 2)"/>
-	</xsl:attribute>
+	<xsl:attribute name="class">dialog</xsl:attribute>
+	<span class="dialog-tag">
+		<xsl:value-of select="."/>
+	</span>
 </xsl:template> 
+
+<xsl:template match="epigraph|seg">
+	<span class="lang">
+		<xsl:apply-templates select="@xml:lang | node()"/>
+	</span>
+</xsl:template>
+
+<xsl:template match="@xml:lang">
+	<span class="lang-tag">
+		<xsl:choose>
+			<xsl:when test=".='la'"> 
+				Latin
+			</xsl:when>
+			<xsl:when test=".='fr'"> 
+				French
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="."/>
+			</xsl:otherwise>
+		</xsl:choose> 
+	</span>
+</xsl:template> 
+
 
 <!--<xsl:template match="TEI/teiHeader/fileDesc/titleStmt">-->
 	<!--<h1 id="bookTitle">-->
@@ -112,4 +124,5 @@
 		<!--<xsl:apply-templates/>-->
 	<!--</div>-->
 <!--</xsl:template>-->
+
 </xsl:stylesheet> 

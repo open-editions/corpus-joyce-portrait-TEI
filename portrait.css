@@ -7,14 +7,35 @@ div#metadata { display: none; }
 	margin: 0 auto; 
 }
 
-p.song { 
+p.lg, p.song { 
 	margin-left: 30%; 
+	font-style: italic; 
 } 
 
 p.dialog { 
-	color: red; 
+	color: #962828; 
 } 
 
-span.emph { 
+span.dialog-tag, span.lang-tag { 
+	position: absolute; 
+	color: black; 
+	border: 1px solid #A0A0C3; 
+	background-color: #D5D5F3; 
+	border-radius: 4px; 
+	padding: 3px; 
+	max-width: 14%; 
+} 
+
+span.lang-tag { 
+	right: 5%; 
+	font-style: normal;
+} 
+
+span.dialog-tag { 
+	left: 5%; 
+} 
+
+span.emph, span.lang { 
 	font-style: italic; 
 } 
+
