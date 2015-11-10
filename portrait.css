@@ -2,12 +2,23 @@
 div#metadata { display: none; } 
 
 /* Container */
-#textBody { 
+body { 
 	width: 45em; 
 	max-width: 65%; 
 	margin: 0 auto; 
 	position: relative; /* makes absolutely positioned items below relative to this one */ 
 }
+
+#controls { 
+	padding: 1em; 
+	margin: 1em; 
+	border: 1px solid #A0A0C3; 
+	background-color: #D5D5F3; 
+} 
+
+#controls input { 
+	margin-left: 1em; 
+} 
 
 p.lg, p.song { 
 	margin-left: 30%; 
