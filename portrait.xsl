@@ -5,10 +5,14 @@
 	<html>
 		<head> 
 		<link rel="stylesheet" href="portrait.css" />
+		<link href='https://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'/>
 		<script src="jquery-2.1.4.min.js"></script>
 		<script src="portrait.js"></script>
 		</head> 
 		<body>
+			<h1 class="mainTitle"><em>A Portrait of the Artist as a Young Man</em></h1>
+			<h2 class="mainTitle">James Joyce</h2>
+			<h3 class="mainTitle">The Open-Source Critical Edition</h3>
 			<div id="controls">
 				Show: <br/>
 				<input type="checkbox" id="dialog" name="dialog" value="" checked="checked"/>Dialog attribution<br/>
@@ -52,7 +56,7 @@
 </xsl:template>
 
 <xsl:template match="head">
-	<h2><xsl:apply-templates/></h2>
+	<h2 class="heading"><xsl:apply-templates/></h2>
 </xsl:template>
 
 <xsl:template match="said">
