@@ -3,8 +3,18 @@
 
 <xsl:template match="/"> 
 	<html>
+		<head> 
 		<link rel="stylesheet" href="portrait.css" />
+		<script src="jquery-2.1.4.min.js"></script>
+		<script src="portrait.js"></script>
+		</head> 
 		<body>
+			<div id="controls">
+				Show: 
+				<input type="checkbox" id="dialog" name="dialog" value="" checked="checked"/>Dialog attribution 
+				<input type="checkbox" id="type" name="type" value="" checked="checked"/>Text genre (poem, song)
+				<input type="checkbox" id="lang" name="lang" value="" checked="checked"/>Language
+			</div> 
 			<xsl:apply-templates/>
 		</body>
 	</html>
