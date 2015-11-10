@@ -7,7 +7,12 @@ body {
 	max-width: 65%; 
 	margin: 0 auto; 
 	position: relative; /* makes absolutely positioned items below relative to this one */ 
+	font-family: 'Droid Serif', serif; 
 }
+
+.mainTitle { 
+	text-align: center; 
+} 
 
 #controls { 
 	padding: 1em; 
@@ -18,6 +23,10 @@ body {
 
 #controls input { 
 	margin-left: 1em; 
+} 
+
+.heading { 
+	text-align: center; 
 } 
 
 p.lg, p.song { 
@@ -62,5 +71,4 @@ span.tag.dialog {
 	background-color: #D5D5F3; 
 	left: -18%; 
 } 
-
 
