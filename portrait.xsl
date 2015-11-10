@@ -10,9 +10,9 @@
 		</head> 
 		<body>
 			<div id="controls">
-				Show: 
-				<input type="checkbox" id="dialog" name="dialog" value="" checked="checked"/>Dialog attribution 
-				<input type="checkbox" id="type" name="type" value="" checked="checked"/>Text genre (poem, song)
+				Show: <br/>
+				<input type="checkbox" id="dialog" name="dialog" value="" checked="checked"/>Dialog attribution<br/>
+				<input type="checkbox" id="type" name="type" value="" checked="checked"/>Text genre (poem, song, prayer)<br/>
 				<input type="checkbox" id="lang" name="lang" value="" checked="checked"/>Language
 			</div> 
 			<xsl:apply-templates/>
