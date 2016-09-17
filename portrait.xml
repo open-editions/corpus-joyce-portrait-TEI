@@ -2132,14 +2132,14 @@
 		<p>Uncle Charles smoked such black twist that at last his 
 			nephew suggested to him to enjoy his morning smoke in 
 			a little outhouse at the end of the garden. </p>
-		<p>—Very good, Simon. All serene, Simon, said the old man 
+		<p><said who="Uncle Charles">—Very good, Simon. All serene, Simon, said the old man 
 			tranquilly. Anywhere you like. The outhouse will do me 
-			nicely: it will be more salubrious. </p>
-		<p>—Damn me, said Mr Dedalus frankly, if I know how you 
+			nicely: it will be more salubrious.</said></p>
+		<p><said who="Simon Dedalus">—Damn me, said Mr Dedalus frankly, if I know how you 
 			can smoke such villainous awful tobacco. It's like gunpowder, 
-			by God. </p>
-		<p>—It's very nice, Simon, replied the old man. Very cool and 
-			mollifying. </p>
+			by God. </said></p>
+		<p><said who="Uncle Charles">—It's very nice, Simon, replied the old man. Very cool and 
+			mollifying. </said></p>
 		<p>Every morning, therefore, uncle Charles repaired to his 
 			outhouse but not before he had creased and brushed scrupulously 
 			his back hair and brushed and put on his tall hat. While 
@@ -2165,8 +2165,8 @@
 			hand while the shopman smiled uneasily; and, on 
 			Stephen's feigning reluctance to take them, he would frown 
 			and say: </p>
-		<p>—Take them, sir. Do you hear me, sir? They're good for 
-			your bowels. </p>
+		<p><said who="Uncle Charles">—Take them, sir. Do you hear me, sir? They're good for 
+				your bowels. </said></p>
 		<p>When the order list had been booked the two would go on 
 			to the park where an old friend of Stephen's father, Mike 
 			Flynn, would be found seated on a bench, waiting for them. 
@@ -2240,7 +2240,7 @@
 			standing in a moonlit garden with Mercedes who had so many 
 			years before slighted his love, and with a sadly proud gesture 
 			of refusal, saying: </p>
-		<p>—Madam, I never eat muscatel grapes. </p>
+		<p><said who="Count of Monte Cristo">—Madam, I never eat muscatel grapes.</said></p>
 		<p>He became the ally of a boy named Aubrey Mills and 
 			founded with him a gang of adventurers in the avenue. Aubrey 
 			carried a whistle dangling from his buttonhole and a bicycle 
@@ -2352,10 +2352,10 @@
 			in the hall and why his father had often stood on the 
 			hearthrug, with his back to the fire, talking loudly to uncle 
 			Charles who urged him to sit down and eat his dinner. </p>
-		<p>—There's a crack of the whip left in me yet, Stephen, old 
+		<p><said who="Simon Dedalus">—There's a crack of the whip left in me yet, Stephen, old 
 			chap, said Mr Dedalus, poking at the dull fire with fierce 
 			energy. We're not dead yet, sonny. No, by the Lord Jesus 
-			(God forgive me) nor half dead. </p>
+			(God forgive me) nor half dead. </said></p>
 		<p>Dublin was a new and complex sensation. Uncle Charles 
 			had grown so witless that he could no longer be sent out on 
 			errands and the disorder in settling in the new house left 
@@ -2399,14 +2399,14 @@
 		<p>—The beautiful Mabel Hunter! </p>
 		<p>A ringletted girl stood on tiptoe to peer at the picture and 
 			said softly: </p>
-		<p>—What is she in, mud? </p>
-		<p>—In the pantomime, love. </p>
+		<p><said who="ringletted girl">—What is she in, mud? </said></p>
+		<p><said who="ringletted girl's mother">—In the pantomime, love. </said></p>
 		<p>The child leaned her ringletted head against her mother's 
 			sleeve, gazing on the picture, and murmured as if fascinated: </p>
-		<p>—The beautiful Mabel Hunter! </p>
+		<p><said who="ringletted girl">—The beautiful Mabel Hunter! </said></p>
 		<p>As if fascinated, her eyes rested long upon those demurely 
 			taunting eyes and she murmured again devotedly: </p>
-		<p>—Isn't she an exquisite creature? </p>
+		<p><said who="ringletted girl">—Isn't she an exquisite creature? </said></p>
 		<p>And the boy who came in from the street, stamping 
 			crookedly under his stone of coal, heard her words. He 
 			dropped his load promptly on the floor and hurried to her side 
@@ -2429,7 +2429,7 @@
 			feeble creature like a monkey was there, drawn thither by the 
 			sound of voices at the fire. A whining voice came from the 
 			door, asking: </p>
-		<p>—Is that Josephine? </p>
+		<p><said who="Ellen">—Is that Josephine? </said></p>
 		<p>The old bustling woman answered cheerily from the fireplace: </p>
 		<p>—No, Ellen. It's Stephen. </p>
 		<p>—O ... O, good evening, Stephen. </p>
