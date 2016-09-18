@@ -4,6 +4,10 @@
 
 This is the open collaborative scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_–corrected, revised, and richly annotated. 
 
+See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test the XSL-transformed prototype [here on github.io](http://jonathanreeve.github.io/corpus-joyce-portrait-TEI/portrait.xml). **NB**: due to [#47](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/issues/47), this page currently only transforms correctly on Firefox.
+
+# About this Project
+
 We intend to aggregate much of the existing knowledge about the book in one place--textual notes, critical commentary, interpretations, and more. Also, we want to be able to answer questions like these:
  * What proportion of each chapter is a song or a verse stanza? What does this tell us about Joyce's associations of song and youth? 
  * What proportion of the novel is prayer? What books of the bible are cited or quoted most often, and why?
