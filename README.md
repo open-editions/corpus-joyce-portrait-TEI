@@ -1,4 +1,6 @@
 # corpus-joyce-portrait-TEI
+
+[![Join the chat at https://gitter.im/corpus-joyce-portrait-TEI/Lobby](https://badges.gitter.im/corpus-joyce-portrait-TEI/Lobby.svg)](https://gitter.im/corpus-joyce-portrait-TEI/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is the open collaborative scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_–corrected, revised, and richly annotated. 
 
 We intend to aggregate much of the existing knowledge about the book in one place--textual notes, critical commentary, interpretations, etc. , but also, we want to be able to answer the following questions: 
