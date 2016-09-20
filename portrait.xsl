@@ -6,7 +6,7 @@
 		<head> 
 		<link rel="stylesheet" href="portrait.css" />
 		<link href='https://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'/>
-		<script src="jquery-2.1.4.min.js"></script>
+		<script src="vendor/jquery-2.1.4.min.js"></script>
 		<script src="portrait.js"></script>
 		</head> 
 		<body>
