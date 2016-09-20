@@ -4,7 +4,7 @@
 
 This is the open collaborative scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_–corrected, revised, and richly annotated. 
 
-See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test the XSL-transformed prototype [here on github.io](http://jonathanreeve.github.io/corpus-joyce-portrait-TEI/portrait.xml). **NB**: due to [#47](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/issues/47), this page currently only transforms correctly on Firefox.
+See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test the XSL-transformed prototype [here on github.io](http://jonathanreeve.github.io/corpus-joyce-portrait-TEI/).
 
 # About this Project
 
