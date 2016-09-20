@@ -95,9 +95,6 @@
 </xsl:template> 
 
 <xsl:template match="lg[@type]">
-	<xsl:attribute name="class">
-		<xsl:value-of select="@type"/>
-	</xsl:attribute>
 	<p class="lg">
 		<xsl:apply-templates select="@type | node()"/>
 	</p>
