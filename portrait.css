@@ -12,6 +12,7 @@ body {
 
 .mainTitle { 
 	text-align: center; 
+	margin: 1em;
 } 
 
 #controls { 
