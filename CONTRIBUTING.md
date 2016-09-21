@@ -41,7 +41,7 @@ If you’re not already used to XML, there are a couple things to note here.
 If you want a quick introduction to XML, check out [the w3schools introduction](http://www.w3schools.com/xml/xml_whatis.asp), a 10-minute read at most. If you want a more TEI-specific guide, the [TEI Lite Introduction](http://www.tei-c.org/release/doc/tei-p5-exemplars/html/tei_lite.doc.html) is good. 
 
 ##Step 5: Commit your changes. 
-Now that you’ve made all your changes for this round (you might want to make another, separate set of changes later), you can commit your changes, and describe what it is that you did. For this dialog attribution example, I’ve described my change as `Add some dialog attribution to Chapter 2`, and added an additional description that `It was difficult to find Mrs. Dedalus’s first name!`. 
+Now that you’ve made all your changes for this round (you might want to make another, separate set of changes later), you can commit your changes, and describe what it is that you did. **Please reference the issue that you're working on.** For this dialog attribution example, I’ve described my change as `Add dialog attribution to Chapter 2, for issue #7`, and added an additional description that `It was difficult to find Mrs. Dedalus’s first name!`. 
 
 ![Commit](assets/commit.png)
 
