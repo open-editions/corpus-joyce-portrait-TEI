@@ -56,7 +56,7 @@ This should bring up a page where you can describe your pull request:
 
 ![Pull request description](assets/pr-message.png) 
 
-Write a description of all the edits you committed. In this example, I wrote roughly the same thing as my commit message, `Add some dialog attribution to Chapter 2`, but if you have more than one commit, you’ll want to describe the changes represented by all of your commits.
+Write a description of all the edits you committed. In this example, I wrote roughly the same thing as my commit message, `Add dialog attribution to Chapter 2, for issue #7`, but if you have more than one commit, you’ll want to describe the changes represented by all of your commits.
 
 Before clicking “Create pull request,” scroll down and review your changes once more. If everything looks good, create the pull request. 
 
