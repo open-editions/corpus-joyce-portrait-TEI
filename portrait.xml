@@ -2431,15 +2431,15 @@
 			door, asking: </p>
 		<p><said who="Ellen">—Is that Josephine? </said></p>
 		<p>The old bustling woman answered cheerily from the fireplace: </p>
-		<p>—No, Ellen. It's Stephen. </p>
-		<p>—O ... O, good evening, Stephen. </p>
+		<p><said who="old woman">—No, Ellen. It's Stephen. </said></p>
+		<p><said who="Ellen">—O ... O, good evening, Stephen. </said></p>
 		<p>He answered the greeting and saw a silly smile break over 
 			the face in the doorway. </p>
-		<p>—Do you want anything, Ellen? asked the old woman at 
-			the fire. </p>
+		<p><said who="old woman">—Do you want anything, Ellen? asked the old woman at 
+			the fire. </said></p>
 		<p>But she did not answer the question and said: </p>
-		<p>—I thought it was Josephine. I thought you were Josephine, 
-			Stephen. </p>
+		<p><said who="Ellen">—I thought it was Josephine. I thought you were Josephine, 
+			Stephen.</said></p>
 		<p>And, repeating this several times, she fell to laughing feebly. </p>
 		<p>He was sitting in the midst of a children's party at Harold's 
 			Cross. His silent watchful manner had grown upon him and he 
@@ -2542,59 +2542,59 @@
 			time, just at the corner of the square.</said></p>
 		<p><said who="Mary Dedalus">—Then I suppose, said Mrs Dedalus, he will be able to 
 			arrange it. I mean about Belvedere.</said></p>
-		<p>—Of course  he will, said Mr Dedalus. Don't I tell you he's 
-			provincial of the order now? </p>
-		<p>—I never liked the idea of sending him to the christian 
-			brothers myself, said Mrs Dedalus. </p>
-		<p>—Christian brothers be damned! said Mr Dedalus. Is it 
+		<p><said who="Simon Dedalus">—Of course  he will, said Mr Dedalus. Don't I tell you he's 
+			provincial of the order now? </said></p>
+		<p><said who="Mary Dedalus">—I never liked the idea of sending him to the christian 
+			brothers myself, said Mrs Dedalus. </said></p>
+		<p><said who="Simon Dedalus">—Christian brothers be damned! said Mr Dedalus. Is it 
 			with Paddy Stink and Mickey Mud? No, let him stick to the 
 			jesuits in God's name since he began with them. They'll be of 
 			service to him in after years. Those are the fellows that can get 
-			you a position. </p>
-		<p>—And they're a very rich order, aren't they, Simon? </p>
-		<p>—Rather. They live well, I tell you. You saw their table at 
-			Clongowes. Fed up, by God, like gamecocks. </p>
+			you a position. </said></p>
+		<p><said who="Mary Dedalus">—And they're a very rich order, aren't they, Simon? </said></p>
+		<p><said who="Simon Dedalus">—Rather. They live well, I tell you. You saw their table at 
+			Clongowes. Fed up, by God, like gamecocks. </said></p>
 		<p>Mr Dedalus pushed his plate over to Stephen and bade him 
 			finish what was on it. </p>
-		<p>—Now then, Stephen, he said, you must put your shoulder 
-			to the wheel, old chap. You've had a fine long holiday. </p>
-		<p>—O, I'm sure  he'll work very hard now, said Mrs Dedalus, 
-			especially when he has Maurice with him. </p>
-		<p>—O, Holy Paul, I forgot about Maurice, said Mr Dedalus. 
+		<p><said who="Simon Dedalus">—Now then, Stephen, he said, you must put your shoulder 
+			to the wheel, old chap. You've had a fine long holiday. </said></p>
+		<p><said who="Mary Dedalus">—O, I'm sure  he'll work very hard now, said Mrs Dedalus, 
+			especially when he has Maurice with him. </said></p>
+		<p><said who="Simon Dedalus">—O, Holy Paul, I forgot about Maurice, said Mr Dedalus. 
 			Here, Maurice! Come here, you thickheaded ruffian! Do you 
 			know I'm going to send you to a college where they'll teach 
 			you to spell c.a.t. cat. And I'll buy you a nice little penny 
-			handkerchief to keep your nose dry. Won't that be grand fun? </p>
+			handkerchief to keep your nose dry. Won't that be grand fun? </said></p>
 		<p>Maurice grinned at his father and then at his brother. Mr 
 			Dedalus screwed his glass into his eye and stared hard at both 
 			his sons. Stephen mumbled his bread without answering his 
 			father's gaze. </p>
-		<p>—By the bye, said Mr Dedalus at length, the rector, or 
+		<p><said who="Simon Dedalus">—By the bye, said Mr Dedalus at length, the rector, or 
 			provincial, rather, was telling me that story about you and 
-			Father Dolan. You're an impudent thief, he said. </p>
-		<p>—O, he didn't, Simon! </p>
-		<p>—Not he! said Mr Dedalus. But he gave me a great account 
+			Father Dolan. You're an impudent thief, he said. </said></p>
+		<p><said who="Mary Dedalus">—O, he didn't, Simon! </said></p>
+		<p><said who="Simon Dedalus">—Not he! said Mr Dedalus. But he gave me a great account 
 			of the whole affair. We were chatting, you know, and one 
 			word borrowed another. And, by the way, who do you think 
 			he told me will get that job in the corporation? But I'll tell you 
 			that after. Well, as I was saying, we were chatting away quite 
 			friendly and he asked me did our friend here wear glasses still 
-			and then he told me the whole story. </p>
-		<p>—And was he annoyed, Simon? </p>
-		<p>—Annoyed! Not he! <emph>Manly little chap!</emph> he said. </p>
+			and then he told me the whole story. </said></p>
+		<p><said who="Mary Dedalus">—And was he annoyed, Simon? </said></p>
+		<p><said who="Simon Dedalus">—Annoyed! Not he! <emph>Manly little chap!</emph> he said. </said></p>
 		<p>Mr Dedalus imitated the mincing nasal tone of the provincial. </p>
-		<p>—Father Dolan and I, when I told them all at dinner about 
+		<p><said who="Simon Dedalus"></said>—Father Dolan and I, when I told them all at dinner about 
 			it, Father Dolan and I had a great laugh over it. <emph>You better
 				mind yourself, Father Dolan</emph>, said I, <emph>or young Dedalus will 
 				send you up for twice nine</emph>. We had a famous laugh together 
-			over it. Ha! Ha! Ha!</p>
+			over it. Ha! Ha! Ha!</said></p>
 		<p>Mr Dedalus turned to his wife and interjected in his natural 
 			voice: </p>
-		<p>—Shows you the spirit in which they take the boys there. 
-			O, a jesuit for your life, for diplomacy! </p>
+		<p><said who="Simon Dedalus">—Shows you the spirit in which they take the boys there. 
+			O, a jesuit for your life, for diplomacy! </said></p>
 		<p>He reassumed the provincial's voice and repeated: </p>
-		<p>—<emph>I told them all at dinner about it and Father Dolan and I
-				and all of us we had a hearty laugh together over it. Ha! Ha! Ha!</emph></p>
+		<p><said who="Simon Dedalus">—<emph>I told them all at dinner about it and Father Dolan and I
+				and all of us we had a hearty laugh together over it. Ha! Ha! Ha!</emph></said></p>
 
 		<milestone unit="section" rend="asterixes"/>
 
@@ -2660,8 +2660,8 @@
 				here, Mrs Tallon?</said> </p>
 		<p>Then, bending down to peer at the smiling painted face 
 			under the leaf of the bonnet, he exclaimed: </p>
-		<p>—No! Upon my word I believe it's little Bertie Tallon after 
-			all! </p>
+		<p><said who="a prefect">—No! Upon my word I believe it's little Bertie Tallon after 
+			all! </said></p>
 		<p>Stephen at his post by the window heard the old lady and 
 			the priest laugh together and heard the boys' murmur of 
 			admiration behind him as they passed forward to see the little 
@@ -2693,41 +2693,41 @@
 			became aware of a faint aromatic odour. Two boys were 
 			standing in the shelter of a doorway, smoking, and before he 
 			reached them he had recognised Heron by his voice. </p>
-		<p>—Here comes the noble Dedalus! cried a high throaty 
-			voice. Welcome to our trusty friend! </p>
+		<p><said who="Heron">—Here comes the noble Dedalus! cried a high throaty 
+			voice. Welcome to our trusty friend! </said></p>
 		<p>This welcome ended in a soft peal of mirthless laughter as 
 			Heron salaamed and then began to poke the ground with his 
 			cane. </p>
-		<p>—Here I am, said Stephen, halting and glancing from 
-			Heron to his friend. </p>
+		<p><said who="Stephen Dedalus">—Here I am, said Stephen, halting and glancing from 
+			Heron to his friend. </said></p>
 		<p>The latter was a stranger to him but in the darkness, by the 
 			aid of the glowing cigarettetips, he could make out a pale 
 			dandyish face, over which a smile was travelling slowly, a tall 
 			overcoated figure and a hard hat. Heron did not trouble himself 
 			about an introduction but said instead: </p>
-		<p>—I was just telling my friend Wallis what a lark it would be 
+		<p><said who="Heron">—I was just telling my friend Wallis what a lark it would be 
 			tonight if you took off the rector in the part of the schoolmaster. 
-			It would be a ripping good joke. </p>
+			It would be a ripping good joke. </said></p>
 		<p>Heron made a poor attempt to imitate for his friend Wallis 
 			the rector's pedantic bass and then, laughing at his failure, 
 			asked Stephen to do it. </p>
-		<p>—Go on, Dedalus, he urged, you can take him off rippingly. 
+		<p><said who="Heron">—Go on, Dedalus, he urged, you can take him off rippingly. 
 			<lg>
 				<l>He that will not hear the churcha let him be to theea as</l> 
 				<l>the heathena and the publicana.</l> 
 			</lg>
-		</p>
+		</said></p>
 
 		<p>The imitation was prevented by a mild expression of anger 
 			from Wallis in whose mouthpiece the cigarette had become 
 			too tightly wedged. </p>
-		<p>—Damn this blankety blank holder, he said, taking it from 
+		<p><said who="Wallis">—Damn this blankety blank holder, he said, taking it from 
 			his mouth and smiling and frowning upon it tolerantly. It's 
-			always getting stuck like that. Do you use a holder? </p>
-		<p>—I don't smoke, answered Stephen. </p>
-		<p>—No, said Heron, Dedalus is a model youth. He doesn't 
+			always getting stuck like that. Do you use a holder? </said></p>
+		<p><said who="Stephen Dedalus">—I don't smoke, answered Stephen. </said></p>
+		<p><said who="Heron">—No, said Heron, Dedalus is a model youth. He doesn't 
 			smoke and he doesn't go to bazaars and he doesn't flirt and he 
-			doesn't damn anything or damn all. </p>
+			doesn't damn anything or damn all. </said></p>
 		<p>Stephen shook his head and smiled in his rival's flushed and 
 			mobile face, beaked like a bird's. He had often thought it 
 			strange that Vincent Heron had a bird's face as well as a bird's 
@@ -2741,28 +2741,28 @@
 			been during the year the virtual heads of the school. It was 
 			they who went up to the rector together to ask for a free day 
 			or to get a fellow off. </p>
-		<p>—O by the way, said Heron suddenly, I saw your governor 
-			going in. </p>
+		<p><said who="Heron">—O by the way, said Heron suddenly, I saw your governor 
+			going in. </said></p>
 		<p>The smile waned on Stephen's face. Any allusion made to 
 			his father by a fellow or by a master put his calm to rout in a 
 			moment. He waited in timorous silence to hear what Heron 
 			might say next. Heron, however, nudged him expressively 
 			with his elbow and said: </p>
-		<p>—You're a sly dog, Dedalus! </p>
-		<p>—Why so? said Stephen. </p>
-		<p>—You'd think butter wouldn't melt in your mouth, said 
-			Heron. But I'm afraid you're a sly dog. </p>
-		<p>—Might I ask you what you are talking about? said 
-			Stephen urbanely. </p>
-		<p>—Indeed you might, answered Heron. We saw her, Wallis, 
+		<p><said who="Heron">—You're a sly dog, Dedalus! </said></p>
+		<p><said who="Stephen Dedalus">—Why so? said Stephen. </said></p>
+		<p><said who="Heron">—You'd think butter wouldn't melt in your mouth, said 
+			Heron. But I'm afraid you're a sly dog. </said></p>
+		<p><said who="Stephen Dedalus">—Might I ask you what you are talking about? said 
+			Stephen urbanely. </said></p>
+		<p><said who="Heron">—Indeed you might, answered Heron. We saw her, Wallis, 
 			didn't we? And deucedly pretty she is too. And so inquisitive! 
 			<emph>And what part does Stephen take, Mr Dedalus? And will 
 			Stephen not sing, Mr Dedalus?</emph> Your governor was staring at 
 			her through that eyeglass of his for all he was worth so that I 
 			think the old man has found you out too. I wouldn't care a 
-			bit, by Jove. She's  ripping, isn't she, Wallis? </p>
-		<p>—Not half bad, answered Wallis quietly as he placed his 
-			holder once more in the corner of his mouth. </p>
+			bit, by Jove. She's  ripping, isn't she, Wallis? </said></p>
+		<p><said who="Wallis">—Not half bad, answered Wallis quietly as he placed his 
+			holder once more in the corner of his mouth. </said></p>
 		<p>A shaft of momentary anger flew through Stephen's mind 
 			at these indelicate allusions in the hearing of a stranger. For 
 			him there was nothing amusing in a girl's interest and regard. 
@@ -2780,9 +2780,9 @@
 			eddies, wearying him in the end until the pleasantry of the 
 			prefect and the painted little boy had drawn from him a 
 			movement of impatience. </p>
-		<p>—So you may as well admit, Heron went on, that we've 
+		<p><said who="Heron">—So you may as well admit, Heron went on, that we've 
 			fairly found you out this time. You can't play the saint on me 
-			any more, that's one sure five. </p>
+			any more, that's one sure five. </said></p>
 		<p>A soft peal of mirthless laughter escaped from his lips and, 
 			bending down as before, he struck Stephen lightly across the 
 			calf of the leg with his cane, as if in jesting reproof. </p>
@@ -2792,8 +2792,8 @@
 			silly indelicateness for he knew that the adventure in his mind 
 			stood in no danger from their words: and his face mirrored his 
 			rival's false smile. </p>
-		<p>—Admit! repeated Heron, striking him again with his cane 
-			across the calf of the leg. </p>
+		<p><said who="Heron">—Admit! repeated Heron, striking him again with his cane 
+			across the calf of the leg. </admit></p>
 		<p>The stroke was playful but not so lightly given as the first 
 			one had been. Stephen felt the skin tingle and glow slightly 
 			and almost painlessly; and bowing submissively, as if to meet 
