@@ -2806,7 +2806,7 @@
 			he had noted the faint cruel dimples at the corners of Heron's 
 			smiling lips and had felt the familiar stroke of the cane against 
 			his calf and had heard the familiar word of admonition: </p>
-		<p>—Admit. </p>
+		<p><said who="Heron">—Admit. </said></p>
 		<p>It was towards the close of his first term in the college when 
 			he was in number six. His sensitive nature was still smarting 
 			under the lashes of an undivined and squalid way of life. His 
@@ -2831,7 +2831,7 @@
 		<p>On a certain Tuesday the course of his triumphs was rudely 
 			broken. Mr Tate, the English master, pointed his finger at him 
 			and said bluntly: </p>
-		<p>—This fellow has heresy in his essay. </p>
+		<p><said who="Mr Tate">—This fellow has heresy in his essay. </said></p>
 		<p>A hush fell on the class. Mr Tate did not break it but dug 
 			with his hand between his crossed thighs while his heavily 
 			starched linen creaked about his neck and wrists. Stephen did 
@@ -2840,24 +2840,24 @@
 			detection, of the squalor of his own mind and home, and felt 
 			against his neck the raw edge of his turned and jagged collar. </p>
 		<p>A short loud laugh from Mr Tate set the class more at ease. </p>
-		<p>—Perhaps you didn't know that, he said. </p>
-		<p>—Where? asked Stephen. </p>
+		<p><said who="Mr Tate">—Perhaps you didn't know that, he said. </said></p>
+		<p><said who="Stephen Dedalus">—Where? asked Stephen. </said></p>
 		<p>Mr Tate withdrew his delving hand and spread out the 
 			essay. </p>
-		<p>—Here. It's about the Creator and the soul. Rrm ... rrm 
+		<p><said who="Mr Tate">—Here. It's about the Creator and the soul. Rrm ... rrm 
 			... rrm ...  Ah! <emph>without a possibility of ever approaching 
-			nearer</emph>. That's heresy. </p>
+			nearer</emph>. That's heresy. </said></p>
 		<p>Stephen murmured: </p>
-		<p>—I meant <emph>without a possibility of ever reaching</emph>. </p>
+		<p><said who="Stephen Dedalus">—I meant <emph>without a possibility of ever reaching</emph>. </said></p>
 		<p>It was a submission and Mr Tate, appeased, folded up the 
 			essay and passed it across to him, saying: </p>
-		<p>—O ... Ah! <emph>ever reaching</emph>. That's another story. </p>
+		<p><said who="Mr Tate">—O ... Ah! <emph>ever reaching</emph>. That's another story. </said></p>
 		<p>But the class was not so soon appeased. Though nobody 
 			spoke to him of the affair after class he could feel about him a 
 			vague general malignant joy. </p>
 		<p>A few nights after this public chiding  he was walking with a 
 			letter along the Drumcondra Road when he heard a voice cry: </p>
-		<p>—Halt! </p>
+		<p><said who="Heron">—Halt! </said></p>
 		<p>He turned and saw three boys of his own class coming 
 			towards him in the dusk. It was Heron who had called out and, 
 			as he marched forward between his two attendants, he cleft 
@@ -2873,41 +2873,41 @@
 			idler of the class. In fact after some talk about their favourite 
 			writers Nash declared for Captain Marryat who, he said, was 
 			the greatest writer. </p>
-		<p>—Fudge! said Heron. Ask Dedalus. Who is the greatest 
-			writer, Dedalus? </p>
+		<p><said who="Heron">—Fudge! said Heron. Ask Dedalus. Who is the greatest 
+			writer, Dedalus? </said></p>
 		<p>Stephen noted the mockery in the question and said: </p>
-		<p>—Of prose do you mean? </p>
-		<p>—Yes. </p>
-		<p>—Newman, I think. </p>
-		<p>—Is it Cardinal Newman? asked Boland. </p>
-		<p>—Yes, answered Stephen. </p>
+		<p><said who="Stephen Dedalus">—Of prose do you mean? </said></p>
+		<p><said who="Heron">—Yes. </said></p>
+		<p><said who="Stephen Dedalus">—Newman, I think. </said></p>
+		<p><said who="Boland">—Is it Cardinal Newman? asked Boland. </said></p>
+		<p><said who="Stephen Dedalus">—Yes, answered Stephen. </said></p>
 		<p>The grin broadened on Nash's freckled face as he turned to 
 			Stephen and said: </p>
-		<p>—And do you like Cardinal Newman, Dedalus? </p>
-		<p>—O, many say that Newman has the best prose style, 
+		<p><said who="Nash">—And do you like Cardinal Newman, Dedalus? </said></p>
+		<p><said who="Heron">—O, many say that Newman has the best prose style, 
 			Heron said to the other two in explanation. Of course he's not 
-			a poet. </p>
-		<p>—And who is the best poet, Heron? asked Boland. </p>
-		<p>—Lord Tennyson, of course, answered Heron. </p>
-		<p>—O, yes, Lord Tennyson, said Nash. We have all his 
-			poetry at home in a book. </p>
+			a poet. </said></p>
+		<p><said who="Boland">—And who is the best poet, Heron? asked Boland. </said></p>
+		<p><said who="Heron">—Lord Tennyson, of course, answered Heron. </said></p>
+		<p><said who="Nash">—O, yes, Lord Tennyson, said Nash. We have all his 
+			poetry at home in a book. </said></p>
 		<p>At this Stephen forgot the silent vows he had been making 
 			and burst out: </p>
-		<p>—Tennyson a poet! Why, he's only a rhymester! </p>
-		<p>—O, get out! said Heron. Everyone knows that Tennyson 
-			is the greatest poet. </p>
-		<p>—And who do you think is the greatest poet? asked Boland, 
-			nudging his neighbour. </p>
-		<p>—Byron, of course, answered Stephen. </p>
+		<p><said who="Stephen Dedalus">—Tennyson a poet! Why, he's only a rhymester! </said></p>
+		<p><said who="Heron">—O, get out! said Heron. Everyone knows that Tennyson 
+			is the greatest poet. </said></p>
+		<p><said who="Boland">—And who do you think is the greatest poet? asked Boland, 
+			nudging his neighbour. </said></p>
+		<p><said who="Stephen Dedalus">—Byron, of course, answered Stephen. </said></p>
 		<p>Heron gave the lead and all three joined in a scornful laugh. </p>
-		<p>—What are you laughing at? asked Stephen. </p>
-		<p>—You, said Heron. Byron the greatest poet! He's only a 
-			poet for uneducated people. </p>
-		<p>—He must be a fine poet! said Boland. </p>
-		<p>—You may keep your mouth shut, said Stephen, turning on 
+		<p><said who="Stephen Dedalus">—What are you laughing at? asked Stephen. </said></p>
+		<p><said who="Heron">—You, said Heron. Byron the greatest poet! He's only a 
+			poet for uneducated people. </said></p>
+		<p><said who="Boland">—He must be a fine poet! said Boland. </said></p>
+		<p><said who="Stephen Dedalus">—You may keep your mouth shut, said Stephen, turning on 
 			him boldly. All you know about poetry is what you wrote up 
 			on the slates in the yard and were going to be sent to the loft 
-			for. </p>
+			for. </said></p>
 		<p>Boland, in fact, was said to have written on the slates in the 
 			yard a couplet about a classmate of his who often rode home 
 			from the college on a pony: </p>
@@ -2917,36 +2917,36 @@
 		</lg>
 		<p>This thrust put the two lieutenants to silence but Heron 
 			went on: </p>
-		<p>—In any case Byron was a heretic and immoral too. </p>
-		<p>—I don't care what he was, cried Stephen hotly. </p>
-		<p>—You don't care whether he was a heretic or not? said 
-			Nash. </p>
-		<p>—What do you know about it? shouted Stephen. You never 
+		<p><said who="Heron">—In any case Byron was a heretic and immoral too. </said></p>
+		<p><said who="Stephen Dedalus">—I don't care what he was, cried Stephen hotly. </said></p>
+		<p><said who="Nash">—You don't care whether he was a heretic or not? said 
+			Nash. </said></p>
+		<p><said who="Stephen Dedalus">—What do you know about it? shouted Stephen. You never 
 			read a line of anything in your life except a trans or Boland 
-			either. </p>
-		<p>—I know that Byron was a bad man, said Boland. </p>
-		<p>—Here, catch hold of this heretic, Heron called out. </p>
+			either. </said></p>
+		<p><said who="Boland">—I know that Byron was a bad man, said Boland. </said></p>
+		<p><said who="Heron">—Here, catch hold of this heretic, Heron called out. </said></p>
 		<p>In a moment Stephen was a prisoner. </p>
-		<p>—Tate made you buck up the other day, Heron went on, 
-			about the heresy in your essay. </p>
-		<p>—I'll tell him tomorrow, said Boland. </p>
-		<p>—Will you? said Stephen. You'd be afraid to open your 
-			lips. </p>
-		<p>—Afraid? </p>
-		<p>—Ay. Afraid of your life. </p>
-		<p>—Behave yourself! cried Heron, cutting at Stephen's legs 
-			with his cane. </p>
+		<p><said who="Heron">—Tate made you buck up the other day, Heron went on, 
+			about the heresy in your essay. </said></p>
+		<p><said who="Boland">—I'll tell him tomorrow, said Boland. </said></p>
+		<p><said who="Stephen Dedalus">—Will you? said Stephen. You'd be afraid to open your 
+			lips. </said></p>
+		<p><said who="Boland">—Afraid? </said></p>
+		<p><said who="Stephen Dedalus">—Ay. Afraid of your life. </said></p>
+		<p><said who="Heron">—Behave yourself! cried Heron, cutting at Stephen's legs 
+			with his cane. </said></p>
 		<p>It was the signal for their  onset. Nash pinioned his arms 
 			behind while Boland seized a long cabbage stump which was 
 			lying in the gutter. Struggling and kicking under the cuts of the 
 			cane and the blows of the knotty stump Stephen was borne 
 			back against a barbed wire fence. </p>
-		<p>—Admit that Byron was no good. </p>
-		<p>—No. </p>
-		<p>—Admit. </p>
-		<p>—No. </p>
-		<p>—Admit. </p>
-		<p>—No. No. </p>
+		<p><said who="Heron">—Admit that Byron was no good. </said></p>
+		<p><said who="Stephen Dedalus">—No. </said></p>
+		<p><said who="Heron">—Admit. </said></p>
+		<p><said who="Stephen Dedalus">—No. </said></p>
+		<p><said who="Heron">—Admit. </said></p>
+		<p><said who="Stephen Dedalus">—No. No. </said></p>
 		<p>At last after a fury of plunges he wrenched himself free. His 
 			tormentors set off towards Jones's Road, laughing and jeering 
 			at him, while he, torn and flushed and panting, stumbled after 
@@ -2980,21 +2980,21 @@
 			wave. </p>
 		<p>A boy came towards them, running along under the shed. 
 			He was excited and breathless. </p>
-		<p>—O, Dedalus, he cried, Doyle is in a great bake about 
+		<p><said who="a boy">—O, Dedalus, he cried, Doyle is in a great bake about 
 			you. You're to go in at once and get dressed for the play. 
-			Hurry up, you better. </p>
-		<p>—He's coming now, said Heron to the messenger with a 
-			haughty drawl, when he wants to. </p>
+			Hurry up, you better. </said></p>
+		<p><said who="Heron">—He's coming now, said Heron to the messenger with a 
+			haughty drawl, when he wants to. </said></p>
 		<p>The boy turned to Heron and repeated: </p>
-		<p>—But Doyle is in an awful bake. </p>
-		<p>—Will you tell Doyle with my best compliments that I 
-			damned his eyes? answered Heron. </p>
-		<p>—Well, I must go now, said Stephen, who cared little for 
-			such points of honour. </p>
-		<p>—I wouldn't, said Heron, damn me if I would. That's no 
+		<p><said who="a boy">—But Doyle is in an awful bake. </said></p>
+		<p><said who="Heron">—Will you tell Doyle with my best compliments that I 
+			damned his eyes? answered Heron. </said></p>
+		<p><said who="Stephen Dedalus">—Well, I must go now, said Stephen, who cared little for 
+			such points of honour. </said></p>
+		<p><said who="Heron">—I wouldn't, said Heron, damn me if I would. That's no 
 			way to send for one of the senior boys. In a bake, indeed! I 
 			think it's quite enough that you're taking a part in his bally old 
-			play. </p>
+			play. </said></p>
 		<p>This spirit of quarrelsome comradeship which he had observed 
 			lately in his rival had not seduced Stephen from his 
 			habits of quiet obedience. He mistrusted the turbulence and 
