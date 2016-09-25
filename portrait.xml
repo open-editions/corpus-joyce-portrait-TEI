@@ -264,7 +264,7 @@
 			from. </p>
 
 		<lg>
-			<l>Wolsey died in Leicester Abbey</l> 
+			<l>Wolsey died in <place><location><geo>52.640379 -1.132563</geo></location><placeName>Leicester Abbey</placeName></place></l> 
 			<l>Where the abbots buried him.</l> 
 			<l>Canker is a disease of plants,</l> 
 			<l>Cancer one of animals.</l> 
@@ -281,8 +281,8 @@
 			waiting for Brigid to bring in the tea. She had her feet on the 
 			fender and her jewelly slippers were so hot and they had such 
 			a lovely warm smell! Dante knew a lot of things. She had 
-			taught him where the Mozambique Channel was and what was 
-			the longest river in America and what was the name of the 
+			taught him where the <place><location><geo>-18.615949 41.280858</geo></location><placeName>Mozambique Channel</placeName></place> was and what was 
+			<place><location><geo>38.627003 -90.199404</geo></location><placeName>the longest river in America</placeName></place> and what was the name of the 
 			highest mountain in the moon. Father Arnall knew more than 
 			Dante because he was a priest but both his father and uncle 
 			Charles said that Dante was a clever woman and a wellread 
@@ -311,7 +311,7 @@
 			that name because Simon Moonan used to tie the prefect's 
 			false sleeves behind his back and the prefect used to let on to 
 			be angry. But the sound was ugly. Once he had washed his 
-			hands in the lavatory of the Wicklow Hotel and his father 
+			hands in the lavatory of the <place><location><geo>53.342872 -6.260651</geo></location><placeName>Wicklow Hotel</placeName></place> and his father 
 			pulled the stopper up by the chain after and the dirty water 
 			went down through the hole in the basin. And when it had all 
 			gone down slowly the hole in the basin had made a sound like 
@@ -385,7 +385,7 @@
 			heard the noise of the refectory every time he opened the flaps 
 			of his ears. It made a roar like a train at night. And when he 
 			closed the flaps the roar was shut off like a train going into a 
-			tunnel. That night at Dalkey the train had roared like that and 
+			tunnel. That night at <place><location><geo>53.277911 -6.105844</geo></location><placeName>Dalkey</placeName></place> the train had roared like that and 
 			then, when it went into the tunnel, the roar stopped. He closed 
 			his eyes and the train went on, roaring  and then stopping; 
 			roaring again, stopping. It was nice to hear it roar and stop 
@@ -400,7 +400,7 @@
 			game of dominos and once or twice he was able to hear for an 
 			instant the little song of the gas. The prefect was at the door 
 			with some boys and Simon Moonan was knotting his false 
-			sleeves. He was telling them something about Tullabeg. </p>
+			sleeves. He was telling them something about <place><location><geo>52.888640 -8.428450</geo></location><placeName>Tullabeg</placeName></place>. </p>
 		<p>Then he went away from the door and Wells came over to 
 			Stephen and said: </p>
 		<p><said who="Wells">—Tell us, Dedalus, do you kiss your mother before you go 
@@ -464,8 +464,8 @@
 		<lg>
 			<l>Stephen Dedalus</l> 
 			<l>Class of Elements</l> 
-			<l>Clongowes Wood College</l> 
-			<l>Sallins</l> 
+			<l><place><location><geo>53.310769 -6.684716</geo></location><placeName>Clongowes Wood College</placeName></place></l> 
+			<l><place><location><geo>53.251067 -6.665231 </geo></location><placeName>Sallins</placeName></place></l> 
 			<l>County Kildare</l> 
 			<l>Ireland</l> 
 			<l>Europe</l> 
@@ -478,7 +478,7 @@
 		<lg>
 			<l>Stephen Dedalus is my name,</l> 
 			<l>Ireland is my nation.</l> 
-			<l>Clongowes is my dwellingplace</l> 
+			<l><place><location><geo>53.310769 -6.684716</geo></location><placeName>Clongowes</placeName></place>is my dwellingplace</l> 
 			<l>And heaven my expectation.</l> 
 		</lg>
 
@@ -557,10 +557,10 @@
 			the back of the chapel at Sunday mass. That was a smell of air 
 			and rain and turf and corduroy. But they were very holy 
 			peasants. They breathed behind him on his neck and sighed as 
-			they prayed. They lived in Clane, a fellow said: there were 
+			they prayed. They lived in <place><location><geo>53.293785 -6.687040</geo></location><placeName>Clane</placeName></place>, a fellow said: there were 
 			little cottages there and he had seen a woman standing at the 
 			halfdoor of a cottage with a child in her arms, as the cars had 
-			come past from Sallins. It would be lovely to sleep for one 
+			come past from <place><location><geo>53.251067 -6.665231 </geo></location><placeName>Sallins</placeName></place>. It would be lovely to sleep for one 
 			night in that cottage before the fire of smoking turf, in the 
 			dark lit by the fire, in the warm dark, breathing the smell of 
 			the peasants, air and rain and turf and corduroy. But, O, the 
@@ -618,7 +618,7 @@
 			him and saw their master's face and cloak and knew that he 
 			had received his deathwound. But only the dark was where 
 			they looked: only dark silent air. Their master had received 
-			his deathwound on the battlefield of Prague far away over the 
+			his deathwound on the battlefield of <place><location><geo>50.075538 14.437800</geo></location><placeName>Prague</placeName></place> far away over the 
 			sea. He was standing on the field; his hand was pressed to his 
 			side; his face was pale and strange and he wore the white 
 			cloak of a marshal. </p>
@@ -643,9 +643,9 @@
 		<p>Hurray! Hurray! Hurray! </p>
 		<p>The cars drove past the chapel and all caps were raised. 
 			They drove merrily along the country roads. The drivers 
-			pointed with their whips to Bodenstown. The fellows cheered. 
+			pointed with their whips to <place><location><geo>53.262617 -6.666295</geo></location><placeName>Bodenstown</placeName></place>. The fellows cheered. 
 			They passed the farmhouse of the Jolly Farmer. Cheer after 
-			cheer after cheer. Through Clane they drove, cheering and 
+			cheer after cheer. Through <place><location><geo>53.293785 -6.687040</geo></location><placeName>Clane</placeName></place> they drove, cheering and 
 			cheered. The peasant women stood at the halfdoors, the men 
 			stood here and there. The lovely smell there was in the wintry 
 			air: the smell of Clane: rain and wintry air and turf smouldering 
@@ -655,8 +655,8 @@
 			closing, locking, unlocking the doors. They were men in dark 
 			blue and silver; they had silvery whistles and their keys made 
 			a quick music: click, click: click, click. </p>
-		<p>And the train raced on over the flat lands and past the Hill 
-			of Allen. The telegraphpoles were passing, passing. The train 
+		<p>And the train raced on over the flat lands and past the <place><location><geo>53.230556 -6.866389</geo></location><placeName>Hill 
+			of Allen</placeName></place>. The telegraphpoles were passing, passing. The train 
 			went on and on. It knew. There were coloured lanterns in the 
 			hall of his father's house and ropes of green branches. There 
 			were holly and ivy round the pierglass and holly and ivy, green 
@@ -838,7 +838,7 @@
 		<p><said who="Athy">—Mine too, he said. </said></p>
 		<p>Then he thought for a moment and said: </p>
 		<p><said who="Athy">—You have a queer name, Dedalus, and I have a queer 
-			name too, Athy. My name is the name of a town. Your name 
+			name too, <place><location><geo>52.991834 -6.985728</geo></location><placeName>Athy</placeName></place>. My name is the name of a town. Your name 
 			is like Latin. </said></p>
 		<p>Then he asked: </p>
 		<p><said who="Athy">—Are you good at riddles? </said></p>
@@ -955,7 +955,7 @@
 		<p><said who="Simon Dedalus">—Yes. Well now, that's all right. O, we had a good walk, 
 			hadn't we, John? Yes ...  I wonder if there's any likelihood 
 			of dinner this evening. Yes ....  O, well now, we got a good 
-			breath of ozone round the Head today. Ay, bedad. </said></p>
+			breath of ozone round <place><location><geo>53.190760 -6.089490</geo></location><placeName>the Head</placeName></place> today. Ay, bedad. </said></p>
 		<p>He turned to Dante and said: </p>
 		<p><said who="John Casey">—You didn't stir out at all, Mrs Riordan? </said></p>
 		<p>Dante frowned and said shortly: </p>
@@ -1018,7 +1018,7 @@
 			the edge with glistening drops. </p>
 		<p>Stephen looked at the plump turkey which had lain, trussed 
 			and skewered, on the kitchen table. He knew that his father 
-			had paid a guinea for it in Dunn's of D'Olier Street and that 
+			had paid a guinea for it in <place><location><geo>53.346308 -6.257925</geo></location><placeName>Dunn's of D'Olier Street</placeName></place> and that 
 			the man had prodded it often at the breastbone to show how 
 			good it was: and he remembered the man's voice when he had 
 			said: </p>
@@ -1035,7 +1035,7 @@
 		<p>It was his first Christmas dinner and he thought of his little 
 			brothers and sisters who were waiting in the nursery, as he had 
 			often waited, till the pudding came. The deep low collar and 
-			the Eton jacket made him feel queer and oldish: and that 
+			the <place><location><geo>51.487402 -0.607942</geo></location><placeName>Eton</placeName></place> jacket made him feel queer and oldish: and that 
 			morning when his mother had brought him down to the parlour, 
 			dressed for mass, his father had cried. That was because 
 			he was thinking of his own father. And uncle Charles had 
@@ -1149,7 +1149,7 @@
 				house where there is no respect for the pastors of the church. </said></p>
 		<p>Mr Dedalus threw his knife and fork noisily on his plate. </p>
 		<p><said who="Simon Dedalus">—Respect! he said. Is it for Billy with the lip or for the tub 
-				of guts up in Armagh? Respect! </said></p>
+			of guts up in <place><location><geo>54.350280 -6.652792</geo></location><placeMane>Armagh</placeName></place>? Respect! </said></p>
 		<p><said who="John Casey">—Princes of the church, said Mr Casey with slow scorn. </said></p>
 		<p><said who="Simon Dedalus">—Lord Leitrim's coachman, yes, said Mr Dedalus. </said></p>
 		<p><said who="Dante">—They are the Lord's anointed, Dante said. They are an 
@@ -1193,7 +1193,7 @@
 				spit? </said></p>
 		<p><said who="Simon Dedalus">—You did not, John, said Mr Dedalus. </said></p>
 		<p><said who="John Casey">—Why then, said Mr Casey, it is a most instructive story. It 
-			happened not long ago in the county Wicklow where we are 
+			happened not long ago in the <place><location><geo> 52.986231 -6.367254</geo></location><placeName>county Wicklow</placeName></place> where we are 
 			now. </said></p>
 		<p>He broke off and, turning towards Dante, said with quiet 
 			indignation: </p>
@@ -1250,7 +1250,7 @@
 			and cold and soft. That was ivory: a cold white thing. That 
 			was the meaning of <emph>Tower of Ivory</emph>. </p>
 		<p><said who="John Casey">—The story is very short and sweet, Mr Casey said. It was 
-			one day down in Arklow, a cold bitter day, not long before the 
+			one day down in <place><location><geo>52.797693 -6.159929</geo></location><placeName>Arklow</placeName></place>, a cold bitter day, not long before the 
 			chief died. May God have mercy on him! </said></p>
 		<p>He closed his eyes wearily and paused. Mr Dedalus took a 
 			bone from his plate and tore some meat from it with his teeth, 
@@ -1264,12 +1264,12 @@
 			names in the world. Well there was one old lady, and a 
 			drunken old harridan she was surely, that paid all her attention 
 			to me. She kept dancing along beside me in the mud 
-			bawling and screaming into my face: <emph>Priesthunter! The Paris 
+			bawling and screaming into my face: <emph>Priesthunter! The <place><location><geo>48.856614 2.352222</geo></location><placeName>Paris</placeName></place> 
 				Funds! Mr Fox! Kitty O'Shea!</emph> </said></p>
 		<p><said who="Simon Dedalus">—And what did you do, John? asked Mr Dedalus. </said></p>
 		<p><said who="John Casey">—I let her bawl away, said Mr Casey. It was a cold day and 
 				to keep up my heart I had (saving your presence, ma'am) a 
-				quid of Tullamore in my mouth and sure I couldn't say a word 
+			quid of <place><location><geo>53.275526 -7.493385</geo></location><placeName>Tullamore</placeName></place> in my mouth and sure I couldn't say a word 
 				in any case because my mouth was full of tobacco juice. </said></p>
 		<p><said who="Simon Dedalus">—Well, John? </said></p>
 		<p><said who="John Casey">—Well. I let her bawl away, to her heart's content, <emph>Kitty O'Shea</emph> 
@@ -1303,9 +1303,9 @@
 			remembered that one night Sergeant O'Neill had come to the 
 			house and had stood in the hall, talking in a low voice with his 
 			father and chewing nervously at the chinstrap of his cap. And 
-			that night Mr Casey had not gone to Dublin by train but a car 
+			that night Mr Casey had not gone to <place><location><geo>53.349805 -6.260310 </geo></location><placeName>Dublin</placeName></place> by train but a car 
 			had come to the door and he had heard his father say something 
-			about the Cabinteely road. </p>
+			about <place><location><geo>53.265647 -6.156109</geo></location><placeName>the Cabinteely road</placeName></place>. </p>
 		<p>He was for Ireland and Parnell and so was his father: and 
 			so was Dante too for one night at the band on the esplanade 
 			she had hit a gentleman on the head with her umbrella because 
@@ -1403,7 +1403,7 @@
 
 		<p>The fellows talked together in little groups. </p>
 		<p>One fellow said: </p>
-		<p><said who="a fellow">—They were caught near the Hill of Lyons. </said></p>
+		<p><said who="a fellow">—They were caught near the <place><location><geo>53.290670 -6.535060</geo></location><placeName>Hill of Lyons</placeName></place>. </said></p>
 		<p><said who="a fellow">—Who caught them? </said></p>
 		<p><said who="a fellow">—Mr Gleeson and the minister. They were on a car. </said></p>
 		<p>The same fellow added: </p>
@@ -1913,8 +1913,8 @@
 			himself was on the first page in a picture. There was a road 
 			over a heath with grass at the side and little bushes: and Peter 
 			Parley had a broad hat like a protestant minister and a big 
-			stick and he was walking fast along the road to Greece and 
-			Rome. </p>
+			stick and he was walking fast along the road to <place><location><geo>39.074208 21.824312</geo></location><placeName>Greece</placeName></place> and 
+			<place><location><geo>41.902783 12.496366</geo></location><placeName>Rome</placeName></place>. </p>
 		<p>It was easy what he had to do. All he had to do  was when 
 			the dinner was over and he came out in his turn to go on 
 			walking but not out to the corridor but up the staircase on the 
@@ -2109,7 +2109,7 @@
 		<p>The air was soft and grey and mild and evening was coming. 
 			There was the smell of evening in the air, the smell of the 
 			fields in the country where they digged up turnips to peel them 
-			and eat them when they went out for a walk to Major Barton's, 
+			and eat them when they went out for a walk to <place><location><geo>53.257926 -6.585225</geo></location><placeName>Major Barton's</placeName></place>, 
 			the smell there was in the little wood beyond the pavilion 
 			where the gallnuts were. </p>
 		<p>The fellows were practising long shies and bowing lobs and 
