@@ -2155,7 +2155,7 @@
 			Charles was Stephen's constant companion. Uncle Charles 
 			was a hale old man with a welltanned skin, rugged features 
 			and white side whiskers. On week days he did messages between 
-			the house in Carysfort Avenue and those shops in the 
+			the house in <place><location><geo>53.293248, -6.180109</geo></location><placeName>Carysfort Avenue</placeName></place> and those shops in the 
 			main street of the town with which the family dealt. Stephen 
 			was glad to go with him on these errands for uncle Charles 
 			helped him very liberally to handfuls of whatever was exposed 
@@ -2205,10 +2205,10 @@
 		<p>On Sundays Stephen with his father and his granduncle 
 			took their constitutional. The old man was a nimble walker in 
 			spite of his corns and often ten or twelve miles of the road 
-			were covered. The little village of Stillorgan was the parting of 
+			were covered. The little village of <place><location><geo>53.287857, -6.203573</geo></location><placeName>Stillorgan</placeName></place> was the parting of 
 			the ways. Either they went to the left towards the Dublin 
-			mountains or along the Goatstown road and thence into 
-			Dundrum, coming home by Sandyford. Trudging along the 
+			mountains or along the <place><location><geo>53.297702, -6.233964</geo></location><placeName>Goatstown road</placeName></place> and thence into 
+			<place><location><geo>53.289154, -6.243264</geo></location><placeName>Dundrum</placeName></place>, coming home by  <place><location><geo>53.269979, -6.224923</geo></location><placeName>Sandyford</placeName></place>. Trudging along the 
 			road or standing in some grimy wayside publichouse his elders 
 			spoke constantly of the subjects nearer their hearts, of Irish 
 			politics, of Munster and of the legends of their own family, to 
