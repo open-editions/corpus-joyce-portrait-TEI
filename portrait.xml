@@ -226,7 +226,7 @@
 			and her nose and eyes were red. But he had pretended not to 
 			see that she was going to cry. She was a nice mother but she 
 			was not so nice when she cried. And his father had given him 
-			two fiveshilling pieces for pocket money. And his father had 
+			two <seg type="neologism">fiveshilling</seg> pieces for pocket money. And his father had 
 			told him if he wanted anything to write home to him and, 
 			whatever he did, never to peach on a fellow. Then at the door 
 			of the castle the rector had shaken hands with his father and 
@@ -246,11 +246,11 @@
 			yellow boots dodged out the ball and all the other boots 
 			and legs ran after. He ran after them a little way and then 
 			stopped. It was useless to run on. Soon they would be going 
-			home for the holidays. After supper in the studyhall he would 
-			change the number pasted up inside his desk from seventyseven 
-			to seventysix. </p>
-		<p>It would be better to be in the studyhall than out there in 
-			the cold. The sky was pale and cold but there were lights in 
+			home for the holidays. After supper in the <seg type="neologism">studyhall</seg> 
+			he would change the number pasted up inside his desk from <seg type="neologism">seventyseven</seg> 
+			to <seg type="neologism">seventysix</seg>. </p>
+		<p>It would be better to be in the <seg type="neologism">studyhall</seg>
+			than out there in the cold. The sky was pale and cold but there were lights in 
 			the castle. He wondered from which window Hamilton Rowan 
 			had thrown his hat on the haha and had there been flowerbeds 
 			at that time under the windows. One day when he had been 
@@ -258,13 +258,13 @@
 			soldiers' slugs in the wood of the door and had given him a 
 			piece of shortbread that the community ate. It was nice and 
 			warm to see the lights in the castle. It was like something in a 
-			book. Perhaps Leicester Abbey was like that. And there were 
+			book. Perhaps <place><location><geo>52.640379 -1.132563</geo></location><placeName>Leicester Abbey</placeName></place> was like that. And there were 
 			nice sentences in Doctor Cornwell's Spelling Book. They were 
 			like poetry but they were only sentences to learn the spelling 
 			from. </p>
 
 		<lg>
-			<l>Wolsey died in Leicester Abbey</l> 
+			<l>Wolsey died in <place><location><geo>52.640379 -1.132563</geo></location><placeName>Leicester Abbey</placeName></place></l> 
 			<l>Where the abbots buried him.</l> 
 			<l>Canker is a disease of plants,</l> 
 			<l>Cancer one of animals.</l> 
@@ -274,18 +274,18 @@
 			leaning his head upon his hands, and think on those sentences. 
 			He shivered as if he had cold slimy water next his skin. That 
 			was mean of Wells to shoulder him into the square ditch 
-			because he would not swop his little snuffbox for Wells's 
-			seasoned hacking chestnut, the conqueror of forty. How cold 
+			because he would not swop his little <seg type="neologism">snuffbox</seg> 
+			for Wells's seasoned hacking chestnut, the conqueror of forty. How cold 
 			and slimy the water had been! A fellow had once seen a big rat 
 			jump into the scum. Mother was sitting at the fire with Dante 
 			waiting for Brigid to bring in the tea. She had her feet on the 
 			fender and her jewelly slippers were so hot and they had such 
 			a lovely warm smell! Dante knew a lot of things. She had 
-			taught him where the Mozambique Channel was and what was 
-			the longest river in America and what was the name of the 
+			taught him where the <place><location><geo>-18.615949 41.280858</geo></location><placeName>Mozambique Channel</placeName></place> was and what was 
+			<place><location><geo>38.627003 -90.199404</geo></location><placeName>the longest river in America</placeName></place> and what was the name of the 
 			highest mountain in the moon. Father Arnall knew more than 
 			Dante because he was a priest but both his father and uncle 
-			Charles said that Dante was a clever woman and a wellread 
+			Charles said that Dante was a clever woman and a <seg type="neologism">wellread</seg> 
 			woman. And when Dante made that noise after dinner and 
 			then put up her hand to her mouth: that was heartburn. </p>
 		<p>A voice cried far out on the playground: </p>
@@ -311,7 +311,7 @@
 			that name because Simon Moonan used to tie the prefect's 
 			false sleeves behind his back and the prefect used to let on to 
 			be angry. But the sound was ugly. Once he had washed his 
-			hands in the lavatory of the Wicklow Hotel and his father 
+			hands in the lavatory of the <place><location><geo>53.342872 -6.260651</geo></location><placeName>Wicklow Hotel</placeName></place> and his father 
 			pulled the stopper up by the chain after and the dirty water 
 			went down through the hole in the basin. And when it had all 
 			gone down slowly the hole in the basin had made a sound like 
@@ -385,7 +385,7 @@
 			heard the noise of the refectory every time he opened the flaps 
 			of his ears. It made a roar like a train at night. And when he 
 			closed the flaps the roar was shut off like a train going into a 
-			tunnel. That night at Dalkey the train had roared like that and 
+			tunnel. That night at <place><location><geo>53.277911 -6.105844</geo></location><placeName>Dalkey</placeName></place> the train had roared like that and 
 			then, when it went into the tunnel, the roar stopped. He closed 
 			his eyes and the train went on, roaring  and then stopping; 
 			roaring again, stopping. It was nice to hear it roar and stop 
@@ -400,7 +400,7 @@
 			game of dominos and once or twice he was able to hear for an 
 			instant the little song of the gas. The prefect was at the door 
 			with some boys and Simon Moonan was knotting his false 
-			sleeves. He was telling them something about Tullabeg. </p>
+			sleeves. He was telling them something about <place><location><geo>52.888640 -8.428450</geo></location><placeName>Tullabeg</placeName></place>. </p>
 		<p>Then he went away from the door and Wells came over to 
 			Stephen and said: </p>
 		<p><said who="Wells">—Tell us, Dedalus, do you kiss your mother before you go 
@@ -424,11 +424,11 @@
 			mother but he did not dare to raise his eyes to Wells's face. He 
 			did not like Wells's face. It was Wells who had shouldered him 
 			into the square ditch the day before because he would not 
-			swop his little snuffbox for Wells's seasoned hacking chestnut, 
-			the conqueror of forty. It was a mean thing to do; all the 
-			fellows said it was. And how cold and slimy the water had 
-			been! And a fellow had once seen a big rat jump plop into the 
-			scum. </p>
+			swop his little <seg type="neologism">snuffbox</seg> for Wells's 
+			seasoned hacking chestnut, the conqueror of forty. It was a 
+			mean thing to do; all the fellows said it was. And how cold 
+			and slimy the water had been! And a fellow had once seen a big 
+			rat jump plop into the scum. </p>
 		<p>The cold slime of the ditch covered his whole body; and, 
 			when the bell rang for study and the lines filed out of the 
 			playrooms, he felt the cold air of the corridor and staircase 
@@ -440,10 +440,11 @@
 			her lips were soft and they wetted his cheek; and they made a 
 			tiny little noise: kiss. Why did people do that with their two 
 			faces? </p>
-		<p>Sitting in the studyhall he opened the lid of his desk and 
-			changed the number pasted up inside from seventyseven to 
-			seventysix. But the Christmas vacation was very far away: but 
-			one time it would come because the earth moved round always. </p>
+		<p>Sitting in the <seg type="neologism">studyhall</seg> he opened the lid of 
+			his desk and changed the number pasted up inside from <seg type="neologism">seventyseven</seg> 
+			to <seg type="neologism">seventysix</seg>. But the Christmas vacation 
+			was very far away: but one time it would come because the earth 
+			moved round always. </p>
 		<p>There was a picture of the earth on the first page of his 
 			geography: a big ball in the middle of clouds. Fleming had a 
 			box of crayons and one night during free study he had coloured 
@@ -464,8 +465,8 @@
 		<lg>
 			<l>Stephen Dedalus</l> 
 			<l>Class of Elements</l> 
-			<l>Clongowes Wood College</l> 
-			<l>Sallins</l> 
+			<l><place><location><geo>53.310769 -6.684716</geo></location><placeName>Clongowes Wood College</placeName></place></l> 
+			<l><place><location><geo>53.251067 -6.665231 </geo></location><placeName>Sallins</placeName></place></l> 
 			<l>County Kildare</l> 
 			<l>Ireland</l> 
 			<l>Europe</l> 
@@ -478,7 +479,7 @@
 		<lg>
 			<l>Stephen Dedalus is my name,</l> 
 			<l>Ireland is my nation.</l> 
-			<l>Clongowes is my dwellingplace</l> 
+			<l><place><location><geo>53.310769 -6.684716</geo></location><placeName>Clongowes</placeName></place>is my <seg type="neologism">dwellingplace</seg></l> 
 			<l>And heaven my expectation.</l> 
 		</lg>
 
@@ -533,7 +534,7 @@
 			up from the cold shivering sheets, warmer and warmer till 
 			he felt warm all over, ever so warm; ever so warm and yet he 
 			shivered a little and still wanted to yawn. </p>
-		<p>The bell rang for night prayers and he filed out of the studyhall 
+		<p>The bell rang for night prayers and he filed out of the <seg type="neologism">studyhall</seg> 
 			after the others and down the staircase and along the 
 			corridors to the chapel. The corridors were darkly lit and the 
 			chapel was darkly lit. Soon all would be dark and sleeping. 
@@ -557,10 +558,10 @@
 			the back of the chapel at Sunday mass. That was a smell of air 
 			and rain and turf and corduroy. But they were very holy 
 			peasants. They breathed behind him on his neck and sighed as 
-			they prayed. They lived in Clane, a fellow said: there were 
+			they prayed. They lived in <place><location><geo>53.293785 -6.687040</geo></location><placeName>Clane</placeName></place>, a fellow said: there were 
 			little cottages there and he had seen a woman standing at the 
-			halfdoor of a cottage with a child in her arms, as the cars had 
-			come past from Sallins. It would be lovely to sleep for one 
+			<seg type="neologism">halfdoor</seg> of a cottage with a child in her arms, as the cars had 
+			come past from <place><location><geo>53.251067 -6.665231 </geo></location><placeName>Sallins</placeName></place>. It would be lovely to sleep for one 
 			night in that cottage before the fire of smoking turf, in the 
 			dark lit by the fire, in the warm dark, breathing the smell of 
 			the peasants, air and rain and turf and corduroy. But, O, the 
@@ -606,26 +607,26 @@
 		<p>The prefect's shoes went away. Where? Down the staircase 
 			and along the corridors or to his room at the end? He saw the 
 			dark. Was it true about the black dog that walked there at 
-			night with eyes as big as carriagelamps? They said it was the 
-			ghost of a murderer. A long shiver of fear flowed over his 
-			body. He saw the dark entrance hall of the castle. Old servants 
-			in old dress were in the ironingroom above the staircase. It 
-			was long ago. The old servants were quiet. There was a fire 
+			night with eyes as big as <seg type="neologism">carriagelamps</seg>? 
+			They said it was the ghost of a murderer. A long shiver of fear flowed 
+			over his body. He saw the dark entrance hall of the castle. Old servants 
+			in old dress were in the <seg type="neologism">ironingroom</seg> above the 
+			staircase. It was long ago. The old servants were quiet. There was a fire 
 			there but the hall was still dark. A figure came up the staircase 
 			from the hall. He wore the white cloak of a marshal; his face 
 			was pale and strange; he held his hand pressed to his side. He 
 			looked out of strange eyes at the old servants. They looked at 
 			him and saw their master's face and cloak and knew that he 
-			had received his deathwound. But only the dark was where 
+			had received his <seg type="neologism">deathwound</seg>. But only the dark was where 
 			they looked: only dark silent air. Their master had received 
-			his deathwound on the battlefield of Prague far away over the 
+			his <seg type="neologism">deathwound</seg> on the battlefield of <place><location><geo>50.075538 14.437800</geo></location><placeName>Prague</placeName></place> far away over the 
 			sea. He was standing on the field; his hand was pressed to his 
 			side; his face was pale and strange and he wore the white 
 			cloak of a marshal. </p>
 		<p>O how cold and strange it was to think of that! All the dark 
 			was cold and strange. There were pale strange faces there, 
-			great eyes like carriagelamps. They were the ghosts of murderers, 
-			the figures of marshals who had received their deathwound 
+			great eyes like <seg type="neologism">carriagelamps</seg>. They were the ghosts of murderers, 
+			the figures of marshals who had received their <seg type="neologism">deathwound</seg> 
 			on battlefields far away over the sea. What did they 
 			wish to say that their faces were so strange? </p>
 
@@ -643,10 +644,10 @@
 		<p>Hurray! Hurray! Hurray! </p>
 		<p>The cars drove past the chapel and all caps were raised. 
 			They drove merrily along the country roads. The drivers 
-			pointed with their whips to Bodenstown. The fellows cheered. 
+			pointed with their whips to <place><location><geo>53.262617 -6.666295</geo></location><placeName>Bodenstown</placeName></place>. The fellows cheered. 
 			They passed the farmhouse of the Jolly Farmer. Cheer after 
-			cheer after cheer. Through Clane they drove, cheering and 
-			cheered. The peasant women stood at the halfdoors, the men 
+			cheer after cheer. Through <place><location><geo>53.293785 -6.687040</geo></location><placeName>Clane</placeName></place> they drove, cheering and 
+			cheered. The peasant women stood at the <seg type="neologism">halfdoors</seg>, the men 
 			stood here and there. The lovely smell there was in the wintry 
 			air: the smell of Clane: rain and wintry air and turf smouldering 
 			and corduroy. </p>
@@ -655,11 +656,11 @@
 			closing, locking, unlocking the doors. They were men in dark 
 			blue and silver; they had silvery whistles and their keys made 
 			a quick music: click, click: click, click. </p>
-		<p>And the train raced on over the flat lands and past the Hill 
-			of Allen. The telegraphpoles were passing, passing. The train 
+		<p>And the train raced on over the flat lands and past the <place><location><geo>53.230556 -6.866389</geo></location><placeName>Hill 
+			of Allen</placeName></place>. The <seg type="neologism">telegraphpoles</seg> were passing, passing. The train 
 			went on and on. It knew. There were coloured lanterns in the 
 			hall of his father's house and ropes of green branches. There 
-			were holly and ivy round the pierglass and holly and ivy, green 
+			were holly and ivy round the <seg type="neologism">pierglass</seg> and holly and ivy, green 
 			and red, twined round the chandeliers. There were red holly 
 			and green ivy round the old portraits on the walls. Holly and 
 			ivy for him and for Christmas. </p>
@@ -669,7 +670,7 @@
 			marshal now: higher than a magistrate. Welcome home, 
 			Stephen! </p>
 		<p>Noises ... </p>
-		<p>There was a noise of curtainrings running back along the 
+		<p>There was a noise of <seg type="neologism">curtainrings</seg> running back along the 
 			rods, of water being splashed in the basins. There was a noise 
 			of rising and dressing and washing in the dormitory: a noise of 
 			clapping of hands as the prefect went up and down telling the 
@@ -738,7 +739,7 @@
 		<p><said who="the prefect">—Quick march! Hayfoot! Strawfoot! </said></p>
 		<p>They went together down the staircase and along the corridor 
 			and past the bath. As he passed the door he remembered 
-			with a vague fear the warm turfcoloured bogwater, the warm 
+			with a vague fear the warm <seg type="neologism">turfcoloured</seg> bogwater, the warm 
 			moist air, the noise of plunges, the smell of the towels, like 
 			medicine. </p>
 		<p>Brother Michael was standing at the door of the infirmary 
@@ -765,7 +766,7 @@
 		<p>Brother Michael repeated: </p>
 		<p><said who="Athy">—You'll get your walking papers, I tell you. </said></p>
 		<p>He bent down to rake the fire. He had a long back like the 
-			long back of a tramhorse. He shook the poker gravely and 
+			long back of a <seg type="neologism">tramhorse</seg>. He shook the poker gravely and 
 			nodded his head at the fellow out of third of grammar. </p>
 		<p>Then Brother Michael went away and after a while the 
 			fellow out of third of grammar turned in towards the wall and 
@@ -818,8 +819,8 @@
 			beautiful and sad, like music. The bell! The bell! Farewell! O 
 			farewell! </p>
 		<p>The cold sunlight was weaker and Brother Michael was 
-			standing at his bedside with a bowl of beeftea. He was glad for 
-			his mouth was hot and dry. He could hear them playing on the 
+			standing at his bedside with a bowl of <seg type="neologism">beeftea</seg>. 
+			He was glad for his mouth was hot and dry. He could hear them playing on the 
 			playgrounds. And the day was going on in the college just as if 
 			he were there. </p>
 		<p>Then Brother Michael was going away and the fellow out of 
@@ -838,7 +839,7 @@
 		<p><said who="Athy">—Mine too, he said. </said></p>
 		<p>Then he thought for a moment and said: </p>
 		<p><said who="Athy">—You have a queer name, Dedalus, and I have a queer 
-			name too, Athy. My name is the name of a town. Your name 
+			name too, <place><location><geo>52.991834 -6.985728</geo></location><placeName>Athy</placeName></place>. My name is the name of a town. Your name 
 			is like Latin. </said></p>
 		<p>Then he asked: </p>
 		<p><said who="Athy">—Are you good at riddles? </said></p>
@@ -879,7 +880,7 @@
 			old dress. It seemed to him a solemn time: and he wondered if 
 			that was the time when the fellows in Clongowes wore blue 
 			coats with brass buttons and yellow waistcoats and caps of 
-			rabbitskin and drank beer like grownup people and kept 
+			<seg type="neologism">rabbitskin</seg> and drank beer like grownup people and kept 
 			greyhounds of their own to course the hares with. </p>
 		<p>He looked at the window and saw that the daylight had 
 			grown weaker. There would be cloudy grey light over the 
@@ -892,7 +893,7 @@
 			infirmary. But he felt better now than before. It would be nice 
 			getting better slowly. You could get a book then. There was a 
 			book in the library about Holland. There were lovely foreign 
-			names in it and pictures of strangelooking cities and ships. It 
+			names in it and pictures of <seg type="neologism">strangelooking</seg> cities and ships. It 
 			made you feel so happy. </p>
 		<p>How pale the light was at the window! But that was nice. 
 			The fire rose and fell on the wall. It was like waves. Someone 
@@ -925,7 +926,7 @@
 	<div n="1.3" type="section"> 
 
 		<p>A great fire, banked high and red, flamed in the grate and 
-			under the ivytwined branches of the chandelier the Christmas 
+			under the <seg type="neologism">ivytwined</seg> branches of the chandelier the Christmas 
 			table was spread. They had come home a little late and still 
 			dinner was not ready: but it would be ready in a jiffy, his 
 			mother had said. They were waiting for the door to open and 
@@ -933,9 +934,9 @@
 			with their heavy metal covers. </p>
 		<p>All were waiting: uncle Charles, who sat far away in the 
 			shadow of the window, Dante and Mr Casey, who sat in the 
-			easychairs at either side of the hearth, Stephen, seated on a 
+			<seg type="neologism">easychairs</seg> at either side of the hearth, Stephen, seated on a 
 			chair between them, his feet resting on the toasted boss. Mr 
-			Dedalus looked at himself in the pierglass above the mantelpiece, 
+			Dedalus looked at himself in the <seg type="neologism">pierglass</seg> above the mantelpiece, 
 			waxed out his moustache-ends and then, parting his 
 			coattails, stood with his back to the glowing fire: and still, 
 			from time to time, he withdrew a hand from his coattail to 
@@ -955,7 +956,7 @@
 		<p><said who="Simon Dedalus">—Yes. Well now, that's all right. O, we had a good walk, 
 			hadn't we, John? Yes ...  I wonder if there's any likelihood 
 			of dinner this evening. Yes ....  O, well now, we got a good 
-			breath of ozone round the Head today. Ay, bedad. </said></p>
+			breath of ozone round <place><location><geo>53.190760 -6.089490</geo></location><placeName>the Head</placeName></place> today. Ay, bedad. </said></p>
 		<p>He turned to Dante and said: </p>
 		<p><said who="John Casey">—You didn't stir out at all, Mrs Riordan? </said></p>
 		<p>Dante frowned and said shortly: </p>
@@ -998,7 +999,7 @@
 		<p><said who="Simon Dedalus">—Now then, sir, there's a bird here waiting for you. </said></p>
 		<p>When all had taken their seats he laid his hand on the cover 
 			and then said quickly, withdrawing it: </p>
-		<p><said who="Simon Dedalus">—Now, Stephen. </said></p>
+		<p><said who="Simon Dedalus">—Now, <persName>Stephen</persName>. </said></p>
 		<p>Stephen stood up in his place to say the grace before meals: </p>
 
 		<p>
@@ -1013,17 +1014,17 @@
 		</seg>
 		</p>
 
-		<p>All blessed themselves and Mr Dedalus with a sigh of 
+		<p>All blessed themselves and <persName>Mr Dedalus</persName> with a sigh of 
 			pleasure lifted from the dish the heavy cover pearled around 
 			the edge with glistening drops. </p>
-		<p>Stephen looked at the plump turkey which had lain, trussed 
+		<p><persName>Stephen</persName> looked at the plump turkey which had lain, trussed 
 			and skewered, on the kitchen table. He knew that his father 
-			had paid a guinea for it in Dunn's of D'Olier Street and that 
+			had paid a guinea for it in <place><location><geo>53.346308 -6.257925</geo></location><placeName>Dunn's of D'Olier Street</placeName></place> and that 
 			the man had prodded it often at the breastbone to show how 
 			good it was: and he remembered the man's voice when he had 
 			said: </p>
 		<p><said who="the butcher">—Take that one, sir. That's the real Ally Daly. </said></p>
-		<p>Why did Mr Barrett in Clongowes call his pandybat a 
+		<p>Why did <persName>Mr Barrett</persName> in Clongowes call his pandybat a 
 			turkey? But Clongowes was far away: and the warm heavy 
 			smell of turkey and ham and celery rose from the plates and 
 			dishes and the great fire was banked high and red in the grate 
@@ -1035,87 +1036,87 @@
 		<p>It was his first Christmas dinner and he thought of his little 
 			brothers and sisters who were waiting in the nursery, as he had 
 			often waited, till the pudding came. The deep low collar and 
-			the Eton jacket made him feel queer and oldish: and that 
+			the <place><location><geo>51.487402 -0.607942</geo></location><placeName>Eton</placeName></place> jacket made him feel queer and oldish: and that 
 			morning when his mother had brought him down to the parlour, 
 			dressed for mass, his father had cried. That was because 
-			he was thinking of his own father. And uncle Charles had 
+			he was thinking of his own father. And <persName>uncle Charles</persName> had 
 			said so too. </p>
-		<p>Mr Dedalus covered the dish and began to eat hungrily. 
+		<p><persName>Mr Dedalus</persName> covered the dish and began to eat hungrily. 
 			Then he said: </p>
 		<p><said who="Simon Dedalus">—Poor old Christy, he's nearly lopsided now with roguery. </said></p>
-		<p><said who="Mary Dedalus">—Simon, said Mrs Dedalus, you haven't given Mrs Riordan 
+		<p><said who="Mary Dedalus">—<persName>Simon</persName>, said <persName>Mrs Dedalus</persName>, you haven't given <persName>Mrs Riordan</persName> 
 				any sauce. </said></p>
-		<p>Mr Dedalus seized the sauceboat. </p>
-		<p><said who="Simon Dedalus">—Haven't I?  he cried. Mrs Riordan, pity the poor blind. </said></p>
-		<p>Dante covered her plate with her hands and said: </p>
+		<p><persName>Mr Dedalus</persName> seized the sauceboat. </p>
+		<p><said who="Simon Dedalus">—Haven't I?  he cried. <persName>Mrs Riordan</persName>, pity the poor blind. </said></p>
+		<p><persName>Dante</persName> covered her plate with her hands and said: </p>
 		<p><said who="Dante">—No, thanks. </said></p>
-		<p>Mr Dedalus turned to uncle Charles. </p>
+		<p><persName>Mr Dedalus</persName> turned to <persName>uncle Charles</persName>. </p>
 		<p><said who="Simon Dedalus">—How are you off, sir? </said></p>
-		<p><said who="Uncle Charles">—Right as the mail, Simon. </said></p>
-		<p><said who="Simon Dedalus">—You, John? </said></p>
+		<p><said who="Uncle Charles">—Right as the mail, <persName>Simon</persName>. </said></p>
+		<p><said who="Simon Dedalus">—You, <persName>John</persName>? </said></p>
 		<p><said who="John Casey">—I'm all right. Go on yourself. </said></p>
-		<p><said who="Simon Dedalus">—Mary? Here, Stephen, here's something to make your 
+		<p><said who="Simon Dedalus">—Mary? Here, <persName>Stephen</persName>, here's something to make your 
 				hair curl. </said></p>
-		<p>He poured sauce freely over Stephen's plate and set the 
-			boat again on the table. Then he asked uncle Charles was it 
-			tender. Uncle Charles could not speak because his mouth 
+		<p>He poured sauce freely over <persName>Stephen</persName>'s plate and set the 
+			boat again on the table. Then he asked <persName>uncle Charles</persName> was it 
+			tender. <persName>Uncle Charles</persName> could not speak because his mouth 
 			was full but he nodded that it was. </p>
 		<p><said who="Simon Dedalus">—That was a good answer our friend made to the canon. 
-				What? said Mr Dedalus. </said></p>
-		<p><said who="John Casey">—I didn't think he had that much in him, said Mr Casey. </said></p>
+				What? said <persName>Mr Dedalus</persName>. </said></p>
+		<p><said who="John Casey">—I didn't think he had that much in him, said <persName>Mr Casey</persName>. </said></p>
 		<p><said who="Simon Dedalus">—<quote>I'll pay you your dues, father, when you cease turning the
-						house of God into a pollingbooth.</quote></said></p>
-		<p><said who="Dante">—A nice answer, said Dante, for any man calling himself a 
+			house of God into a <seg type="neologism">pollingbooth</seg>.</quote></said></p>
+		<p><said who="Dante">—A nice answer, said <persName>Dante</persName>, for any man calling himself a 
 				catholic to give to his priest. </said></p>
-		<p><said who="Simon Dedalus">—They have only themselves to blame, said Mr Dedalus 
+		<p><said who="Simon Dedalus">—They have only themselves to blame, said <persName>Mr Dedalus</persName> 
 			suavely. If they took a fool's advice they would confine their 
 			attention to religion. </said></p>
 		<p><said who="Dante">—It is religion, Dante said. They are doing their duty in 
 			warning the people. </said></p>
-		<p><said who="John Casey">—We go to the house of God, Mr Casey said, in all humility 
+		<p><said who="John Casey">—We go to the house of God, <persName>Mr Casey</persName> said, in all humility 
 			to pray to our Maker and not to hear election addresses. </said></p>
-		<p><said who="Dante">—It is religion, Dante said again. They are right. They must 
+		<p><said who="Dante">—It is religion, <persName>Dante</persName> said again. They are right. They must 
 			direct their flocks. </said></p>
-		<p><said who="Simon Dedalus">—And preach politics from the altar, is it? asked Mr Dedalus. </said></p>
-		<p><said who="Dante">—Certainly, said Dante. It is a question of public morality. 
+		<p><said who="Simon Dedalus">—And preach politics from the altar, is it? asked <persName>Mr Dedalus</persName>. </said></p>
+		<p><said who="Dante">—Certainly, said <persName>Dante</persName>. It is a question of public morality. 
 			A priest would not be a priest if he did not tell his flock what is 
 			right and what is wrong. </said></p>
-		<p>Mrs Dedalus laid down her knife and fork, saying: </p>
+		<p><persName>Mrs Dedalus</persName> laid down her knife and fork, saying: </p>
 		<p><said who="Mary Dedalus">—For pity's sake and for pity sake let us have no political 
 				discussion on this day of all days in the year. </said></p>
-		<p><said who="Uncle Charles">—Quite right, ma'am, said uncle Charles. Now, Simon, 
+		<p><said who="Uncle Charles">—Quite right, ma'am, said <persName>uncle Charles</persName>. Now, <persName>Simon</persName>, 
 				that's quite enough now. Not another word now. </said></p>
-		<p><said who="Simon Dedalus">—Yes, yes, said Mr Dedalus quickly. </said></p>
+		<p><said who="Simon Dedalus">—Yes, yes, said <persName>Mr Dedalus</persName> quickly. </said></p>
 		<p>He uncovered the dish boldly and said: </p>
 		<p><said who="Simon Dedalus">—Now then, who's for more turkey? </said></p>
-		<p>Nobody answered. Dante said: </p>
+		<p>Nobody answered. <persName>Dante</persName> said: </p>
 		<p><said who="Dante">—Nice language for any catholic to use! </said></p>
-		<p><said who="Mary Dedalus">—Mrs Riordan, I appeal to you, said Mrs Dedalus, to let 
+		<p><said who="Mary Dedalus">—<persName>Mrs Riordan</persName>, I appeal to you, said <persName>Mrs Dedalus</persName>, to let 
 				the matter drop now. </said></p>
-		<p>Dante turned on her and said: </p>
+		<p><persName>Dante</persName> turned on her and said: </p>
 		<p><said who="Dante">—And am I to sit here and listen to the pastors of my 
 				church being flouted? </said></p>
-		<p><said who="Simon Dedalus">—Nobody is saying a word against them, said Mr Dedalus, 
+		<p><said who="Simon Dedalus">—Nobody is saying a word against them, said <persName>Mr Dedalus</persName>, 
 				so long as they don't meddle in politics. </said></p>
 		<p><said who="Dante">—The bishops and priests of Ireland have spoken, said 
-				Dante, and they must be obeyed. </said></p>
-		<p><said who="John Casey">—Let them leave politics alone, said Mr Casey, or the 
+				<persName>Dante</persName>, and they must be obeyed. </said></p>
+		<p><said who="John Casey">—Let them leave politics alone, said <persName>Mr Casey</persName>, or the 
 				people may leave their church alone. </said></p>
-		<p><said who="Dante">—You hear? said Dante turning to Mrs Dedalus. </said></p>
-		<p><said who="Mary Dedalus">—Mr Casey! Simon! said Mrs Dedalus. Let it end now. </said></p>
-		<p><said who="Uncle Charles">—Too bad! Too bad! said uncle Charles. </said></p>
-		<p><said who="Simon Dedalus">—What? cried Mr Dedalus. Were we to desert him at the 
+		<p><said who="Dante">—You hear? said <persName>Dante</persName> turning to <persName>Mrs Dedalus</persName>. </said></p>
+		<p><said who="Mary Dedalus">—<persName>Mr Casey</persName>! <persName>Simon<persName/>! said <persName>Mrs Dedalus</persName>. Let it end now. </said></p>
+		<p><said who="Uncle Charles">—Too bad! Too bad! said <persName>uncle Charles</persName>. </said></p>
+		<p><said who="Simon Dedalus">—What? cried <persName>Mr Dedalus</persName>. Were we to desert him at the 
 				bidding of the English people? </said></p>
-		<p><said who="Dante">—He was no longer worthy to lead, said Dante. He was a 
+		<p><said who="Dante">—He was no longer worthy to lead, said <persName>Dante</persName>. He was a 
 				public sinner. </said></p>
-		<p><said who="John Casey">—We are all sinners and black sinners, said Mr Casey 
+		<p><said who="John Casey">—We are all sinners and black sinners, said <persName>Mr Casey</persName> 
 				coldly. </said></p>
 		<p><said who="Dante">—<quote><ref>Matthew 18.7</ref>>Woe be to the man by whom the scandal cometh!</quote> said 
-			Mrs Riordan. <quote><ref>Luke 17.1-2</ref>It would be better for him that a millstone were 
+			<persName>Mrs Riordan</persName>. <quote><ref>Luke 17.1-2</ref>It would be better for him that a millstone were 
 			tied about his neck and that he were cast into the depth of the
 			sea rather than that he should scandalise one of these, my least
 			little ones.</quote> That is the language of the Holy Ghost.</said></p>
-		<p><said who="Simon Dedalus">—And very bad language if you ask me, said Mr Dedalus 
+		<p><said who="Simon Dedalus">—And very bad language if you ask me, said <persName>Mr Dedalus</persName> 
 		coolly. </said></p>
 		<p><said who="Uncle Charles">—Simon! Simon! said uncle Charles. The boy. </said></p>
 		<p><said who="Simon Dedalus">—Yes, yes, said Mr Dedalus. I meant about the ... I 
@@ -1129,7 +1130,7 @@
 			with the carvers at the end of the dish and said: </p>
 		<p><said who="Simon Dedalus">—There's a tasty bit here we call the pope's nose. If any 
 				lady or gentleman ... </said></p>
-		<p>He held a piece of fowl up on the prong of the carvingfork. 
+		<p>He held a piece of fowl up on the prong of the <seg type="neologism">carvingfork</seg>. 
 			Nobody spoke. He put it on his own plate, saying: </p>
 		<p><said who="Simon Dedalus">—Well, you can't say but you were asked. I think I had 
 				better eat it myself because I'm not well in my health lately. </said></p>
@@ -1149,7 +1150,7 @@
 				house where there is no respect for the pastors of the church. </said></p>
 		<p>Mr Dedalus threw his knife and fork noisily on his plate. </p>
 		<p><said who="Simon Dedalus">—Respect! he said. Is it for Billy with the lip or for the tub 
-				of guts up in Armagh? Respect! </said></p>
+			of guts up in <place><location><geo>54.350280 -6.652792</geo></location><placeMane>Armagh</placeName></place>? Respect! </said></p>
 		<p><said who="John Casey">—Princes of the church, said Mr Casey with slow scorn. </said></p>
 		<p><said who="Simon Dedalus">—Lord Leitrim's coachman, yes, said Mr Dedalus. </said></p>
 		<p><said who="Dante">—They are the Lord's anointed, Dante said. They are an 
@@ -1171,7 +1172,7 @@
 			his grave. Let him remember that too when he grows up. </said></p>
 		<p><said who="Simon Dedalus">—Sons of bitches! cried Mr Dedalus. When he was down 
 			they turned on him to betray him and rend him like rats in a 
-			sewer. Lowlived dogs! And they look it! By Christ, they look 
+			sewer. <seg type="neologism">Lowlived</seg> dogs! And they look it! By Christ, they look 
 			it! </said></p>
 		<p><said who="Dante">—They behaved rightly, cried Dante. They obeyed their 
 				bishops and their priests. Honour to them! </said></p>
@@ -1193,7 +1194,7 @@
 				spit? </said></p>
 		<p><said who="Simon Dedalus">—You did not, John, said Mr Dedalus. </said></p>
 		<p><said who="John Casey">—Why then, said Mr Casey, it is a most instructive story. It 
-			happened not long ago in the county Wicklow where we are 
+			happened not long ago in the <place><location><geo> 52.986231 -6.367254</geo></location><placeName>county Wicklow</placeName></place> where we are 
 			now. </said></p>
 		<p>He broke off and, turning towards Dante, said with quiet 
 			indignation: </p>
@@ -1234,8 +1235,8 @@
 			Dante must be right then. But he had heard his father say that 
 			she was a spoiled nun and that she had come out of the convent 
 			in the Alleghanies when her brother had got the money 
-			from the savages for the trinkets and the chainies. Perhaps 
-			that made her severe against Parnell. And she did not like him 
+			from the savages for the trinkets and the <seg type="neologism">chainies</seg>. 
+			Perhaps that made her severe against Parnell. And she did not like him 
 			to play with Eileen because Eileen was a protestant and when 
 			she was young she knew children that used to play with protestants 
 			and the protestants used to make fun of the litany of 
@@ -1250,7 +1251,7 @@
 			and cold and soft. That was ivory: a cold white thing. That 
 			was the meaning of <emph>Tower of Ivory</emph>. </p>
 		<p><said who="John Casey">—The story is very short and sweet, Mr Casey said. It was 
-			one day down in Arklow, a cold bitter day, not long before the 
+			one day down in <place><location><geo>52.797693 -6.159929</geo></location><placeName>Arklow</placeName></place>, a cold bitter day, not long before the 
 			chief died. May God have mercy on him! </said></p>
 		<p>He closed his eyes wearily and paused. Mr Dedalus took a 
 			bone from his plate and tore some meat from it with his teeth, 
@@ -1264,12 +1265,12 @@
 			names in the world. Well there was one old lady, and a 
 			drunken old harridan she was surely, that paid all her attention 
 			to me. She kept dancing along beside me in the mud 
-			bawling and screaming into my face: <emph>Priesthunter! The Paris 
+			bawling and screaming into my face: <emph>Priesthunter! The <place><location><geo>48.856614 2.352222</geo></location><placeName>Paris</placeName></place> 
 				Funds! Mr Fox! Kitty O'Shea!</emph> </said></p>
 		<p><said who="Simon Dedalus">—And what did you do, John? asked Mr Dedalus. </said></p>
 		<p><said who="John Casey">—I let her bawl away, said Mr Casey. It was a cold day and 
 				to keep up my heart I had (saving your presence, ma'am) a 
-				quid of Tullamore in my mouth and sure I couldn't say a word 
+			quid of <place><location><geo>53.275526 -7.493385</geo></location><placeName>Tullamore</placeName></place> in my mouth and sure I couldn't say a word 
 				in any case because my mouth was full of tobacco juice. </said></p>
 		<p><said who="Simon Dedalus">—Well, John? </said></p>
 		<p><said who="John Casey">—Well. I let her bawl away, to her heart's content, <emph>Kitty O'Shea</emph> 
@@ -1303,9 +1304,9 @@
 			remembered that one night Sergeant O'Neill had come to the 
 			house and had stood in the hall, talking in a low voice with his 
 			father and chewing nervously at the chinstrap of his cap. And 
-			that night Mr Casey had not gone to Dublin by train but a car 
+			that night Mr Casey had not gone to <place><location><geo>53.349805 -6.260310 </geo></location><placeName>Dublin</placeName></place> by train but a car 
 			had come to the door and he had heard his father say something 
-			about the Cabinteely road. </p>
+			about <place><location><geo>53.265647 -6.156109</geo></location><placeName>the Cabinteely road</placeName></place>. </p>
 		<p>He was for Ireland and Parnell and so was his father: and 
 			so was Dante too for one night at the band on the esplanade 
 			she had hit a gentleman on the head with her umbrella because 
@@ -1313,12 +1314,12 @@
 			the Queen</emph> at the end. </p>
 		<p>Mr Dedalus gave a snort of contempt. </p>
 		<p><said who="Simon Dedalus">—Ah, John, he said. It is true for them. We are an unfortunate 
-			priestridden race and always were and always will be till 
+			<seg type="neologism">priestridden</seg> race and always were and always will be till 
 			the end of the chapter. </said></p>
 		<p>Uncle Charles shook his head, saying: </p>
 		<p><said who="Uncle Charles">—A bad business! A bad business! </said></p>
 		<p>Mr Dedalus repeated: </p>
-		<p><said who="Simon Dedalus">—A priestridden Godforsaken race! </said></p>
+		<p><said who="Simon Dedalus">—A <seg type="neologism">priestridden</seg> Godforsaken race! </said></p>
 		<p>He pointed to the portrait of his grandfather on the wall to 
 			his right. </p>
 		<p><said who="Simon Dedalus">—Do you see that old chap up there, John? he said. He was 
@@ -1327,7 +1328,7 @@
 			our clerical friends, that he would never let one of them put 
 			his two feet under his mahogany. </said></p>
 		<p>Dante broke in angrily: </p>
-		<p><said who="Dante">—If we are a priestridden race we ought to be proud of it! 
+		<p><said who="Dante">—If we are a <seg type="neologism">priestridden</seg> race we ought to be proud of it! 
 				They are the apple of God's eye. 
 
 				<quote><ref>Zacharia 2:8</ref><emph>Touch them not, says Christ, 
@@ -1347,7 +1348,7 @@
 			the Marquess Cornwallis? Didn't the bishops and priests sell 
 			the aspirations of their country in 1829 in return for catholic 
 			emancipation? Didn't they denounce the fenian movement 
-			from the pulpit and in the confessionbox? And didn't they 
+			from the pulpit and in the <seg type="neologism">confessionbox</seg>? And didn't they 
 			dishonour the ashes of Terence Bellew MacManus? </said></p>
 		<p>His face was glowing with anger and Stephen felt the glow 
 			rise to his own cheek as the spoken words thrilled him. Mr 
@@ -1366,7 +1367,7 @@
 		<p><said who="John Casey">—Very well, then, he shouted hoarsely, if it comes to that, 
 				no God for Ireland! </said></p>
 		<p><said who="Simon Dedalus">—John! John! cried Mr Dedalus, seizing his guest by the 
-				coatsleeve. </said></p>
+			<seg type="neologism">coatsleeve</seg>. </said></p>
 		<p>Dante stared across the table, her cheeks shaking. Mr 
 			Casey struggled up from his chair and bent across the table 
 			towards her, scraping the air from before his eyes with one 
@@ -1380,7 +1381,7 @@
 			stared before him out of his dark flaming eyes, repeating: </p>
 		<p><said who="John Casey">—Away with God, I say! </said></p>
 		<p>Dante shoved her chair violently aside and left the table, 
-			upsetting her napkinring which rolled slowly along the carpet 
+			upsetting her <seg type="neologism">napkinring</seg> which rolled slowly along the carpet 
 			and came to rest against the foot of an easychair. Mrs 
 			Dedalus rose quickly and followed her towards the door. At 
 			the door Dante turned round violently and shouted down the 
@@ -1392,7 +1393,7 @@
 			bowed his head on his hands with a sob of pain. </p>
 		<p><said who="John Casey">—Poor Parnell! he cried loudly. My dead king! </said></p>
 		<p>He sobbed loudly and bitterly. </p>
-		<p>Stephen, raising his terrorstricken face, saw that his father's 
+		<p>Stephen, raising his <seg type="neologism">terrorstricken</seg> face, saw that his father's 
 			eyes were full of tears. </p>
 
 		<milestone unit="section" rend="asterixes"/>
@@ -1403,7 +1404,7 @@
 
 		<p>The fellows talked together in little groups. </p>
 		<p>One fellow said: </p>
-		<p><said who="a fellow">—They were caught near the Hill of Lyons. </said></p>
+		<p><said who="a fellow">—They were caught near the <place><location><geo>53.290670 -6.535060</geo></location><placeName>Hill of Lyons</placeName></place>. </said></p>
 		<p><said who="a fellow">—Who caught them? </said></p>
 		<p><said who="a fellow">—Mr Gleeson and the minister. They were on a car. </said></p>
 		<p>The same fellow added: </p>
@@ -1438,7 +1439,7 @@
 			where the crimped surplices lay quietly folded. It was not the 
 			chapel but still you had to speak under your breath. It was a 
 			holy place. He remembered the summer evening he had been 
-			there to be dressed as boatbearer, the evening of the procession 
+			there to be dressed as <seg type="neologism">boatbearer</seg>, the evening of the procession 
 			to the little altar in the wood. A strange and holy place. 
 			The boy that held the censer had swung it gently to and fro 
 			near the door with the silvery cap lifted by the middle chain 
@@ -1452,7 +1453,7 @@
 			there on the playground. The fellows seemed to him to have 
 			grown smaller: that was because a sprinter had knocked him 
 			down the day before, a fellow out of second of grammar. He 
-			had been thrown by the fellow's machine lightly on the cinderpath 
+			had been thrown by the fellow's machine lightly on the <seg type="neologism">cinderpath</seg> 
 			and his spectacles had been broken in three pieces and 
 			some of the grit of the cinders had gone into his mouth. </p>
 		<p>That was why the fellows seemed to him smaller and 
@@ -1462,7 +1463,7 @@
 			would be the prof and some said it would be Flowers. And all 
 			over the playgrounds they were playing rounders and bowling 
 			twisters and lobs. And from here and from there came the 
-			sounds of the cricketbats through the soft grey air. They said: 
+			sounds of the <seg type="neologism">cricketbats</seg> through the soft grey air. They said: 
 			pick, pack, pock, puck: like drops of water in a fountain 
 			slowly falling in the brimming bowl. </p>
 		<p>Athy, who had been silent, said quietly: </p>
@@ -1556,7 +1557,7 @@
 				second of grammar this morning. </said></p>
 		<p><said who="Fleming">—Let us get up a rebellion, Fleming said. Will we? </said></p>
 		<p>All the fellows were silent. The air was very silent and you 
-			could hear the cricketbats but more slowly than before: pick, 
+			could hear the <seg type="neologism">cricketbats</seg> but more slowly than before: pick, 
 			pock. </p>
 		<p>Wells asked: </p>
 		<p><said who="Wells">—What is going to be done to them? </said></p>
@@ -1609,7 +1610,7 @@
 			bath when you undressed yourself. He wondered who had to 
 			let them down, the master or the boy himself. O how could 
 			they laugh about it that way? </p>
-		<p>He looked at Athy's rolledup sleeves and knuckly inky 
+		<p>He looked at Athy's <seg type="neologism">rolledup</seg> sleeves and knuckly inky 
 			hands. He had rolled up his sleeves to show how Mr Gleeson 
 			would roll up his sleeves. But Mr Gleeson had round shiny 
 			cuffs and clean white wrists and fattish white hands and the 
@@ -1677,7 +1678,7 @@
 				which I made my first holy communion. </said></p>
 		<p>Father Arnall came in and the Latin lesson began and he 
 			remained still, leaning on the desk with his arms folded. Father 
-			Arnall gave out the themebooks and he said that they 
+			Arnall gave out the <seg type="neologism">themebooks</seg> and he said that they 
 			were scandalous and that they were all to be written out again 
 			with the corrections at once. But the worst of all was Fleming's 
 			theme because the pages were stuck together by a blot: 
@@ -1691,7 +1692,7 @@
 		<p>Then he asked the next boy and the next and the next. 
 			Nobody knew. Father Arnall became very quiet, more and 
 			more quiet as each boy tried to answer and could not. But his 
-			face was blacklooking and his eyes were staring though his 
+			face was <seg type="neologism">blacklooking</seg> and his eyes were staring though his 
 			voice was so quiet. Then he asked Fleming and Fleming said 
 			that that word had no plural. Father Arnall suddenly shut the 
 			book and shouted at him: </p>
@@ -1714,7 +1715,7 @@
 			provincial: and the provincial to the general of the jesuits. 
 			That was called the order: and he had heard his father say 
 			that they were all clever men. They could all have become 
-			highup people in the world if they had not become jesuits. 
+			<seg type="neologism">highup</seg> people in the world if they had not become jesuits. 
 			And he wondered what Father Arnall and Paddy Barrett 
 			would have become and what Mr McGlade and Mr Gleeson 
 			would have become if they had not become jesuits. It was hard 
@@ -1781,13 +1782,13 @@
 			fear and haste. </p>
 		<p><said who="Father Dolan">—Where did you break your glasses? repeated the prefect 
 				of studies. </said></p>
-		<p><said who="Stephen">—The cinderpath, sir. </said></p>
-		<p><said who="Father Dolan">—Hoho! The cinderpath! cried the prefect of studies. I 
+		<p><said who="Stephen">—The <seg type="neologism">cinderpath</seg>, sir. </said></p>
+		<p><said who="Father Dolan">—Hoho! The <seg type="neologism">cinderpath</seg>! cried the prefect of studies. I 
 				know that trick. </said></p>
 		<p>Stephen lifted his eyes in wonder and saw for a moment 
-			Father Dolan's whitegrey not young face, his baldy whitegrey 
+			Father Dolan's <seg type="neologism">whitegrey</seg> not young face, his baldy <seg type="neologism">whitegrey</seg> 
 			head with fluff at the sides of it, the steel rims of his spectacles 
-			and his nocoloured eyes looking through the glasses. Why did 
+			and his <seg type="neologism">nocoloured</seg> eyes looking through the glasses. Why did 
 			he say he knew that trick? </p>
 		<p><said who="Father Dolan">—Lazy idle little loafer! cried the prefect of studies. Broke 
 			my glasses! An old schoolboy trick! Out with your hand this 
@@ -1861,8 +1862,8 @@
 			Father Arnall's low and gentle voice as he corrected the 
 			themes. Perhaps he was sorry now and wanted to be decent. 
 			But it was unfair and cruel. The prefect of studies was a priest 
-			but that was cruel and unfair. And his whitegrey face and the 
-			nocoloured eyes behind the steelrimmed spectacles were 
+			but that was cruel and unfair. And his <seg type="neologism">whitegrey</seg> face and the 
+			<seg type="neologism">nocoloured</seg> eyes behind the <seg type="neologism">steelrimmed</seg> spectacles were 
 			cruel looking because he had steadied the hand first with his 
 			firm soft fingers and that was to hit it better and louder. </p>
 		<p><said who="Fleming">—It's a stinking mean thing, that's what it is, said Fleming 
@@ -1913,8 +1914,8 @@
 			himself was on the first page in a picture. There was a road 
 			over a heath with grass at the side and little bushes: and Peter 
 			Parley had a broad hat like a protestant minister and a big 
-			stick and he was walking fast along the road to Greece and 
-			Rome. </p>
+			stick and he was walking fast along the road to <place><location><geo>39.074208 21.824312</geo></location><placeName>Greece</placeName></place> and 
+			<place><location><geo>41.902783 12.496366</geo></location><placeName>Rome</placeName></place>. </p>
 		<p>It was easy what he had to do. All he had to do  was when 
 			the dinner was over and he came out in his turn to go on 
 			walking but not out to the corridor but up the staircase on the 
@@ -1936,7 +1937,7 @@
 			and big hanging black head passing in the file. But he had 
 			done something and besides Mr Gleeson would not flog him 
 			hard: and he remembered how big Corrigan looked in the 
-			bath. He had skin the same colour as the turfcoloured bogwater 
+			bath. He had skin the same colour as the <seg type="neologism">turfcoloured</seg> bogwater 
 			in the shallow end of the bath and when he walked 
 			along the side his feet slapped loudly on the wet tiles and at 
 			every step his thighs  shook a little because he was fat. </p>
@@ -1963,7 +1964,7 @@
 		<p>He was walking down along the matting and he saw the 
 			door before him. It was impossible: he could not. He thought 
 			of the baldy head of the prefect of studies with the cruel 
-			nocoloured eyes looking at him and he heard the voice of the 
+			<seg type="neologism">nocoloured</seg> eyes looking at him and he heard the voice of the 
 			prefect of studies asking him twice what his name was. Why 
 			could he not remember the name when he was told the first 
 			time? Was he not listening the first time or was it to make fun 
@@ -2014,7 +2015,7 @@
 			the old leather of chairs. </p>
 		<p>His heart was beating fast on account of the solemn place 
 			he was in and the silence of the room:  and he looked at the 
-			skull and at the rector's kindlooking face. </p>
+			skull and at the rector's <seg type="neologism">kindlooking</seg> face. </p>
 		<p><said who="the rector">—Well, my little man, said the rector, what is it? </said></p>
 		<p>Stephen swallowed down the thing in his throat and said: </p>
 		<p><said who="Stephen">—I broke my glasses, sir. </said></p>
@@ -2038,7 +2039,7 @@
 		<p><said who="the rector">—Your name is Dedalus, isn't it? </said></p>
 		<p><said who="Stephen">—Yes, sir. </said></p>
 		<p><said who="the rector">—And where did you break your glasses? </said></p>
-		<p><said who="Stephen">—On the cinderpath, sir. A fellow was coming out of the 
+		<p><said who="Stephen">—On the <seg type="neologism">cinderpath</seg>, sir. A fellow was coming out of the 
 			bicycle house and I fell and they got broken. I don't know the 
 			fellow's name. </said></p>
 		<p>The rector looked at him again in silence. Then he smiled 
@@ -2076,7 +2077,7 @@
 			the two corridors and out into the air. </p>
 		<p>He could hear the cries of the fellows on the playgrounds. 
 			He broke into a run and, running quicker and quicker, ran 
-			across the cinderpath and reached the third line playground, 
+			across the <seg type="neologism">cinderpath</seg> and reached the third line playground, 
 			panting. </p>
 		<p>The fellows had seen him running. They closed round him 
 			in a ring, pushing one against another to hear. </p>
@@ -2090,7 +2091,7 @@
 			spinning up into the air and cried: </p>
 		<p><said who="the fellows">—Hurroo! </said></p>
 		<p>They caught their caps and sent them up again spinning 
-			skyhigh and cried again: </p>
+			<seg type="neologism">skyhigh</seg> and cried again: </p>
 		<p><said who="the fellows">—Hurroo! Hurroo! </said></p>
 		<p>They made a cradle of their locked hands and hoisted him 
 			up among them and carried him along till he struggled to get 
@@ -2109,7 +2110,7 @@
 		<p>The air was soft and grey and mild and evening was coming. 
 			There was the smell of evening in the air, the smell of the 
 			fields in the country where they digged up turnips to peel them 
-			and eat them when they went out for a walk to Major Barton's, 
+			and eat them when they went out for a walk to <place><location><geo>53.257926 -6.585225</geo></location><placeName>Major Barton's</placeName></place>, 
 			the smell there was in the little wood beyond the pavilion 
 			where the gallnuts were. </p>
 		<p>The fellows were practising long shies and bowing lobs and 
@@ -2431,15 +2432,15 @@
 			door, asking: </p>
 		<p><said who="Ellen">—Is that Josephine? </said></p>
 		<p>The old bustling woman answered cheerily from the fireplace: </p>
-		<p>—No, Ellen. It's Stephen. </p>
-		<p>—O ... O, good evening, Stephen. </p>
+		<p><said who="old woman">—No, Ellen. It's Stephen. </said></p>
+		<p><said who="Ellen">—O ... O, good evening, Stephen. </said></p>
 		<p>He answered the greeting and saw a silly smile break over 
 			the face in the doorway. </p>
-		<p>—Do you want anything, Ellen? asked the old woman at 
-			the fire. </p>
+		<p><said who="old woman">—Do you want anything, Ellen? asked the old woman at 
+			the fire. </said></p>
 		<p>But she did not answer the question and said: </p>
-		<p>—I thought it was Josephine. I thought you were Josephine, 
-			Stephen. </p>
+		<p><said who="Ellen">—I thought it was Josephine. I thought you were Josephine, 
+			Stephen.</said></p>
 		<p>And, repeating this several times, she fell to laughing feebly. </p>
 		<p>He was sitting in the midst of a children's party at Harold's 
 			Cross. His silent watchful manner had grown upon him and he 
@@ -2542,59 +2543,59 @@
 			time, just at the corner of the square.</said></p>
 		<p><said who="Mary Dedalus">—Then I suppose, said Mrs Dedalus, he will be able to 
 			arrange it. I mean about Belvedere.</said></p>
-		<p>—Of course  he will, said Mr Dedalus. Don't I tell you he's 
-			provincial of the order now? </p>
-		<p>—I never liked the idea of sending him to the christian 
-			brothers myself, said Mrs Dedalus. </p>
-		<p>—Christian brothers be damned! said Mr Dedalus. Is it 
+		<p><said who="Simon Dedalus">—Of course  he will, said Mr Dedalus. Don't I tell you he's 
+			provincial of the order now? </said></p>
+		<p><said who="Mary Dedalus">—I never liked the idea of sending him to the christian 
+			brothers myself, said Mrs Dedalus. </said></p>
+		<p><said who="Simon Dedalus">—Christian brothers be damned! said Mr Dedalus. Is it 
 			with Paddy Stink and Mickey Mud? No, let him stick to the 
 			jesuits in God's name since he began with them. They'll be of 
 			service to him in after years. Those are the fellows that can get 
-			you a position. </p>
-		<p>—And they're a very rich order, aren't they, Simon? </p>
-		<p>—Rather. They live well, I tell you. You saw their table at 
-			Clongowes. Fed up, by God, like gamecocks. </p>
+			you a position. </said></p>
+		<p><said who="Mary Dedalus">—And they're a very rich order, aren't they, Simon? </said></p>
+		<p><said who="Simon Dedalus">—Rather. They live well, I tell you. You saw their table at 
+			Clongowes. Fed up, by God, like gamecocks. </said></p>
 		<p>Mr Dedalus pushed his plate over to Stephen and bade him 
 			finish what was on it. </p>
-		<p>—Now then, Stephen, he said, you must put your shoulder 
-			to the wheel, old chap. You've had a fine long holiday. </p>
-		<p>—O, I'm sure  he'll work very hard now, said Mrs Dedalus, 
-			especially when he has Maurice with him. </p>
-		<p>—O, Holy Paul, I forgot about Maurice, said Mr Dedalus. 
+		<p><said who="Simon Dedalus">—Now then, Stephen, he said, you must put your shoulder 
+			to the wheel, old chap. You've had a fine long holiday. </said></p>
+		<p><said who="Mary Dedalus">—O, I'm sure  he'll work very hard now, said Mrs Dedalus, 
+			especially when he has Maurice with him. </said></p>
+		<p><said who="Simon Dedalus">—O, Holy Paul, I forgot about Maurice, said Mr Dedalus. 
 			Here, Maurice! Come here, you thickheaded ruffian! Do you 
 			know I'm going to send you to a college where they'll teach 
 			you to spell c.a.t. cat. And I'll buy you a nice little penny 
-			handkerchief to keep your nose dry. Won't that be grand fun? </p>
+			handkerchief to keep your nose dry. Won't that be grand fun? </said></p>
 		<p>Maurice grinned at his father and then at his brother. Mr 
 			Dedalus screwed his glass into his eye and stared hard at both 
 			his sons. Stephen mumbled his bread without answering his 
 			father's gaze. </p>
-		<p>—By the bye, said Mr Dedalus at length, the rector, or 
+		<p><said who="Simon Dedalus">—By the bye, said Mr Dedalus at length, the rector, or 
 			provincial, rather, was telling me that story about you and 
-			Father Dolan. You're an impudent thief, he said. </p>
-		<p>—O, he didn't, Simon! </p>
-		<p>—Not he! said Mr Dedalus. But he gave me a great account 
+			Father Dolan. You're an impudent thief, he said. </said></p>
+		<p><said who="Mary Dedalus">—O, he didn't, Simon! </said></p>
+		<p><said who="Simon Dedalus">—Not he! said Mr Dedalus. But he gave me a great account 
 			of the whole affair. We were chatting, you know, and one 
 			word borrowed another. And, by the way, who do you think 
 			he told me will get that job in the corporation? But I'll tell you 
 			that after. Well, as I was saying, we were chatting away quite 
 			friendly and he asked me did our friend here wear glasses still 
-			and then he told me the whole story. </p>
-		<p>—And was he annoyed, Simon? </p>
-		<p>—Annoyed! Not he! <emph>Manly little chap!</emph> he said. </p>
+			and then he told me the whole story. </said></p>
+		<p><said who="Mary Dedalus">—And was he annoyed, Simon? </said></p>
+		<p><said who="Simon Dedalus">—Annoyed! Not he! <emph>Manly little chap!</emph> he said. </said></p>
 		<p>Mr Dedalus imitated the mincing nasal tone of the provincial. </p>
-		<p>—Father Dolan and I, when I told them all at dinner about 
+		<p><said who="Simon Dedalus"></said>—Father Dolan and I, when I told them all at dinner about 
 			it, Father Dolan and I had a great laugh over it. <emph>You better
 				mind yourself, Father Dolan</emph>, said I, <emph>or young Dedalus will 
 				send you up for twice nine</emph>. We had a famous laugh together 
-			over it. Ha! Ha! Ha!</p>
+			over it. Ha! Ha! Ha!</said></p>
 		<p>Mr Dedalus turned to his wife and interjected in his natural 
 			voice: </p>
-		<p>—Shows you the spirit in which they take the boys there. 
-			O, a jesuit for your life, for diplomacy! </p>
+		<p><said who="Simon Dedalus">—Shows you the spirit in which they take the boys there. 
+			O, a jesuit for your life, for diplomacy! </said></p>
 		<p>He reassumed the provincial's voice and repeated: </p>
-		<p>—<emph>I told them all at dinner about it and Father Dolan and I
-				and all of us we had a hearty laugh together over it. Ha! Ha! Ha!</emph></p>
+		<p><said who="Simon Dedalus">—<emph>I told them all at dinner about it and Father Dolan and I
+				and all of us we had a hearty laugh together over it. Ha! Ha! Ha!</emph></said></p>
 
 		<milestone unit="section" rend="asterixes"/>
 
@@ -2660,8 +2661,8 @@
 				here, Mrs Tallon?</said> </p>
 		<p>Then, bending down to peer at the smiling painted face 
 			under the leaf of the bonnet, he exclaimed: </p>
-		<p>—No! Upon my word I believe it's little Bertie Tallon after 
-			all! </p>
+		<p><said who="a prefect">—No! Upon my word I believe it's little Bertie Tallon after 
+			all! </said></p>
 		<p>Stephen at his post by the window heard the old lady and 
 			the priest laugh together and heard the boys' murmur of 
 			admiration behind him as they passed forward to see the little 
@@ -2693,41 +2694,41 @@
 			became aware of a faint aromatic odour. Two boys were 
 			standing in the shelter of a doorway, smoking, and before he 
 			reached them he had recognised Heron by his voice. </p>
-		<p>—Here comes the noble Dedalus! cried a high throaty 
-			voice. Welcome to our trusty friend! </p>
+		<p><said who="Heron">—Here comes the noble Dedalus! cried a high throaty 
+			voice. Welcome to our trusty friend! </said></p>
 		<p>This welcome ended in a soft peal of mirthless laughter as 
 			Heron salaamed and then began to poke the ground with his 
 			cane. </p>
-		<p>—Here I am, said Stephen, halting and glancing from 
-			Heron to his friend. </p>
+		<p><said who="Stephen Dedalus">—Here I am, said Stephen, halting and glancing from 
+			Heron to his friend. </said></p>
 		<p>The latter was a stranger to him but in the darkness, by the 
 			aid of the glowing cigarettetips, he could make out a pale 
 			dandyish face, over which a smile was travelling slowly, a tall 
 			overcoated figure and a hard hat. Heron did not trouble himself 
 			about an introduction but said instead: </p>
-		<p>—I was just telling my friend Wallis what a lark it would be 
+		<p><said who="Heron">—I was just telling my friend Wallis what a lark it would be 
 			tonight if you took off the rector in the part of the schoolmaster. 
-			It would be a ripping good joke. </p>
+			It would be a ripping good joke. </said></p>
 		<p>Heron made a poor attempt to imitate for his friend Wallis 
 			the rector's pedantic bass and then, laughing at his failure, 
 			asked Stephen to do it. </p>
-		<p>—Go on, Dedalus, he urged, you can take him off rippingly. 
+		<p><said who="Heron">—Go on, Dedalus, he urged, you can take him off rippingly. 
 			<lg>
 				<l>He that will not hear the churcha let him be to theea as</l> 
 				<l>the heathena and the publicana.</l> 
 			</lg>
-		</p>
+		</said></p>
 
 		<p>The imitation was prevented by a mild expression of anger 
 			from Wallis in whose mouthpiece the cigarette had become 
 			too tightly wedged. </p>
-		<p>—Damn this blankety blank holder, he said, taking it from 
+		<p><said who="Wallis">—Damn this blankety blank holder, he said, taking it from 
 			his mouth and smiling and frowning upon it tolerantly. It's 
-			always getting stuck like that. Do you use a holder? </p>
-		<p>—I don't smoke, answered Stephen. </p>
-		<p>—No, said Heron, Dedalus is a model youth. He doesn't 
+			always getting stuck like that. Do you use a holder? </said></p>
+		<p><said who="Stephen Dedalus">—I don't smoke, answered Stephen. </said></p>
+		<p><said who="Heron">—No, said Heron, Dedalus is a model youth. He doesn't 
 			smoke and he doesn't go to bazaars and he doesn't flirt and he 
-			doesn't damn anything or damn all. </p>
+			doesn't damn anything or damn all. </said></p>
 		<p>Stephen shook his head and smiled in his rival's flushed and 
 			mobile face, beaked like a bird's. He had often thought it 
 			strange that Vincent Heron had a bird's face as well as a bird's 
@@ -2741,28 +2742,28 @@
 			been during the year the virtual heads of the school. It was 
 			they who went up to the rector together to ask for a free day 
 			or to get a fellow off. </p>
-		<p>—O by the way, said Heron suddenly, I saw your governor 
-			going in. </p>
+		<p><said who="Heron">—O by the way, said Heron suddenly, I saw your governor 
+			going in. </said></p>
 		<p>The smile waned on Stephen's face. Any allusion made to 
 			his father by a fellow or by a master put his calm to rout in a 
 			moment. He waited in timorous silence to hear what Heron 
 			might say next. Heron, however, nudged him expressively 
 			with his elbow and said: </p>
-		<p>—You're a sly dog, Dedalus! </p>
-		<p>—Why so? said Stephen. </p>
-		<p>—You'd think butter wouldn't melt in your mouth, said 
-			Heron. But I'm afraid you're a sly dog. </p>
-		<p>—Might I ask you what you are talking about? said 
-			Stephen urbanely. </p>
-		<p>—Indeed you might, answered Heron. We saw her, Wallis, 
+		<p><said who="Heron">—You're a sly dog, Dedalus! </said></p>
+		<p><said who="Stephen Dedalus">—Why so? said Stephen. </said></p>
+		<p><said who="Heron">—You'd think butter wouldn't melt in your mouth, said 
+			Heron. But I'm afraid you're a sly dog. </said></p>
+		<p><said who="Stephen Dedalus">—Might I ask you what you are talking about? said 
+			Stephen urbanely. </said></p>
+		<p><said who="Heron">—Indeed you might, answered Heron. We saw her, Wallis, 
 			didn't we? And deucedly pretty she is too. And so inquisitive! 
 			<emph>And what part does Stephen take, Mr Dedalus? And will 
 			Stephen not sing, Mr Dedalus?</emph> Your governor was staring at 
 			her through that eyeglass of his for all he was worth so that I 
 			think the old man has found you out too. I wouldn't care a 
-			bit, by Jove. She's  ripping, isn't she, Wallis? </p>
-		<p>—Not half bad, answered Wallis quietly as he placed his 
-			holder once more in the corner of his mouth. </p>
+			bit, by Jove. She's  ripping, isn't she, Wallis? </said></p>
+		<p><said who="Wallis">—Not half bad, answered Wallis quietly as he placed his 
+			holder once more in the corner of his mouth. </said></p>
 		<p>A shaft of momentary anger flew through Stephen's mind 
 			at these indelicate allusions in the hearing of a stranger. For 
 			him there was nothing amusing in a girl's interest and regard. 
@@ -2780,9 +2781,9 @@
 			eddies, wearying him in the end until the pleasantry of the 
 			prefect and the painted little boy had drawn from him a 
 			movement of impatience. </p>
-		<p>—So you may as well admit, Heron went on, that we've 
+		<p><said who="Heron">—So you may as well admit, Heron went on, that we've 
 			fairly found you out this time. You can't play the saint on me 
-			any more, that's one sure five. </p>
+			any more, that's one sure five. </said></p>
 		<p>A soft peal of mirthless laughter escaped from his lips and, 
 			bending down as before, he struck Stephen lightly across the 
 			calf of the leg with his cane, as if in jesting reproof. </p>
@@ -2792,8 +2793,8 @@
 			silly indelicateness for he knew that the adventure in his mind 
 			stood in no danger from their words: and his face mirrored his 
 			rival's false smile. </p>
-		<p>—Admit! repeated Heron, striking him again with his cane 
-			across the calf of the leg. </p>
+		<p><said who="Heron">—Admit! repeated Heron, striking him again with his cane 
+			across the calf of the leg. </admit></p>
 		<p>The stroke was playful but not so lightly given as the first 
 			one had been. Stephen felt the skin tingle and glow slightly 
 			and almost painlessly; and bowing submissively, as if to meet 
@@ -2806,7 +2807,7 @@
 			he had noted the faint cruel dimples at the corners of Heron's 
 			smiling lips and had felt the familiar stroke of the cane against 
 			his calf and had heard the familiar word of admonition: </p>
-		<p>—Admit. </p>
+		<p><said who="Heron">—Admit. </said></p>
 		<p>It was towards the close of his first term in the college when 
 			he was in number six. His sensitive nature was still smarting 
 			under the lashes of an undivined and squalid way of life. His 
@@ -2831,7 +2832,7 @@
 		<p>On a certain Tuesday the course of his triumphs was rudely 
 			broken. Mr Tate, the English master, pointed his finger at him 
 			and said bluntly: </p>
-		<p>—This fellow has heresy in his essay. </p>
+		<p><said who="Mr Tate">—This fellow has heresy in his essay. </said></p>
 		<p>A hush fell on the class. Mr Tate did not break it but dug 
 			with his hand between his crossed thighs while his heavily 
 			starched linen creaked about his neck and wrists. Stephen did 
@@ -2840,24 +2841,24 @@
 			detection, of the squalor of his own mind and home, and felt 
 			against his neck the raw edge of his turned and jagged collar. </p>
 		<p>A short loud laugh from Mr Tate set the class more at ease. </p>
-		<p>—Perhaps you didn't know that, he said. </p>
-		<p>—Where? asked Stephen. </p>
+		<p><said who="Mr Tate">—Perhaps you didn't know that, he said. </said></p>
+		<p><said who="Stephen Dedalus">—Where? asked Stephen. </said></p>
 		<p>Mr Tate withdrew his delving hand and spread out the 
 			essay. </p>
-		<p>—Here. It's about the Creator and the soul. Rrm ... rrm 
+		<p><said who="Mr Tate">—Here. It's about the Creator and the soul. Rrm ... rrm 
 			... rrm ...  Ah! <emph>without a possibility of ever approaching 
-			nearer</emph>. That's heresy. </p>
+			nearer</emph>. That's heresy. </said></p>
 		<p>Stephen murmured: </p>
-		<p>—I meant <emph>without a possibility of ever reaching</emph>. </p>
+		<p><said who="Stephen Dedalus">—I meant <emph>without a possibility of ever reaching</emph>. </said></p>
 		<p>It was a submission and Mr Tate, appeased, folded up the 
 			essay and passed it across to him, saying: </p>
-		<p>—O ... Ah! <emph>ever reaching</emph>. That's another story. </p>
+		<p><said who="Mr Tate">—O ... Ah! <emph>ever reaching</emph>. That's another story. </said></p>
 		<p>But the class was not so soon appeased. Though nobody 
 			spoke to him of the affair after class he could feel about him a 
 			vague general malignant joy. </p>
 		<p>A few nights after this public chiding  he was walking with a 
 			letter along the Drumcondra Road when he heard a voice cry: </p>
-		<p>—Halt! </p>
+		<p><said who="Heron">—Halt! </said></p>
 		<p>He turned and saw three boys of his own class coming 
 			towards him in the dusk. It was Heron who had called out and, 
 			as he marched forward between his two attendants, he cleft 
@@ -2873,41 +2874,41 @@
 			idler of the class. In fact after some talk about their favourite 
 			writers Nash declared for Captain Marryat who, he said, was 
 			the greatest writer. </p>
-		<p>—Fudge! said Heron. Ask Dedalus. Who is the greatest 
-			writer, Dedalus? </p>
+		<p><said who="Heron">—Fudge! said Heron. Ask Dedalus. Who is the greatest 
+			writer, Dedalus? </said></p>
 		<p>Stephen noted the mockery in the question and said: </p>
-		<p>—Of prose do you mean? </p>
-		<p>—Yes. </p>
-		<p>—Newman, I think. </p>
-		<p>—Is it Cardinal Newman? asked Boland. </p>
-		<p>—Yes, answered Stephen. </p>
+		<p><said who="Stephen Dedalus">—Of prose do you mean? </said></p>
+		<p><said who="Heron">—Yes. </said></p>
+		<p><said who="Stephen Dedalus">—Newman, I think. </said></p>
+		<p><said who="Boland">—Is it Cardinal Newman? asked Boland. </said></p>
+		<p><said who="Stephen Dedalus">—Yes, answered Stephen. </said></p>
 		<p>The grin broadened on Nash's freckled face as he turned to 
 			Stephen and said: </p>
-		<p>—And do you like Cardinal Newman, Dedalus? </p>
-		<p>—O, many say that Newman has the best prose style, 
+		<p><said who="Nash">—And do you like Cardinal Newman, Dedalus? </said></p>
+		<p><said who="Heron">—O, many say that Newman has the best prose style, 
 			Heron said to the other two in explanation. Of course he's not 
-			a poet. </p>
-		<p>—And who is the best poet, Heron? asked Boland. </p>
-		<p>—Lord Tennyson, of course, answered Heron. </p>
-		<p>—O, yes, Lord Tennyson, said Nash. We have all his 
-			poetry at home in a book. </p>
+			a poet. </said></p>
+		<p><said who="Boland">—And who is the best poet, Heron? asked Boland. </said></p>
+		<p><said who="Heron">—Lord Tennyson, of course, answered Heron. </said></p>
+		<p><said who="Nash">—O, yes, Lord Tennyson, said Nash. We have all his 
+			poetry at home in a book. </said></p>
 		<p>At this Stephen forgot the silent vows he had been making 
 			and burst out: </p>
-		<p>—Tennyson a poet! Why, he's only a rhymester! </p>
-		<p>—O, get out! said Heron. Everyone knows that Tennyson 
-			is the greatest poet. </p>
-		<p>—And who do you think is the greatest poet? asked Boland, 
-			nudging his neighbour. </p>
-		<p>—Byron, of course, answered Stephen. </p>
+		<p><said who="Stephen Dedalus">—Tennyson a poet! Why, he's only a rhymester! </said></p>
+		<p><said who="Heron">—O, get out! said Heron. Everyone knows that Tennyson 
+			is the greatest poet. </said></p>
+		<p><said who="Boland">—And who do you think is the greatest poet? asked Boland, 
+			nudging his neighbour. </said></p>
+		<p><said who="Stephen Dedalus">—Byron, of course, answered Stephen. </said></p>
 		<p>Heron gave the lead and all three joined in a scornful laugh. </p>
-		<p>—What are you laughing at? asked Stephen. </p>
-		<p>—You, said Heron. Byron the greatest poet! He's only a 
-			poet for uneducated people. </p>
-		<p>—He must be a fine poet! said Boland. </p>
-		<p>—You may keep your mouth shut, said Stephen, turning on 
+		<p><said who="Stephen Dedalus">—What are you laughing at? asked Stephen. </said></p>
+		<p><said who="Heron">—You, said Heron. Byron the greatest poet! He's only a 
+			poet for uneducated people. </said></p>
+		<p><said who="Boland">—He must be a fine poet! said Boland. </said></p>
+		<p><said who="Stephen Dedalus">—You may keep your mouth shut, said Stephen, turning on 
 			him boldly. All you know about poetry is what you wrote up 
 			on the slates in the yard and were going to be sent to the loft 
-			for. </p>
+			for. </said></p>
 		<p>Boland, in fact, was said to have written on the slates in the 
 			yard a couplet about a classmate of his who often rode home 
 			from the college on a pony: </p>
@@ -2917,36 +2918,36 @@
 		</lg>
 		<p>This thrust put the two lieutenants to silence but Heron 
 			went on: </p>
-		<p>—In any case Byron was a heretic and immoral too. </p>
-		<p>—I don't care what he was, cried Stephen hotly. </p>
-		<p>—You don't care whether he was a heretic or not? said 
-			Nash. </p>
-		<p>—What do you know about it? shouted Stephen. You never 
+		<p><said who="Heron">—In any case Byron was a heretic and immoral too. </said></p>
+		<p><said who="Stephen Dedalus">—I don't care what he was, cried Stephen hotly. </said></p>
+		<p><said who="Nash">—You don't care whether he was a heretic or not? said 
+			Nash. </said></p>
+		<p><said who="Stephen Dedalus">—What do you know about it? shouted Stephen. You never 
 			read a line of anything in your life except a trans or Boland 
-			either. </p>
-		<p>—I know that Byron was a bad man, said Boland. </p>
-		<p>—Here, catch hold of this heretic, Heron called out. </p>
+			either. </said></p>
+		<p><said who="Boland">—I know that Byron was a bad man, said Boland. </said></p>
+		<p><said who="Heron">—Here, catch hold of this heretic, Heron called out. </said></p>
 		<p>In a moment Stephen was a prisoner. </p>
-		<p>—Tate made you buck up the other day, Heron went on, 
-			about the heresy in your essay. </p>
-		<p>—I'll tell him tomorrow, said Boland. </p>
-		<p>—Will you? said Stephen. You'd be afraid to open your 
-			lips. </p>
-		<p>—Afraid? </p>
-		<p>—Ay. Afraid of your life. </p>
-		<p>—Behave yourself! cried Heron, cutting at Stephen's legs 
-			with his cane. </p>
+		<p><said who="Heron">—Tate made you buck up the other day, Heron went on, 
+			about the heresy in your essay. </said></p>
+		<p><said who="Boland">—I'll tell him tomorrow, said Boland. </said></p>
+		<p><said who="Stephen Dedalus">—Will you? said Stephen. You'd be afraid to open your 
+			lips. </said></p>
+		<p><said who="Boland">—Afraid? </said></p>
+		<p><said who="Stephen Dedalus">—Ay. Afraid of your life. </said></p>
+		<p><said who="Heron">—Behave yourself! cried Heron, cutting at Stephen's legs 
+			with his cane. </said></p>
 		<p>It was the signal for their  onset. Nash pinioned his arms 
 			behind while Boland seized a long cabbage stump which was 
 			lying in the gutter. Struggling and kicking under the cuts of the 
 			cane and the blows of the knotty stump Stephen was borne 
 			back against a barbed wire fence. </p>
-		<p>—Admit that Byron was no good. </p>
-		<p>—No. </p>
-		<p>—Admit. </p>
-		<p>—No. </p>
-		<p>—Admit. </p>
-		<p>—No. No. </p>
+		<p><said who="Heron">—Admit that Byron was no good. </said></p>
+		<p><said who="Stephen Dedalus">—No. </said></p>
+		<p><said who="Heron">—Admit. </said></p>
+		<p><said who="Stephen Dedalus">—No. </said></p>
+		<p><said who="Heron">—Admit. </said></p>
+		<p><said who="Stephen Dedalus">—No. No. </said></p>
 		<p>At last after a fury of plunges he wrenched himself free. His 
 			tormentors set off towards Jones's Road, laughing and jeering 
 			at him, while he, torn and flushed and panting, stumbled after 
@@ -2980,21 +2981,21 @@
 			wave. </p>
 		<p>A boy came towards them, running along under the shed. 
 			He was excited and breathless. </p>
-		<p>—O, Dedalus, he cried, Doyle is in a great bake about 
+		<p><said who="a boy">—O, Dedalus, he cried, Doyle is in a great bake about 
 			you. You're to go in at once and get dressed for the play. 
-			Hurry up, you better. </p>
-		<p>—He's coming now, said Heron to the messenger with a 
-			haughty drawl, when he wants to. </p>
+			Hurry up, you better. </said></p>
+		<p><said who="Heron">—He's coming now, said Heron to the messenger with a 
+			haughty drawl, when he wants to. </said></p>
 		<p>The boy turned to Heron and repeated: </p>
-		<p>—But Doyle is in an awful bake. </p>
-		<p>—Will you tell Doyle with my best compliments that I 
-			damned his eyes? answered Heron. </p>
-		<p>—Well, I must go now, said Stephen, who cared little for 
-			such points of honour. </p>
-		<p>—I wouldn't, said Heron, damn me if I would. That's no 
+		<p><said who="a boy">—But Doyle is in an awful bake. </said></p>
+		<p><said who="Heron">—Will you tell Doyle with my best compliments that I 
+			damned his eyes? answered Heron. </said></p>
+		<p><said who="Stephen Dedalus">—Well, I must go now, said Stephen, who cared little for 
+			such points of honour. </said></p>
+		<p><said who="Heron">—I wouldn't, said Heron, damn me if I would. That's no 
 			way to send for one of the senior boys. In a bake, indeed! I 
 			think it's quite enough that you're taking a part in his bally old 
-			play. </p>
+			play. </said></p>
 		<p>This spirit of quarrelsome comradeship which he had observed 
 			lately in his rival had not seduced Stephen from his 
 			habits of quiet obedience. He mistrusted the turbulence and 
@@ -3089,8 +3090,8 @@
 		<p>When he came out on the steps he saw his family waiting 
 			for him at the first lamp. In a glance he noted that every figure 
 			of the group was familiar and ran down the steps angrily. </p>
-		<p>—I have to leave a message down in George's Street, he 
-			said to his father quickly. I'll be home after you. </p>
+		<p><said who="Stephen Dedalus">—I have to leave a message down in George's Street, he 
+			said to his father quickly. I'll be home after you. </said></p>
 		<p>Without waiting for his father's questions  he ran across the 
 			road and began to walk at breakneck speed down the hill. He 
 			hardly knew where he was walking. Pride and hope and desire 
@@ -3164,7 +3165,7 @@
 			across the waterjug and drawing it back sideways to see the 
 			better. While he did so he sang softly to himself with quaint 
 			accent and phrasing: </p>
-		<lg>
+		<lg><said who="Simon Dedalus">
 			<l>'Tis youth and folly </l>
 			<l>Makes young men marry, </l>
 			<l>So here, my love, I'll </l>
@@ -3181,35 +3182,35 @@
 			<l>And growing cold </l>
 			<l>It fades and dies like </l>
 			<l>The mountain dew.</l> 
-		</lg>
+			</said></lg>
 		<p>The consciousness of the warm sunny city outside his 
 			window and the tender tremors with which his father's voice 
 			festooned the strange sad happy air, drove off all the mists of 
 			the night's ill humour from Stephen's brain. He got up quickly 
 			to dress and, when the song had ended, said: </p>
-		<p>—That's much prettier than any of your other <emph>come-all-yous</emph>. </p>
-		<p>—Do you think so? asked Mr Dedalus. </p>
-		<p>—I like it, said Stephen. </p>
-		<p>—It's a pretty old air, said Mr Dedalus, twirling the points 
+		<p><said who="Stephen Dedalus">—That's much prettier than any of your other <emph>come-all-yous</emph>. </said></p>
+		<p><said who="Simon Dedalus">—Do you think so? asked Mr Dedalus. </said></p>
+		<p><said who="Stephen Dedalus">—I like it, said Stephen. </said></p>
+		<p><said who="Simon Dedalus">—It's a pretty old air, said Mr Dedalus, twirling the points 
 			of his moustache. Ah, but you should have heard Mick Lacy 
 			sing it! Poor Mick Lacy! He had little turns for it, grace notes 
 			he used to put in that I haven't got. That was the boy who 
-			could sing a <emph>come-all-you</emph>, if you like. </p>
+			could sing a <emph>come-all-you</emph>, if you like. </said></p>
 		<p>Mr Dedalus had ordered drisheens for breakfast and during 
 			the meal he crossexamined the waiter for local news. For the 
 			most part they spoke at crosspurposes when a name was 
 			mentioned, the waiter having in mind the present holder and 
 			Mr Dedalus his father or perhaps his grandfather. </p>
-		<p>—Well, I hope they haven't moved the Queen's College 
+		<p><said who="Simon Dedalus">—Well, I hope they haven't moved the Queen's College 
 			anyhow, said Mr Dedalus, for I want to show it to this youngster 
-			of mine. </p>
+			of mine. </said></p>
 		<p>Along the Mardyke the trees were in bloom. They entered 
 			the grounds of the college and were led by the garrulous 
 			porter across the quadrangle. But their progress across the 
 			gravel was brought to a halt after  every dozen or so paces by 
 			some reply of the porter's. </p>
-		<p>—Ah, do you tell me so? And is poor Pottlebelly dead? </p>
-		<p>—Yes, sir. Dead, sir. </p>
+		<p><said who="Simon Dedalus">—Ah, do you tell me so? And is poor Pottlebelly dead? </said></p>
+		<p><said who="porter">—Yes, sir. Dead, sir. </said></p>
 		<p>During these halts Stephen stood awkwardly behind the two 
 			men, weary of the subject and waiting restlessly for the slow 
 			march to begin again. By the time they had crossed the quadrangle 
@@ -3250,14 +3251,14 @@
 			of monstrous images, and always weak and humble towards 
 			others, restless and sickened of himself when they had swept 
 			over him. </p>
-		<p>—Ay, bedad! And there's the Groceries sure enough! cried 
+		<p><said who="Simon Dedalus">—Ay, bedad! And there's the Groceries sure enough! cried 
 			Mr Dedalus. You often heard me speak of the Groceries, 
 			didn't you, Stephen. Many's the time we went down there 
 			when our names had been marked, a crowd of us, Harry 
 			Peard and little Jack Mountain and Bob Dyas and Maurice 
 			Moriarty, the Frenchman, and Tom O'Grady and Mick Lacy 
 			that I told you of this morning and Joey Corbet and poor little 
-			good hearted Johnny Keevers of the Tantiles. </p>
+			good hearted Johnny Keevers of the Tantiles. </said></p>
 		<p>The leaves of the trees along the Mardyke were astir and 
 			whispering in the sunlight. A team of cricketers passed, agile 
 			young men in flannels and blazers, one of them carrying the 
@@ -3283,7 +3284,7 @@
 			to swallow and the faint sickness climbed to his brain so that 
 			for a moment he closed his eyes and walked on in darkness. </p>
 		<p>He could still hear his father's voice </p>
-		<p>—When you kick out for yourself, Stephen - as I daresay 
+		<p><said who="Simon Dedalus">—When you kick out for yourself, Stephen - as I daresay 
 			you will one of those days - remember, whatever you do, to 
 			mix with gentlemen. When I was a young fellow I tell you I 
 			enjoyed myself. I mixed with fine decent fellows. Everyone of 
@@ -3311,12 +3312,12 @@
 			like that. Of course I tried to carry it off as best I could. <emph>If
 				you want a good smoke</emph>, he said, <emph>try one of these cigars. An
 				American captain made me a present of them last night in
-				Queenstown</emph>. </p>
+			Queenstown</emph>. </said></p>
 		<p>Stephen heard his father's voice break into a laugh which 
 			was almost a sob. </p>
-		<p>—He was the handsomest man in Cork at that time, by 
+		<p><said who="Simon Dedalus">—He was the handsomest man in Cork at that time, by 
 			God he was! The women used to stand to look after him in the 
-			street. </p>
+			street. </said></p>
 		<p>He heard the sob passing loudly down his father's throat 
 			and opened his eyes with a nervous impulse. The sunlight 
 			breaking suddenly on his sight turned the sky and clouds into 
@@ -3384,60 +3385,60 @@
 			Another, a brisk old man, whom Mr Dedalus called Johnny 
 			Cashman, had covered him with confusion by asking him to 
 			say which were prettier, the Dublin girls or the Cork girls. </p>
-		<p>—He's not that way built, said Mr Dedalus. Leave him 
+		<p><said who="Simon Dedalus">—He's not that way built, said Mr Dedalus. Leave him 
 			alone. He's a levelheaded thinking boy who doesn't bother 
-			his head about that kind of nonsense. </p>
-		<p>—Then he's not his father's son, said the little old man. </p>
-		<p>—I don't know, I'm sure, said Mr Dedalus, smiling 
-			complacently. </p>
-		<p>—Your father, said the little old man to Stephen, was the 
-			boldest flirt in the city of Cork in his day. Do you know that? </p>
+			his head about that kind of nonsense. </said></p>
+		<p><said who="little old man">—Then he's not his father's son, said the little old man. </said></p>
+		<p><said who="Simon Dedalus">—I don't know, I'm sure, said Mr Dedalus, smiling 
+			complacently. </said></p>
+		<p><said who="little old man">—Your father, said the little old man to Stephen, was the 
+			boldest flirt in the city of Cork in his day. Do you know that? </said></p>
 		<p>Stephen looked down and studied the tiled floor of the bar 
 			into which they had drifted. </p>
-		<p>—Now don't be putting ideas into his head, said Mr Dedalus. 
-			Leave him to his Maker. </p>
-		<p>—Yerra, sure I wouldn't put any ideas into his head. I'm 
+		<p><said who="Simon Dedalus">—Now don't be putting ideas into his head, said Mr Dedalus. 
+			Leave him to his Maker. </said></p>
+		<p><said who="little old man">—Yerra, sure I wouldn't put any ideas into his head. I'm 
 			old enough to be his grandfather. And I am a grandfather, 
-			said the little old man to Stephen. Do you know that? </p>
-		<p>—Are you? asked Stephen. </p>
-		<p>—Bedad I am, said the little old man. I have two bouncing 
+			said the little old man to Stephen. Do you know that? </said></p>
+		<p><said who="Stephen Dedalus">—Are you? asked Stephen. </said></p>
+		<p><said who="little old man">—Bedad I am, said the little old man. I have two bouncing 
 			grandchildren out at Sunday's Well. Now then! What age do 
 			you think I am? And I remember seeing your grandfather in 
 			his red coat riding out to hounds. That was before you were 
-			born. </p>
-		<p>—Ay, or thought of, said Mr Dedalus. </p>
-		<p>—Bedad I did, repeated the little old man. And, more than 
+			born. </said></p>
+		<p><said who="Simon Dedalus">—Ay, or thought of, said Mr Dedalus. </said></p>
+		<p><said who="little old man">—Bedad I did, repeated the little old man. And, more than 
 			that,  I can remember even your greatgrandfather, old John 
 			Stephen Dedalus, and a fierce old fireeater he was. Now then! 
-			There's a memory for you! </p>
-		<p>—That's three generations - four generations, said another 
+			There's a memory for you! </said></p>
+		<p><said who="another of the company">—That's three generations - four generations, said another 
 			of the company. Why, Johnny Cashman, you must be nearing 
-			the century. </p>
-		<p>—Well, I'll tell you the truth, said the little old man. I'm 
-			just twentyseven years of age. </p>
-		<p>—We're as old as we feel, Johnny, said Mr Dedalus. And 
+			the century. </said></p>
+		<p><said who="little old man">—Well, I'll tell you the truth, said the little old man. I'm 
+			just twentyseven years of age. </said></p>
+		<p><said who="Simon Dedalus">—We're as old as we feel, Johnny, said Mr Dedalus. And 
 			just finish what you have there, and we'll have another. Here, 
 			Tim or Tom or whatever your name is, give us the same again 
 			here. By God, I don't feel more than eighteen myself. There's 
 			that son of mine there not half my age and I'm a better man 
-			than he is any day of the week. </p>
-		<p>—Draw it mild now, Dedalus. I think it's time for you to 
-			take a back seat, said the gentleman who had spoken before. </p>
-		<p>—No, by God! asserted Mr Dedalus. I'll sing a tenor song 
+			than he is any day of the week. </said></p>
+		<p><said who="another of the company">—Draw it mild now, Dedalus. I think it's time for you to 
+			take a back seat, said the gentleman who had spoken before. </said></p>
+		<p><said who="Simon Dedalus">—No, by God! asserted Mr Dedalus. I'll sing a tenor song 
 			against him or I'll vault a fivebarred gate against him or I'll 
 			run with him after the hounds across the country as I did 
 			thirty years ago along with the Kerry Boy and the best man 
-			for it. </p>
-		<p>—But he'll beat you here, said the little old man, tapping 
-			his forehead and raising his glass to drain it. </p>
-		<p>—Well, I hope he'll be as good a man as his father. That's 
-			all I can say, said Mr Dedalus. </p>
-		<p>—If he is, he'll do, said the little old man. </p>
-		<p>—And thanks be to God, Johnny, said Mr Dedalus, that we 
-			lived so long and did so little harm. </p>
-		<p>—But did so much good, Simon, said the little old man 
+			for it. </said></p>
+		<p><said who="little old man">—But he'll beat you here, said the little old man, tapping 
+			his forehead and raising his glass to drain it. </said></p>
+		<p><said who="Simon Dedalus">—Well, I hope he'll be as good a man as his father. That's 
+			all I can say, said Mr Dedalus. </said></p>
+		<p><said who="little old man">—If he is, he'll do, said the little old man. </said></p>
+		<p><said who="Simon Dedalus">—And thanks be to God, Johnny, said Mr Dedalus, that we 
+			lived so long and did so little harm. </said></p>
+		<p><said who="little old man">—But did so much good, Simon, said the little old man 
 			gravely. Thanks be to God we lived so long and did so much 
-			good. </p>
+			good. </said></p>
 		<p>Stephen watched the three glasses being raised from the 
 			counter as his father and his two cronies drank to the memory 
 			of their past. An abyss of fortune or of temperament sundered 
@@ -3486,33 +3487,33 @@
 			roof and telling Stephen, who urged him to come out, that 
 			they were standing in the house of commons of the old Irish 
 			parliament. </p>
-		<p>—God help us! he said piously, to think of the men of those 
+		<p><said who="Simon Dedalus">—God help us! he said piously, to think of the men of those 
 			times, Stephen, Hely Hutchinson and Flood and Henry Grattan 
 			and Charles Kendal Bushe, and the noblemen we have 
 			now, leaders of the Irish people at home and abroad. Why, by 
 			God, they wouldn't be seen dead in a tenacre field with them. 
 			No, Stephen, old chap, I'm sorry to say that they are only as I 
 			roved out one fine May morning in the merry month of sweet 
-			July. </p>
+			July. </said></p>
 		<p>A keen October wind was blowing round the bank. The 
 			three figures standing at the edge of the muddy path had 
 			pinched cheeks and watery eyes. Stephen looked at his thinly 
 			clad mother and remembered that a few days before he had 
 			seen a mantle priced at twenty guineas in the windows of 
 			Barnardo's. </p>
-		<p>—Well that's done, said Mr Dedalus. </p>
-		<p>—We had better go to dinner, said Stephen. Where? </p>
-		<p>—Dinner? said Mr Dedalus. Well, I suppose we had better, 
-			what? </p>
-		<p>—Some place that's not too dear, said Mrs Dedalus. </p>
-		<p>—Underdone's? </p>
-		<p>—Yes. Some quiet place. </p>
-		<p>—Come along, said Stephen quickly. It doesn't matter 
-			about the dearness. </p>
+		<p><said who="Simon Dedalus">—Well that's done, said Mr Dedalus. </said></p>
+		<p><said who="Stephen Dedalus">—We had better go to dinner, said Stephen. Where? </said></p>
+		<p><said who="Simon Dedalus">—Dinner? said Mr Dedalus. Well, I suppose we had better, 
+			what? </said></p>
+		<p><said who="Mary Dedalus">—Some place that's not too dear, said Mrs Dedalus. </said></p>
+		<p><said who="Simon Dedalus">—Underdone's? </said></p>
+		<p><said who="Mary Dedalus">—Yes. Some quiet place. </said></p>
+		<p><said who="Stephen Dedalus">—Come along, said Stephen quickly. It doesn't matter 
+			about the dearness. </said></p>
 		<p>He walked on before them with short nervous steps, smiling. 
 			They tried to keep up with him, smiling also at his eagerness. </p>
-		<p>—Take it easy like a good young fellow, said his father. 
-			We're not out for the half mile, are we? </p>
+		<p><said who="Simon Dedalus">—Take it easy like a good young fellow, said his father. 
+			We're not out for the half mile, are we? </said></p>
 		<p>For a swift season of merrymaking the money of his prizes 
 			ran through Stephen's  fingers. Great parcels of groceries and 
 			delicacies and dried fruits arrived from the city. Every day he 
@@ -3624,7 +3625,7 @@
 			against his bosom in a tumult. A young woman dressed 
 			in a long pink gown laid her hand on his arm to detain him 
 			and gazed into his face. She said gaily: </p>
-		<p>—Good night, Willie dear! </p>
+		<p><said who="prostitute">—Good night, Willie dear! </said></p>
 		<p>Her room was warm and lightsome. A huge doll sat with 
 			her legs apart in the copious easychair beside the bed. He tried 
 			to bid his tongue speak that he might seem at ease, watching 
@@ -3639,7 +3640,7 @@
 			they would not speak. </p>
 		<p>She passed her tinkling hand through his hair, calling him a 
 			little rascal. </p>
-		<p>—Give me a kiss, she said. </p>
+		<p><said who="prostitute">—Give me a kiss, she said. </said></p>
 		<p>His lips would not bend to kiss her. He wanted to be held 
 			firmly in her arms, to be caressed slowly, slowly, slowly. In her 
 			arms he felt that he had suddenly become strong and fearless 
