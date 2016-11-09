@@ -8912,7 +8912,7 @@
 			my defence the only arms I allow myself to use - silence, exile, 
 			and cunning. </p>
 		<p>Cranly seized his arm and steered him round so as to head 
-			back towards Leeson Park. He laughed almost slily and pressed 
+			back towards <place><location><geo>53.328562 -6.251897</geo></location><placeName>Leeson Park</placeName></place>. He laughed almost slily and pressed 
 			Stephen's arm with an elder's affection. </p>
 		<p>—Cunning indeed! he said. Is it you? You poor poet, you! </p>
 		<p>—And you made me confess to you, Stephen said, thrilled 
@@ -8995,7 +8995,7 @@
 			protrudes his full carnal lips as if he kissed the vowel. Has he? 
 			And could he repent? Yes, he could: and cry two round 
 			rogue's tears, one from each eye. </p>
-		<p>Crossing Stephen's, that is, my green, remembered that his 
+		<p>Crossing Stephen's, that is, <place><location><geo>53.338174 -6.259119</geo></location><placeName>my green</placeName></place>, remembered that his 
 			countrymen and not mine had invented what Cranly the other 
 			night called our religion. A quartet of them, soldiers  of the 
 			ninetyseventh infantry regiment, sat at the foot of the cross 
@@ -9009,7 +9009,7 @@
 			<l>For assuredly he is very ill. </l>
 		</lg>
 		<p>Alas, poor William! </p>
-		<p>I was once at a diorama in Rotunda. At the end were pictures 
+		<p>I was once at a diorama in <place><location><geo>53.353368 -6.262135</geo></location><placeName>Rotunda</placeName></place>. At the end were pictures 
 			of big nobs. Among them William Ewart Gladstone, just 
 			then dead. Orchestra played >. </p>
 		<p>A race of clodhoppers! </p>
@@ -9040,11 +9040,11 @@
 			as we passed. He tells me Cranly was invited there by brother. 
 			Did he bring his crocodile? Is he the shining light now? Well, I 
 			discovered him. I protest I did. Shining quietly behind a 
-			bushel of Wicklow bran. </p>
-		<p>3 > Met Davin at the cigar shop opposite Findlater's 
-			church. He was in a black sweater and had a hurleystick. 
+			bushel of <place><location><geo>52.979861 -6.048263</geo></location><placeName>Wicklow</placeName></place> bran. </p>
+		<p>3 > Met Davin at the <place><location><geo>53.353437 -6.261749</geo></location><placeName>cigar shop opposite Findlater's church</placeName></place>
+			. He was in a black sweater and had a hurleystick. 
 			Asked me was it true I was going away and why. Told him the 
-			shortest way to Tara was > Holyhead. Just then my father 
+			shortest way to <place><location><geo>53.412910 -8.243890</geo></location><placeName>Tara</placeName></place> was <place><location><geo>53.309441 -4.633038</geo></location><placeName>Holyhead</placeName></place>. Just then my father 
 			came up. Introduction. Father, polite and observant. Asked 
 			Davin if he might offer him some refreshment. Davin could 
 			not, was going to a meeting. When we came away father told 
@@ -9099,7 +9099,7 @@
 			must struggle all through this night till day come, till he or I lie 
 			dead, gripping him by the sinewy throat till ... Till what? 
 			Till he yield to me? No. I mean him no harm. </p>
-		<p>15 > Met her today pointblank in Grafton Street. The 
+		<p>15 > Met her today pointblank in <place><location><geo>53.342556 -6.259573</geo></location><placeName>Grafton Street</placeName></place>. The 
 			crowd brought us together. We both stopped. She asked me 
 			why I never came, said she had heard all sorts of stories about 
 			me. This was only to gain time. Asked me, was I writing 
@@ -9136,8 +9136,8 @@
 		<p>27 > Old father, old artificer, stand me now and ever 
 			in good stead. </p>
 
-<p>Dublin 1904 </p>
-<p>Trieste 1914 </p>
+<p><place><location><geo>53.342556 -6.259573</geo></location><placeName>Dublin</placeName></place>1904 </p>
+<p><place><location><geo>45.649526 13.776818</geo></location><placeName>Trieste</placeName></place> 1914 </p>
 
 	</div><!-- 5.4 --> 
 </div><!-- Chapter 5 --> 
