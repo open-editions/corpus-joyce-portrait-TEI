@@ -4515,7 +4515,7 @@
 			talking, jesting, gazing out at the bleak rain, moving their 
 			heads. </p>
 		<p>—I wish it would clear up. I had arranged to go for a spin 
-			on the bike with some fellows out by Malahide. But the roads 
+			on the bike with some fellows out by <place><location><geo>53.450924 -6.150138</geo></location><placeName>Malahide</placeName></place>. But the roads 
 			must be kneedeep. </p>
 		<p>—It might clear up, sir. </p>
 		<p>The voices that he knew so well, the common words, the 
@@ -5086,7 +5086,7 @@
 			sawdust, moving men and women. An old woman was about 
 			to cross the street, an oilcan in her hand. He bent down and 
 			asked her was there a chapel near. </p>
-		<p>—A chapel, sir? Yes, sir. Church Street chapel. </p>
+		<p>—A chapel, sir? Yes, sir. <place><location><geo>53.387197 -6.067462</geo></location><placeName>Church Street chapel</placeName></place>. </p>
 		<p>—Church? </p>
 		<p>She  shifted the can to her other hand and directed him: 
 			and, as she held out her reeking withered right hand under its 
@@ -5620,8 +5620,8 @@
 			always intelligent and serious priests, athletic and highspirited 
 			prefects. He thought of them as men who washed their bodies 
 			briskly with cold water and wore clean cold linen. During all 
-			the years he had lived among them in Clongowes and in 
-			Belvedere he had received only two pandies and, though these 
+			the years he had lived among them in <place><location><geo>53.310601 -6.695541</geo></location><placeName>Clongowes</placeName></place> and in 
+			<place><location><geo>52.207800 -8.211070</geo></location><placeName>Belvedere</placeName></place> he had received only two pandies and, though these 
 			had been dealt him in the wrong, he knew that he had often 
 			escaped punishment. During all those years he had never 
 			heard from any of his masters a flippant word: it was they 
