@@ -851,8 +851,8 @@
 		<p><persName>Stephen</persName> thought what could be the answer and then said: </p>
 		<p><said who="Stephen">—I give it up. </said></p>
 		<p><said who="Athy">—Because there is a thigh in it, he said. Do you see the 
-			joke? <placeName><persName>Athy</persName></placeName> is the town in the county <placeName>Kildare<placeName> and a thigh is the 
-			other thigh. </said></p>
+				joke? <placeName><persName>Athy</persName></placeName> is the town in the county <placeName>Kildare</placeName> and a thigh is the 
+				other thigh. </said></p>
 		<p><said who="Stephen">—O, I see, <persName>Stephen</persName> said. </said></p>
 		<p><said who="Athy">—That's an old riddle, he said. </said></p>
 		<p>After a moment he said: </p>
@@ -1103,7 +1103,7 @@
 		<p><said who="John Casey">—Let them leave politics alone, said <persName>Mr Casey</persName>, or the 
 				people may leave their church alone. </said></p>
 		<p><said who="Dante">—You hear? said <persName>Dante</persName> turning to <persName>Mrs Dedalus</persName>. </said></p>
-		<p><said who="Mary Dedalus">—<persName>Mr Casey</persName>! <persName>Simon<persName/>! said <persName>Mrs Dedalus</persName>. Let it end now. </said></p>
+		<p><said who="Mary Dedalus">—<persName>Mr Casey</persName>! <persName>Simon</persName>! said <persName>Mrs Dedalus</persName>. Let it end now. </said></p>
 		<p><said who="Uncle Charles">—Too bad! Too bad! said <persName>uncle Charles</persName>. </said></p>
 		<p><said who="Simon Dedalus">—What? cried <persName>Mr Dedalus</persName>. Were we to desert him at the 
 				bidding of the English people? </said></p>
@@ -2584,7 +2584,7 @@
 		<p><said who="Mary Dedalus">—And was he annoyed, Simon? </said></p>
 		<p><said who="Simon Dedalus">—Annoyed! Not he! <emph>Manly little chap!</emph> he said. </said></p>
 		<p>Mr Dedalus imitated the mincing nasal tone of the provincial. </p>
-		<p><said who="Simon Dedalus"></said>—Father Dolan and I, when I told them all at dinner about 
+		<p><said who="Simon Dedalus">—Father Dolan and I, when I told them all at dinner about 
 			it, Father Dolan and I had a great laugh over it. <emph>You better
 				mind yourself, Father Dolan</emph>, said I, <emph>or young Dedalus will 
 				send you up for twice nine</emph>. We had a famous laugh together 
@@ -2795,7 +2795,7 @@
 			stood in no danger from their words: and his face mirrored his 
 			rival's false smile. </p>
 		<p><said who="Heron">—Admit! repeated Heron, striking him again with his cane 
-			across the calf of the leg. </admit></p>
+			across the calf of the leg. </said></p>
 		<p>The stroke was playful but not so lightly given as the first 
 			one had been. Stephen felt the skin tingle and glow slightly 
 			and almost painlessly; and bowing submissively, as if to meet 
@@ -2813,7 +2813,7 @@
 			he was in number six. His sensitive nature was still smarting 
 			under the lashes of an undivined and squalid way of life. His 
 			soul was still disquieted and cast down by the dull phenomenon 
-			of <p><place><location><geo>53.349307, -6.263654</geo></location><placeName>Dublin</placeName></place>. He had emerged from a two years' spell of 
+			of <place><location><geo>53.349307, -6.263654</geo></location><placeName>Dublin</placeName></place>. He had emerged from a two years' spell of 
 			revery to find himself in the midst of a new scene, every event 
 			and figure of which affected him intimately, disheartened him 
 			or allured and, whether alluring or disheartening, filled him 
@@ -2867,7 +2867,7 @@
 			Boland, his friend, marched beside him, a large grin on his 
 			face, while Nash came on a few steps behind, blowing from 
 			the pace and wagging his great red head. </p>
-		<p>As soon as the boys had turned into <p><place><location><geo>53.362304, -6.249867</geo></location><placeName>Clonliffe Road</placeName></place>together 
+		<p>As soon as the boys had turned into <place><location><geo>53.362304, -6.249867</geo></location><placeName>Clonliffe Road</placeName></place>together 
 			they began to speak about books and writers, saying what 
 			books they were reading and how many books there were in 
 			their fathers' bookcases at home. Stephen listened to them in 
@@ -2950,7 +2950,7 @@
 		<p><said who="Heron">—Admit. </said></p>
 		<p><said who="Stephen Dedalus">—No. No. </said></p>
 		<p>At last after a fury of plunges he wrenched himself free. His 
-			tormentors set off towards <p><place><location><geo>53.360891, -6.251230</geo></location><placeName>Jones's Road</placeName></place>, laughing and jeering 
+			tormentors set off towards <place><location><geo>53.360891, -6.251230</geo></location><placeName>Jones's Road</placeName></place>, laughing and jeering 
 			at him, while he, torn and flushed and panting, stumbled after 
 			them half blinded with tears, clenching his fists madly and 
 			sobbing. </p>
@@ -2963,7 +2963,7 @@
 			anger from him. All the descriptions of fierce love and hatred 
 			which he had met in books had  seemed to him therefore 
 			unreal. Even that night as he stumbled homewards along 
-			<p><place><location><geo>53.360891, -6.251230</geo></location><placeName>Jones's Road</placeName></place> he had felt that some power was divesting him 
+			<place><location><geo>53.360891, -6.251230</geo></location><placeName>Jones's Road</placeName></place> he had felt that some power was divesting him 
 			of that suddenwoven anger as easily as a fruit is divested of its 
 			soft ripe peel. </p>
 		<p>He remained standing with his two companions at the end 
@@ -6257,11 +6257,11 @@
 			near him, staring into the dark pool of the jar. The 
 			yellow dripping had been scooped out like a boghole and the 
 			pool under it brought back to his memory the dark turfcoloured 
-			water of the bath in <placeName>Clongowes<placeName>. The box of pawn-tickets 
+			water of the bath in <placeName>Clongowes</placeName>. The box of pawn-tickets 
 			at his elbow had just been rifled and he took up idly 
 			one after another in his greasy fingers the blue and white 
 			dockets, scrawled and sanded and creased and bearing the 
-			name of the pledger as <persname>Daly<persname> or <persname>MacEvoy<persname>. </p>
+			name of the pledger as <persName>Daly</persName> or <persName>MacEvoy</persName>. </p>
 
 		<p>1 Pair Buskins. </p>
 		<p>1 D. Coat. </p>
@@ -6279,9 +6279,9 @@
 			now is  twenty past ten. The dear knows you might try to be in 
 			time for your lectures. </said></p>
 		<p><said who="Stephen Dedalus">—Fill out the place for me to wash, said Stephen. </said></p>
-		<p><said who="Mary Dedalus">—Katey, fill out the place for <persname>Stephen<persname> to wash. </said></p>
-		<p><said who="Katey">—Boody, fill out the place for <persname>Stephen<persname> to wash. </said></p>
-		<p><said who="Boody">—I can't, I'm going for blue. Fill it out, you, <persname>Maggie<persname>. </said></p>
+		<p><said who="Mary Dedalus">—Katey, fill out the place for <persName>Stephen</persName> to wash. </said></p>
+		<p><said who="Katey">—Boody, fill out the place for <persName>Stephen</persName> to wash. </said></p>
+		<p><said who="Boody">—I can't, I'm going for blue. Fill it out, you, <persName>Maggie</persName>. </said></p>
 		<p>When the enamelled basin had  been fitted into the well of 
 			the sink and the old washingglove flung on the side of it he 
 			allowed his mother to scrub his neck and root into the folds of 
@@ -6304,7 +6304,7 @@
 			out quietly by the back. Stephen laughed and said: </p>
 		<p><said who="Stephen Dedalus">—He has  a curious idea of genders if he thinks a bitch is 
 			masculine. </said></p>
-		<p><said who="Mary Dedalus">—Ah, it's a scandalous shame for you, <persname>Stephen<persname>, said his 
+		<p><said who="Mary Dedalus">—Ah, it's a scandalous shame for you, <persName>Stephen</persName>, said his 
 			mother, and you'll live to rue the day you set your foot in that 
 			place. I know how it has changed you. </said></p>
 		<p><said who="Stephen Dedalus">—Good morning, everybody, said Stephen, smiling and 
@@ -6326,24 +6326,24 @@
 			wild smell of the wet leaves and bark, his soul was loosed of 
 			her miseries. </p>
 		<p>The rainladen trees of the avenue evoked in him, as always, 
-			memories of the girls and women in the plays of <persname>Gerhart 
-			Hauptmann<persname>; and the memory of their pale sorrows and the 
+			memories of the girls and women in the plays of <persName>Gerhart 
+			Hauptmann</persName>; and the memory of their pale sorrows and the 
 			fragrance falling from the wet branches mingled in a mood of 
 			quiet joy. His morning walk across the city had begun, and he 
-			foreknew that as he passed the sloblands of <placename>Fairview<placename> he would 
-			think of the cloistral silverveined prose of <persname>Newman<persname>, that as he 
-			walked along the <placename>North Strand Road<placename>, glancing idly at the 
+			foreknew that as he passed the sloblands of <placeName>Fairview</placeName> he would 
+			think of the cloistral silverveined prose of <persName>Newman</persName>, that as he 
+			walked along the <placeName>North Strand Road</placeName>, glancing idly at the 
 			windows of the provision shops, he would recall the dark 
-			humour of <persname>Guido Cavalcanti<persname> and smile, that as he went by 
-			<persname>Baird<persname>'s stonecutting works in <placename>Talbot Place<placename> the spirit of <persname>Ibsen<persname> 
+			humour of <persName>Guido Cavalcanti</persName> and smile, that as he went by 
+			<persName>Baird</persName>'s stonecutting works in <placeName>Talbot Place</placeName> the spirit of <persName>Ibsen</persName> 
 			would blow through him like a keen wind, a spirit of wayward 
 			boyish beauty, and that passing a grimy marinedealer's shop 
-			beyond the <placename>Liffey<placename> he would repeat the song by <persname>Ben Jonson<persname> 
+			beyond the <placeName>Liffey</placeName> he would repeat the song by <persName>Ben Jonson</persName> 
 			which begins: </p>
 		<l><emph>I was not wearier where I lay.</emph> </l>
 		<p>His mind, when wearied of its search for the essence of 
-			beauty amid the spectral words of <persname>Aristotle<persname> or <persname>Aquinas<persname>, 
-			turned often for its pleasure to the dainty songs of the <persname>Elizabethans<persname>. 
+			beauty amid the spectral words of <persName>Aristotle</persName> or <persName>Aquinas</persName>, 
+			turned often for its pleasure to the dainty songs of the Elizabethans. 
 			His mind, in the vesture of a doubting monk, stood 
 			often in shadow under the windows of that age, to hear the 
 			grave and mocking music of the lutenists or the frank laughter 
@@ -6352,7 +6352,7 @@
 			and drove him on from his lurkingplace. </p>
 		<p>The lore which he was believed to pass his days brooding 
 			upon so that it had rapt him from the companionships of 
-			youth was only a garner of slender sentences from <persname>Aristotle<persname>'s 
+			youth was only a garner of slender sentences from <persName>Aristotle</persName>'s 
 			poetics and psychology and a <seg xml:lang="la">Synopsis Philosophiae Scholasticae ad mentem divi Thomae</seg>. His thinking was a dusk 
 			of doubt and selfmistrust lit up at moments by the lightnings of 
 			intuition, but lightnings of so clear a splendour that in those 
@@ -6374,14 +6374,14 @@
 			The clock in the dairy told him that it was five minutes to five 
 			but, as he turned away, he heard a clock somewhere near him, 
 			but unseen, beating eleven strokes in swift precision. He 
-			laughed as he heard it for it made him think of <persname>MacCann<persname> and 
+			laughed as he heard it for it made him think of <persName>MacCann</persName> and 
 			he saw him a squat figure in a shooting jacket and breeches 
-			and with a fair goatee, standing in the wind at <placename>Hopkins' corner<placename>, 
+			and with a fair goatee, standing in the wind at <placeName>Hopkins' corner</placeName>, 
 			and heard him say: </p>
 		<p><said who="MacCann">—Dedalus, you're an antisocial being, wrapped up in 
 			yourself. I'm not. I'm a democrat: and I'll work and act for 
 			social liberty and equality among all classes and sexes in the 
-			United States of the <placename>Europe<placename> of the future. </said></p>
+			United States of the <placeName>Europe</placeName> of the future. </said></p>
 		<p>Eleven! Then he was late for that lecture too. What day of 
 			the week was it? He stopped at a newsagent's to read the 
 			headline of a placard. Thursday.  Ten to eleven, English; 
@@ -6400,7 +6400,7 @@
 			squarely above its bending fellows like the head of a priest 
 			appealing without humility to the tabernacle for the humble 
 			worshippers about him. Why was it that when he thought of 
-			<persname>Cranly<persname> he could never raise before his mind the entire image 
+			<persName>Cranly</persName> he could never raise before his mind the entire image 
 			of his body but only the image of the head and face? Even 
 			now against the grey curtain of the morning he saw it before 
 			him like the phantom of a dream, the face of a severed head or 
@@ -6408,8 +6408,8 @@
 			hair as by an iron crown. It was a priestlike face, priestlike in 
 			its pallor, in the widewinged nose, in the shadowings below the 
 			eyes and along the jaws, priestlike in the lips that were long 
-			and bloodless and faintly smiling: and <persname>Stephen<persname>, remembering 
-			swiftly how he had told <persname>Cranly<persname> of all the tumults and unrest 
+			and bloodless and faintly smiling: and <persName>Stephen</persName>, remembering 
+			swiftly how he had told <persName>Cranly</persName> of all the tumults and unrest 
 			and longings in his soul, day after day and night by night, only 
 			to be answered by his friend's listening silence, would have 
 			told himself that it was the face of a guilty priest who heard 
@@ -6444,7 +6444,7 @@
 				<seg xml:lang="fr">ivoire</seg>, <seg xml:lang="ita">avorio</seg>, <seg xml:lang="la">ebur</seg>.</emph> One of the first examples that he had 
 			learnt in Latin had run: <seg xml:lang="la">India mittit ebur</seg>; and he recalled the 
 			shrewd northern face of the rector who had taught him to 
-			construe the Metamorphoses of <persname>Ovid<persname> in a courtly English, 
+			construe the Metamorphoses of <persName>Ovid</persName> in a courtly English, 
 			made whimsical by the mention of porkers and potsherds and 
 			chines of bacon. He had learnt what little he knew of the laws 
 			of Latin verse from a ragged book written by a Portuguese 
@@ -6455,11 +6455,11 @@
 			had tried to peer into the social life of the city of cities through 
 			the words <seg xml:lang="la">implere ollam denariorum</seg> which the rector had 
 			rendered sonorously as the filling of a pot with denaries.  The 
-			pages of his timeworn <persname>Horace<persname> never felt cold to the touch even 
+			pages of his timeworn <persName>Horace</persName> never felt cold to the touch even 
 			when his own fingers were cold:  they were human pages: and 
 			fifty years before they had been turned by the human fingers 
-			of <persname>John Duncan Inverarity<persname> and by his brother, <persname>William Malcolm 
-			Inverarity<persname>. Yes, those were noble names on the dusky 
+			of <persName>John Duncan Inverarity</persName> and by his brother, <persName>William Malcolm 
+				Inverarity</persName>. Yes, those were noble names on the dusky 
 			flyleaf and, even for so poor a Latinist as he, the dusky verses 
 			were as fragrant as though they had lain all those years in 
 			myrtle and lavender and vervain; but yet it wounded him to 
@@ -6468,17 +6468,17 @@
 			which he was striving to forge out an esthetic philosophy, was 
 			held no higher by the age he lived in than the subtle and 
 			curious jargons of heraldry and falconry. </p>
-		<p>The grey block of <placename>Trinity<placename> on his left, set heavily in the city's 
+		<p>The grey block of <placeName>Trinity</placeName> on his left, set heavily in the city's 
 			ignorance like a great dull stone set in a cumbrous ring, pulled 
 			his mind downward; and while he was striving this way and 
 			that to free his feet from the fetters of the reformed conscience 
-			he came upon the droll statue of the national poet of <placename>Ireland<placename>. </p>
+			he came upon the droll statue of the national poet of <placeName>Ireland</placeName>. </p>
 		<p>He looked at it without anger: for, though sloth of the body 
 			and of  the soul crept over it like unseen vermin, over the 
 			shuffling feet and up the folds of the cloak and around the 
 			servile head, it seemed humbly conscious of its indignity. It 
-			was a <persname>Firbolg<persname> in the borrowed cloak of a Milesian; and he 
-			thought of his friend <persname>Davin<persname>, the peasant student. It was a 
+			was a <persName>Firbolg</persName> in the borrowed cloak of a Milesian; and he 
+			thought of his friend <persName>Davin</persName>, the peasant student. It was a 
 			jesting name between them but the young peasant bore with it 
 			lightly saying: </p>
 		<p><said who="Davin">—Go on, Stevie,  I have a hard head, you tell me. Call me 
@@ -6486,22 +6486,22 @@
 		<p>The homely version of his christian name on the lips of his 
 			friend had touched Stephen pleasantly when first heard for he 
 			was as formal in speech with others as they were with him. 
-			Often, as he sat in <persname>Davin<persname>'s rooms in <placename>Grantham Street<placename>, wondering 
+			Often, as he sat in <persName>Davin</persName>'s rooms in <placeName>Grantham Street</placeName>, wondering 
 			at his friend's wellmade boots that flanked the wall pair by 
 			pair and repeating for his friend's simple ear the verses and 
 			cadences of others which were the veils of his own longing and 
-			dejection, the rude <persname>Firbolg<persname> mind of his listener had drawn his 
+			dejection, the rude <persName>Firbolg</persName> mind of his listener had drawn his 
 			mind towards it and flung it back again, drawing it by a quiet 
 			inbred courtesy of attention or by a quaint turn of old English 
 			speech or by the force of its delight in rude bodily skill - for 
-			<persname>Davin<persname> had sat at the feet of <persname>Michael Cusack<persname>, the Gael - 
+			<persName>Davin</persName> had sat at the feet of <persName>Michael Cusack</persName>, the Gael - 
 			repelling swiftly and suddenly by a grossness of intelligence or 
 			by a bluntness of feeling or by a dull stare of terror in the eyes, 
 			the terror of soul of a starving Irish village in which the curfew 
 			was still a nightly fear. </p>
 		<p>Side by side with his memory of the deeds of prowess of his 
-			uncle <persname>Mat Davin<persname>, the athlete, the young peasant worshipped 
-			the sorrowful legend of <placename>Ireland<placename>. The gossip of his fellowstudents 
+			uncle <persName>Mat Davin</persName>, the athlete, the young peasant worshipped 
+			the sorrowful legend of <placeName>Ireland</placeName>. The gossip of his fellowstudents 
 			which strove to render the flat life of the college 
 			significant at any cost loved to think of him as a young fenian. 
 			His nurse had taught him Irish and shaped his rude imagination 
@@ -6511,35 +6511,35 @@
 			as they moved down the cycles in the same attitude as towards 
 			the Roman catholic religion, the attitude of a dullwitted loyal 
 			serf. Whatsoever of thought or of feeling came to him from 
-			<placename>England<placename> or by way of English culture his mind stood armed 
+			<placeName>England</placeName> or by way of English culture his mind stood armed 
 			against in obedience to a password: and of the world that lay 
-			beyond <placename>England<placename> he knew only the foreign legion of <placename>France<placename> in 
+			beyond <placeName>England</placeName> he knew only the foreign legion of <placeName>France</placeName> in 
 			which he spoke of serving. </p>
 		<p>Coupling  this ambition with the young man's humour 
-			<persname>Stephen<persname> had often called him one of the tame geese: and there 
+			<persName>Stephen</persName> had often called him one of the tame geese: and there 
 			was even a point of irritation in the name pointed against that 
 			very reluctance of speech and deed in his friend which seemed 
-			so often to stand between <persname>Stephen<persname>'s mind, eager of speculation, 
+			so often to stand between <persName>Stephen</persName>'s mind, eager of speculation, 
 			and the hidden ways of Irish life. </p>
 		<p>One night the young peasant, his spirit stung by the violent 
-			or luxurious language in which <persname>Stephen<persname> escaped from the cold 
-			silence of intellectual revolt, had called up before <persname>Stephen<persname>'s 
+			or luxurious language in which <persName>Stephen</persName> escaped from the cold 
+			silence of intellectual revolt, had called up before <persName>Stephen</persName>'s 
 			mind a strange vision. The two were walking slowly towards 
-			<persname>Davin<persname>'s room through the dark narrow streets of the poorer 
+			<persName>Davin</persName>'s room through the dark narrow streets of the poorer 
 			jews. </p>
-		<p><said who="Davin">—A thing happened to myself, <persname>Stevie<persname>, last autumn, coming 
+		<p><said who="Davin">—A thing happened to myself, <persName>Stevie</persName>, last autumn, coming 
 			on winter, and I never told it to a living soul and you are the 
 			first person now I ever told it to. I disremember if it was 
 			October or November. It was October because it was before  I 
 			came up here to join the matriculation class. </said></p>
-		<p><persname>Stephen<persname> had turned his smiling eyes towards his friend's 
+	<p><persName>Stephen</persName> had turned his smiling eyes towards his friend's 
 			face, flattered by his confidence and won over to sympathy by 
 			the speaker's simple accent. </p>
-		<p><said who="Davin">—I was away all that day from my own place over in <placename>Buttevant<placename> 
+		<p><said who="Davin">—I was away all that day from my own place over in <placeName>Buttevant</placeName>
 			- I don't know if you know where that is - at a hurling 
 			match between the Croke's Own Boys and the Fearless 
-			Thurles and by God, <persname>Stevie<persname>, that was the hard fight. My first 
-			cousin, <persname>Fonsy Davin<persname>, was stripped to his buff that day minding 
+			Thurles and by God, <persName>Stevie</persName>, that was the hard fight. My first 
+			cousin, <persName>Fonsy Davin</persName>, was stripped to his buff that day minding 
 			cool for the Limericks but he was up with the forwards half 
 			the time and shouting like mad. I never will forget that day. 
 			One of the Crokes made a woeful wipe at him one time with 
@@ -6552,11 +6552,11 @@
 			there was such noise after the match that I missed the train 
 			home and I couldn't get any kind of a yoke to give me a lift for, 
 			as luck would have it, there was a mass meeting that same day 
-			over in <placename>Castletownroche<placename> and all the cars in the country were 
+			over in <placeName>Castletownroche</placeName>and all the cars in the country were 
 			there. So there was nothing for it only to stay the night or to 
 			foot it out. Well, I started to walk and on I went and it was 
-			coming on night when I got into the <placename>Ballyhoura<placename> hills; that's 
-			better than ten miles from <placename>Kilmallock<placename> and there's a long lonely 
+			coming on night when I got into the <placeName>Ballyhoura</placeName>hills; that's 
+			better than ten miles from <placeName>Kilmallock</placeName>and there's a long lonely 
 			road after that.  You wouldn't see the sign of a christian house 
 			along the road or hear a sound. It was pitch dark almost. Once 
 			or twice I stopped by the way under a bush to redden my pipe 
@@ -6564,7 +6564,7 @@
 			and slept. At last, after a bend of the road, I spied a little 
 			cottage with a light in the window. I went up and knocked at 
 			the door. A voice asked who was there and I answered I was 
-			over at the match in <placename>Buttevant<placename> and was walking back and that 
+			over at the match in <placeName>Buttevant</placeName> and was walking back and that 
 			I'd be thankful for a glass of water. After a while a young 
 			woman opened the door and brought me out a big mug of 
 			milk. She was half undressed as if she was going to bed when I 
@@ -6574,20 +6574,20 @@
 			door and I thought it strange because her breast and her 
 			shoulders were bare. She asked me was I tired and would I 
 			like to stop the night there. She said she was all alone in the 
-			house and that her husband had gone that morning to <placename>Queenstown<placename> 
+			house and that her husband had gone that morning to <placeName>Queenstown</placeName> 
 			with his sister to see her off. And all the time she was 
-			talking, <persname>Stevie<persname>, she had her eyes fixed on my face and she 
+			talking, <persName>Stevie</persName>, she had her eyes fixed on my face and she 
 			stood so close to me I could hear her breathing. When I 
 			handed her back the mug at last she took my hand to draw me 
 			in over the threshold and said: <emph>Come in and stay the night
 			here. You've no call to be frightened. There's no one in it but
-			ourselves</emph> .... I didn't go in, <persname>Stevie<persname>.  I thanked her and went 
+			ourselves</emph> .... I didn't go in, <persName>Stevie</persName>.  I thanked her and went 
 			on my way again, all in a fever. At the first bend of the road I 
 			looked back and she was standing at the door. </said></p>
-		<p>The last words of <persname>Davin<persname>'s story sang in his memory  and the 
+	<p>The last words of <persName>Davin</persName>'s story sang in his memory  and the 
 			figure of the woman in the story stood forth, reflected in other 
 			figures of the peasant women whom he had seen standing in 
-			the doorways at <placename>Clane<placename> as the college cars drove by, as a type 
+			the doorways at <placeName>Clane</placeName> as the college cars drove by, as a type 
 			of her race and his own, a batlike soul waking to the consciousness 
 			of itself in darkness and secrecy and loneliness and, 
 			through the eyes and voice and gesture of a woman without 
@@ -6610,31 +6610,31 @@
 		<p><said who="Stephen Dedalus">—Possibly, said Stephen, but I don't think it likely. </said></p>
 		<p>He left her quickly, fearing that her intimacy might turn to 
 			gibing and wishing to be out of the way before she offered her 
-			ware to another, a tourist from <placename>England<placename> or a student of <placename>Trinity<placename>. 
-			<placename>Grafton Street<placename>, along which he walked, prolonged that 
+			ware to another, a tourist from <placeName>England</placeName>or a student of <placeName>Trinity</placeName>. 
+			<placeName>Grafton Street</placeName>, along which he walked, prolonged that 
 			moment of discouraged poverty. In the roadway at the head of 
-			the street a slab was set to the memory of <persname>Wolfe Tone<persname> and he 
+			the street a slab was set to the memory of <persName>Wolfe Tone</persName> and he 
 			remembered having been present with his father at its laying. 
 			He remembered with bitterness that scene of tawdry tribute. 
 			There were four French delegates in a brake and one, a plump 
 			smiling young man, held, wedged on a stick,  a card on which 
 			were printed the words: <seg xml:lang="fr">Vive l'Irlande!</seg></p>
-		<p>But the trees in <placename>Stephen's Green<placename> were fragrant of rain and 
+		<p>But the trees in <placeName>Stephen's Green</placeName>were fragrant of rain and 
 			the rainsodden earth gave forth its mortal odour, a faint 
 			incense rising upward through the mould from many hearts. 
 			The soul of the gallant venal city which his elders had told him 
 			of had shrunk with time to a faint mortal odour rising from the 
 			earth and he knew that in a moment when he entered the 
 			sombre college he would be conscious of a corruption other 
-			than that of <persname>Buck Egan<persname> and <persname>Burnchapel Whaley<persname>. </p>
+			than that of <persName>Buck Egan</persName> and <persName>Burnchapel Whaley</persName>. </p>
 		<p>It was too late to go upstairs to the French class. He 
 			crossed the hall and took the corridor to the left which led to 
 			the physics theatre. The corridor was dark and silent but not 
 			unwatchful. Why did he feel that it was not unwatchful? Was 
-			it because he had heard that in <persname>Buck Whaley<persname>'s time there was 
+			it because he had heard that in <persName>Buck Whaley</persName>'s time there was 
 			a secret staircase there? Or was the jesuit house extraterritorial 
-			and was he walking among aliens? The <placename>Ireland<placename> of <persname>Tone<persname> 
-			and of <persname>Parnell<persname> seemed to have receded in space. </p>
+			and was he walking among aliens? The <placeName>Ireland</placeName>of <persName>Tone</persName> 
+			and of <persName>Parnell</persName> seemed to have receded in space. </p>
 		<p>He opened the door of the theatre and halted in the chilly 
 			grey light that struggled through the dusty windows. A figure 
 			was crouching before the large grate and by its leanness and 
