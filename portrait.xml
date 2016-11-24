@@ -5088,14 +5088,14 @@
 			sawdust, moving men and women. An old woman was about 
 			to cross the street, an oilcan in her hand. He bent down and 
 			asked her was there a chapel near. </p>
-		<p>—A chapel, sir? Yes, sir. <place><location><geo>53.348746 -6.275034</geo></location><placeName>Church Street chapel</placeName></place>. </p>
+		<p><said who="an old woman">—A chapel, sir? Yes, sir. <place><location><geo>53.348746 -6.275034</geo></location><placeName>Church Street chapel</placeName></place>.</said></p>
 		<p><said who="Stephen Dedalus">—Church?</said></p>
 		<p>She shifted the can to her other hand and directed him: 
 			and, as she held out her reeking withered right hand under its 
 			fringe of shawl, he bent lower towards her, saddened and 
 			soothed by her voice. </p>
 		<p><said who="Stephen Dedalus">—Thank you. </said></p>
-		<p>—You are quite  welcome, sir. </p>
+		<p><said who="an old woman">—You are quite  welcome, sir. </said></p>
 		<p>The candles on the high altar had been extinguished but the 
 			fragrance of incense still floated down the dim nave. Bearded 
 			workmen with pious faces were guiding a canopy out through 
@@ -5278,16 +5278,16 @@
 			were trembling, and his soul trembled as he heard the priest 
 			pass with the ciborium from communicant to communicant. </p>
 
-		<p>—<seg xml:lang="la">Corpus Domini nostri.</seg></p>
+		<p><said who="Priest">—<seg xml:lang="la">Corpus Domini nostri.</seg></said></p>
 
 		<p>Could it be? He knelt there sinless and timid: and he would 
 			hold upon his tongue the host and God would enter his 
 			purified body. </p>
-		<p>—<seg xml:lang="la">In vitam eternam. Amen.</seg> </p>
+		<p><said who="Priest">—<seg xml:lang="la">In vitam eternam. Amen.</seg></said></p>
 		<p>Another life! A life of grace and virtue and happiness! It 
 			was true. It was not a dream from which he would wake.  The 
 			past was past. </p>
-		<p>—<seg xml:lang="la">Corpus Domini nostri.</seg> </p>
+		<p><said who="Priest">—<seg xml:lang="la">Corpus Domini nostri.</seg></said></p>
 		<p>The ciborium had come to him. </p>
 
 	</div><!-- 3.3 --> 
