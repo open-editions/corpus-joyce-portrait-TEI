@@ -2,8 +2,7 @@
 
 This is the open scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_, richly annotated in semantic markup with TEI XML. 
 
-See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test an early XSL-transformed prototype [here on github.io](http://jonathanreeve.github.io/corpus-joyce-portrait-TEI/). The main text of the edition is [portrait.xml](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/portrait.xml) in this repository.
-
+See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test a XSL-transformed prototype, containing a few of the text’s features, [here on github.io](http://jonathanreeve.github.io/corpus-joyce-portrait-TEI/). The transformed prototype is not meant to be a canonical representation of the features of the edition—the main text of the edition is [portrait.xml](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/portrait.xml) in this repository.
 
 # About this Project
 
@@ -15,7 +14,7 @@ We intend to aggregate much of the existing knowledge about the book in a single
  * Which character speaks the most lines of dialog? What are the characteristic words of each speaker? 
  - How many of the portmanteau or compound words in this novel are Joyce’s coinages? What trends may be found among categories of these words?
 
-All of these questions are easily answerable with very simple computational analyses, but these analyses need a machine-readable edition of the novel. This is possible with TEI XML, a markup format that allows for semantic description of the text. Most existing TEI editions, however, don't use the full semantic features of the language. TEI features an epigraph tag, for instance, but epigraphs are often marked up as quotes, verse lines, or, even worse, italicized text. Those descriptions are all true, but not as useful to computational literary analysis as the epigraph tag. 
+These questions are easily answerable with very simple computational analyses, but these analyses need a machine-readable edition of the novel. This is possible with TEI XML, a markup format that allows for semantic description of the text. Most existing TEI editions, however, don't use the full semantic features of the language. TEI features an epigraph tag, for instance, but epigraphs are often marked up as quotes, verse lines, or, even worse, italicized text. Those descriptions are all true, but not as useful to computational literary analysis as the epigraph tag. 
 
 When we see an epigraph, we mark it up as such. When we see dialog, we mark it as such and indicate who is speaking. When we correct an OCR or typographical error in the text, we document the reasons why. One error that appears in most print editions is the word "green"--Joyce meant for it to read "geen," indicating infantile pronunciation of the color word. We correct errors like this by referring to manuscripts.
 
