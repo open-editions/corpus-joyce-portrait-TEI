@@ -1,35 +1,35 @@
-# corpus-joyce-portrait-TEI
+# The Open Scholarly Edition of James Joyce’s _A Portrait of the Artist as a Young Man_
 
-[![Join the chat at https://gitter.im/corpus-joyce-portrait-TEI/Lobby](https://badges.gitter.im/corpus-joyce-portrait-TEI/Lobby.svg)](https://gitter.im/corpus-joyce-portrait-TEI/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+This is the open scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_, richly annotated in semantic markup with TEI XML. 
 
-This is the open collaborative scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_–corrected, revised, and richly annotated. 
+See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test an early XSL-transformed prototype [here on github.io](http://jonathanreeve.github.io/corpus-joyce-portrait-TEI/). The main text of the edition is [portrait.xml](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/portrait.xml) in this repository.
 
-See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test the XSL-transformed prototype [here on github.io](http://jonathanreeve.github.io/corpus-joyce-portrait-TEI/).
 
 # About this Project
 
-We intend to aggregate much of the existing knowledge about the book in one place--textual notes, critical commentary, interpretations, and more. Also, we want to be able to answer questions like these:
+We intend to aggregate much of the existing knowledge about the book in a single file--textual notes, critical commentary, interpretations, and more. We want to be able to answer questions such as these:
  * What proportion of each chapter is a song or a verse stanza? What does this tell us about Joyce's associations of song and youth? 
  * What proportion of the novel is prayer? What books of the bible are cited or quoted most often, and why?
- * What other authors are represented the most commons literary allusions? 
- * How much Latin is in each chapter, and why? How much French?
+ * What are the most common types of literary allusions in the novel? What patterns might emerge from a study of these? 
+ * How much of the Latin language may be found in each chapter, and why? How much French?
  * Which character speaks the most lines of dialog? What are the characteristic words of each speaker? 
+ - How many of the portmanteau or compound words in this novel are Joyce’s coinages? What trends may be found among categories of these words?
 
-All of these questions are easily answerable with very simple computational analyses, but these analyses need a machine-readable edition of the novel. 
+All of these questions are easily answerable with very simple computational analyses, but these analyses need a machine-readable edition of the novel. This is possible with TEI XML, a markup format that allows for semantic description of the text. Most existing TEI editions, however, don't use the full semantic features of the language. TEI features an epigraph tag, for instance, but epigraphs are often marked up as quotes, verse lines, or, even worse, italicized text. Those descriptions are all true, but not as useful to computational literary analysis as the epigraph tag. 
 
-This is possible with TEI XML, a markup format that allows for semantic description of the text. Most existing TEI editions, however, don't use the full semantic features of the language. TEI features an epigraph tag, for instance, but epigraphs are often marked up as quotes, verse lines, or, even worse, italicized text. Those descriptions are all true, but not as useful to computational literary analysis as the epigraph tag. 
-
-When we see an epigraph, we mark it up as such. When we see dialog, we mark it as such and indicate who is speaking. When we correct an OCR or typographical error in the text, we document the reasons why. One error that appears in most print editions is the word "green"--Joyce actually meant for it to read "geen," indicating infantile pronunciation of the color word. We correct errors like this by referring to manuscripts.
+When we see an epigraph, we mark it up as such. When we see dialog, we mark it as such and indicate who is speaking. When we correct an OCR or typographical error in the text, we document the reasons why. One error that appears in most print editions is the word "green"--Joyce meant for it to read "geen," indicating infantile pronunciation of the color word. We correct errors like this by referring to manuscripts.
 
 We also mark up:  
  * languages other than English
  * literary allusions
  * songs and prayers
- * locations and personal names
+ * latitude and longitude of locations 
+ - personal names
+ - Joycean compound words
 
-Apart from markup features, one of the distinguishing features of this project is its infrastructure. We leverage distributed version control using git and github, which allows anyone to edit the edition in the browser and submit a request for the change.  
+Apart from markup features, one of the distinguishing features of this project is its infrastructure. We leverage distributed version control using git and GitHub, which allows anyone to edit the edition in the browser and submit a request for the change.  
 
-##(Planned) Features: 
+##Markup Conventions
  * Dialogue is marked by speaker, using `<said who="">` tags, facilitating speaker-specific dialogue extraction. 
  * Verse is indicated by `<lg>` and `<l>` tags. 
  * Features such as epigraphs marked with their respective tags, e.g. `<epigraph>`.  
@@ -66,3 +66,5 @@ examples that he had learnt in Latin had run:
 ##How to contribute:
 
 See [CONTRIBUTING.md](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/CONTRIBUTING.md). 
+
+[![Join the chat at https://gitter.im/corpus-joyce-portrait-TEI/Lobby](https://badges.gitter.im/corpus-joyce-portrait-TEI/Lobby.svg)](https://gitter.im/corpus-joyce-portrait-TEI/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
