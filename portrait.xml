@@ -108,7 +108,7 @@
 	<body>
 
 <div n="1" type="chapter">
-<div n="1.1" type="section">
+  <div n="1.1" type="section">
 <epigraph xml:lang="la">
 <cit>
 <quote> <emph> Et ignotas animum dimittit in artes. </emph> </quote>
@@ -164,7 +164,11 @@
 <lb n="10039"/> <l> <emph> Pull out his eyes, </emph> </l>
 <lb n="10040"/> <l> <emph> Pull out his eyes, </emph> </l>
 <lb n="10041"/> <l> <emph> Apologise. </emph> </l>
-</lg> <milestone unit="section" rend="asterixes"/> </div> <!-- 1.1 --> <div n="1.2" type="section">
+</lg> <milestone unit="section" rend="asterixes"/>
+
+</div> <!-- 1.1 -->
+<div n="1.2" type="section">
+
 <p><lb n="10042"/> The wide playgrounds were swarming with boys. All were
 <lb n="10043"/> shouting and the prefects urged them on with strong cries. The
 <lb n="10044"/> evening air was pale and chilly and after every charge and thud
@@ -511,7 +515,7 @@
 <lg type="prayer">
 <lb n="10377"/> <l> <emph> O Lord, open our lips </emph> </l>
 <lb n="10378"/> <l> <emph> And our mouth shall announce Thy praise. </emph> </l>
-<lb n="10379"> <l> <emph> Incline unto our aid, O God! </emph> </l>
+<lb n="10379"/> <l> <emph> Incline unto our aid, O God! </emph> </l>
 <lb n="10380"/> <l> <emph> O Lord, make haste to help us! </emph> </l>
 </lg>
 <p><lb n="10381"/> There was a cold night smell in the chapel. But it was a holy
@@ -532,9 +536,9 @@
 <lb n="10396"/> prayer. He prayed it too against the dark outside under the
 <lb n="10397"/> trees.</p>
 <p><lb n="10398"/> <seg type="prayer"> Visit, we beseech Thee, O Lord, this habitation and
-<lb n="10399"/> <emph> drive away from it all the snares of the enemy. May
-<lb n="10400"/> <emph> Thy holy angels dwell herein to preserve us in peace
-<lb n="10401"/> <emph> and may Thy blessing be always upon us through
+<lb n="10399"/> drive away from it all the snares of the enemy. May
+<lb n="10400"/> Thy holy angels dwell herein to preserve us in peace
+<lb n="10401"/> and may Thy blessing be always upon us through
 <lb n="10402"/> Christ, Our Lord. Amen. </seg></p>
 <p><lb n="10403"/> His fingers trembled as he undressed himself in the dormi-
 <lb n="10404"/> tory. He told his fingers to hurry up. He had to undress and
@@ -545,12 +549,12 @@
 <lb n="10409"/> quickly fearing that the gas would go down. He felt his shoul-
 <lb n="10410"/>ders shaking as he murmured:</p>
 <lg type="prayer">
-<lb n="10411"/> <l> <emph> God bless my father and my mother and spare them to
-<lb n="10412"/> <emph> me! </emph> </emph> </l>
-<lb n="10413"/> <l> <emph> God bless my little brothers and sisters and spare them
-<lb n="10414"/> <emph> to me! </emph> </l>
-<lb n="10415"/> <l> <emph> God bless <persName> Dante </persName> and <persName> uncle Charles </persName> and spare them to </emph>
-<lb n="10416"/> <emph> me! </emph></l>
+<lb n="10411"/> <l> God bless my father and my mother and spare them to
+<lb n="10412"/> me! </l>
+<lb n="10413"/> <l> God bless my little brothers and sisters and spare them
+<lb n="10414"/> to me! </l>
+<lb n="10415"/> <l> God bless <persName> Dante </persName> and <persName> uncle Charles </persName> and spare them to
+<lb n="10416"/> me! </l>
 </lg>
 <p><lb n="10417"/> He blessed himself and climbed quickly into bed and, tuck-
 <lb n="10418"/> ing the end of the nightshirt under his feet, curled himself to
@@ -585,7 +589,7 @@
 <lb n="10447"/> battlefields far away over the sea. What did they wish to say
 <lb n="10448"/> that their faces were so strange?</p>
 <p><lb n="10449"/> <seg type="prayer"> Visit, we beseech Thee, O Lord, this habitation and drive
-<lb n="10450"/> <emph> away from it all....^@ </seg></p>
+<lb n="10450"/> away from it all....^@ </seg></p>
 <p><lb n="10451"/> Going home for the holidays! That would be lovely: the
 <lb n="10452"/> fellows had told him. Getting up on the cars in the early wintry
 <lb n="10453"/> morning outside the door of the castle. The cars were rolling
@@ -800,7 +804,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <p><lb n="10658"/> <said who="Athy"> --You know, he said, you can ask that riddle another way? </said></p>
 <p><lb n="10659"/> <said who="Stephen"> --Can you? said <persName> Stephen </persName>. </said></p>
 <p><lb n="10660"/> <said who="Athy"> --The same riddle, he said. Do you know the other way to ask
-<lb n="10661"/> it?</p>
+<lb n="10661"/> it?</said></p>
 <p><lb n="10662"/> <said who="Stephen"> --No, said <persName> Stephen </persName>. </said></p>
 <p><lb n="10663"/> <said who="Athy"> --Can you not think of the other way? he said. </said></p>
 <p><lb n="10664"/> He looked at <persName> Stephen </persName> over the bedclothes as he spoke. Then
@@ -855,11 +859,10 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <p><lb n="10713"/> And he saw <persName> Dante </persName> in a maroon velvet dress and with a green
 <lb n="10714"/> velvet mantle hanging from her shoulders walking proudly and
 <lb n="10715"/> silently past the people who knelt by the waters' edge.</p>
+
 		<milestone unit="section" rend="asterixes"/>
 
 	</div> <!-- 1.2 --> 
-
-	<div n="1.3" type="section"> 
 
 <div n="1.3" type="section"> 
 <p> <lb n="10716"/> A great fire, banked high and red, flamed in the grate and
@@ -935,9 +938,9 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10786"/> and then said quickly, withdrawing it:
 <lb n="10787"/> <said who="Simon Dedalus">--Now, <persName>Stephen</persName>. </said></p>
 <p> <lb n="10788"/> <persName>Stephen</persName> stood up in his place to say the grace before meals:</p>
-<p> <lb n="10789"/> <seg type="prayer"> <said who="Stephen"> <emph> <l>Bless us, O Lord, and these Thy gifts which through
-<lb n="10790"/> Thy bounty we are about to receive through Christ
-<lb n="10791"/> Our Lord.^@ Amen.^@ </emph> </said> </seg> </p>
+<p> <lb n="10789"/> <seg type="prayer"> <said who="Stephen"> <lg> <l>Bless us, O Lord, and these Thy gifts which through</l>
+<lb n="10790"/> <l>Thy bounty we are about to receive through Christ</l>
+<lb n="10791"/> <l>Our Lord.^@ Amen.^@ </l> </lg> </said> </seg> </p>
 <p> <lb n="10792"/> All blessed themselves and <persName>Mr Dedalus</persName> with a sigh of pleas-
 <lb n="10793"/> ure lifted from the dish the heavy cover pearled around the
 <lb n="10794"/> edge with glistening drops.</p>
@@ -1032,8 +1035,8 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10883"/> <said who="Dante">--He was no longer worthy to lead, said <persName>Dante</persName>. He was a
 <lb n="10884"/> public sinner. </said>
 <lb n="10885"/> <said who="John Casey">--We are all sinners and black sinners, said <persName>Mr Casey</persName> coldly. </said>
-<lb n="10886"/> <said who="Dante">--<quote><ref>Matthew 18.7</ref>>Woe be to the man by whom the scandal cometh!</quote> said <persName>Mrs
-<lb n="10887"/> Riordan</persName>. <quote><ref>Luke 17.1-2</ref><emph>It would be better for him that a millstone were tied
+<lb n="10886"/> <said who="Dante">--<quote><ref>Matthew 18.7</ref>Woe be to the man by whom the scandal cometh!</quote> said <persName>Mrs
+<lb n="10887"/> Riordan</persName>. <quote rend="italics"><ref>Luke 17.1-2</ref>It would be better for him that a millstone were tied
 <lb n="10888"/> about his neck and that he were cast into the depths^@ of the sea
 <lb n="10889"/> rather than that he should scandalise one of these, my least
 <lb n="10890"/> little ones.</quote> That is the language of the Holy Ghost.</said>
@@ -1050,7 +1053,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10901"/> hands in her lap. She was red in the face. Mr Dedalus rooted
 <lb n="10902"/> with the carvers at the end of the dish and said:
 <lb n="10903"/> <said who="Simon Dedalus">--There's a tasty bit here we call the pope's nose. If any lady
-<lb n="10904"/> or gentleman .....^@</p>
+<lb n="10904"/> or gentleman .....^@</said></p>
 <p> <lb n="10905"/> He held a piece of fowl up on the prong of the <seg type="neologism">carvingfork</seg>.
 <lb n="10906"/> Nobody spoke. He put it on his own plate, saying:
 <lb n="10907"/> <said who="Simon Dedalus">--Well, you can't say but you were asked. I think I had better
@@ -1202,8 +1205,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11049"/> <said who="John Casey">--<emph>O Jesus, Mary and Joseph!</emph> says she. <emph>I'm blinded! I'm
 <lb n="11050"/> blinded and drownded!</emph> </said></p>
 <p> <lb n="11051"/> He stopped in a fit of coughing and laughter, repeating:
-<lb n="11052"/> <said who="John Casey">--<emph>I'm blinded entirely!^@</emph></p>
-</said></p>
+<lb n="11052"/> <said who="John Casey">--<emph>I'm blinded entirely!^@</emph></said></p>
 <p> <lb n="11053"/> Mr Dedalus laughed loudly and lay back in his chair while
 <lb n="11054"/> uncle Charles swayed his head to and fro.</p>
 <p> <lb n="11055"/> Dante looked terribly angry and repeated while they
@@ -1434,7 +1436,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11279"/> face but it was very like a man with a beard. And on the wall of
 <lb n="11280"/> another closet there was written in backhand  in beautiful writ-
 <lb n="11281"/> ing:^@</p>
-<p> <lb n="11282"/> <l>Julius Caesar wrote The Calico Belly. </l>
+<p> <lb n="11282"/> <l>Julius Caesar wrote The Calico Belly. </l> </p>
 <p> <lb n="11283"/> Perhaps that was why they were there  because it was a place
 <lb n="11284"/> where some fellows wrote things for cod. But all the same it
 <lb n="11285"/> was queer what Athy said and the way he said it. It was not a
