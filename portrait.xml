@@ -445,8 +445,7 @@
 <p><lb n="10309"/> That was in his writing: and <persName> Fleming </persName> one night for a cod had
 <lb n="10310"/> written on the opposite page:</p>
 <lg>
-<*** DONE [#B] write categorizer to extract novels from git-lit corpus
-lb n="10311"/> <l> <emph> <persName> Stephen Dedalus </persName> is my name, </emph> </l>
+<lb n="10311"/> <l> <emph> <persName> Stephen Dedalus </persName> is my name, </emph> </l>
 <lb n="10312"/> <l> <emph> <placeName> Ireland </placeName> is my nation. </emph> </l>
 <lb n="10313"/> <l> <emph> <place> <location> <geo> 53.310769 -6.684716 </geo> </location> <placeName> Clongowes </placeName> </place> is my <seg type="neologism"> dwellingplace </seg> </emph> </l>
 <lb n="10314"/> <l> <emph> And heaven my expectation. </emph> </l>
