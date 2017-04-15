@@ -51,6 +51,10 @@
 	<xsl:apply-templates/><br/>
 </xsl:template>
 
+<xsl:template match="geo">
+	<span class="hide"><xsl:apply-templates/></span>
+</xsl:template>
+
 <xsl:template match="emph">
 	<span class="emph"><xsl:apply-templates/></span>
 </xsl:template>
@@ -72,7 +76,7 @@
 	</span>
 </xsl:template> 
 
-<xsl:template match="epigraph|seg">
+<xsl:template match="epigraph">
 	<span class="lang">
 		<xsl:apply-templates select="@xml:lang | node()"/>
 	</span>

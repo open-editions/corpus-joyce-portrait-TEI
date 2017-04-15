@@ -73,3 +73,6 @@ span.tag.dialog {
 	left: -18%; 
 } 
 
+span.hide {
+    display: none;
+}
