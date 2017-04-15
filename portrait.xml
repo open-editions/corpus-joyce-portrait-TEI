@@ -119,7 +119,7 @@
 <p><lb n="10001"/> Once upon a time and a very good time it was there was a
 <lb n="10002"/> moocow coming down along the road and this moocow that
 <lb n="10003"/> was coming down along the road met a nicens little boy named
-<lb n="10004"/> baby tuckoo.....^@</p>
+<lb n="10004"/> baby tuckoo.....</p>
 <p><lb n="10005"/> His father told him that story: his father looked at him
 <lb n="10006"/> through a glass: he had a hairy face.</p>
 <p><lb n="10007"/> He was baby tuckoo. The moocow came down the road
@@ -130,7 +130,7 @@
 </lg>
 <p><lb n="10011"/> He sang that song. That was his song.</p>
 <lg type="song">
-<lb n="10012"/> <l> <emph> O, the geen^@ wothe botheth. </emph> </l>
+<lb n="10012"/> <l> <emph> O, the geen wothe botheth. </emph> </l>
 </lg>
 <p><lb n="10013"/> When you wet the bed first it is warm then it gets cold. His
 <lb n="10014"/> mother put on the oilsheet. That had the queer smell.</p>
@@ -151,7 +151,7 @@
 <p><lb n="10027"/> The <persName> Vances </persName> lived in number seven. They had a different
 <lb n="10028"/> father and mother. They were <persName> Eileen </persName>'s father and mother.
 <lb n="10029"/> When they were grown up he was going to marry <persName> Eileen </persName>.</p>
-<p><lb n="10030"/> He^@ hid under the table. His mother said:</p>
+<p><lb n="10030"/> He hid under the table. His mother said:</p>
 <p><lb n="10031"/> <said who="Mary Dedalus"> --O, <persName> Stephen </persName> will apologise. </said></p>
 <p><lb n="10032"/> Dante said:</p>
 <p><lb n="10033"/> <said who="Dante"> --O, if not, the eagles will come and pull out his eyes. </said></p>
@@ -198,7 +198,7 @@
 <p><lb n="10068"/> He crept about from point to point on the fringe of his line,
 <lb n="10069"/> making little runs now and then. But his hands were bluish
 <lb n="10070"/> with cold. He kept his hands in the sidepockets of his belted
-<lb n="10071"/> grey suit. That was a belt round his jacket.^@ And belt was also to
+<lb n="10071"/> grey suit. That was a belt round his jacket. And belt was also to
 <lb n="10072"/> give a fellow a belt. One day a fellow had said to <persName> Cantwell </persName>:</p>
 <p><lb n="10073"/> <said who="a fellow"> --I'd give you such a belt in a second. </said></p>
 <p><lb n="10074"/> <persName> Cantwell </persName> had answered:</p>
@@ -258,8 +258,8 @@
 <lb n="10124"/> cause he would not swop his little <seg type="neologism"> snuffbox </seg> for <persName> Wells </persName>'s sea-
 <lb n="10125"/> soned hacking chestnut, the conqueror of forty. How cold and
 <lb n="10126"/> slimy the water had been! A fellow had once seen a big rat
-<lb n="10127"/> jump plop^@ into the scum. He^@ shivered and longed to cry. It
-<lb n="10128"/> would^@ be so nice to be at home. Mother was sitting at the fire
+<lb n="10127"/> jump plop into the scum. He shivered and longed to cry. It
+<lb n="10128"/> would be so nice to be at home. Mother was sitting at the fire
 <lb n="10129"/> with <persName> Dante </persName> waiting for <persName> Brigid </persName> to bring in the tea. She had her
 <lb n="10130"/> feet on the fender and her jewelly slippers were so hot and they
 <lb n="10131"/> had such a lovely warm smell! <persName> Dante </persName> knew a lot of things. She
@@ -327,7 +327,7 @@
 <lb n="10193"/> and second place and third place were beautiful colours too:
 <lb n="10194"/> pink and cream and lavender. Lavender and cream and pink
 <lb n="10195"/> roses were beautiful to think of. Perhaps a wild rose might be
-<lb n="10196"/> like those colours:^@ and he remembered the song about the wild
+<lb n="10196"/> like those colours: and he remembered the song about the wild
 <lb n="10197"/> rose blossoms on the little green place. But you could not have
 <lb n="10198"/> a green rose. But perhaps somewhere in the world you could.</p>
 <p><lb n="10199"/> The bell rang and then the classes began to file out of the
@@ -377,7 +377,7 @@
 <lb n="10243"/> sleeves. He was telling them something about <place> <location> <geo> 52.888640 -8.428450 </geo> </location> <placeName> Tullabeg </placeName> </place>.</p>
 <p><lb n="10244"/> Then he went away from the door and <persName> Wells </persName> came over to
 <lb n="10245"/> <persName> Stephen </persName> and said:</p>
-<p><lb n="10246"/> <said who="Wells"> --Tell us, <persName> Dedalus </persName>, do you kiss your mother every^@ night^@ before
+<p><lb n="10246"/> <said who="Wells"> --Tell us, <persName> Dedalus </persName>, do you kiss your mother every night before
 <lb n="10247"/> you go to bed? </said></p>
 <p><lb n="10248"/> <persName> Stephen </persName> answered:</p>
 <p><lb n="10249"/> <said who="Stephen"> --I do. </said></p>
@@ -445,7 +445,8 @@
 <p><lb n="10309"/> That was in his writing: and <persName> Fleming </persName> one night for a cod had
 <lb n="10310"/> written on the opposite page:</p>
 <lg>
-<lb n="10311"/> <l> <emph> <persName> Stephen Dedalus </persName> is my name, </emph> </l>
+<*** DONE [#B] write categorizer to extract novels from git-lit corpus
+lb n="10311"/> <l> <emph> <persName> Stephen Dedalus </persName> is my name, </emph> </l>
 <lb n="10312"/> <l> <emph> <placeName> Ireland </placeName> is my nation. </emph> </l>
 <lb n="10313"/> <l> <emph> <place> <location> <geo> 53.310769 -6.684716 </geo> </location> <placeName> Clongowes </placeName> </place> is my <seg type="neologism"> dwellingplace </seg> </emph> </l>
 <lb n="10314"/> <l> <emph> And heaven my expectation. </emph> </l>
@@ -523,7 +524,7 @@
 <lb n="10383"/> the back of the chapel at Sunday mass. That was a smell of air
 <lb n="10384"/> and rain and turf and corduroy. But they were very holy peas-
 <lb n="10385"/> ants. They breathed behind him on his neck and sighed as they
-<lb n="10386"/> prayed. They lived in <place> <location> <geo> 53.293785 -6.687040 </geo> </location> <placeName> Clane </placeName>,^@ </place>, a fellow said: there were little
+<lb n="10386"/> prayed. They lived in <place> <location> <geo> 53.293785 -6.687040 </geo> </location> <placeName> Clane </placeName>, </place>, a fellow said: there were little
 <lb n="10387"/> cottages there and he had seen a woman standing at the <seg type="neologism"> half-
 <lb n="10388"/> door </seg> of a cottage with a child in her arms, as the cars had come
 <lb n="10389"/> past from <place> <location> <geo> 53.251067 -6.665231 </geo> </location> <placeName> Sallins </placeName> </place>. It would be lovely to sleep for one night in
@@ -589,7 +590,7 @@
 <lb n="10447"/> battlefields far away over the sea. What did they wish to say
 <lb n="10448"/> that their faces were so strange?</p>
 <p><lb n="10449"/> <seg type="prayer"> Visit, we beseech Thee, O Lord, this habitation and drive
-<lb n="10450"/> away from it all....^@ </seg></p>
+<lb n="10450"/> away from it all.... </seg></p>
 <p><lb n="10451"/> Going home for the holidays! That would be lovely: the
 <lb n="10452"/> fellows had told him. Getting up on the cars in the early wintry
 <lb n="10453"/> morning outside the door of the castle. The cars were rolling
@@ -618,7 +619,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10475"/> and red, twined round the chandeliers. There were red holly
 <lb n="10476"/> and green ivy round the old portraits on the walls. Holly and
 <lb n="10477"/> ivy for him and for Christmas.</p>
-<p><lb n="10478"/> Lovely......^@</p>
+<p><lb n="10478"/> Lovely......</p>
 <p><lb n="10479"/> All the people. Welcome home, <persName> Stephen </persName>! Noises of welcome.
 <lb n="10480"/> His mother kissed him. Was that right? His father was a mar-
 <lb n="10481"/> shal now: higher than a magistrate. Welcome home, <persName> Stephen </persName>!</p>
@@ -765,7 +766,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <p><lb n="10619"/> The cold sunlight was weaker and <persName> Brother Michael </persName> was
 <lb n="10620"/> standing at his bedside with a bowl of <seg type="neologism"> beeftea </seg>. He was glad for
 <lb n="10621"/> his mouth was hot and dry. He could hear them playing on the
-<lb n="10622"/> playgrounds. It was after lunchtime.^@ And the day was going on
+<lb n="10622"/> playgrounds. It was after lunchtime. And the day was going on
 <lb n="10623"/> in the college just as if he were there.</p>
 <p><lb n="10624"/> Then <persName> Brother Michael </persName> was going away and the fellow out of
 <lb n="10625"/> third of grammar told him to be sure and come back and tell
@@ -893,7 +894,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <p> <lb n="10741"/> <persName>Mr Casey</persName> tapped the gland of his neck and smiled at <persName>Stephen</persName>Ste-
 <lb n="10742"/> phen with sleepy eyes: and <persName>Mr Dedalus</persName> said to him:
 <lb n="10743"/> <said who="Simon Dedalus">--Yes. Well now, that's all right. O, we had a good walk,
-<lb n="10744"/> hadn't we, <persName>John</persName>? Yes ......^@ I wonder if there's any likelihood of
+<lb n="10744"/> hadn't we, <persName>John</persName>? Yes ...... I wonder if there's any likelihood of
 <lb n="10745"/> dinner this evening. Yes ..... O, well now, we got a good breath
 <lb n="10746"/> of ozone round <place><location><geo>53.190760 -6.089490</geo></location><placeName>the Head</placeName></place> today. Ay, bedad. </said></p>
 <p> <lb n="10747"/> He turned to <persName>Dante</persName> and said:
@@ -904,25 +905,25 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10752"/> sideboard. He brought forth a great stone jar of whisky from the
 <lb n="10753"/> locker and filled the decanter slowly, bending now and then to
 <lb n="10754"/> see how much he had poured in. Then replacing the jar in the
-<lb n="10755"/> locker he poured out^@ a little of the whisky into two glasses,
-<lb n="10756"/> added a little water and came with them back^@ to the fireplace.
-<lb n="10757"/> <said who="Simon Dedalus">--A thimbleful, <persName>John</persName>, he said.^@ Just^@ to whet your appetite. </said></p>
+<lb n="10755"/> locker he poured out a little of the whisky into two glasses,
+<lb n="10756"/> added a little water and came with them back to the fireplace.
+<lb n="10757"/> <said who="Simon Dedalus">--A thimbleful, <persName>John</persName>, he said. Just to whet your appetite. </said></p>
 <p> <lb n="10758"/> <persName>Mr Casey</persName> took the glass, drank, and placed it near him on
 <lb n="10759"/> the mantelpiece. Then he said:
 <lb n="10760"/> <said who="John Casey">--Well, I can't help thinking of our friend <persName>Christopher</persName> manu-
-<lb n="10761"/> facturing ....^@ </said></p>
+<lb n="10761"/> facturing .... </said></p>
 <p> <lb n="10762"/> He broke into a fit of laughter and coughing and added:
 <lb n="10763"/> <said who="John Casey">--... manufacturing that champagne for those fellows. </said></p>
 <p> <lb n="10764"/> <persName>Mr Dedalus</persName> laughed loudly.
 <lb n="10765"/> <said who="Simon Dedalus">--Is it <persName>Christy</persName>? he said. There's more cunning in one of those
 <lb n="10766"/> warts on his bald head than in a pack of jack foxes. </said></p>
 <p> <lb n="10767"/> He inclined his head, closed his eyes, and, licking his lips
-<lb n="10768"/> profusely, began to speak with the voice of the hotel keeper.^@
+<lb n="10768"/> profusely, began to speak with the voice of the hotel keeper.
 <lb n="10769"/> <said who="Simon Dedalus">--And he has such a soft mouth when he's speaking to you,
 <lb n="10770"/> don't you know. He's very moist and watery about the dew-
 <lb n="10771"/> dewlaps, God bless him. </said></p>
 <p> <lb n="10772"/> <persName>Mr Casey</persName> was still struggling through his fit of coughing and
-<lb n="10773"/> laughter. <persName>Stephen</persName>, seeing and hearing the hotel keeper^@ through
+<lb n="10773"/> laughter. <persName>Stephen</persName>, seeing and hearing the hotel keeper through
 <lb n="10774"/> his father's face and voice, laughed.</p>
 <p> <lb n="10775"/> <persName>Mr Dedalus</persName> put up his eyeglass and, staring down at him,
 <lb n="10776"/> said quietly and kindly:
@@ -940,7 +941,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <p> <lb n="10788"/> <persName>Stephen</persName> stood up in his place to say the grace before meals:</p>
 <p> <lb n="10789"/> <seg type="prayer"> <said who="Stephen"> <lg> <l>Bless us, O Lord, and these Thy gifts which through</l>
 <lb n="10790"/> <l>Thy bounty we are about to receive through Christ</l>
-<lb n="10791"/> <l>Our Lord.^@ Amen.^@ </l> </lg> </said> </seg> </p>
+<lb n="10791"/> <l>Our Lord. Amen. </l> </lg> </said> </seg> </p>
 <p> <lb n="10792"/> All blessed themselves and <persName>Mr Dedalus</persName> with a sigh of pleas-
 <lb n="10793"/> ure lifted from the dish the heavy cover pearled around the
 <lb n="10794"/> edge with glistening drops.</p>
@@ -951,7 +952,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10799"/> it was: and he remembered the man's voice when he had said:
 <lb n="10800"/> <said who="the butcher">--Take that one, sir. That's the real Ally Daly. </said></p>
 <p> <lb n="10801"/> Why did <persName>Mr Barrett</persName> in Clongowes call his pandybat a tur-
-<lb n="10802"/> key? It was not like a^@ turkey.^@ But Clongowes was far away: and
+<lb n="10802"/> key? It was not like a turkey. But Clongowes was far away: and
 <lb n="10803"/> the warm heavy smell of turkey and ham and celery rose from
 <lb n="10804"/> the plates and dishes and the great fire was banked high and
 <lb n="10805"/> red in the grate and the green ivy and red holly made you feel
@@ -1007,7 +1008,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10855"/> priest would not be a priest if he did not tell his flock what is
 <lb n="10856"/> right and what is wrong. </said></p>
 <p> <lb n="10857"/> <persName>Mrs Dedalus</persName> laid down her knife and fork, saying:
-<lb n="10858"/> <said who="Mary Dedalus">--For pity's sake and for pity'^@ sake let us have no political
+<lb n="10858"/> <said who="Mary Dedalus">--For pity's sake and for pity' sake let us have no political
 <lb n="10859"/> discussion on this day of all days in the year. </said>
 <lb n="10860"/> <said who="Uncle Charles">--Quite right, ma'am, said <persName>uncle Charles</persName>. Now, <persName>Simon</persName>, that's
 <lb n="10861"/> quite enough now. Not another word now. </said>
@@ -1037,10 +1038,10 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10885"/> <said who="John Casey">--We are all sinners and black sinners, said <persName>Mr Casey</persName> coldly. </said>
 <lb n="10886"/> <said who="Dante">--<quote><ref>Matthew 18.7</ref>Woe be to the man by whom the scandal cometh!</quote> said <persName>Mrs
 <lb n="10887"/> Riordan</persName>. <quote rend="italics"><ref>Luke 17.1-2</ref>It would be better for him that a millstone were tied
-<lb n="10888"/> about his neck and that he were cast into the depths^@ of the sea
+<lb n="10888"/> about his neck and that he were cast into the depths of the sea
 <lb n="10889"/> rather than that he should scandalise one of these, my least
 <lb n="10890"/> little ones.</quote> That is the language of the Holy Ghost.</said>
-<lb n="10891"/> <said who="Simon Dedalus">--And very bad language,^@ if you ask me, said <persName>Mr Dedalus</persName>
+<lb n="10891"/> <said who="Simon Dedalus">--And very bad language, if you ask me, said <persName>Mr Dedalus</persName>
 <lb n="10892"/> coolly. </said>
 <lb n="10893"/> <said who="Uncle Charles">--Simon! Simon! said uncle Charles. The boy. </said>
 <lb n="10894"/> <said who="Simon Dedalus">--Yes, yes, said Mr Dedalus. I meant about the ... I was think-
@@ -1053,7 +1054,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10901"/> hands in her lap. She was red in the face. Mr Dedalus rooted
 <lb n="10902"/> with the carvers at the end of the dish and said:
 <lb n="10903"/> <said who="Simon Dedalus">--There's a tasty bit here we call the pope's nose. If any lady
-<lb n="10904"/> or gentleman .....^@</said></p>
+<lb n="10904"/> or gentleman .....</said></p>
 <p> <lb n="10905"/> He held a piece of fowl up on the prong of the <seg type="neologism">carvingfork</seg>.
 <lb n="10906"/> Nobody spoke. He put it on his own plate, saying:
 <lb n="10907"/> <said who="Simon Dedalus">--Well, you can't say but you were asked. I think I had better
@@ -1086,7 +1087,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10934"/> <said who="Mary Dedalus">--Really, Simon, said Mrs Dedalus, you should not speak that
 <lb n="10935"/> way before Stephen. It's not right. </said>
 <lb n="10936"/> <said who="Dante">--O, he'll remember all this when he grows up, said Dante
-<lb n="10937"/> hotly,^@ - the language he heard against God and religion and
+<lb n="10937"/> hotly, - the language he heard against God and religion and
 <lb n="10938"/> priests in his own home. </said>
 <lb n="10939"/> <said who="John Casey">--Let him remember too, cried Mr Casey to her from across
 <lb n="10940"/> the table, the language with which the priests and the priests'
@@ -1098,7 +1099,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10946"/> <said who="Dante">--They behaved rightly, cried Dante. They obeyed their
 <lb n="10947"/> bishops and their priests. Honour to them! </said>
 <lb n="10948"/> <said who="Mary Dedalus">--Well, it is perfectly dreadful to say that not even for one day
-<lb n="10949"/> of^@ the year, said Mrs Dedalus, can we be free from these dread-
+<lb n="10949"/> of the year, said Mrs Dedalus, can we be free from these dread-
 <lb n="10950"/> ful disputes! </said></p>
 <p> <lb n="10951"/> Uncle Charles raised his hands mildly and said:
 <lb n="10952"/> <said who="Uncle Charles">--Come now, come now, come now! Can we not have our
@@ -1109,7 +1110,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10957"/> <said who="Dante">--I will not say nothing. I will defend my church and my
 <lb n="10958"/> religion when it is insulted and spit on by renegade catholics. </said></p>
 <p> <lb n="10959"/> Mr Casey pushed his plate rudely into the middle of the
-<lb n="10960"/> table and, resting his elbows before him, said in a harsh^@ voice
+<lb n="10960"/> table and, resting his elbows before him, said in a harsh voice
 <lb n="10961"/> to his host:
 <lb n="10962"/> <said who="John Casey">--Tell me, did I tell you that story about a very famous spit? </said>
 <lb n="10963"/> <said who="Simon Dedalus">--You did not, John, said Mr Dedalus. </said>
@@ -1150,8 +1151,8 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="10994"/> listen to. But why was he then against the priests? Because
 <lb n="10995"/> Dante must be right then. But he had heard his father say that
 <lb n="10996"/> she was a spoiled nun and that she had come out of the convent
-<lb n="10997"/> in the Alleghanies when her brothers^@ had got the money from
-<lb n="10998"/> the savages for the trinkets and ^@ <seg type="neologism">chainies</seg>. Perhaps that made her
+<lb n="10997"/> in the Alleghanies when her brothers had got the money from
+<lb n="10998"/> the savages for the trinkets and  <seg type="neologism">chainies</seg>. Perhaps that made her
 <lb n="10999"/> severe against Parnell. And she did not like him to play with
 <lb n="11000"/> Eileen because Eileen was a protestant and when she was
 <lb n="11001"/> young she knew children that used to play with protestants and
@@ -1188,7 +1189,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11032"/> <place><location><geo>53.275526 -7.493385</geo></location><placeName>Tullamore</placeName></place> in my mouth and sure I couldn't say a word in any
 <lb n="11033"/> case because my mouth was full of tobacco juice. </said>
 <lb n="11034"/> <said who="Simon Dedalus">--Well, John? </said>
-<lb n="11035"/> <said who="John Casey">--Well. I let her bawl away^@ to her heart's content^@ <emph>Kitty O'Shea</emph>
+<lb n="11035"/> <said who="John Casey">--Well. I let her bawl away to her heart's content <emph>Kitty O'Shea</emph>
 <lb n="11036"/> and the rest of it till at last she called that lady a name that I
 <lb n="11037"/> won't sully this Christmas board nor your ears, ma'am, nor my
 <lb n="11038"/> own lips by repeating. </said></p>
@@ -1205,7 +1206,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11049"/> <said who="John Casey">--<emph>O Jesus, Mary and Joseph!</emph> says she. <emph>I'm blinded! I'm
 <lb n="11050"/> blinded and drownded!</emph> </said></p>
 <p> <lb n="11051"/> He stopped in a fit of coughing and laughter, repeating:
-<lb n="11052"/> <said who="John Casey">--<emph>I'm blinded entirely!^@</emph></said></p>
+<lb n="11052"/> <said who="John Casey">--<emph>I'm blinded entirely!</emph></said></p>
 <p> <lb n="11053"/> Mr Dedalus laughed loudly and lay back in his chair while
 <lb n="11054"/> uncle Charles swayed his head to and fro.</p>
 <p> <lb n="11055"/> Dante looked terribly angry and repeated while they
@@ -1256,10 +1257,10 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11100"/> protruded one finger after another.
 <lb n="11101"/> <said who="John Casey">--Didn't the bishops of Ireland betray us in the time of the
 <lb n="11102"/> union when bishop Lanigan presented an address of loyalty to
-<lb n="11103"/> the marquess^@ Cornwallis? Didn't the bishops and priests sell
-<lb n="11104"/> the aspirations of this^@ country in 1829 in return for catholic
+<lb n="11103"/> the marquess Cornwallis? Didn't the bishops and priests sell
+<lb n="11104"/> the aspirations of this country in 1829 in return for catholic
 <lb n="11105"/> emancipation? Didn't they denounce the fenian movement
-<lb n="11106"/> from the pulpit and in the <seg type="neologism">confession box^@</seg>? And didn't they
+<lb n="11106"/> from the pulpit and in the <seg type="neologism">confession box</seg>? And didn't they
 <lb n="11107"/> dishonour the ashes of Terence Bellew MacManus? </said></p>
 <p> <lb n="11108"/> His face was glowing with anger and Stephen felt the glow
 <lb n="11109"/> rise to his own cheek as the spoken words thrilled him. Mr
@@ -1351,7 +1352,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11194"/> fellow had swung it gently and had given off a weak sour smell.
 <lb n="11195"/> And then when all were vested he had stood holding out the
 <lb n="11196"/> boat to the rector and the rector had put a spoonful of incense
-<lb n="11197"/> in ^@ and it had hissed on the red coals.</p>
+<lb n="11197"/> in  and it had hissed on the red coals.</p>
 <p> <lb n="11198"/> The fellows were talking together in little groups here and
 <lb n="11199"/> there on the playground. The fellows seemed to him to have
 <lb n="11200"/> grown smaller: that was because a sprinter had knocked him
@@ -1366,7 +1367,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11209"/> prof and some said it would be Flowers. And all over the play-
 <lb n="11210"/> playgrounds they were playing rounders and bowling twisters and
 <lb n="11211"/> lobs. And from here and from there came the sounds of the
-<lb n="11212"/> <seg type="neologism">cricket bats^@</seg> through the soft grey air. They said: pick, pack,
+<lb n="11212"/> <seg type="neologism">cricket bats</seg> through the soft grey air. They said: pick, pack,
 <lb n="11213"/> pock, puck: like drops of water in a fountain slowly falling in
 <lb n="11214"/> the brimming bowl.</p>
 <p> <lb n="11215"/> Athy, who had been silent, said quietly:
@@ -1423,7 +1424,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11266"/> then all of a sudden she had broken away and had run laughing
 <lb n="11267"/> down the sloping curve of the path. Her fair hair had streamed
 <lb n="11268"/> out behind her like gold in the sun. <emph>Tower of Ivory. House of
-<lb n="11269"/> Gold.</emph> By thinking about^@ things you could understand them.</p>
+<lb n="11269"/> Gold.</emph> By thinking about things you could understand them.</p>
 <p> <lb n="11270"/> But why in the square? You went there when you wanted to
 <lb n="11271"/> do something. It was all thick slabs of slate and water trickled
 <lb n="11272"/> all day out of tiny pinholes and there was a queer smell of stale
@@ -1432,10 +1433,10 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11275"/> with a brick in each hand and underneath was the name of the
 <lb n="11276"/> drawing:</p>
 <p> <lb n="11277"/> <l><emph>Balbus was building a wall.</emph> </l> </p>
-<p> <lb n="11278"/> Some fellow^@ had drawn it there for a cod. It had a funny
+<p> <lb n="11278"/> Some fellow had drawn it there for a cod. It had a funny
 <lb n="11279"/> face but it was very like a man with a beard. And on the wall of
 <lb n="11280"/> another closet there was written in backhand  in beautiful writ-
-<lb n="11281"/> ing:^@</p>
+<lb n="11281"/> ing:</p>
 <p> <lb n="11282"/> <l>Julius Caesar wrote The Calico Belly. </l> </p>
 <p> <lb n="11283"/> Perhaps that was why they were there  because it was a place
 <lb n="11284"/> where some fellows wrote things for cod. But all the same it
@@ -1454,7 +1455,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11297"/> second of grammar this morning. </said>
 <lb n="11298"/> <said who="Fleming">--Let us get up a rebellion, Fleming said. Will we? </said></p>
 <p> <lb n="11299"/> All the fellows were silent. The air was very silent and you
-<lb n="11300"/> could hear the cricket bats^@ but more slowly than before: pick,
+<lb n="11300"/> could hear the cricket bats but more slowly than before: pick,
 <lb n="11301"/> pock.</p>
 <p> <lb n="11302"/> Wells asked:
 <lb n="11303"/> <said who="Wells">--What is going to be done to them? </said>
@@ -1488,7 +1489,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 </lg>
 </seg> </said></p>
 <p> <lb n="11329"/> The fellows laughed; but he felt that they were a little afraid.
-<lb n="11330"/> In the silence of the soft grey air he heard the cricket bats^@ from
+<lb n="11330"/> In the silence of the soft grey air he heard the cricket bats from
 <lb n="11331"/> here and from there: pock. That was a sound to hear but if you
 <lb n="11332"/> were hit then you would feel a pain. The pandybat made a
 <lb n="11333"/> sound too but not like that. The fellows said it was made of
@@ -1519,7 +1520,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11358"/> Cecil Thunder had said; that Mr Gleeson would not flog Cor-
 <lb n="11359"/> Corrigan hard. And Fleming had said he would not because it was
 <lb n="11360"/> best of his play not to. But that was not why.</p>
-<p> <lb n="11361"/> A voice from far out on the playgrounds^@ cried:
+<p> <lb n="11361"/> A voice from far out on the playgrounds cried:
 <lb n="11362"/> <said who="a fellow">--All in! </said></p>
 <p> <lb n="11363"/> And other voices cried:
 <lb n="11364"/> <said who="other voices">--All in! All in! </said></p>
@@ -1528,7 +1529,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11367"/> fro making little signs in red pencil and sometimes sitting
 <lb n="11368"/> beside the boy to show him how to hold the pen. He had tried
 <lb n="11369"/> to spell out the headline for himself though he knew already
-<lb n="11370"/> what it was for it was the last in^@ the book. <emph>Zeal without
+<lb n="11370"/> what it was for it was the last in the book. <emph>Zeal without
 <lb n="11371"/> prudence is like a ship adrift.</emph> But the lines of the letters were
 <lb n="11372"/> like fine invisible threads and it was only by closing his right
 <lb n="11373"/> eye tight tight and staring out of the left eye that he could make
@@ -1540,7 +1541,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11379"/> in the sacristy and that it had been found out who had done it
 <lb n="11380"/> by the smell. Perhaps they had stolen a monstrance to run away
 <lb n="11381"/> with it and sell it somewhere. That must have been a terrible
-<lb n="11382"/> sin, to go in ^@ quietly there^@ at night, to open the dark press and
+<lb n="11382"/> sin, to go in  quietly there at night, to open the dark press and
 <lb n="11383"/> steal the flashing gold thing into which God was put on the
 <lb n="11384"/> altar in the middle of flowers and candles at benediction while
 <lb n="11385"/> the incense went up in clouds at both sides as the fellow swung
@@ -1592,7 +1593,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11431"/> idlest boys I ever met. Copy out your themes again the rest of
 <lb n="11432"/> you. </said></p>
 <p> <lb n="11433"/> Fleming moved heavily out of his place and knelt between
-<lb n="11434"/> the two last benches. The other^@ boys bent over their theme-
+<lb n="11434"/> the two last benches. The other boys bent over their theme-
 <lb n="11435"/> books and began to write. A silence filled the classroom and
 <lb n="11436"/> Stephen, glancing timidly at Father Arnall's dark face, saw that
 <lb n="11437"/> it was a little red from the wax he was in.</p>
@@ -1661,7 +1662,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <p> <lb n="11500"/> Stephen's heart jumped suddenly.
 <lb n="11501"/> <said who="Stephen">--Dedalus, sir. </said>
 <lb n="11502"/> <said who="Father Dolan">--Why are you not writing like the others? </said>
-<lb n="11503"/> <said who="Stephen">--I .....^@ my ... </said></p>
+<lb n="11503"/> <said who="Stephen">--I ..... my ... </said></p>
 <p> <lb n="11504"/> He could not speak with fright.
 <lb n="11505"/> <said who="Father Dolan">--Why is he not writing, Father Arnall? </said>
 <lb n="11506"/> <said who="Father Arnall">--He broke his glasses, said Father Arnall, and I exempted him
@@ -1682,7 +1683,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11521"/> Father Dolan's <seg type="neologism">whitegrey</seg> not young face, his baldy <seg type="neologism">whitegrey</seg>
 <lb n="11522"/> head with fluff at the sides of it, the steel rims of his spectacles
 <lb n="11523"/> and his <seg type="neologism">nocoloured</seg> eyes looking through the glasses. Why did
-<lb n="11524"/> he say that^@ he knew that trick?
+<lb n="11524"/> he say that he knew that trick?
 <lb n="11525"/> <said who="Father Dolan">--Lazy idle little loafer! cried the prefect of studies. Broke my
 <lb n="11526"/> glasses! An old schoolboy trick! Out with your hand this mo-
 <lb n="11527"/> moment! </said></p>
@@ -1715,7 +1716,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <p> <lb n="11554"/> Stephen knelt down quickly pressing his beaten hands to his
 <lb n="11555"/> sides. To think of them  beaten and swollen with pain all in a
 <lb n="11556"/> moment made him feel so sorry for them as if they were not his
-<lb n="11557"/> own but someone else's that he felt so^@ sorry for. And as he
+<lb n="11557"/> own but someone else's that he felt so sorry for. And as he
 <lb n="11558"/> knelt, calming the last sobs in his throat and feeling the burning
 <lb n="11559"/> tingling pain pressed in to his sides, he thought of the hands
 <lb n="11560"/> which he had held out in the air with the palms up and of the
@@ -1737,7 +1738,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11576"/> down. Stephen, scarlet with shame, opened a book quickly
 <lb n="11577"/> with one weak hand and bent down upon it, his face close to
 <lb n="11578"/> the page.</p>
-<p> <lb n="11579"/> It was unfair and cruel:^@ because the doctor had told him not
+<p> <lb n="11579"/> It was unfair and cruel: because the doctor had told him not
 <lb n="11580"/> to read without glasses and he had written home to his father
 <lb n="11581"/> that morning to send him a new pair. And Father Arnall had
 <lb n="11582"/> said that he need not study till the new glasses came. Then to
@@ -1745,7 +1746,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11584"/> always got the card for first or second and was the leader of the
 <lb n="11585"/> Yorkists! How could the prefect of studies know that it was a
 <lb n="11586"/> trick? He felt the touch of the prefect's fingers as they had
-<lb n="11587"/> steadied his hand and at first he had thought that^@ he was going
+<lb n="11587"/> steadied his hand and at first he had thought that he was going
 <lb n="11588"/> to shake hands with him because the fingers were soft and firm:
 <lb n="11589"/> but then in an instant he had heard the swish of the soutane
 <lb n="11590"/> sleeve and the crash. It was cruel and unfair to make him kneel
@@ -1774,7 +1775,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11613"/> <said who="Stephen">--Very much, Stephen said. </said>
 <lb n="11614"/> <said who="Fleming">--I wouldn't stand it, Fleming repeated, from Baldyhead or
 <lb n="11615"/> any other Baldyhead. It's a stinking mean low trick, that's what
-<lb n="11616"/> it is. I'd go up^@ straight up to the rector and tell him about it
+<lb n="11616"/> it is. I'd go up straight up to the rector and tell him about it
 <lb n="11617"/> after dinner. </said>
 <lb n="11618"/> <said who="Cecil Thunder">--Yes, do. Yes, do, said Cecil Thunder. </said>
 <lb n="11619"/> <said who="Nasty Roche">--Yes, do. Yes, go up and tell the rector on him, Dedalus, said
@@ -1792,14 +1793,14 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11631"/> like a schemer and he wished he had a little mirror to see. But
 <lb n="11632"/> there could not be; and it was unjust and cruel and unfair.</p>
 <p> <lb n="11633"/> He could not eat the blackish fish fritters they got on
-<lb n="11634"/> Wednesdays in lent^@ and one of his potatoes had the mark of the
+<lb n="11634"/> Wednesdays in lent and one of his potatoes had the mark of the
 <lb n="11635"/> spade in it. Yes, he would do what the fellows had told him. He
 <lb n="11636"/> would go up and tell the rector that he had been wrongly
 <lb n="11637"/> punished. A thing like that had been done before by somebody
 <lb n="11638"/> in history, by some great person whose head was in the books
 <lb n="11639"/> of history. And the rector would declare that he had been
 <lb n="11640"/> wrongly punished because the senate and the Roman people
-<lb n="11641"/> always declared that the man^@ who did that had been wrongly
+<lb n="11641"/> always declared that the man who did that had been wrongly
 <lb n="11642"/> punished. Those were the great men whose names were in
 <lb n="11643"/> Richmal Magnall's Questions. History was all about those men
 <lb n="11644"/> and what they did and that was what Peter Parley's Tales about
@@ -1842,7 +1843,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11680"/> worse because he would be dreadfully waxy at any fellow
 <lb n="11681"/> going up to the rector about him. The fellows had told him to
 <lb n="11682"/> go but they would not go themselves. They had forgotten all
-<lb n="11683"/> about it. No, it was best to forget all about it:^@ and perhaps the
+<lb n="11683"/> about it. No, it was best to forget all about it: and perhaps the
 <lb n="11684"/> prefect of studies had only said he would come in. No, it was
 <lb n="11685"/> best to hide out of the way because when you were small and
 <lb n="11686"/> young you could often escape that way.</p>
@@ -1864,8 +1865,8 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11702"/> that and nobody made fun of them. It was his own name that
 <lb n="11703"/> he should have made fun of if he wanted to make fun. Dolan: it
 <lb n="11704"/> was like the name of a woman that washed clothes.</p>
-<p> <lb n="11705"/> He had reached the door and, turning quickly ^@ to the right,
-<lb n="11706"/> walked up the stairs:^@ and, before he could make up his mind to
+<p> <lb n="11705"/> He had reached the door and, turning quickly  to the right,
+<lb n="11706"/> walked up the stairs: and, before he could make up his mind to
 <lb n="11707"/> come back, he had entered the low dark narrow corridor that
 <lb n="11708"/> led to the castle. And as he crossed the threshold of the door of
 <lb n="11709"/> the corridor  he saw, without turning his head to look, that all
@@ -1906,7 +1907,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <p> <lb n="11744"/> His heart was beating fast on account of the solemn place he
 <lb n="11745"/> was in and the silence of the room:  and he looked at the skull
 <lb n="11746"/> and at the rector's <seg type="neologism">kindlooking</seg> face.
-<lb n="11747"/> <said who="the rector">--Well, my little man, said the rector.^@ What^@ is it? </said></p>
+<lb n="11747"/> <said who="the rector">--Well, my little man, said the rector. What is it? </said></p>
 <p> <lb n="11748"/> Stephen swallowed down the thing in his throat and said:
 <lb n="11749"/> <said who="Stephen">--I broke my glasses, sir. </said></p>
 <p> <lb n="11750"/> The rector opened his mouth and said:
@@ -1919,7 +1920,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11757"/> <said who="the rector">--Quite right! said the rector. </said></p>
 <p> <lb n="11758"/> Stephen swallowed down the thing again  and tried to keep
 <lb n="11759"/> his legs and his voice from shaking.
-<lb n="11760"/> <said who="Stephen">--But, sir ....^@ </said>
+<lb n="11760"/> <said who="Stephen">--But, sir .... </said>
 <lb n="11761"/> <said who="the rector">--Yes? </said>
 <lb n="11762"/> <said who="Stephen">--Father Dolan came in today and pandied me because I was
 <lb n="11763"/> not writing my theme. </said></p>
@@ -1934,7 +1935,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11772"/> fellow's name. </said></p>
 <p> <lb n="11773"/> The rector looked at him again in silence. Then he smiled
 <lb n="11774"/> and said:
-<lb n="11775"/> <said who="the rector">--O, well, it was a mistake.^@ I am sure Father Dolan did not
+<lb n="11775"/> <said who="the rector">--O, well, it was a mistake. I am sure Father Dolan did not
 <lb n="11776"/> know. </said>
 <lb n="11777"/> <said who="Stephen">--But I told him I broke them, sir, and he pandied me. </said>
 <lb n="11778"/> <said who="the rector">--Did you tell him that you had written home for a new pair?
@@ -1947,10 +1948,10 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11785"/> him:
 <lb n="11786"/> <said who="Stephen">--Yes, sir, but Father Dolan said he will come in tomorrow to
 <lb n="11787"/> pandy me again for it. </said>
-<lb n="11788"/> <said who="the rector">--Very well, the rector said.^@ It^@ is a mistake and I shall speak to
+<lb n="11788"/> <said who="the rector">--Very well, the rector said. It is a mistake and I shall speak to
 <lb n="11789"/> Father Dolan myself. Will that do now? </said></p>
 <p> <lb n="11790"/> Stephen felt the tears wetting his eyes and murmured:
-<lb n="11791"/> <said who="Stephen">--O yes,^@ sir, thanks. </said></p>
+<lb n="11791"/> <said who="Stephen">--O yes, sir, thanks. </said></p>
 <p> <lb n="11792"/> The rector held his hand across the side of the desk where
 <lb n="11793"/> the skull was and Stephen, placing his hand in it for a moment,
 <lb n="11794"/> felt a cool moist palm.
@@ -1962,7 +1963,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <p> <lb n="11800"/> But when he had passed the old servant on the landing and
 <lb n="11801"/> was again in the low narrow dark corridor he began to walk
 <lb n="11802"/> faster and faster. Faster and faster he hurried on through the
-<lb n="11803"/> gloom,^@ excitedly. He bumped his elbow against the door at the
+<lb n="11803"/> gloom, excitedly. He bumped his elbow against the door at the
 <lb n="11804"/> end and, hurrying down the staircase, walked quickly through
 <lb n="11805"/> the two corridors and out into the air.</p>
 <p> <lb n="11806"/> He could hear the cries of the fellows on the playgrounds.
@@ -2003,7 +2004,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="11841"/> eat them when they went out for a walk to <place><location><geo>53.257926 -6.585225</geo></location><placeName>Major Barton's</placeName></place>, the
 <lb n="11842"/> smell there was in the little wood beyond the pavilion where
 <lb n="11843"/> the gallnuts were.</p>
-<p> <lb n="11844"/> The fellows were practising long shies and bowling^@ lobs and
+<p> <lb n="11844"/> The fellows were practising long shies and bowling lobs and
 <lb n="11845"/> slow twisters. In the soft grey silence he could hear the bump of
 <lb n="11846"/> the balls: and from here and from there through the quiet air
 <lb n="11847"/> the sound of the cricket bats: pick, pack, pock, puck: like drops
