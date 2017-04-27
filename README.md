@@ -28,7 +28,7 @@ We also mark up:
 
 Apart from markup features, one of the distinguishing features of this project is its infrastructure. We leverage distributed version control using git and GitHub, which allows anyone to edit the edition in the browser and submit a request for the change.  
 
-##Markup Conventions
+## Markup Conventions
  * Dialogue is marked by speaker, using `<said who="">` tags, facilitating speaker-specific dialogue extraction. 
  * Verse is indicated by `<lg>` and `<l>` tags. 
  * Features such as epigraphs marked with their respective tags, e.g. `<epigraph>`.  
@@ -39,7 +39,7 @@ Apart from markup features, one of the distinguishing features of this project i
 
 See [the issue tracker](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/issues) for a more complete list. 
 
-##An Example Epigraph 
+## An Example Epigraph 
 
 ```xml
 <epigraph>
@@ -50,7 +50,7 @@ See [the issue tracker](https://github.com/JonathanReeve/corpus-joyce-portrait-T
 </epigraph>
 ```
 
-##An Example of language markup: 
+## An Example of language markup: 
 
 ```xml
 <p>The word now shone in his brain, clearer and brighter 
@@ -62,7 +62,7 @@ examples that he had learnt in Latin had run:
 <seg xml:lang="lat"><hi rend="italic">India mittit ebur</hi></seg>; 
 ```
 
-##How to contribute:
+## How to contribute:
 
 See [CONTRIBUTING.md](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/CONTRIBUTING.md). 
 
