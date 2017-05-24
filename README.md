@@ -19,10 +19,10 @@ These questions are easily answerable with very simple computational analyses, b
 When we see an epigraph, we mark it up as such. When we see dialog, we mark it as such and indicate who is speaking. When we correct an OCR or typographical error in the text, we document the reasons why. One error that appears in most print editions is the word "green"--Joyce meant for it to read "geen," indicating infantile pronunciation of the color word. We correct errors like this by referring to manuscripts.
 
 We also mark up:  
- * languages other than English
- * literary allusions
- * songs and prayers
- * latitude and longitude of locations 
+ - languages other than English
+ - literary allusions
+ - songs and prayers
+ - latitude and longitude of locations 
  - personal names
  - Joycean compound words
 
