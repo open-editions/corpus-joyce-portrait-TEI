@@ -1,5 +1,10 @@
 # The Open Scholarly Edition of James Joyce’s _A Portrait of the Artist as a Young Man_
 
+[![DOI](https://zenodo.org/badge/35376693.svg)](https://zenodo.org/badge/latestdoi/35376693)
+
+[![Join the chat at https://gitter.im/corpus-joyce-portrait-TEI/Lobby](https://badges.gitter.im/corpus-joyce-portrait-TEI/Lobby.svg)](https://gitter.im/corpus-joyce-portrait-TEI/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
 This is the open scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_, richly annotated in semantic markup with TEI XML. 
 
 See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test a XSL-transformed prototype, containing a few of the text’s features, [here on github.io](http://jonathanreeve.github.io/corpus-joyce-portrait-TEI/). The transformed prototype is not meant to be a canonical representation of the features of the edition—the main text of the edition is [portrait.xml](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/portrait.xml) in this repository.
@@ -66,4 +71,3 @@ examples that he had learnt in Latin had run:
 
 See [CONTRIBUTING.md](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/CONTRIBUTING.md). 
 
-[![Join the chat at https://gitter.im/corpus-joyce-portrait-TEI/Lobby](https://badges.gitter.im/corpus-joyce-portrait-TEI/Lobby.svg)](https://gitter.im/corpus-joyce-portrait-TEI/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
