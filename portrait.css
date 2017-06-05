@@ -30,13 +30,22 @@ body {
 	text-align: center; 
 } 
 
+p {
+    margin: 0;
+    text-indent: 2em;
+}
+
 p.lg, p.song { 
-	margin-left: 30%; 
-	font-style: italic; 
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 30%; 
+    font-style: italic; 
+    text-indent: 0; 
 } 
 
 p.dialog { 
 	color: #962828; 
+  text-indent: 0;
 } 
 
 span.emph, span.lang { 
