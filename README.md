@@ -2,7 +2,7 @@
 
 This is the open scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_, richly annotated in semantic markup with TEI XML. 
 
-See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test a XSL-transformed prototype, containing a few of the text’s features, [here on github.io](http://jonathanreeve.github.io/corpus-joyce-portrait-TEI/). The transformed prototype is not meant to be a canonical representation of the features of the edition—the main text of the edition is [portrait.xml](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/portrait.xml) in this repository.
+See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test a XSL-transformed prototype, containing a few of the text’s features, [here on netlify](https://joyce-portrait.netlify.com). The transformed prototype is not meant to be a canonical representation of the features of the edition—the main text of the edition is [portrait.xml](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/portrait.xml) in this repository.
 
 # About this Project
 
