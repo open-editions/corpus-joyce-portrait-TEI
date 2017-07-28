@@ -3805,7 +3805,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
       <lb n="30297"/>officers of the sodality of Our Blessed Lady and of the sodality
       <lb n="30298"/>of the holy angels to set a good example to their fellowstu-
       <lb n="30299"/>dents.</said></p>
-      <lb n="30300"/> <said who="Father Arnall">―Let us try therefore to make this retreat in honour of saint
+      <lb n="30300"/><p><said who="Father Arnall">―Let us try therefore to make this retreat in honour of saint
       <lb n="30301"/>Francis with our whole heart and our whole mind. God's bless-
       <lb n="30302"/>ing will then be upon all your year's studies. But, above and
       <lb n="30303"/>beyond all, let this retreat be one to which you can look back in
@@ -4049,7 +4049,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
       <lb n="30539"/><emph>limits</emph> – words taken, my dear little brothers in Christ Jesus,
       <lb n="30540"/>from the book of Isaias, fifth chapter, fourteenth verse. In the
       <lb n="30541"/>name of the Father and of the Son and of the Holy Ghost.
-      <lb n="30542"/>Amen.</p></said></p>
+      <lb n="30542"/>Amen.</said></p>
       <p> <lb n="30543"/>The preacher took a chainless watch from a pocket within
       <lb n="30544"/>his soutane and, having considered its dial for a moment in
       <lb n="30545"/>silence, placed it silently before him on the table.</p>
@@ -4329,7 +4329,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
       <lb n="30819"/>brain began to glow. Another. His brain was simmering and
       <lb n="30820"/>bubbling within the cracking tenement of the skull. Flames
       <lb n="30821"/>burst forth from his skull like a corolla, shrieking like voices:
-      <lb n="30822"/> <said who="Flames">―Hell! Hell! Hell! Hell! Hell!</p>
+      <lb n="30822"/> <said who="Flames">―Hell! Hell! Hell! Hell! Hell!</said></p>
       <p> <lb n="30823"/>Voices spoke near him:
       <lb n="30824"/> <said who="a voice">―On hell.</said>
       <lb n="30825"/> <said who="a voice">―I suppose he rubbed it into you well.</said>
@@ -4342,8 +4342,9 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
       <lb n="30832"/>talking, jesting, gazing out at the bleak rain, moving their }|lb n="30833"/| heads.
       <lb n="30834"/><said who="Mr Tate">―I wish it would clear up. I had arranged to go for a spin on
       <lb n="30835"/>the bike with some fellows out by <place><location><geo>53.450924 -6.150138</geo></location><placeName>Malahide</placeName></place>. But the roads
-      <lb n="30836"/>must be kneedeep.</said> |lb n="30837"/|{ <said who="Vincent Heron">―It might clear up, sir.</said></p>
-      <lb n="30838"/>The voices that he knew so well, the common words, the
+      <lb n="30836"/>must be kneedeep.</said>
+      <lb n="30837"/><said who="Vincent Heron">―It might clear up, sir.</said></p>
+      <lb n="30838"/><p>The voices that he knew so well, the common words, the
       <lb n="30839"/>quiet of the classroom when the voices paused and the silence
       <lb n="30840"/>was filled by the sound of softly browsing cattle as the other
       <lb n="30841"/>boys munched their lunches tranquilly, lulled his aching soul.</p>
@@ -4376,7 +4377,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
       <p> <lb n="30868"/>No escape. He had to confess, to speak out in words what he
       <lb n="30869"/>had done and thought, sin after sin. How? How?
       <lb n="30870"/> <said who="Stephen Dedalus">―Father, I ...</said></p>
-      <lb n="30871"/>The thought slid like a cold shining rapier into his tender
+      <lb n="30871"/><p>The thought slid like a cold shining rapier into his tender
       <lb n="30872"/>flesh: confession. But not there in the chapel of the college. He
       <lb n="30873"/>would confess all, every sin of deed and thought, sincerely: but
       <lb n="30874"/>not there among his school companions. Far away from there
@@ -4657,7 +4658,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
       <lb n="31149"/>any human being to do that which offends so deeply the divine
       <lb n="31150"/>majesty, that which is punished by an eternity of agony, that
       <lb n="31151"/>which crucifies again the Son of God and makes a mockery of
-      <lb n="31152"/>Him.</said></p>
+      <lb n="31152"/>Him.</said>
       <lb n="31153"/> <said who="Father Arnall">―I pray to God that my poor words may have availed today to
       <lb n="31154"/>confirm in holiness those who are in a state of grace, to
       <lb n="31155"/>strengthen the wavering, to lead back to the state of grace the
@@ -4707,10 +4708,12 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
         <lb n="31198"/><l><emph>—never more to offend Thee</emph>—</l>
         <lb n="31199"/><l><emph>—never more to offend Thee</emph>—</l>
         <lb n="31200"/><l><emph>—and to amend my life</emph>—</l>
-        <lb n="31201"/><l><emph>—and to amend my life</emph>—</l></p>
+        <lb n="31201"/><l><emph>—and to amend my life</emph>—</l>
       </lg>
       <milestone unit="section" rend="asterixes"/>
-      </div> <!-- 3.2 --> <div n="3.3" type="section">
+    </div> <!-- 3.2 -->
+
+    <div n="3.3" type="section">
       <p> <lb n="31202"/>He  went up to his room after dinner in order to be alone
       <lb n="31203"/>with his soul: and at every step his soul seemed  to sigh: at every
       <lb n="31204"/>step his soul mounted with his feet, sighing in the ascent,
@@ -4813,19 +4816,19 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
       <lb n="31301"/>and shimmering lights and quiet fragrances he made a covenant
       <lb n="31302"/>with his heart.</p>
       <p> <lb n="31303"/>He prayed:
-      <lb n="31304"/> <said who="Stephen Dedalus">―<emph>He once had meant to come on earth in heavenly glory but</emph>
-      <lb n="31305"/><emph>we sinned: and then He could not safely visit us but with a</emph>
-      <lb n="31306"/><emph>shrouded majesty and a bedimmed radiance for He was God.</emph>
-      <lb n="31307"/><emph>So He came Himself in weakness not in power and He sent</emph>
-      <lb n="31308"/><emph>thee, a creature in His stead, with a creature's comeliness and</emph>
-      <lb n="31309"/><emph>lustre suited to our state. And now thy very face and form, dear</emph>
-      <lb n="31310"/><emph>mother, speak to us of the Eternal; not like earthly beauty,</emph>
-      <lb n="31311"/><emph>dangerous to look upon, but like the morning star which is thy</emph>
-      <lb n="31312"/><emph>emblem, bright and musical, breathing purity, telling of heaven</emph>
-      <lb n="31313"/><emph>and infusing peace. O harbinger of day! O light of the pilgrim!</emph>
-      <lb n="31314"/><emph>Lead us still as thou hast led. In the dark night, across the bleak</emph>
-      <lb n="31315"/><emph>wilderness guide us on to our Lord Jesus, guide us home.</emph></said></p>
-      <lb n="31316"/>His eyes were dimmed with tears and, looking humbly up to
+      <lb n="31304"/> <said who="Stephen Dedalus">―<emph>He once had meant to come on earth in heavenly glory but
+      <lb n="31305"/>we sinned: and then He could not safely visit us but with a
+      <lb n="31306"/>shrouded majesty and a bedimmed radiance for He was God.
+      <lb n="31307"/>So He came Himself in weakness not in power and He sent
+      <lb n="31308"/>thee, a creature in His stead, with a creature's comeliness and
+      <lb n="31309"/>lustre suited to our state. And now thy very face and form, dear
+      <lb n="31310"/>mother, speak to us of the Eternal; not like earthly beauty,
+      <lb n="31311"/>dangerous to look upon, but like the morning star which is thy
+      <lb n="31312"/>emblem, bright and musical, breathing purity, telling of heaven
+      <lb n="31313"/>and infusing peace. O harbinger of day! O light of the pilgrim!
+      <lb n="31314"/>Lead us still as thou hast led. In the dark night, across the bleak
+      <lb n="31315"/>wilderness guide us on to our Lord Jesus, guide us home.</emph></said></p>
+      <lb n="31316"/><p>His eyes were dimmed with tears and, looking humbly up to
       <lb n="31317"/>heaven, he wept for the innocence he had lost.</p>
       <p> <lb n="31318"/>When evening had fallen he left the house and the first touch
       <lb n="31319"/>of the damp dark air and the noise of the door as it closed
@@ -5013,7 +5016,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
       <lb n="31501"/><said who="Priest">―With women, my child?</said>
       <lb n="31502"/><said who="Stephen Dedalus">―Yes, father.</said>
       <lb n="31503"/><said who="Priest">Were they married women, my child?</said></p>
-      <lb n="31504"/>He did not know. His sins trickled from his lips, one by one,
+      <lb n="31504"/><p>He did not know. His sins trickled from his lips, one by one,
       <lb n="31505"/>trickled in shameful drops from his soul festering and oozing
       <lb n="31506"/>like a sore, a squalid stream of vice. The last sins oozed forth,
       <lb n="31507"/>sluggish, filthy. There was no more to tell. He bowed his head,
@@ -5039,19 +5042,19 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
       <lb n="31527"/>promise God now that by His holy grace you will never offend
       <lb n="31528"/>Him any more by that wicked sin. You will make that solemn
       <lb n="31529"/>promise to God, will you not?</said>
-      <lb n="31530"/><said who="Stephen Dedalus">―Yes, father.</said></p>
-      <lb n="31531"/>The old and weary voice fell like sweet rain upon his quak-
+      <lb n="31530"/><said who="Stephen Dedalus">―Yes, father.</said>
+      <lb n="31531"/><p>The old and weary voice fell like sweet rain upon his quak-
       <lb n="31532"/>ing parching heart. How sweet and sad!
       <lb n="31533"/><said who="Priest">―Do so, my poor child. The devil has  led you astray. Drive
       <lb n="31534"/>him back to hell when he tempts you to dishonour your body
       <lb n="31535"/>in that way - the foul spirit who hates Our Lord. Promise God
       <lb n="31536"/>now that you will give up that sin, that wretched wretched sin.</said></p>
-      <lb n="31537"/>Blinded by his tears and by the light of God's mercifulness
+      <lb n="31537"/><p>Blinded by his tears and by the light of God's mercifulness
       <lb n="31538"/>he bent his head and heard the grave words of absolution
       <lb n="31539"/>spoken and saw the priest's hand raised above him in token of
       <lb n="31540"/>forgiveness.
       <lb n="31541"/><said who="Priest">―God bless you, my child. Pray for me.</said></p>
-      <lb n="31542"/>He knelt to say his penance, praying in a corner of the dark
+      <lb n="31542"/><p>He knelt to say his penance, praying in a corner of the dark
       <lb n="31543"/>nave: and his prayers ascended to heaven from his purified
       <lb n="31544"/>heart like perfume streaming upwards from a heart of white
       <lb n="31545"/>rose.</p>
