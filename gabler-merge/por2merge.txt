@@ -1,0 +1,1478 @@
+<div n="2" type="chapter"> <div n="2.1" type="section"> <head><l>II</l></head>
+<p> <lb n="20001"/> Uncle Charles smoked such black twist that at last his out-
+<lb n="20002"/>spoken nephew suggested to him to enjoy his morning smoke
+<lb n="20003"/>in a little outhouse at the end of the garden.
+<lb n="20004"/> <said who="Uncle Charles">--Very good, Simon. All serene, Simon, said the old man tran-
+<lb n="20005"/>quilly. Anywhere you like. The outhouse will do me nicely: it
+<lb n="20006"/>will be more salubrious.</said>
+<lb n="20007"/> <said who="Simon Dedalus">--Damn me, said Mr Dedalus frankly, if I know how you can
+<lb n="20008"/>smoke such villainous awful tobacco. It's like gunpowder, by
+<lb n="20009"/>God.</said>
+<lb n="20010"/> <said who="Uncle Charles">--It's very nice, Simon, replied the old man. Very cool and
+<lb n="20011"/>mollifying.</said></p>
+<p> <lb n="20012"/> Every morning, therefore, uncle Charles repaired to his out-
+<lb n="20013"/>house but not before he had creased and brushed scrupulously
+<lb n="20014"/>his back hair and brushed and put on his tall hat. While he
+<lb n="20015"/>smoked the brim of his tall hat and the bowl of his pipe were
+<lb n="20016"/>just visible beyond the jambs of the outhouse door. His arbour,
+<lb n="20017"/>as he called the reeking outhouse which he shared with the cat
+<lb n="20018"/>and the garden tools, served him also as a soundingbox: and
+<lb n="20019"/>every morning he hummed contentedly one of his favourite
+<lb n="20020"/>songs: <emph>O, twine me a bower</emph> or <emph>Blue eyes and golden hair</emph> or
+<lb n="20021"/><emph>The Groves of Blarney</emph> while the grey and blue coils of smoke
+<lb n="20022"/>rose slowly from his pipe and vanished in the pure air.</p>
+<p> <lb n="20023"/> During the first part of the summer in Blackrock uncle
+<lb n="20024"/>Charles was Stephen's constant companion. Uncle Charles was
+<lb n="20025"/>a hale old man with a well tanned@ skin, rugged features and
+<lb n="20026"/>white side whiskers. On week days he did messages between
+<lb n="20027"/>the house in <place><location><geo>53.293248, -6.180109</geo></location><placeName>Carysfort Avenue</placeName></place> and those shops in the main
+<lb n="20028"/>street of the town with which the family dealt. Stephen was
+<lb n="20029"/>glad to go with him on these errands for uncle Charles helped
+<lb n="20030"/>him very liberally to handfuls of whatever was exposed in open
+<lb n="20031"/>boxes and barrels outside the counter. He would seize a hand-
+<lb n="20032"/>ful of grapes and sawdust or three or four American apples and
+<lb n="20033"/>thrust them generously into his grandnephew's hand while the
+<lb n="20034"/>shopman smiled uneasily; and@ on Stephen's feigning reluctance
+<lb n="20035"/>to take them, he would frown and say:
+<lb n="20036"/> <said who="Uncle Charles">--Take them, sir. Do you hear me, sir? They're good for your
+<lb n="20037"/>bowels.</said></p>
+<p> <lb n="20038"/> When the order list had been booked the two would go on
+<lb n="20039"/>to the park where an old friend of Stephen's father, Mike
+<lb n="20040"/>Flynn, would be found seated on a bench, waiting for them.
+<lb n="20041"/>Then would begin Stephen's run round the park. Mike Flynn
+<lb n="20042"/>would stand at the gate near the railway station, watch in
+<lb n="20043"/>hand, while Stephen ran round the track in the style Mike
+<lb n="20044"/>Flynn favoured, his head high lifted, his knees well lifted and
+<lb n="20045"/>his hands held straight down by his sides. When the morning
+<lb n="20046"/>practice was over the trainer would make his comments and
+<lb n="20047"/>sometimes illustrate them by shuffling along for a yard or so
+<lb n="20048"/>comically in an old pair of blue canvas shoes. A small ring of
+<lb n="20049"/>wonderstruck children and nursemaids would gather to watch
+<lb n="20050"/>him and linger even when he and uncle Charles had sat down
+<lb n="20051"/>again and were talking athletics and politics. Though he had
+<lb n="20052"/>heard his father say that Mike Flynn had put some of the best
+<lb n="20053"/>runners of modern times through his hands Stephen often
+<lb n="20054"/>glanced with mistrust at his trainer's flabby stubblecovered
+<lb n="20055"/>face, as it bent over the long stained fingers through which he
+<lb n="20056"/>rolled his cigarette, and with pity at the mild lustreless blue
+<lb n="20057"/>eyes which would look up suddenly from the task and gaze
+<lb n="20058"/>vaguely into the bluer@ distance while the long swollen fingers
+<lb n="20059"/>ceased their rolling and grains and fibres of tobacco fell back
+<lb n="20060"/>into the pouch.</p>
+<p> <lb n="20061"/> On the way home uncle Charles would often pay a visit to
+<lb n="20062"/>the chapel and, as the font was above Stephen's reach, the old
+<lb n="20063"/>man would dip his hand and then sprinkle the water briskly
+<lb n="20064"/>about Stephen's clothes and on the floor of the porch. While he
+<lb n="20065"/>prayed he knelt on his red handkerchief and read above his
+<lb n="20066"/>breath from a thumbblackened prayerbook wherein catch-
+<lb n="20067"/>words were printed at the foot of every page. Stephen knelt at
+<lb n="20068"/>his side respecting, though he did not share, his piety. He often
+<lb n="20069"/>wondered what his granduncle prayed for so seriously. Perhaps
+<lb n="20070"/>he prayed for the souls in purgatory or for the grace of a happy
+<lb n="20071"/>death:@ or perhaps he prayed that God might send him back a
+<lb n="20072"/>part of the big fortune he had squandered in Cork.</p>
+<p> <lb n="20073"/> On Sundays Stephen with his father and his granduncle took
+<lb n="20074"/>their constitutional. The old man was a nimble walker in spite
+<lb n="20075"/>of his corns and often ten or twelve miles of the road were
+<lb n="20076"/>covered. The little village of <place><location><geo>53.287857, -6.203573</geo></location><placeName>Stillorgan</placeName></place> was the parting of the
+<lb n="20077"/>ways. Either they went to the left towards the Dublin moun-
+<lb n="20078"/>tains or along the <place><location><geo>53.297702, -6.233964</geo></location><placeName>Goatstown road</placeName></place> and thence
+into <place><location><geo>53.289154, -6.243264</geo></location><placeName>Dundrum</placeName></place>,
+<lb n="20079"/>coming home by  <place><location><geo>53.269979, -6.224923</geo></location><placeName>Sandyford</placeName></place>. Trudging along the road or
+<lb n="20080"/>standing in some grimy wayside publichouse his elders spoke
+<lb n="20081"/>constantly of the subjects nearest@ their hearts, of Irish politics,
+<lb n="20082"/>of Munster and of the legends of their own family, to all of
+<lb n="20083"/>which Stephen lent an avid ear. Words which he did not under-
+<lb n="20084"/>stand he said over and over to himself till he had learned them
+<lb n="20085"/>by heart: and through them he had glimpses of the real world
+<lb n="20086"/>about him. The hour when he too would take his@ part in the
+<lb n="20087"/>life of that world seemed drawing near and in secret he began
+<lb n="20088"/>to make ready for the great part which he felt awaited him the
+<lb n="20089"/>nature of which he only dimly apprehended.</p>
+<p> <lb n="20090"/> His evenings were his own; and he pored over a ragged
+<lb n="20091"/>translation of <emph>The Count of Monte Cristo</emph>. The figure of that
+<lb n="20092"/>dark avenger stood forth in his mind for whatever he had heard
+<lb n="20093"/>or divined in childhood of the strange and terrible. At night he
+<lb n="20094"/>built up on the parlour table an image of the wonderful island
+<lb n="20095"/>cave out of transfers and paper flowers and coloured tissue
+<lb n="20096"/>paper and strips of the silver and golden paper in which choc-
+<lb n="20097"/>olate is wrapped. When he had broken up this scenery, weary
+<lb n="20098"/>of its tinsel, there would come to his mind the bright picture of
+<lb n="20099"/> <place><location><geo>43.295207,
+5.364077</geo></location><placeName>Marseilles</placeName></place>, of sunny trellisses and of Mercedes. Outside <place><location><geo>53.300907,
+-6.177049</geo></location><placeName>Black-
+<lb n="20100"/> rock</placeName></place>, on the road that led to the mountains, stood a small
+<lb n="20101"/>whitewashed house in the garden of which grew many rose-
+<lb n="20102"/>bushes: and in this house, he told himself, another Mercedes
+<lb n="20103"/>lived. Both on the outward and on the homeward journey he
+<lb n="20104"/>measured distance by this landmark: and in his imagination he
+<lb n="20105"/>lived through a long train of adventures, marvellous as those in
+<lb n="20106"/>the book itself, towards the close of which there appeared an
+<lb n="20107"/>image of himself, grown older and sadder, standing in a
+<lb n="20108"/>moonlit garden with Mercedes who had so many years before
+<lb n="20109"/>slighted his love, and with a sadly proud gesture of refusal,
+<lb n="20110"/>saying:
+<lb n="20111"/> <said who="Count of Monte Cristo">--Madam, I never eat muscatel grapes.</said></p>
+<p> <lb n="20112"/> He became the ally of a boy named Aubrey Mills and
+<lb n="20113"/>founded with him a gang of adventurers in the avenue. Aubrey
+<lb n="20114"/>carried a whistle dangling from his buttonhole and a bicycle
+<lb n="20115"/>lamp attached to his belt while the others had short sticks
+<lb n="20116"/>thrust daggerwise through theirs. Stephen, who had read of
+<lb n="20117"/>Napoleon's plain style of dress, chose to remain unadorned and
+<lb n="20118"/>thereby heightened for himself the pleasure of taking counsel
+<lb n="20119"/>with his lieutenant before giving orders. The gang made forays
+<lb n="20120"/>into the gardens of old maids or went down to the castle and
+<lb n="20121"/>fought a battle on the shaggy weedgrown rocks, coming home
+<lb n="20122"/>after it weary stragglers with the stale odours of the foreshore
+<lb n="20123"/>in their nostrils and the rank oils of the seawrack upon their
+<lb n="20124"/>hands and in their hair.</p>
+<p> <lb n="20125"/> Aubrey and Stephen had a common milkman and often they
+<lb n="20126"/>drove out in the milkcar to <place><location><geo>53.250224, -6.179926</geo></location><placeName>Carrickmines</placeName></place> where the cows were
+<lb n="20127"/>at grass. While the men were milking the boys would take turns
+<lb n="20128"/>in riding the tractable mare round the field. But when autumn
+<lb n="20129"/>came the cows were driven home from the grass: and the first
+<lb n="20130"/>sight of the filthy cowyard at <place><location><geo>53.300791 -6.177067</geo></location><placeName>Stradbrook</placeName></place> with its foul green
+<lb n="20131"/>puddles and clots of liquid dung and steaming brantroughs
+<lb n="20132"/>sickened Stephen's heart. The cattle which had seemed so beau-
+<lb n="20133"/>tiful in the country on sunny days revolted him and he could
+<lb n="20134"/>not even look at the milk they yielded.</p>
+<p> <lb n="20135"/> The coming of September did not trouble him this year for
+<lb n="20136"/>he knew he was not to be sent back to <place><location><geo>53.310770, -6.684719</geo></location><placeName>Clongowes</placeName></place>. The practice
+<lb n="20137"/>in the park came to an end when Mike Flynn went into hospi-
+<lb n="20138"/>tal. Aubrey was at school and had only an hour or two free in
+<lb n="20139"/>the evening. The gang fell asunder and there were no more
+<lb n="20140"/>nightly forays or battles on the rocks. Stephen sometimes went
+<lb n="20141"/>round with the car which delivered the evening milk: and these
+<lb n="20142"/>chilly drives blew away his memory of the filth of the cowyard
+<lb n="20143"/>and he felt no repugnance at seeing the cowhairs and hayseeds
+<lb n="20144"/>on the milkman's coat. Whenever the car drew up before a
+<lb n="20145"/>house he waited to catch a glimpse of a well scrubbed@ kitchen
+<lb n="20146"/>or of a softly lighted@ hall and to see how the servant would
+<lb n="20147"/>hold the jug and how she would close the door. He thought it
+<lb n="20148"/>should be a pleasant life enough, driving along the roads every
+<lb n="20149"/>evening to deliver milk, if he had warm gloves and a fat bag of
+<lb n="20150"/>gingernuts in his pocket to eat from. But the same foreknowl-
+<lb n="20151"/>edge which had sickened his heart and made his limbs@ sag
+<lb n="20152"/>suddenly as he raced round the park, the same intuition which
+<lb n="20153"/>had made him glance with mistrust at his trainer's flabby
+<lb n="20154"/>stubblecovered face as it bent heavily over his long stained
+<lb n="20155"/>fingers, dissipated any vision of the future. In a vague way he
+<lb n="20156"/>understood that his father was in trouble and that this was the
+<lb n="20157"/>reason why he himself had not been sent back to <place><location><geo>53.310770, -6.684719</geo></location><placeName>Clongowes</placeName></place>.
+<lb n="20158"/>For some time he had felt the slight changes in his house; and
+<lb n="20159"/>these changes in what he had deemed unchangeable were so
+<lb n="20160"/>many slight shocks to his boyish conception of the world. The
+<lb n="20161"/>ambition which he felt astir at times in the darkness of his soul
+<lb n="20162"/>sought no outlet. A dusk like that of the outer world obscured
+<lb n="20163"/>his mind as he heard the mare's hoofs clattering along the
+<lb n="20164"/>tramtrack on the Rock Road and the great can swaying and
+<lb n="20165"/>rattling behind him.</p>
+<p> <lb n="20166"/> He returned to Mercedes and, as he brooded upon her im-
+<lb n="20167"/>age, a strange unrest crept into his blood. Sometimes a fever
+<lb n="20168"/>gathered within him and led him to rove alone in the evening
+<lb n="20169"/>along the quiet avenues.@ The peace of the gardens and the
+<lb n="20170"/>kindly lights in the windows poured a tender influence into his
+<lb n="20171"/>restless heart. The noise of children at play annoyed him and
+<lb n="20172"/>their silly voices made him feel, even more keenly than he had
+<lb n="20173"/>felt at <place><location><geo>53.310770, -6.684719</geo></location><placeName>Clongowes</placeName></place>, that he was different from others. He did
+<lb n="20174"/>not want to play. He wanted to meet in the real world the
+<lb n="20175"/>unsubstantial image which his soul so constantly beheld. He
+<lb n="20176"/>did not know where to seek it or how: but a premonition which
+<lb n="20177"/>led him on told him that this image would, without any overt
+<lb n="20178"/>act of his, encounter him. They would meet quietly as if they
+<lb n="20179"/>had known each other and had made their tryst, perhaps at one
+<lb n="20180"/>of the gates or in some more secret place. They would be alone,
+<lb n="20181"/>surrounded by darkness and silence: and in that moment of
+<lb n="20182"/>supreme tenderness he would be transfigured. He would fade
+<lb n="20183"/>into something impalpable under her eyes and then,@ in a mo-
+<lb n="20184"/>ment, he would be transfigured. Weakness and timidity and
+<lb n="20185"/>inexperience would fall from him in that magic moment.</p>
+<milestone unit="section" rend="asterixes"/> </div> <!-- 2.1 --> <div n="2.2" type="section">
+<p> <lb n="20186"/>  Two great yellow caravans had halted one morning before
+<lb n="20187"/>the door and men had come tramping into the house to dis-
+<lb n="20188"/>mantle it. The furniture had been hustled out through the front
+<lb n="20189"/>garden which was strewn with wisps of straw and rope ends
+<lb n="20190"/>and into the huge vans at the gate. When all had been safely
+<lb n="20191"/>stowed the vans had set off noisily down the avenue: and from
+<lb n="20192"/>the window of the railway carriage, in which he had sat with
+<lb n="20193"/>his redeyed mother, Stephen had seen them lumbering heavily
+<lb n="20194"/>along the Merrion Road.</p>
+<p> <lb n="20195"/> The parlour fire would not draw that evening and Mr Deda-
+<lb n="20196"/>lus rested the poker against the bars of the grate to attract the
+<lb n="20197"/>flame. Uncle Charles dozed in a corner of the half furnished
+<lb n="20198"/>uncarpeted room and near him the family portraits leaned
+<lb n="20199"/>against the wall. The lamp on the table shed a weak light over
+<lb n="20200"/>the boarded floor, muddied by the feet of the vanmen. Stephen
+<lb n="20201"/>sat on a footstool beside his father listening to a long and
+<lb n="20202"/>incoherent monologue. He understood little or nothing of it at
+<lb n="20203"/>first but he became slowly aware that his father had enemies
+<lb n="20204"/>and that some fight was going to take place. He felt,@ too,@ that
+<lb n="20205"/>he was being enlisted for the fight, that some duty was being
+<lb n="20206"/>laid upon his shoulders. The sudden flight from the comfort
+<lb n="20207"/>and revery of <place><location><geo>53.300907, -6.177049</geo></location><placeName>Blackrock</placeName></place>, the passage through the gloomy foggy
+<lb n="20208"/>city, the thought of the bare cheerless house in which they were
+<lb n="20209"/>now to live made his heart heavy: and again an intuition or
+<lb n="20210"/>foreknowledge of the future came to him. He understood also
+<lb n="20211"/>why the servants had often whispered together in the hall and
+<lb n="20212"/>why his father had often stood on the hearthrug, with his back
+<lb n="20213"/>to the fire, talking loudly to uncle Charles who urged him to sit
+<lb n="20214"/>down and eat his dinner.
+<lb n="20215"/> <said who="Simon Dedalus">--There's a crack of the whip left in me yet, Stephen, old chap,
+<lb n="20216"/>said Mr Dedalus, poking at the dull fire with fierce energy.
+<lb n="20217"/>We're not dead yet, sonny. No, by the Lord Jesus (God forgive
+<lb n="20218"/>me) nor half dead. </said></p>
+<p> <lb n="20219"/> <place><location><geo>53.349307, -6.263654</geo></location><placeName>Dublin</placeName></place> was a new and complex sensation. Uncle Charles
+<lb n="20220"/>had grown so witless that he could no longer be sent out on
+<lb n="20221"/>errands and the disorder in settling in the new house left Ste-
+<lb n="20222"/>phen freer than he had been in <place><location><geo>53.300907, -6.177049</geo></location><placeName>Blackrock</placeName></place>. In the beginning he
+<lb n="20223"/>contented himself with circling timidly round the neighbouring
+<lb n="20224"/>square or, at most, going half way down one of the side streets:
+<lb n="20225"/>but when he had made a skeleton map of the city in his mind he
+<lb n="20226"/>followed boldly one of its central lines until he reached the
+<lb n="20227"/>customhouse. He passed unchallenged among the docks and
+<lb n="20228"/>along the quays wondering at the multitude of corks that lay
+<lb n="20229"/>bobbing on the surface of the water in a thick yellow scum, at
+<lb n="20230"/>the crowds of quay porters and the rumbling carts and the
+<lb n="20231"/>illdressed bearded policeman. The vastness and strangeness of
+<lb n="20232"/>the life suggested to him by the bales of merchandise stacked@
+<lb n="20233"/>along the walls or swung aloft out of the holds of steamers
+<lb n="20234"/>wakened again in him the unrest which had sent him wan-
+<lb n="20235"/>dering in the evening from garden to garden in search of
+<lb n="20236"/>Mercedes. And amid this new bustling life he might have
+<lb n="20237"/>fancied himself in another <place><location><geo>43.295207, 5.364077</geo></location><placeName>Marseilles</placeName></place> but that he missed the
+<lb n="20238"/>bright sky and the sunwarmed trellisses of the wineshops. A
+<lb n="20239"/>vague dissatisfaction grew up within him as he looked on the
+<lb n="20240"/>quays and on the river and on the lowering skies and yet he
+<lb n="20241"/>continued to wander up and down day after day as if he really
+<lb n="20242"/>sought someone that eluded him.</p>
+<p> <lb n="20243"/> He went once or twice with his mother to visit their rela-
+<lb n="20244"/>tives: and, though they passed a jovial array of shops lit up and
+<lb n="20245"/>adorned for Christmas, his mood of embittered silence did not
+<lb n="20246"/>leave him. The causes of his embitterment were many, remote
+<lb n="20247"/>and near. He was angry with himself for being young and the
+<lb n="20248"/>prey of restless foolish impulses, angry also with the change of
+<lb n="20249"/>fortune which was reshaping the world about him into a vision
+<lb n="20250"/>of squalor and insincerity. Yet his anger lent nothing to the
+<lb n="20251"/>vision. He chronicled with patience what he saw, detaching
+<lb n="20252"/>himself from it and tasting@ its mortifying flavour in secret.</p>
+<p> <lb n="20253"/> He was sitting on the backless chair in his aunt's kitchen. A
+<lb n="20254"/>lamp with a reflector hung on the japanned wall of the fire-
+<lb n="20255"/>place and by its light his aunt was reading the evening paper
+<lb n="20256"/>that lay on her knees. She looked a long time at a smiling
+<lb n="20257"/>picture that was set in it and said musingly:</p>
+<lb n="20258"/> <said who="his aunt">--The beautiful Mabel Hunter!</p>
+<p> <lb n="20259"/> A ringletted girl stood on tiptoe to peer at the picture and
+<lb n="20260"/>said softly:
+<lb n="20261"/> <said who="ringletted girl">--What is she in, mud? </said>
+<lb n="20262"/> <said who="ringletted girl's mother">--In the pantomime, love. </said></p>
+<p> <lb n="20263"/> The child leaned her ringletted head against her mother's
+<lb n="20264"/>sleeve, gazing on the picture@ and murmured,@ as if fascinated:
+<lb n="20265"/> <said who="ringletted girl">--The beautiful Mabel Hunter! </said></p>
+<p> <lb n="20266"/> As if fascinated, her eyes rested long upon those demurely
+<lb n="20267"/>taunting eyes and she murmured again devotedly:
+<lb n="20268"/> <said who="ringletted girl">--Isn't she an exquisite creature? </said></p>
+<p> <lb n="20269"/> And the boy who came in from the street, stamping crook-
+<lb n="20270"/>edly under his stone of coal, heard her words. He dropped his
+<lb n="20271"/>load promptly on the floor and hurried to her side to see. But
+<lb n="20272"/>she did not raise her easeful head to let him see. He mauled the
+<lb n="20273"/>edges of the paper with his reddened and blackened hands,
+<lb n="20274"/>shouldering her aside and complaining that he could not see.</p>
+<p> <lb n="20275"/> He was sitting in the narrow breakfast room high up in the
+<lb n="20276"/>old darkwindowed house. The firelight flickered on the wall
+<lb n="20277"/>and beyond the window a spectral dusk was gathering upon the
+<lb n="20278"/>river. Before the fire an old woman was busy making tea and,
+<lb n="20279"/>as she bustled at her task, she told in a low voice of what the
+<lb n="20280"/>priest and the doctor had said. She told too of certain changes
+<lb n="20281"/>that@ she had seen in her of late and of her odd ways and
+<lb n="20282"/>sayings. He sat listening to the words and following the ways
+<lb n="20283"/>of adventure that lay open in the coals, arches and vaults and
+<lb n="20284"/>winding galleries and jagged caverns.</p>
+<p> <lb n="20285"/> Suddenly he became aware of something in the doorway. A
+<lb n="20286"/>skull appeared suspended in the gloom of the doorway. A
+<lb n="20287"/>feeble creature like a monkey was there, drawn thither by the
+<lb n="20288"/>sound of voices at the fire. A whining voice came from the
+<lb n="20289"/>door, asking:
+<lb n="20290"/> <said who="Ellen">--Is that Josephine? </said></p>
+<p> <lb n="20291"/> The old bustling woman answered cheerily from the fire-
+<lb n="20292"/>place:
+<lb n="20293"/> <said who="old woman">--No, Ellen. It's Stephen. </said>
+<lb n="20294"/> <said who="Ellen">--O ....@ O, good evening, Stephen. </said></p>
+<p> <lb n="20295"/> He answered the greeting and saw a silly smile break out
+<lb n="20296"/>over the face in the doorway.
+<lb n="20297"/> <said who="old woman">--Do you want anything, Ellen? asked the old woman at the
+<lb n="20298"/>fire.</said></p>
+<p> <lb n="20299"/> But she did not answer the question and said:
+<lb n="20300"/> <said who="Ellen">--I thought it was Josephine. I thought you were Josephine,
+<lb n="20301"/>Stephen.</said></p>
+<p> <lb n="20302"/> And, repeating this several times, she fell to laughing feebly.</p>
+<p> <lb n="20303"/> He was sitting in the midst of a children's party at <place><location><geo>53.324608,
+-6.281580</geo></location><placeName>Harold's
+<lb n="20304"/> Cross</placeName></place>. His silent watchful manner had grown upon him and he
+<lb n="20305"/>took little part in the games. The children, wearing the spoils of
+<lb n="20306"/>their crackers, danced and romped noisily and, though he tried
+<lb n="20307"/>to share their merriment, he felt himself a gloomy figure amid
+<lb n="20308"/>the gay cocked hats and sunbonnets.</p>
+<p> <lb n="20309"/> But when he had sung his song and withdrawn into a snug
+<lb n="20310"/>corner of the room he began to taste the joy of his loneliness.
+<lb n="20311"/>The mirth, which in the beginning of the evening had seemed
+<lb n="20312"/>to him false and trivial, was like a soothing air to him, passing
+<lb n="20313"/>gaily by his senses, hiding from other eyes the feverish agitation
+<lb n="20314"/>of his blood while through the circling of the dancers and amid
+<lb n="20315"/>the music and laughter her glances@ travelled to his corner,
+<lb n="20316"/>flattering, taunting, searching, exciting his heart.</p>
+<p> <lb n="20317"/> In the hall the children who had stayed latest were putting
+<lb n="20318"/>on their things: the party was over. She had thrown a shawl
+<lb n="20319"/>about her and, as they went together towards the tram, sprays
+<lb n="20320"/>of her fresh warm breath flew gaily above her cowled head and
+<lb n="20321"/>her shoes tapped blithely on the glassy road.</p>
+<p> <lb n="20322"/> It was the last tram. The lank brown horses knew it and
+<lb n="20323"/>shook their bells to the clear night in admonition. The conductor
+<lb n="20324"/>tor talked with the driver, both nodding often in the green light
+<lb n="20325"/>of the lamp. On the empty seats of the tram were scattered a
+<lb n="20326"/>few coloured tickets. No sound of footsteps came up or down
+<lb n="20327"/>the road. No sound broke the peace of the night save when the
+<lb n="20328"/>lank brown horses rubbed their noses together and shook their
+<lb n="20329"/>bells.</p>
+<p> <lb n="20330"/> They seemed to listen, he on the upper step and she on the
+<lb n="20331"/>lower. She came up to his step many times and went down to
+<lb n="20332"/>hers again between their phrases and once or twice stood close
+<lb n="20333"/>beside him for some moments on the upper step, forgetting to
+<lb n="20334"/>go down, and then went down. His heart danced upon her
+<lb n="20335"/>movements like a cork upon a tide. He heard what her eyes
+<lb n="20336"/>said to him from beneath their cowl and knew that in some dim
+<lb n="20337"/>past, whether in life or in revery, he had heard their tale before.
+<lb n="20338"/>He saw her urge her vanities, her fine dress and sash and long
+<lb n="20339"/>black stockings, and knew that he had yielded to them a thou-
+<lb n="20340"/>sand@ times. Yet a voice within him spoke above the noise of his
+<lb n="20341"/>dancing heart, asking him would he take her gift to which he
+<lb n="20342"/>had only to stretch out his hand. And he remembered the day
+<lb n="20343"/>when he and Eileen had stood looking into the hotel grounds,
+<lb n="20344"/>watching the waiters running up a trail of bunting on the
+<lb n="20345"/>flagstaff and the foxterrier@ scampering to and fro on the sunny
+<lb n="20346"/>lawn, and how, all of a sudden, she had broken out into a peal
+<lb n="20347"/>of laughter and had run down the sloping curve of the path.
+<lb n="20348"/>Now, as then, he stood listlessly in his place, seemingly a
+<lb n="20349"/>tranquil watcher of the scene before him.</p>
+<p> <lb n="20350"/> --She too wants me to catch hold of her, he thought. That's
+<lb n="20351"/>why she came with me to the tram. I could easily catch hold of
+<lb n="20352"/>her when she comes up to my step: nobody is looking. I could
+<lb n="20353"/>hold her and kiss her.</p>
+<p> <lb n="20354"/> But he did neither: and, when he was sitting alone in the
+<lb n="20355"/>deserted tram, he tore his ticket into shreds and stared gloomily
+<lb n="20356"/>at the corrugated footboard.</p>
+<p> <lb n="20357"/> The next day he sat at his table in the bare upper room for
+<lb n="20358"/>many hours. Before him lay a new pen, a new bottle of ink and
+<lb n="20359"/>a new emerald exercise. From force of habit he had written at
+<lb n="20360"/>the top of the first page the initial letters of the jesuit motto:
+<lb n="20361"/>A. M. D. G. On the first line of the page appeared the title of
+<lb n="20362"/>the verses he was trying to write: To E-- C--. He knew it was
+<lb n="20363"/>right to begin so for he had seen similar titles in the collected
+<lb n="20364"/>poems of Lord Byron. When he had written this title and
+<lb n="20365"/>drawn an ornamental line underneath he fell into a daydream
+<lb n="20366"/>and began to draw diagrams on the cover of the book. He saw
+<lb n="20367"/>himself sitting at his table in Bray the morning after the dis-
+<lb n="20368"/>cussion at the Christmas dinnertable, trying to write a poem
+<lb n="20369"/>about Parnell on the back of one of his father's second moiety
+<lb n="20370"/>notices. But his brain had then refused to grapple with the
+<lb n="20371"/>theme and, desisting, he had covered the page with the names
+<lb n="20372"/>and addresses of certain of his classmates:
+<lb n="20373"/> Roderick Kickham
+<lb n="20374"/>John Lawton
+<lb n="20375"/>Anthony MacSwiney
+<lb n="20376"/>Simon Moonan</p>
+<p> <lb n="20377"/> Now it seemed as if he would fail again but, by dint of
+<lb n="20378"/>brooding on the incident, he thought himself into confidence.
+<lb n="20379"/>During this process all those@ elements which he deemed com-
+<lb n="20380"/>mon and insignificant fell out of the scene. There remained no
+<lb n="20381"/>trace of the tram itself nor of the trammen nor of the horses:
+<lb n="20382"/>nor did he and she appear vividly. The verses told only of the
+<lb n="20383"/>night and the balmy breeze and the maiden lustre of the moon.
+<lb n="20384"/>Some undefined sorrow was hidden in the hearts of the protag-
+<lb n="20385"/>onists as they stood in silence beneath the leafless trees and
+<lb n="20386"/>when the moment of farewell had come the kiss, which had
+<lb n="20387"/>been withheld by one, was given by both. After this the letters
+<lb n="20388"/>L. D. S. were written at the foot of the page and, having hidden
+<lb n="20389"/>the book, he went into his mother's bedroom and gazed at his
+<lb n="20390"/>face for a long time in the mirror of her dressingtable.</p>
+<p> <lb n="20391"/> But his long spell of leisure and liberty was drawing to its
+<lb n="20392"/>end. One evening his father came home full of news which kept
+<lb n="20393"/>his tongue busy all through dinner. Stephen had been awaiting
+<lb n="20394"/>his father's return for there had been mutton hash that day and
+<lb n="20395"/>he knew that his father would make him dip his bread in the
+<lb n="20396"/>gravy. But he did not relish the hash for the mention of
+<lb n="20397"/> <place><location><geo>53.310770, -6.684719</geo></location><placeName>Clongowes</placeName></place> had coated his palate with a scum of disgust.
+<lb n="20398"/> <said who="Simon Dedalus">--I walked bang into him, said Mr Dedalus for the fourth
+<lb n="20399"/>time, just at the corner of the square.</said>
+<lb n="20400"/> <said who="Mary Dedalus">--Then I suppose, said Mrs Dedalus, he will be able to arrange
+<lb n="20401"/>it. I mean,@ about Belvedere.</said>
+<lb n="20402"/> <said who="Simon Dedalus">--Of course  he will, said Mr Dedalus. Don't I tell you he's
+<lb n="20403"/>provincial of the order now? </said>
+<lb n="20404"/> <said who="Mary Dedalus">--I never liked the idea of sending him to the christian brothers
+<lb n="20405"/>myself, said Mrs Dedalus. </said>
+<lb n="20406"/> <said who="Simon Dedalus">--Christian brothers be damned! said Mr Dedalus. Is it with
+<lb n="20407"/>Paddy Stink and Mickey Mud? No, let him stick to the jesuits
+<lb n="20408"/>in God's name since he began with them. They'll be of service
+<lb n="20409"/>to him in after years. Those are the fellows that can get you a
+<lb n="20410"/>position.</said>
+<lb n="20411"/> <said who="Mary Dedalus">--And they're a very rich order, aren't they, Simon? </said>
+<lb n="20412"/> <said who="Simon Dedalus">--Rather. They live well, I tell you. You saw their table at
+<lb n="20413"/> <place><location><geo>53.310770, -6.684719</geo></location><placeName>Clongowes</placeName></place>. Fed up, by God, like gamecocks. </said></p>
+<p> <lb n="20414"/> Mr Dedalus pushed his plate over to Stephen and bade him
+<lb n="20415"/>finish what was on it.
+<lb n="20416"/> <said who="Simon Dedalus">--Now then, Stephen, he said.@ You@ must put your shoulder to
+<lb n="20417"/>the wheel, old chap. You've had a fine long holiday. </said>
+<lb n="20418"/> <said who="Mary Dedalus">--O, I'm sure  he'll work very hard now, said Mrs Dedalus.@
+<lb n="20419"/>Especially@ when he has Maurice with him. </said>
+<lb n="20420"/> <said who="Simon Dedalus">--O, Holy Paul, I forgot about Maurice, said Mr Dedalus.
+<lb n="20421"/>Here, Maurice! Come here, you thickheaded ruffian! Do you
+<lb n="20422"/>know I'm going to send you to a college where they'll teach you
+<lb n="20423"/>to spell c.a.t:@ cat. And I'll buy you a nice little penny handker-
+<lb n="20424"/>chief to keep your nose dry. Won't that be grand fun? </said></p>
+<p> <lb n="20425"/> Maurice grinned at his father and then at his brother. Mr
+<lb n="20426"/>Dedalus screwed his glass into his eye and stared hard at both
+<lb n="20427"/>his sons. Stephen mumbled his bread without answering his
+<lb n="20428"/>father's gaze.
+<lb n="20429"/> <said who="Simon Dedalus">--By the bye, said Mr Dedalus at length, the rector, or provin-
+<lb n="20430"/>cial, rather, was telling me that story about you and Father
+<lb n="20431"/>Dolan. You're an impudent thief, he said. </said>
+<lb n="20432"/> <said who="Mary Dedalus">--O, he didn't, Simon! </said>
+<lb n="20433"/> <said who="Simon Dedalus">--Not he! said Mr Dedalus. But he gave me a great account of
+<lb n="20434"/>the whole affair. We were chatting, you know, and one word
+<lb n="20435"/>borrowed another. And, by the way, who do you think he told
+<lb n="20436"/>me will get that job in the corporation? But I'll tell you that
+<lb n="20437"/>after. Well, as I was saying, we were chatting away quite
+<lb n="20438"/>friendly and he asked me did our friend here wear glasses still
+<lb n="20439"/>and then he told me the whole story. </said>
+<lb n="20440"/> <said who="Mary Dedalus">--And was he annoyed, Simon? </said>
+<lb n="20441"/> <said who="Simon Dedalus">--Annoyed! Not he! <emph>Manly little chap!</emph> he said. </said></p>
+<p> <lb n="20442"/> Mr Dedalus imitated the mincing nasal tone of the provin-
+<lb n="20443"/>cial.
+<lb n="20444"/><said who="Simon Dedalus">--Father Dolan and I, when I told them all at dinner about it,
+<lb n="20445"/>Father Dolan and I had a great laugh over it. <emph>You better mind
+<lb n="20446"/>yourself, Father Dolan</emph>, said I, <emph>or young Dedalus will send you
+<lb n="20447"/>up for twice nine</emph>. We had a famous laugh together over it. Ha!
+<lb n="20448"/>Ha! Ha!</said></p>
+<p> <lb n="20449"/> Mr Dedalus turned to his wife and interjected in his natural
+<lb n="20450"/>voice:
+<lb n="20451"/> <said who="Simon Dedalus">--Shows you the spirit in which they take the boys there. O, a
+<lb n="20452"/>jesuit for your life, for diplomacy! </said></p>
+<p> <lb n="20453"/> He reassumed the provincial's voice and repeated:
+<lb n="20454"/> <said who="Simon Dedalus">--<emph>I told them all at dinner about it and Father Dolan and I and
+<lb n="20455"/>all of us we all@ had a hearty laugh together over it. Ha! Ha! Ha!</emph></said></p>
+<milestone unit="section" rend="asterixes"/> </div> <!-- 2.2 --> <div n="2.3" type="section">
+<p> <lb n="20456"/> The night of the Whitsuntide play had come and Stephen
+<lb n="20457"/>from the window of the dressingroom looked out on  the small
+<lb n="20458"/>grassplot across which lines of Chinese lanterns were stretched.
+<lb n="20459"/>He watched the visitors come down the steps from the house
+<lb n="20460"/>and pass into the theatre. Stewards in evening dress, old Belve-
+<lb n="20461"/>dereans, loitered in groups about the entrance to the theatre
+<lb n="20462"/>and ushered in the visitors with ceremony. Under the sudden
+<lb n="20463"/>glow of a lantern he could recognise the smiling face of a priest.</p>
+<p> <lb n="20464"/> The Blessed Sacrament had been removed from the taber-
+<lb n="20465"/>nacle and the first benches had been driven back@ so as to leave
+<lb n="20466"/>the dais of the altar and the space before it free. Against the
+<lb n="20467"/>walls stood companies of barbells and Indian clubs; the dumb-
+<lb n="20468"/>bells were piled in one corner: and in the midst of countless
+<lb n="20469"/>hillocks of gymnasium shoes and sweaters and singlets in
+<lb n="20470"/>untidy brown parcels there stood the stout leatherjacketed
+<lb n="20471"/>vaulting horse waiting its turn to be carried up on to@ the stage.
+<lb n="20472"/>A large bronze shield, tipped with silver, leaned against the
+<lb n="20473"/>panel of the altar also waiting its turn to be carried up on to@ the
+<lb n="20474"/>stage and set in the middle of the winning team at the end of
+<lb n="20475"/>the gymnastic  display.</p>
+<p> <lb n="20476"/> Stephen, though in deference to his reputation for essay-
+<lb n="20477"/>writing he had been elected secretary to the gymnasium, had }omit{@ no
+<lb n="20478"/>part in the first section of the programme:@ but in the play
+<lb n="20479"/>which formed the second section he had the chief part, that of a
+<lb n="20480"/>farcical pedagogue. He had been cast for it on account of his
+<lb n="20481"/>stature and grave manners for he was now at the end of his
+<lb n="20482"/>second year at Belvedere and in number two.</p>
+<p> <lb n="20483"/> A score of the younger boys in white knickers and singlets
+<lb n="20484"/>came pattering down from the stage, through the vestry and
+<lb n="20485"/>into the chapel. The vestry and chapel were peopled with eager
+<lb n="20486"/>masters and boys. The plump bald sergeantmajor was testing
+<lb n="20487"/>with his foot the springboard of the vaulting horse. The lean
+<lb n="20488"/>young man in a long overcoat, who was to give a special
+<lb n="20489"/>display of intricate club swinging, stood near watching with
+<lb n="20490"/>interest, his silvercoated clubs peeping out of his deep side-
+<lb n="20491"/>pockets. The hollow rattle of the wooden dumbbells was heard
+<lb n="20492"/>as another team made ready to go up on the stage: and in
+<lb n="20493"/>another moment the excited prefect was hustling the boys
+<lb n="20494"/>through the vestry like a flock of geese, flapping the wings of
+<lb n="20495"/>his soutane nervously and crying to the laggards to make haste.
+<lb n="20496"/>A little troop  of Neapolitan peasants were practising their steps
+<lb n="20497"/>at the end of the chapel, some arching@ their arms above their
+<lb n="20498"/>heads, some swaying their baskets of paper violets and curtsey-
+<lb n="20499"/>ing. In a dark corner of the chapel at the gospel side of the altar
+<lb n="20500"/>a stout old lady knelt amid her copious black skirts. When she
+<lb n="20501"/>stood up a pinkdressed figure, wearing a curly golden wig and
+<lb n="20502"/>an oldfashioned straw sunbonnet, with black pencilled eye-
+<lb n="20503"/>brows and cheeks delicately rouged and powdered, was dis-
+<lb n="20504"/>covered. A low murmur of curiosity ran round the chapel at the
+<lb n="20505"/>discovery of this girlish figure. One of the prefects, smiling and
+<lb n="20506"/>nodding his head, approached the dark corner and, having
+<lb n="20507"/>bowed to the stout old lady, said pleasantly:
+<lb n="20508"/> <said who="a prefect">--Is this a beautiful young lady or a doll that you have here,
+<lb n="20509"/>Mrs Tallon?</said></p>
+<p> <lb n="20510"/> Then, bending down to peer at the smiling painted face un-
+<lb n="20511"/>der the leaf of the bonnet, he exclaimed:
+<lb n="20512"/> <said who="a prefect">--No! Upon my word I believe it's little Bertie Tallon after all! </said></p>
+<p> <lb n="20513"/> Stephen at his post by the window heard the old lady and
+<lb n="20514"/>the priest laugh together and heard the boys' murmur of ad-
+<lb n="20515"/>miration behind him as they pressed@ forward to see the little
+<lb n="20516"/>boy who had to dance the sunbonnet dance by himself. A
+<lb n="20517"/>movement of impatience escaped him. He let the edge of the
+<lb n="20518"/>blind fall and, stepping down from the bench on which he had
+<lb n="20519"/>been standing, walked out of the chapel.</p>
+<p> <lb n="20520"/> He passed out of the schoolhouse and halted under the shed
+<lb n="20521"/>that flanked the garden. From the theatre opposite came the
+<lb n="20522"/>muffled noise of the audience and sudden brazen clashes of the
+<lb n="20523"/>soldiers' band. The light spread upwards from the glass roof
+<lb n="20524"/>making the theatre seem a festive ark, anchored amid@ the hulks
+<lb n="20525"/>of houses, her frail cables of lanterns looping her to her moor-
+<lb n="20526"/>ings. A sidedoor of the theatre opened suddenly and a shaft of
+<lb n="20527"/>light flew across the grassplots. A sudden burst of music issued
+<lb n="20528"/>from the ark, the prelude of a waltz: and when the sidedoor
+<lb n="20529"/>closed again the listener could hear the faint rhythm of the
+<lb n="20530"/>music. The sentiment of the opening bars, their languor and
+<lb n="20531"/>supple movement, evoked the incommunicable emotion which
+<lb n="20532"/>had been the cause of all his day's unrest and of his impatient
+<lb n="20533"/>movement of a moment before. His unrest issued from him like
+<lb n="20534"/>a wave of sound: and on the tide of flowing music the ark was
+<lb n="20535"/>journeying, trailing her cables of lanterns in her wake. Then a
+<lb n="20536"/>noise like dwarf artillery broke the movement. It was the
+<lb n="20537"/>clapping that greeted the entry of the dumbbell team on the
+<lb n="20538"/>stage.</p>
+<p> <lb n="20539"/> At the far end of the shed near the street a speck of pink
+<lb n="20540"/>light showed in the darkness and as he walked towards it he
+<lb n="20541"/>became aware of a faint aromatic odour. Two boys were
+<lb n="20542"/>standing in the shelter of the@ doorway, smoking, and before he
+<lb n="20543"/>reached them he had recognised Heron by his voice.
+<lb n="20544"/> <said who="Heron">--Here comes the noble Dedalus! cried a high throaty voice.
+<lb n="20545"/>Welcome to our trusty friend! </said></p>
+<p> <lb n="20546"/> This welcome ended in a soft peal of mirthless laughter as
+<lb n="20547"/>Heron salaamed and then began to poke the ground with his
+<lb n="20548"/>cane.
+<lb n="20549"/> <said who="Stephen Dedalus">--Here I am, said Stephen, halting and glancing from Heron to
+<lb n="20550"/>his friend. </said></p>
+<p> <lb n="20551"/> The latter was a stranger to him but in the darkness, by the
+<lb n="20552"/>aid of the glowing cigarette tips,@ he could make out a pale
+<lb n="20553"/>dandyish face, over which a smile was travelling slowly, a tall
+<lb n="20554"/>overcoated figure and a hard hat. Heron did not trouble him-
+<lb n="20555"/>self about an introduction but said instead:
+<lb n="20556"/> <said who="Heron">--I was just telling my friend Wallis what a lark it would be
+<lb n="20557"/>tonight if you took off the rector in the part of the school-
+<lb n="20558"/>master. It would be a ripping good joke. </said></p>
+<p> <lb n="20559"/> Heron made a poor attempt to imitate for his friend Wallis
+<lb n="20560"/>the rector's pedantic bass and then, laughing at his failure,
+<lb n="20561"/>asked Stephen to do it.
+<lb n="20562"/> <said who="Heron">--Go on, Dedalus, he urged.@ You@ can take him off rippingly.
+<lg>
+<lb n="20563"/><emph>He that will not hear the churcha let him be to theea as</l> <l>the
+<lb n="20564"/>heathena and the publicana.</l>
+</lg> </said></p>
+<p> <lb n="20565"/> The imitation was prevented by a mild expression of anger
+<lb n="20566"/>from Wallis in whose mouthpiece the cigarette had become too
+<lb n="20567"/>tightly wedged.
+<lb n="20568"/> <said who="Wallis">--Damn this blankety blank holder, he said, taking it from his
+<lb n="20569"/>mouth and smiling and frowning upon it tolerantly. It's always
+<lb n="20570"/>getting stuck like that. Do you use a holder? </said>
+<lb n="20571"/> <said who="Stephen Dedalus">--I don't smoke, answered Stephen. </said>
+<lb n="20572"/> <said who="Heron">--No, said Heron, Dedalus is a model youth. He doesn't
+<lb n="20573"/>smoke and he doesn't go to bazaars and he doesn't flirt and he
+<lb n="20574"/>doesn't damn anything or damn all. </said></p>
+<p> <lb n="20575"/> Stephen shook his head and smiled in his rival's flushed and
+<lb n="20576"/>mobile face, beaked like a bird's. He had often thought it
+<lb n="20577"/>strange that Vincent Heron had a bird's face as well as a bird's
+<lb n="20578"/>name. A shock of pale hair lay on the forehead like a ruffled
+<lb n="20579"/>crest: the forehead was narrow and bony and a thin hooked
+<lb n="20580"/>nose stood out between the closeset prominent eyes which were
+<lb n="20581"/>light and inexpressive. The rivals were school friends. They sat
+<lb n="20582"/>together in class, knelt together in the chapel, talked together
+<lb n="20583"/>after beads over their lunches. As the fellows in number one
+<lb n="20584"/>were undistinguished dullards Stephen and Heron had been
+<lb n="20585"/>during the year the virtual heads of the school. It was they who
+<lb n="20586"/>went up to the rector together to ask for a free day or to get a
+<lb n="20587"/>fellow off.
+<lb n="20588"/> <said who="Heron">--O by the way, said Heron suddenly, I saw your governor
+<lb n="20589"/>going in. </said></p>
+<p> <lb n="20590"/> The smile waned on Stephen's face. Any allusion made to his
+<lb n="20591"/>father by a fellow or by a master put his calm to rout in a
+<lb n="20592"/>moment. He waited in timorous silence to hear what Heron
+<lb n="20593"/>might say next. Heron, however, nudged him expressively with
+<lb n="20594"/>his elbow and said:
+<lb n="20595"/> <said who="Heron">--You're a sly dog, Dedalus! </said>
+<lb n="20596"/> <said who="Stephen Dedalus">--Why so? said Stephen. </said>
+<lb n="20597"/> <said who="Heron">--You'd think butter wouldn't melt in your mouth, said
+<lb n="20598"/>Heron. But I'm afraid you're a sly dog. </said>
+<lb n="20599"/> <said who="Stephen Dedalus">--Might I ask you what you are talking about? said Stephen
+<lb n="20600"/>urbanely.</said>
+<lb n="20601"/> <said who="Heron">--Indeed  you might, answered Heron. We saw her, Wallis,
+<lb n="20602"/>didn't we? And deucedly pretty she is too. And so inquisitive!
+<lb n="20603"/><emph>And what part does Stephen take, Mr Dedalus? And will
+<lb n="20604"/>Stephen not sing, Mr Dedalus?</emph> Your governor was staring at
+<lb n="20605"/>her through that eyeglass of his for all he was worth so that I
+<lb n="20606"/>think the old man has found you out too. I wouldn't care a bit,
+<lb n="20607"/>by Jove. She's  ripping, isn't she, Wallis? </said>
+<lb n="20608"/> <said who="Wallis">--Not half bad, answered Wallis quietly as he placed his
+<lb n="20609"/>holder once more in a@ corner of his mouth. </said></p>
+<p> <lb n="20610"/> A shaft of momentary anger flew through Stephen's mind at
+<lb n="20611"/>these indelicate allusions in the hearing of a stranger. For him
+<lb n="20612"/>there was nothing amusing in a girl's interest and regard. All
+<lb n="20613"/>day he had thought of nothing but their leavetaking on the
+<lb n="20614"/>steps of the tram at <place><location><geo>53.324608, -6.281580</geo></location><placeName>Harold's Cross</placeName></place>, the stream of moody
+<lb n="20615"/>emotions it had made to course through him@ and the poem he
+<lb n="20616"/>had written about it. All day he had imagined a new meeting
+<lb n="20617"/>with her for he knew that she was to come to the play. The old
+<lb n="20618"/>restless moodiness had again filled his heart@ as it had done on
+<lb n="20619"/>the night of the party but had not found  an outlet in verse. The
+<lb n="20620"/>growth and knowledge of two years of boyhood stood between
+<lb n="20621"/>then and now, forbidding such an outlet: and all day the stream
+<lb n="20622"/>of gloomy tenderness within him had started forth and re-
+<lb n="20623"/>turned upon itself in dark courses and eddies, wearying him in
+<lb n="20624"/>the end until the pleasantry of the prefect and the painted little
+<lb n="20625"/>boy had drawn from him a movement of impatience.
+<lb n="20626"/> <said who="Heron">--So you may as well admit, Heron went on, that we've fairly
+<lb n="20627"/>found you out this time. You can't play the saint on me any
+<lb n="20628"/>more, that's one sure five. </said></p>
+<p> <lb n="20629"/> A soft peal of mirthless laughter escaped from his lips and,
+<lb n="20630"/>bending down as before, he struck Stephen lightly across the
+<lb n="20631"/>calf of the leg with his cane, as if in jesting reproof.</p>
+<p> <lb n="20632"/> Stephen's moment@ of anger had already passed. He was nei-
+<lb n="20633"/>ther flattered nor confused but simply wished the banter to
+<lb n="20634"/>end. He scarcely resented what had seemed to him at first a
+<lb n="20635"/>silly indelicateness for he knew that the adventure in his mind
+<lb n="20636"/>stood in no danger from their words: and his face mirrored his
+<lb n="20637"/>rival's false smile.
+<lb n="20638"/> <said who="Heron">--Admit! repeated Heron, striking him again with his cane
+<lb n="20639"/>across the calf of the leg. </said></p>
+<p> <lb n="20640"/> The stroke was playful but not so lightly given as the first
+<lb n="20641"/>one had been. Stephen felt the skin tingle and glow slightly and
+<lb n="20642"/>almost painlessly; and bowing submissively, as if to meet his
+<lb n="20643"/>companion's jesting mood, began to recite the <seg xml:lang="la">Confiteor</seg>. The
+<lb n="20644"/>episode ended well for both Heron and Wallis laughed indul-
+<lb n="20645"/>gently at the irreverence.</p>
+<p> <lb n="20646"/> The confession came only from Stephen's lips and, while
+<lb n="20647"/>they spoke the words, a sudden memory had carried him to
+<lb n="20648"/>another scene called up, as if by magic, at the moment when he
+<lb n="20649"/>had noted the faint cruel dimples at the corners of Heron's
+<lb n="20650"/>smiling lips and had felt the familiar stroke of the cane against
+<lb n="20651"/>his calf and had heard the familiar word of admonition:
+<lb n="20652"/><said who="Heron">--Admit!@</said></p>
+<p> <lb n="20653"/> It was towards the close of his first term in the college when
+<lb n="20654"/>he was in number six. His sensitive nature was still smarting
+<lb n="20655"/>under the lashes of an undivined and squalid way of life. His
+<lb n="20656"/>soul was still disquieted and cast down by the dull phenom-
+<lb n="20657"/>enon of <place><location><geo>53.349307, -6.263654</geo></location><placeName>Dublin</placeName></place>. He had emerged from a two years' spell of
+<lb n="20658"/>revery to find himself in the midst of a new scene, every event
+<lb n="20659"/>and figure of which affected him intimately, disheartened him
+<lb n="20660"/>or allured him@ and, whether alluring or disheartening, filled
+<lb n="20661"/>him always with unrest and bitter thoughts. All the leisure that@
+<lb n="20662"/>his school life left him was passed in the company of subversive
+<lb n="20663"/>writers whose gibes and violence of speech set up a ferment in
+<lb n="20664"/>his brain before they passed out of it into his crude writings.</p>
+<p> <lb n="20665"/> The essay was for him the chief labour of his week and every
+<lb n="20666"/>Tuesday, as he marched from home to the school, he read his
+<lb n="20667"/>fate in the incidents of the way, pitting himself against some
+<lb n="20668"/>figure ahead of him and quickening his pace to outstrip it be-
+<lb n="20669"/>fore a certain goal was reached or planting his steps scrupu-
+<lb n="20670"/>lously in the spaces of the patchwork of the footpath and
+<lb n="20671"/>telling himself that he would be first and not first in the weekly
+<lb n="20672"/>essay.</p>
+<p> <lb n="20673"/> On a certain Tuesday the course of his triumphs was rudely
+<lb n="20674"/>broken. Mr Tate, the English master, pointed his finger at him
+<lb n="20675"/>and said bluntly:
+<lb n="20676"/> <said who="Mr Tate">--This fellow has heresy in his essay. </said></p>
+<p> <lb n="20677"/> A hush fell on the class. Mr Tate did not break it but dug
+<lb n="20678"/>with his hand between his crossed thighs while his heavily
+<lb n="20679"/>starched linen creaked about his neck and wrists. Stephen did
+<lb n="20680"/>not look up. It was a raw spring morning and his eyes were still
+<lb n="20681"/>smarting and weak. He was conscious of failure and of detec-
+<lb n="20682"/>tion, of the squalor of his own mind and home, and felt against
+<lb n="20683"/>his neck the raw edge of his turned and jagged collar.</p>
+<p> <lb n="20684"/> A short loud laugh from Mr Tate set the class more at ease.
+<lb n="20685"/> <said who="Mr Tate">--Perhaps you didn't know that, he said. </said>
+<lb n="20686"/> <said who="Stephen Dedalus">--Where? asked Stephen. </said></p>
+<p> <lb n="20687"/> Mr Tate withdrew his delving hand and spread out the es-
+<lb n="20688"/>say.
+<lb n="20689"/> <said who="Mr Tate">--Here. It's about the Creator and the soul. Rrm ... rrm .....
+<lb n="20690"/>rrm ...  Ah! <emph>without a possibility of ever approaching nearer</emph>.
+<lb n="20691"/>That's heresy. </said></p>
+<p> <lb n="20692"/> Stephen murmured:
+<lb n="20693"/> <said who="Stephen Dedalus">--I meant <emph>without a possibility of ever reaching</emph>. </said></p>
+<p> <lb n="20694"/> It was a submission and Mr Tate, appeased, folded up the
+<lb n="20695"/>essay and passed it across to him, saying:
+<lb n="20696"/> <said who="Mr Tate">--O ... Ah! <emph>ever reaching</emph>. That's another story. </said></p>
+<p> <lb n="20697"/> But the class was not so soon appeased. Though nobody
+<lb n="20698"/>spoke to him of the affair after class he could feel about him a
+<lb n="20699"/>vague general malignant joy.</p>
+<p> <lb n="20700"/> A few nights after this public chiding  he was walking with a
+<lb n="20701"/>letter along the Drumcondra Road when he heard a voice cry:
+<lb n="20702"/> <said who="Heron">--Halt! </said></p>
+<p> <lb n="20703"/> He turned and saw three boys of his own class coming to-
+<lb n="20704"/>wards him in the dusk. It was Heron who had called out and,
+<lb n="20705"/>as he marched forward between his two attendants, he cleft the
+<lb n="20706"/>air before him with a thin cane, in time to their steps. Boland,
+<lb n="20707"/>his friend, marched beside him, a large grin on his face, while
+<lb n="20708"/>Nash came on a few steps behind, blowing from the pace and
+<lb n="20709"/>wagging his great red head.</p>
+<p> <lb n="20710"/> As soon as the boys had turned into <place><location><geo>53.362304, -6.249867</geo></location><placeName>Clonliffe Road</placeName></place>together
+<lb n="20711"/>they began to speak about books and writers, saying what
+<lb n="20712"/>books they were reading and how many books there were in
+<lb n="20713"/>their fathers' bookcases at home. Stephen listened to them in
+<lb n="20714"/>some wonderment for Boland was the dunce and Nash the idler
+<lb n="20715"/>of the class. In fact after some talk about their favourite writers
+<lb n="20716"/>Nash declared for Captain Marryat who, he said, was the
+<lb n="20717"/>greatest writer.
+<lb n="20718"/> <said who="Heron">--Fudge! said Heron. Ask Dedalus. Who is the greatest writer,
+<lb n="20719"/>Dedalus?</said></p>
+</said></p>
+<p> <lb n="20720"/> Stephen noted the mockery in the question and said:
+<lb n="20721"/> <said who="Stephen Dedalus">--Of prose,@ do you mean? </said>
+<lb n="20722"/> <said who="Heron">--Yes.</said>
+<lb n="20723"/> <said who="Stephen Dedalus">--Newman, I think. </said>
+<lb n="20724"/> <said who="Boland">--Is it Cardinal Newman? asked Boland. </said>
+<lb n="20725"/> <said who="Stephen Dedalus">--Yes, answered Stephen. </said></p>
+<p> <lb n="20726"/> The grin broadened on Nash's freckled face as he turned to
+<lb n="20727"/>Stephen and said:
+<lb n="20728"/> <said who="Nash">--And do you like Cardinal Newman, Dedalus? </said>
+<lb n="20729"/> <said who="Heron">--O, many people@ say that Newman has the best prose style,
+<lb n="20730"/>Heron said to the other two in explanation. Of course,@ he's not
+<lb n="20731"/>a poet. </said>
+<lb n="20732"/> <said who="Boland">--And who is the best poet, Heron? asked Boland. </said>
+<lb n="20733"/> <said who="Heron">--Lord Tennyson, of course, answered Heron. </said>
+<lb n="20734"/> <said who="Nash">--O, yes, Lord Tennyson, said Nash. We have all his poetry at
+<lb n="20735"/>home in a book. </said></p>
+<p> <lb n="20736"/> At this Stephen forgot the silent vows he had been making
+<lb n="20737"/>and burst out:
+<lb n="20738"/> <said who="Stephen Dedalus">--Tennyson a poet! Why, he's only a rhymester! </said>
+<lb n="20739"/> <said who="Heron">--O, get out! said Heron. Everyone knows that Tennyson is
+<lb n="20740"/>the greatest poet. </said>
+<lb n="20741"/> <said who="Boland">--And who do you think is the greatest poet? asked Boland,
+<lb n="20742"/>nudging his neighbour. </said>
+<lb n="20743"/> <said who="Stephen Dedalus">--Byron, of course, answered Stephen. </said></p>
+<p> <lb n="20744"/> Heron gave the lead and all three joined in a scornful laugh.
+<lb n="20745"/> <said who="Stephen Dedalus">--What are you laughing at? asked Stephen. </said>
+<lb n="20746"/> <said who="Heron">--You, said Heron. Byron the greatest poet! He's only a poet
+<lb n="20747"/>for uneducated people. </said>
+<lb n="20748"/> <said who="Boland">--He must be a fine poet! said Boland. </said>
+<lb n="20749"/> <said who="Stephen Dedalus">--You may keep your mouth shut, said Stephen, turning on
+<lb n="20750"/>him boldly. All you know about poetry is what you wrote up
+<lb n="20751"/>on the slates in the yard and were going to be sent to the loft
+<lb n="20752"/>for.</said></p>
+<p> <lb n="20753"/> Boland, in fact, was said to have written on the slates in the
+<lb n="20754"/>yard a couplet about a classmate of his who often rode home
+<lb n="20755"/>from the college on a pony:</p>
+<lg>
+<lb n="20756"/> <l>As Tyson was riding into Jerusalem</l>
+<lb n="20757"/>He fell and hurt his Alec Kafoozelum. </l>
+</lg>
+<p> <lb n="20758"/> This thrust put the two lieutenants to silence but Heron
+<lb n="20759"/>went on:
+<lb n="20760"/> <said who="Heron">--In any case Byron was a heretic and immoral too. </said>
+<lb n="20761"/> <said who="Stephen Dedalus">--I don't care what he was, cried Stephen hotly. </said>
+<lb n="20762"/> <said who="Nash">--You don't care whether he was a heretic or not? said Nash. </said>
+<lb n="20763"/> <said who="Stephen Dedalus">--What do you know about it? shouted Stephen. You never
+<lb n="20764"/>read a line of anything in your life except a trans or Boland
+<lb n="20765"/>either.</said>
+<lb n="20766"/> <said who="Boland">--I know that Byron was a bad man, said Boland. </said>
+<lb n="20767"/> <said who="Heron">--Here, Catch@ hold of this heretic, Heron called out. </said></p>
+<p> <lb n="20768"/> In a moment Stephen was a prisoner.
+<lb n="20769"/> <said who="Heron">--Tate made you buck up the other day, Heron went on, about
+<lb n="20770"/>the heresy in your essay. </said>
+<lb n="20771"/> <said who="Boland">--I'll tell him tomorrow, said Boland. </said>
+<lb n="20772"/> <said who="Stephen Dedalus">--Will you? said Stephen. You'd be afraid to open your lips. </said>
+<lb n="20773"/> <said who="Boland">--Afraid?</said>
+<lb n="20774"/> <said who="Stephen Dedalus">--Ay. Afraid of your life. </said>
+<lb n="20775"/> <said who="Heron">--Behave yourself! cried Heron, cutting at Stephen's legs with
+<lb n="20776"/>his cane. </said></p>
+<p> <lb n="20777"/> It was the signal for their  onset. Nash pinioned his arms
+<lb n="20778"/>behind while Boland seized a long cabbage stump which was
+<lb n="20779"/>lying in the gutter. Struggling and kicking under the cuts of the
+<lb n="20780"/>cane and the blows of the knotty stump Stephen was borne
+<lb n="20781"/>back against a barbed wire fence.
+<lb n="20782"/> <said who="Heron">--Admit that Byron was no good. </said>
+<lb n="20783"/> <said who="Stephen Dedalus">--No.</said>
+<lb n="20784"/> <said who="Heron">--Admit.</said>
+<lb n="20785"/> <said who="Stephen Dedalus">--No.</said>
+<lb n="20786"/> <said who="Heron">--Admit.</said>
+<lb n="20787"/> <said who="Stephen Dedalus">--No. No. </said></p>
+<p> <lb n="20788"/> At last after a fury of plunges he wrenched himself free. His
+<lb n="20789"/>tormentors set off towards <place><location><geo>53.360891, -6.251230</geo></location><placeName>Jones's Road</placeName></place>, laughing and jeering
+<lb n="20790"/>at him, while he, }omit{@ half blinded with tears, stumbled on,@ clench-
+<lb n="20791"/>ing his fists madly and sobbing.</p>
+<p> <lb n="20792"/> While he was still repeating the <seg xml:lang="la">Confiteor</seg> amid the indul-
+<lb n="20793"/>gent laughter of his hearers and while the scenes of that
+<lb n="20794"/>malignant episode were still passing sharply and swiftly before
+<lb n="20795"/>his mind he wondered why he bore no malice now to those
+<lb n="20796"/>who had tormented him. He had not forgotten a whit of their
+<lb n="20797"/>cowardice and cruelty but the memory of it called forth no
+<lb n="20798"/>anger from him. All the descriptions of fierce love and hatred
+<lb n="20799"/>which he had met in books had  seemed to him therefore unreal.
+<lb n="20800"/>Even that night as he stumbled homewards along <place><location><geo>53.360891, -6.251230</geo></location><placeName>Jones's Road</placeName></place>
+<lb n="20801"/>he had felt that some power was divesting him of that sudden-
+<lb n="20802"/>woven anger as easily as a fruit is divested of her@ soft ripe peel.</p>
+<p> <lb n="20803"/> He remained standing with his two companions at the end
+<lb n="20804"/>of the shed, listening idly to their talk or to the bursts of
+<lb n="20805"/>applause in the theatre. She was sitting there among the others,@
+<lb n="20806"/>perhaps waiting for him to appear. He tried to recall her ap-
+<lb n="20807"/>pearance but could not. He could remember only that she had
+<lb n="20808"/>worn a shawl about her head like a cowl and that her dark eyes
+<lb n="20809"/>had invited and unnerved him. He wondered had he been in her
+<lb n="20810"/>thoughts as she had been in his. Then in the dark and unseen
+<lb n="20811"/>by the other two he rested the tips of the fingers of one hand
+<lb n="20812"/>upon the palm of the other hand, scarcely touching it and yet
+<lb n="20813"/>pressing upon it lightly. But the pressure of her fingers had
+<lb n="20814"/>been lighter and steadier: and suddenly the memory of their
+<lb n="20815"/>touch traversed his brain and body like an invisible warm
+<lb n="20816"/>wave.</p>
+<p> <lb n="20817"/> A boy came towards them, running along under the shed.
+<lb n="20818"/>He was excited and breathless.
+<lb n="20819"/> <said who="a boy">--O, Dedalus, he cried, Doyle is in a great bake about you.
+<lb n="20820"/>You're to go in at once and get dressed for the play. Hurry up,
+<lb n="20821"/>you better. </said>
+<lb n="20822"/> <said who="Heron">--He's coming now, said Heron to the messenger with a
+<lb n="20823"/>haughty drawl, when he wants to. </said></p>
+<p> <lb n="20824"/> The boy turned to Heron and repeated:
+<lb n="20825"/> <said who="a boy">--But Doyle is in an awful bake. </said>
+<lb n="20826"/> <said who="Heron">--Will you tell Doyle with my best compliments that I damned
+<lb n="20827"/>his eyes? answered Heron. </said>
+<lb n="20828"/> <said who="Stephen Dedalus">--Well, I must go now, said Stephen@ who cared little for such
+<lb n="20829"/>points of honour. </said>
+<lb n="20830"/> <said who="Heron">--I wouldn't, said Heron, damn me if I would. That's no way
+<lb n="20831"/>to send for one of the senior boys. In a bake, indeed! I think it's
+<lb n="20832"/>quite enough that you're taking a part in his bally old play. </said></p>
+<p> <lb n="20833"/> This spirit of quarrelsome comradeship which he had ob-
+<lb n="20834"/>served lately in his rival had not seduced Stephen from his
+<lb n="20835"/>habits of quiet obedience. He mistrusted the turbulence and
+<lb n="20836"/>doubted the sincerity of such comradeship which seemed to
+<lb n="20837"/>him a sorry anticipation of manhood. The question of honour
+<lb n="20838"/>here raised was, like all such questions, trivial to him. While his
+<lb n="20839"/>mind had been pursuing its intangible phantoms and turning in
+<lb n="20840"/>irresolution from such pursuit he had heard about him the
+<lb n="20841"/>constant voices of his father and of his masters, urging him to
+<lb n="20842"/>be a gentleman above all things and urging him to be a good
+<lb n="20843"/>catholic above all things. These voices had now come to be
+<lb n="20844"/>hollowsounding in his ears. When the gymnasium had been
+<lb n="20845"/>opened he had heard another voice urging him to be strong and
+<lb n="20846"/>manly and healthy and when the movement towards national
+<lb n="20847"/>revival had begun to be felt in the college yet another voice had
+<lb n="20848"/>bidden him  be true to his country and help to raise up her
+<lb n="20849"/>fallen language and tradition. In the profane world, as he
+<lb n="20850"/>foresaw, a worldly voice would bid him raise up his father's
+<lb n="20851"/>fallen state by his labours and, meanwhile, the voice of his
+<lb n="20852"/>schoolcomrades@ urged him to be a decent fellow, to shield
+<lb n="20853"/>others from blame or to beg them off and to do his best to get
+<lb n="20854"/>free days for the school. And it was the din of all these hollow-
+<lb n="20855"/>sounding voices that made him halt irresolutely in the pursuit
+<lb n="20856"/>of phantoms. He gave them ear only for a time but he was
+<lb n="20857"/>happy only when he was far from them, beyond their call,
+<lb n="20858"/>alone or in the company of phantasmal comrades.</p>
+<p> <lb n="20859"/> In the vestry a plump freshfaced jesuit and an elderly man, in
+<lb n="20860"/>shabby blue clothes, were dabbling in a case of paints and
+<lb n="20861"/>chalks. The boys who had been painted walked about or stood
+<lb n="20862"/>still awkwardly, touching their faces in a gingerly fashion with
+<lb n="20863"/>their furtive fingertips. In the middle of the vestry a young
+<lb n="20864"/>jesuit, who was then on a visit to the college, stood rocking
+<lb n="20865"/>himself rhythmically from the tips of his toes to his heels and
+<lb n="20866"/>back again, his hands thrust well forward into his sidepockets.
+<lb n="20867"/>His small head set off with glossy red curls and his newly
+<lb n="20868"/>shaven face agreed well with the spotless decency of his soutane
+<lb n="20869"/>and with his spotless shoes.</p>
+<p> <lb n="20870"/> As he watched this swaying form and tried to read for him-
+<lb n="20871"/>self the legend of the priest's mocking smile there came into
+<lb n="20872"/>Stephen's memory a saying which he had heard from his father
+<lb n="20873"/>before he had been sent to <place><location><geo>53.310770, -6.684719</geo></location><placeName>Clongowes</placeName></place>, that you could always
+<lb n="20874"/>tell a jesuit by the style of his clothes. At the same moment he
+<lb n="20875"/>thought he saw a likeness between his father's mind and that of
+<lb n="20876"/>this smiling welldressed priest: and he was aware of some des-
+<lb n="20877"/>ecration of the priest's office or of the vestry itself, whose si-
+<lb n="20878"/>lence was now routed by loud talk and joking and its air
+<lb n="20879"/>pungent with the smells of the gasjets and the grease.</p>
+<p> <lb n="20880"/> While his forehead was being wrinkled and his jaws painted
+<lb n="20881"/>black and blue by the elderly man he listened distractedly to the
+<lb n="20882"/>voice of the plump young jesuit which bade him speak up and
+<lb n="20883"/>make his points clearly. He could hear the band playing <emph>The
+<lb n="20884"/>Lily of Killarney</emph> and knew that in a few moments the curtain
+<lb n="20885"/>would go up. He felt no stage fright but the thought of the part
+<lb n="20886"/>he had to play humiliated him. A remembrance  of some of his
+<lb n="20887"/>lines made a sudden flush rise to his painted cheeks. He saw her
+<lb n="20888"/>serious alluring eyes watching him from among the audience
+<lb n="20889"/>and their image at once swept away his scruples, leaving his
+<lb n="20890"/>will compact. Another nature seemed to have been lent him:
+<lb n="20891"/>the infection of the excitement and youth about him entered
+<lb n="20892"/>into and transformed his moody mistrustfulness. For one rare
+<lb n="20893"/>moment he seemed to be clothed in the real apparel of boy-
+<lb n="20894"/>hood: and, as he stood in the wings among the other players, he
+<lb n="20895"/>shared the common mirth amid which the drop scene was
+<lb n="20896"/>hauled upwards by two ablebodied priests with violent jerks
+<lb n="20897"/>and all awry.</p>
+<p> <lb n="20898"/> A few moments after he found himself on the stage amid the
+<lb n="20899"/>garish gas and the dim scenery, acting before the innumerable
+<lb n="20900"/>faces of the void. It surprised him to see that the play which he
+<lb n="20901"/>had known at rehearsals for a disjointed lifeless thing had
+<lb n="20902"/>suddenly assumed a life of its own. It seemed now to play itself,
+<lb n="20903"/>he and his fellow actors aiding it with their parts. When the
+<lb n="20904"/>curtain fell on the last scene he heard the void filled with
+<lb n="20905"/>applause and, through a rift in the side scene, saw the simple
+<lb n="20906"/>body before which he had acted magically deformed, the void
+<lb n="20907"/>of faces breaking at all points and falling asunder into busy
+<lb n="20908"/>groups.</p>
+<p> <lb n="20909"/> He left the stage quickly and rid himself of his mummery
+<lb n="20910"/>and passed out through the chapel into the college garden.
+<lb n="20911"/>Now that the play was over his nerves cried for some further
+<lb n="20912"/>adventure. He hurried onwards as if to overtake it. The doors
+<lb n="20913"/>of the theatre were all open and the audience had emptied out.
+<lb n="20914"/>On the lines which he had fancied the moorings of an ark a few
+<lb n="20915"/>lanterns swung in the night breeze, flickering cheerlessly. He
+<lb n="20916"/>mounted the steps from the garden in haste, eager that some
+<lb n="20917"/>prey should not elude him, and forced his way through the
+<lb n="20918"/>crowd in the hall and past the two jesuits who stood watching
+<lb n="20919"/>the exodus and bowing and shaking hands with the visitors. He
+<lb n="20920"/>pushed onward nervously, feigning a still greater haste and
+<lb n="20921"/>faintly conscious of the smiles and stares and nudges which his
+<lb n="20922"/>powdered head left in its wake.</p>
+<p> <lb n="20923"/> When he came out on the steps he saw his family waiting for
+<lb n="20924"/>him at the first lamp. In a glance he noted that every figure of
+<lb n="20925"/>the group was familiar and ran down the steps angrily.
+<lb n="20926"/> <said who="Stephen Dedalus">--I have to leave a message down in George's Street, he said to
+<lb n="20927"/>his father quickly. I'll be home after you. </said></p>
+<p> <lb n="20928"/> Without waiting for his father's questions  he ran across the
+<lb n="20929"/>road and began to walk at breakneck speed down the hill. He
+<lb n="20930"/>hardly knew where he was walking. Pride and hope and desire
+<lb n="20931"/>like crushed herbs in his heart sent up vapours of maddening
+<lb n="20932"/>incense before the eyes of his mind. He strode down the hill
+<lb n="20933"/>amid the tumult of suddenrisen vapours of wounded pride and
+<lb n="20934"/>fallen hope and baffled desire. They streamed upwards before
+<lb n="20935"/>his anguished eyes in dense and maddening fumes and passed
+<lb n="20936"/>away above him till at last the air was clear and cold again.</p>
+<p> <lb n="20937"/> A film still veiled his eyes but they burned no longer. A
+<lb n="20938"/>power, akin to that which had often made anger or resentment
+<lb n="20939"/>fall from him, brought his steps to rest. He stood still and
+<lb n="20940"/>gazed up at the sombre porch of the morgue and from that to
+<lb n="20941"/>the dark cobbled laneway at its side. He saw the word <emph>Lotts</emph> on
+<lb n="20942"/>the wall of the lane and breathed slowly the rank heavy air.</p>
+<p> <lb n="20943"/> --That is horse piss and rotted straw, he thought. It is a good
+<lb n="20944"/>odour to breathe. It will calm my heart. My heart is quite calm
+<lb n="20945"/>now. I will go back.</p>
+<milestone unit="section" rend="asterixes"/> </div> <!-- 2.3 --> <div n="2.4" type="section">
+<p> <lb n="20946"/> Stephen was once again seated beside his father in the corner
+<lb n="20947"/>of a railway carriage at Kingsbridge. He was travelling with his
+<lb n="20948"/>father by the night mail to Cork. As the train steamed out of
+<lb n="20949"/>the station he recalled his childish wonder of years before and
+<lb n="20950"/>every event of his first day at <place><location><geo>53.310770, -6.684719</geo></location><placeName>Clongowes</placeName></place>. But he felt no wonder
+<lb n="20951"/>now. He saw the darkening lands slipping past him, the silent
+<lb n="20952"/>telegraphpoles passing his window swiftly every four seconds,
+<lb n="20953"/>the little glimmering stations, manned by a few silent sentries,
+<lb n="20954"/>flung by the mail behind her and twinkling for a moment in the
+<lb n="20955"/>darkness like fiery grains flung backwards by a runner.</p>
+<p> <lb n="20956"/> He listened without sympathy to his father's evocation of
+<lb n="20957"/>Cork and of scenes of his youth, a tale broken by sighs or
+<lb n="20958"/>draughts from his pocket flask@ whenever the image of some
+<lb n="20959"/>dead friend appeared in it or whenever the evoker remembered
+<lb n="20960"/>suddenly the purpose of his actual visit. Stephen heard but
+<lb n="20961"/>could feel no pity. The images of the dead were all strange to
+<lb n="20962"/>him save that of uncle Charles, an image which had lately been
+<lb n="20963"/>fading out of memory. He knew, however, that his father's
+<lb n="20964"/>property was going to be sold by auction and in the manner of
+<lb n="20965"/>his own dispossession he felt the world give the lie rudely to his
+<lb n="20966"/>phantasy.</p>
+<p> <lb n="20967"/> At Maryborough he fell asleep. When he awoke the train
+<lb n="20968"/>had passed out of Mallow and his father was stretched asleep
+<lb n="20969"/>on the other seat. The cold light of the dawn lay over the
+<lb n="20970"/>country, over the unpeopled fields and the closed cottages. The
+<lb n="20971"/>terror of sleep fascinated his mind as he watched the silent
+<lb n="20972"/>country or heard from time to time his father's deep breath or
+<lb n="20973"/>sudden sleepy movement. The neighbourhood of unseen
+<lb n="20974"/>sleepers filled him with strange dread as though they could
+<lb n="20975"/>harm him; and he prayed that the day might come quickly. His
+<lb n="20976"/>prayer, addressed neither to God nor saint, began with a shiver,
+<lb n="20977"/>as the chilly morning breeze crept through the chink of the
+<lb n="20978"/>carriage door to his feet, and ended in a trail of foolish words
+<lb n="20979"/>which he made to fit the insistent rhythm of the train:@ and
+<lb n="20980"/>silently, at intervals of four seconds, the telegraphpoles held the
+<lb n="20981"/>galloping notes of the music between punctual bars. This furi-
+<lb n="20982"/>ous music allayed his dread and, leaning against the window-
+<lb n="20983"/>ledge, he let his eyelids close again.</p>
+<p> <lb n="20984"/> They drove in a jingle across Cork while it was still early
+<lb n="20985"/>morning and Stephen finished his sleep in a bedroom of the
+<lb n="20986"/>Victoria Hotel. The bright warm sunlight was streaming
+<lb n="20987"/>through the window and he could hear the din of traffic. His
+<lb n="20988"/>father was standing before the dressingtable, examining his
+<lb n="20989"/>hair and face and moustache with great care, craning his neck
+<lb n="20990"/>across the waterjug and drawing it back sideways to see the
+<lb n="20991"/>better. While he did so he sang softly to himself with quaint
+<lb n="20992"/>accent and phrasing:
+<said who="Simon Dedalus">
+<lg>
+<lb n="20993"/> <l>'Tis youth and folly </l>
+<lb n="20994"/><l>Makes young men marry, </l>
+<lb n="20995"/><l>So here, my love, I'll </l>
+<lb n="20996"/><l>No longer stay.</l> </l>
+<lb n="20997"/><l>What can't be cured, sure, </l>
+<lb n="20998"/><l>Must be injured, sure, </l>
+<lb n="20999"/><l>So I'll go to </l>
+<lb n="21000"/><l>Amerikay.</emph></l>
+<lb n="21001"/><l><emph>My love she's handsome, </l>
+<lb n="21002"/><l>My love she's boney:@ </l>
+<lb n="21003"/><l>She's like good whisky </l>
+<lb n="21004"/><l>When it is new;</l>
+<lb n="21005"/><l>But when 'tis old </l>
+<lb n="21006"/><l>And growing cold </l>
+<lb n="21007"/><l>It fades and dies like </l>
+<lb n="21008"/><l>The mountain dew.</l> </said>
+</lg></p>
+<p> <lb n="21009"/> The consciousness of the warm sunny city outside his win-
+<lb n="21010"/>dow and the tender tremors with which his father's voice
+<lb n="21011"/>festooned the strange sad happy air@ drove off all the mists of
+<lb n="21012"/>the night's ill humour from Stephen's brain. He got up quickly
+<lb n="21013"/>to dress and, when the song had ended, said:
+<lb n="21014"/> <said who="Stephen Dedalus">--That's much prettier than any of your other <emph>come-all-yous</emph>. </said>
+<lb n="21015"/> <said who="Simon Dedalus">--Do you think so? asked Mr Dedalus. </said>
+<lb n="21016"/> <said who="Stephen Dedalus">--I like it, said Stephen. </said>
+<lb n="21017"/> <said who="Simon Dedalus">--It's a pretty old air, said Mr Dedalus, twirling the points of
+<lb n="21018"/>his moustache. Ah, but you should have heard Mick Lacy sing
+<lb n="21019"/>it! Poor Mick Lacy! He had little turns for it, grace notes he
+<lb n="21020"/>used to put in that I haven't got. That was the boy }omit{@ could sing a
+<lb n="21021"/><emph>come-all-you</emph>, if you like. </said></p>
+<p> <lb n="21022"/> Mr Dedalus had ordered drisheens for breakfast and during
+<lb n="21023"/>the meal he crossexamined the waiter for local news. For the
+<lb n="21024"/>most part they spoke at cross purposes@ when a name was
+<lb n="21025"/>mentioned, the waiter having in mind its@ present holder and Mr
+<lb n="21026"/>Dedalus his father or perhaps his grandfather.
+<lb n="21027"/> <said who="Simon Dedalus">--Well, I hope they haven't moved the Queen's College any-
+<lb n="21028"/>how, said Mr Dedalus, for I want to show it to this youngster
+<lb n="21029"/>of mine. </said></p>
+<p> <lb n="21030"/> Along the Mardyke the trees were in bloom. They entered
+<lb n="21031"/>the grounds of the college and were led by the garrulous porter
+<lb n="21032"/>across the quadrangle. But their progress across the gravel was
+<lb n="21033"/>brought to a halt after  every dozen or so paces by some reply of
+<lb n="21034"/>the porter's.
+<lb n="21035"/> <said who="Simon Dedalus">--Ah, do you tell me so? And is poor Pottlebelly dead? </said>
+<lb n="21036"/> <said who="porter">--Yes, sir. Dead, sir. </said></p>
+<p> <lb n="21037"/> During these halts Stephen stood awkwardly behind the two
+<lb n="21038"/>men, weary of the subject and waiting restlessly for the slow
+<lb n="21039"/>march to begin again. By the time they had crossed the quad-
+<lb n="21040"/>rangle his restlessness had risen to fever. He wondered how his
+<lb n="21041"/>father, whom he knew for a shrewd suspicious man, could be
+<lb n="21042"/>duped by the servile manners of the porter:@ and the lively
+<lb n="21043"/>southern speech which had entertained him all the morning
+<lb n="21044"/>now irritated his ears.</p>
+<p> <lb n="21045"/> They passed into the anatomy theatre where Mr Dedalus,
+<lb n="21046"/>the porter aiding him, searched the desks for his initials. Ste-
+<lb n="21047"/>phen remained in the background, depressed more than ever by
+<lb n="21048"/>the darkness and silence of the theatre and by the air it wore of
+<lb n="21049"/>jaded and formal study. On the desk before him he read the
+<lb n="21050"/>word <emph>Foetus</emph>  cut several times in the dark stained wood. The
+<lb n="21051"/>sudden legend startled his blood: he seemed to feel the absent
+<lb n="21052"/>students of the college about him and to shrink from their
+<lb n="21053"/>company. A vision of their life, which his father's words had
+<lb n="21054"/>been powerless to evoke, sprang up before him out of the word
+<lb n="21055"/>cut in the desk. A broadshouldered student with a moustache
+<lb n="21056"/>was cutting in the letters with a jackknife, seriously. Other
+<lb n="21057"/>students stood or sat near him laughing at his handiwork. One
+<lb n="21058"/>jogged his elbow. The big student turned on him, frowning. He
+<lb n="21059"/>was dressed in loose grey clothes and had tan boots.</p>
+<p> <lb n="21060"/> Stephen's name was called. He hurried down the steps of the
+<lb n="21061"/>theatre so as to be as far away from the vision as he could be
+<lb n="21062"/>and, peering closely at his father's initials, hid his flushed face.</p>
+<p> <lb n="21063"/> But the word and the vision capered before his eyes as he
+<lb n="21064"/>walked back across the quadrangle and towards the college
+<lb n="21065"/>gate. It shocked him to find in the outer world a trace of what
+<lb n="21066"/>he had deemed till then a brutish and individual malady of his
+<lb n="21067"/>own mind. His recent monstrous reveries came thronging into
+<lb n="21068"/>his memory. They too had sprung up before him, suddenly and
+<lb n="21069"/>furiously, out of mere words. He had soon given in to them and
+<lb n="21070"/>allowed them to sweep across and abase his intellect, wonder-
+<lb n="21071"/>ing always where they came from, from what den of monstrous
+<lb n="21072"/>images, and always weak and humble towards others, restless
+<lb n="21073"/>and sickened of himself when they had swept over him.
+<lb n="21074"/> <said who="Simon Dedalus">--Ay, bedad! And there's the Groceries sure enough! cried Mr
+<lb n="21075"/>Dedalus. You often heard me speak of the Groceries, didn't
+<lb n="21076"/>you, Stephen. Many's the time we went down there when our
+<lb n="21077"/>names had been marked, a crowd of us, Harry Peard and little
+<lb n="21078"/>Jack Mountain and Bob Dyas and Maurice Moriarty, the
+<lb n="21079"/>Frenchman, and Tom O'Grady and Mick Lacy that I told you
+<lb n="21080"/>of this morning and Joey Corbet and poor little goodhearted@
+<lb n="21081"/>Johnny Keevers of the Tantiles. </said></p>
+<p> <lb n="21082"/> The leaves of the trees along the Mardyke were astir and
+<lb n="21083"/>whispering in the sunlight. A team of cricketers passed, agile
+<lb n="21084"/>young men in flannels and blazers, one of them carrying the
+<lb n="21085"/>long green wicketbag. In a quiet bystreet a German band of five
+<lb n="21086"/>players in faded uniforms and with battered brass instruments
+<lb n="21087"/>was playing to an audience of street arabs and leisurely mess-
+<lb n="21088"/>enger boys. A maid in a white cap and apron was watering a
+<lb n="21089"/>box of plants on a sill which shone like a slab of limestone in
+<lb n="21090"/>the warm glare. From another window open to the air came the
+<lb n="21091"/>sound of a piano, scale after scale rising into the treble.</p>
+<p> <lb n="21092"/> Stephen walked on at his father's side, listening to stories he
+<lb n="21093"/>had heard before, hearing again the names of the scattered and
+<lb n="21094"/>dead revellers who had been the companions of his father's
+<lb n="21095"/>youth. And a faint sickness sighed in his heart. He recalled his
+<lb n="21096"/>own equivocal position in Belvedere, a free boy, a leader afraid
+<lb n="21097"/>of his own authority, proud and sensitive and suspicious, bat-
+<lb n="21098"/>tling against the squalor of his life and against the riot of his
+<lb n="21099"/>mind. The letters cut in the stained wood of the desk stared
+<lb n="21100"/>upon him, mocking his bodily weakness and futile enthusiasms
+<lb n="21101"/>and making him loathe himself for his own mad and filthy
+<lb n="21102"/>orgies. The spittle in his throat grew bitter and foul to swallow
+<lb n="21103"/>and the faint sickness climbed to his brain so that for a moment
+<lb n="21104"/>he closed his eyes and walked on in darkness.</p>
+<p> <lb n="21105"/> He could still hear his father's voice.@
+<lb n="21106"/> <said who="Simon Dedalus">--When you kick out for yourself, Stephen,@ }omit{@ (as@ I daresay you
+<lb n="21107"/>will one of those days)@ }omit{@ remember, whatever you do, to mix
+<lb n="21108"/>with gentlemen. When I was a young fellow I tell you I enjoyed
+<lb n="21109"/>myself. I mixed with fine decent fellows. Everyone of us could
+<lb n="21110"/>do something. One fellow had a good voice, another fellow
+<lb n="21111"/>was a good actor, another could sing a good comic song, an-
+<lb n="21112"/>other was a good oarsman or a good racketplayer, another
+<lb n="21113"/>could tell a good story and so on. We kept the ball rolling
+<lb n="21114"/>anyhow and enjoyed ourselves and saw a bit of life and we
+<lb n="21115"/>were none the worse of it either. But we were all gentlemen,
+<lb n="21116"/>Stephen, (at@ least I hope we were)@ }omit{@ and bloody good honest
+<lb n="21117"/>Irishmen too. That's the kind of fellows I want you to associate
+<lb n="21118"/>with, fellows of the right kidney. I'm talking to you as a friend,
+<lb n="21119"/>Stephen. I don't believe in playing the stern father. I don't
+<lb n="21120"/>believe a son should be afraid of his father. No, I treat you as
+<lb n="21121"/>your grandfather treated me when I was a young chap. We
+<lb n="21122"/>were more like brothers than father and son. I'll never forget
+<lb n="21123"/>the first day he caught me smoking. I was standing at the end
+<lb n="21124"/>of the South Terrace one day with some maneens like myself
+<lb n="21125"/>and sure we thought we were grand fellows because we had
+<lb n="21126"/>pipes stuck in the corners of our mouths. Suddenly the gov-
+<lb n="21127"/>ernor passed. He didn't say a word@ or stop even. But the next
+<lb n="21128"/>day, Sunday, we were out for a walk together and when we
+<lb n="21129"/>were coming home he took out his cigar case and said: <emph>By the
+<lb n="21130"/>bye, Simon, I didn't know you smoked:</emph> or something like that.
+<lb n="21131"/>&ndash; Of course I tried to carry it off as best I could. <emph>If you want a
+<lb n="21132"/>good smoke</emph>, he said, <emph>try one of these cigars. An American
+<lb n="21133"/>captain made me a present of them last night in Queenstown</emph>. </said></p>
+<p> <lb n="21134"/> Stephen heard his father's voice break into a laugh which
+<lb n="21135"/>was almost a sob.
+<lb n="21136"/> <said who="Simon Dedalus">--He was the handsomest man in Cork at that time, by God he
+<lb n="21137"/>was! The women used to stand to look after him in the street. </said></p>
+<p> <lb n="21138"/> He heard the sob passing loudly down his father's throat
+<lb n="21139"/>and opened his eyes with a nervous impulse. The sunlight
+<lb n="21140"/>breaking suddenly on his sight turned the sky and clouds into a
+<lb n="21141"/>fantastic world of sombre masses with lakelike spaces of dark
+<lb n="21142"/>rosy light. His very brain was sick and powerless. He could
+<lb n="21143"/>scarcely interpret the letters of the signboards of the shops. By
+<lb n="21144"/>his monstrous way of life he seemed to have put himself be-
+<lb n="21145"/>yond the limits of reality. Nothing moved him or spoke to him
+<lb n="21146"/>from the real world unless he heard in it an echo of the
+<lb n="21147"/>infuriated cries within him. He could respond to no earthly or
+<lb n="21148"/>human appeal, dumb and insensible to the call of summer and
+<lb n="21149"/>gladness and companionship, wearied and dejected by his fa-
+<lb n="21150"/>ther's voice. He could scarcely recognise as his his own
+<lb n="21151"/>thoughts, and repeated slowly to himself:</p>
+<p> <lb n="21152"/> --I am Stephen Dedalus. I am walking beside my father whose
+<lb n="21153"/>name is Simon Dedalus. We are in Cork, in Ireland. Cork is a
+<lb n="21154"/>city. Our room is in the Victoria Hotel. Victoria and Stephen
+<lb n="21155"/>and Simon. Simon and Stephen and Victoria. Names.</p>
+<p> <lb n="21156"/> The memory of his childhood suddenly grew dim. He tried
+<lb n="21157"/>to call forth some of its vivid moments but could not. He
+<lb n="21158"/>recalled only names: Dante, Parnell, Clane, <place><location><geo>53.310770, -6.684719</geo></location><placeName>Clongowes</placeName></place>. A little
+<lb n="21159"/>boy had been taught geography by an old woman who kept
+<lb n="21160"/>two brushes in her wardrobe. Then he had been sent away
+<lb n="21161"/>from home to a college. In the college he had made his first
+<lb n="21162"/>communion and eaten slim jim out of his cricket cap@ and
+<lb n="21163"/>watched the firelight leaping and dancing on the wall of a little
+<lb n="21164"/>bedroom in the infirmary and dreamed of being dead, of mass
+<lb n="21165"/>being said for him by the rector in a black and gold cope, of
+<lb n="21166"/>being buried then in the little graveyard of the community off
+<lb n="21167"/>the main avenue of limes. But he had not died then. Parnell had
+<lb n="21168"/>died. There had been no mass for the dead in the chapel and no
+<lb n="21169"/>procession. He had not died but he had faded out like a film in
+<lb n="21170"/>the sun. He had been lost or had wandered out of existence for
+<lb n="21171"/>he no longer existed. How strange to think of him passing out
+<lb n="21172"/>of existence in such a way, not by death but by fading out in
+<lb n="21173"/>the sun or by being lost and forgotten somewhere in the uni-
+<lb n="21174"/>verse! It was strange to see his small body appear again for a
+<lb n="21175"/>moment: a little boy in a grey belted suit. His hands were in his
+<lb n="21176"/>sidepockets and his trousers were tucked in at the  knees by
+<lb n="21177"/>elastic bands.</p>
+<p> <lb n="21178"/> On the evening of the day on which the property was sold
+<lb n="21179"/>Stephen followed his father meekly about the city from bar to
+<lb n="21180"/>bar. To the sellers in the market, to the barmen and barmaids,
+<lb n="21181"/>to the beggars who importuned him for a lob Mr Dedalus told
+<lb n="21182"/>the same tale, that he was an old Corkonian, that he had been
+<lb n="21183"/>trying for thirty years to get rid of his Cork accent up in Dublin
+<lb n="21184"/>and that Peter Pickackafox@ beside him was his eldest son but
+<lb n="21185"/>that he was only a Dublin jackeen.</p>
+<p> <lb n="21186"/> They had set out early in the morning from Newcombe's
+<lb n="21187"/>coffeehouse where Mr Dedalus' cup had rattled noisily against
+<lb n="21188"/>its saucer@ and Stephen had tried to cover that shameful sign of
+<lb n="21189"/>his father's drinkingbout of the night before by moving his
+<lb n="21190"/>chair and coughing. One humiliation had succeeded another:
+<lb n="21191"/>the false smiles of the market sellers, the curvettings and
+<lb n="21192"/>oglings of the barmaids with whom his father flirted, the com-
+<lb n="21193"/>pliments and encouraging words of his father's friends. They
+<lb n="21194"/>had told him that he had a great look of his grandfather and
+<lb n="21195"/>Mr Dedalus had agreed that he was an ugly likeness. They had
+<lb n="21196"/>unearthed traces of a Cork accent in his speech and made him
+<lb n="21197"/>admit that the Lee was a much finer river than the Liffey. One
+<lb n="21198"/>of them in order to put his Latin to the proof had made him
+<lb n="21199"/>translate short passages from Dilectus and asked him whether
+<lb n="21200"/>it was correct to say: <seg xml:lang="la">Tempora mutantur nos et mutamur in illis</seg>
+<lb n="21201"/>or <seg xml:lang="la">Tempora mutantur et nos mutamur in illis</seg>. Another, a brisk
+<lb n="21202"/>old man, whom Mr Dedalus called Johnny Cashman, had
+<lb n="21203"/>covered him with confusion by asking him to say which were
+<lb n="21204"/>prettier, the Dublin girls or the Cork girls.
+<lb n="21205"/> <said who="Simon Dedalus">--He's not that way built, said Mr Dedalus. Leave him alone.
+<lb n="21206"/>He's a levelheaded thinking boy who doesn't bother his head
+<lb n="21207"/>about that kind of nonsense. </said>
+<lb n="21208"/> <said who="little old man">--Then he's not his father's son, said the little old man. </said>
+<lb n="21209"/> <said who="Simon Dedalus">--I don't know, I'm sure, said Mr Dedalus, smiling com-
+<lb n="21210"/>placently.</said>
+<lb n="21211"/> <said who="little old man">--Your father, said the little old man to Stephen, was the
+<lb n="21212"/>boldest flirt in the city of Cork in his day. Do you know that? </said></p>
+<p> <lb n="21213"/> Stephen looked down and studied the tiled floor of the bar
+<lb n="21214"/>into which they had drifted.
+<lb n="21215"/> <said who="Simon Dedalus">--Now don't be putting ideas into his head, said Mr Dedalus.
+<lb n="21216"/>Leave him to his Maker. </said>
+<lb n="21217"/> <said who="little old man">--Yerra, sure I wouldn't put any ideas into his head. I'm old
+<lb n="21218"/>enough to be his grandfather. And I am a grandfather, said the
+<lb n="21219"/>little old man to Stephen. Do you know that? </said>
+<lb n="21220"/> <said who="Stephen Dedalus">--Are you? asked Stephen. </said>
+<lb n="21221"/> <said who="little old man">--Bedad I am, said the little old man. I have two bouncing
+<lb n="21222"/>grandchildren out at Sunday's Well. Now then! What age do
+<lb n="21223"/>you think I am? And I remember seeing your grandfather in his
+<lb n="21224"/>red coat riding out to hounds. That was before you were born. </said>
+<lb n="21225"/> <said who="Simon Dedalus">--Ay, or thought of, said Mr Dedalus. </said>
+<lb n="21226"/> <said who="little old man">--Bedad I did!@ repeated the little old man. And, more than
+<lb n="21227"/>that, I can remember even your greatgrandfather, old John Ste-
+<lb n="21228"/>phen Dedalus, and a fierce old fireeater he was. Now then!
+<lb n="21229"/>There's a memory for you! </said>
+<lb n="21230"/> <said who="another of the company">--That's three generations - four generations, said another of
+<lb n="21231"/>the company. Why, Johnny Cashman, you must be nearing the
+<lb n="21232"/>century.</said>
+<lb n="21233"/> <said who="little old man">--Well, I'll tell you the truth, said the little old man. I'm just
+<lb n="21234"/>twentyseven years of age. </said>
+<lb n="21235"/> <said who="Simon Dedalus">--We're as old as we feel, Johnny, said Mr Dedalus. And just
+<lb n="21236"/>finish what you have there@ and we'll have another. Here, Tim
+<lb n="21237"/>or Tom or whatever your name is, give us the same again here.
+<lb n="21238"/>By God, I don't feel more than eighteen myself. There's that
+<lb n="21239"/>son of mine there not half my age and I'm a better man than he
+<lb n="21240"/>is any day of the week. </said>
+<lb n="21241"/> <said who="another of the company">--Draw it mild now, Dedalus. I think it's about@ time for you to
+<lb n="21242"/>take a back seat, said the gentleman who had spoken before. </said>
+<lb n="21243"/> <said who="Simon Dedalus">--No, by God! asserted Mr Dedalus. I'll sing a tenor song
+<lb n="21244"/>against him or I'll vault a fivebarred gate against him or I'll run
+<lb n="21245"/>with him after the hounds across the country as I did thirty
+<lb n="21246"/>years ago along with the Kerry Boy and the best man for it. </said>
+<lb n="21247"/> <said who="little old man">--But he'll beat you here, said the little old man, tapping his
+<lb n="21248"/>forehead and raising his glass to drain it. </said>
+<lb n="21249"/> <said who="Simon Dedalus">--Well, I hope he'll be as good a man as his father. That's all I
+<lb n="21250"/>can say, said Mr Dedalus. </said>
+<lb n="21251"/> <said who="little old man">--If he is, he'll do, said the little old man. </said>
+<lb n="21252"/> <said who="Simon Dedalus">--And thanks be to God, Johnny, said Mr Dedalus, that we
+<lb n="21253"/>lived so long and did so little harm. </said>
+<lb n="21254"/> <said who="little old man">--But did so much good, Simon, said the little old man
+<lb n="21255"/>gravely. Thanks be to God we lived so long and did so much
+<lb n="21256"/>good.</said></p>
+<p> <lb n="21257"/> Stephen watched the three glasses being raised from the
+<lb n="21258"/>counter as his father and his two cronies drank to the memory
+<lb n="21259"/>of their past. An abyss of fortune or of temperament sundered
+<lb n="21260"/>him from them. His mind seemed older than theirs: it shone
+<lb n="21261"/>coldly on their strifes and happiness and regrets like a moon
+<lb n="21262"/>upon a younger earth. No life or youth stirred in him as it had
+<lb n="21263"/>stirred in them. He had known neither the pleasure of compan-
+<lb n="21264"/>ionship with others nor the vigour of rude male health nor filial
+<lb n="21265"/>piety. Nothing stirred within his soul but a cold and cruel and
+<lb n="21266"/>loveless lust. His childhood was dead or lost and with it his
+<lb n="21267"/>soul capable of simple joys:@ and he was drifting amid life like
+<lb n="21268"/>the barren shell of the moon.</p>
+<lg>
+<lb n="21269"/> <l><emph>Art thou pale for weariness </l>
+<lb n="21270"/> <l>{Of climbing heaven and gazing on the earth@ </l>
+<lb n="21271"/> <l>{Wandering companionless ....?</emph></l></p>
+</lg>
+<p> <lb n="21272"/> He repeated to himself the lines of Shelley's fragment. Its
+<lb n="21273"/>alternation of sad human ineffectiveness@ with vast inhuman
+<lb n="21274"/>cycles of activity chilled him:@ and he forgot his own human and
+<lb n="21275"/>ineffectual grieving.</p>
+<milestone unit="section" rend="asterixes"/> </div> <!-- 2.4 --> <div n="2.5" type="section">
+<p> <lb n="21276"/> Stephen's mother and his brother and one of his cousins
+<lb n="21277"/>waited at the corner of quiet Foster Place while he and his
+<lb n="21278"/>father went up the steps and along the colonnade where the
+<lb n="21279"/>highland sentry was parading. When they had passed into the
+<lb n="21280"/>great hall and stood at the counter Stephen drew forth his
+<lb n="21281"/>orders on the governor of the bank of Ireland for thirty and
+<lb n="21282"/>three pounds; and these sums, the moneys of his exhibition and
+<lb n="21283"/>essay prize, were paid over to him rapidly by the teller in notes
+<lb n="21284"/>and in coin respectively. He bestowed them in his pockets with
+<lb n="21285"/>feigned composure and suffered the friendly teller, to whom his
+<lb n="21286"/>father chatted, to take his hand across the broad counter and
+<lb n="21287"/>wish him a brilliant career in after life. He was impatient of
+<lb n="21288"/>their voices and could not keep his feet at rest. But the teller
+<lb n="21289"/>still deferred the serving of others to say that@ he was living in
+<lb n="21290"/>changed times and that there was nothing like giving a boy the
+<lb n="21291"/>best education that money could buy. Mr Dedalus lingered in
+<lb n="21292"/>the hall gazing about him and up at the roof and telling Ste-
+<lb n="21293"/>phen, who urged him to come out, that they were standing in
+<lb n="21294"/>the house of commons of the old Irish parliament.
+<lb n="21295"/> <said who="Simon Dedalus">--God help us! he said piously.@ To@ think of the men of those
+<lb n="21296"/>times, Stephen, Hely Hutchinson and Flood and Henry Grattan
+<lb n="21297"/>and Charles Kendal Bushe, and the noblemen we have now,
+<lb n="21298"/>leaders of the Irish people at home and abroad. Why, by God,
+<lb n="21299"/>they wouldn't be seen dead in a ten acre@ field with them. No,
+<lb n="21300"/>Stephen, old chap, I'm sorry to say that they are only as I roved
+<lb n="21301"/>out one fine May morning in the merry month of sweet July. </said></p>
+<p> <lb n="21302"/> A keen October wind was blowing round the bank. The
+<lb n="21303"/>three figures standing at the edge of the muddy path had
+<lb n="21304"/>pinched cheeks and watery eyes. Stephen looked at his thinly
+<lb n="21305"/>clad mother and remembered that a few days before he had
+<lb n="21306"/>seen a mantle priced at twenty guineas in the window@ of Bar-
+<lb n="21307"/>nardo's.
+<lb n="21398"/> <said who="Simon Dedalus">--Well that's done, said Mr Dedalus. </said>
+<lb n="21309"/> <said who="Stephen Dedalus">--We had better go to dinner, said Stephen. Where? </said>
+<lb n="21310"/> <said who="Simon Dedalus">--Dinner? said Mr Dedalus. Well, I suppose we had better,
+<lb n="21311"/>what?</said>
+<lb n="21312"/> <said who="Mary Dedalus">--Some place that's not too dear, said Mrs Dedalus. </said>
+<lb n="21313"/> <said who="Simon Dedalus">--Underdone's?</said>
+<lb n="21314"/> <said who="Mary Dedalus">--Yes. Some quiet place. </said>
+<lb n="21315"/> <said who="Stephen Dedalus">--Come along, said Stephen quickly. It doesn't matter about
+<lb n="21316"/>the dearness. </said></p>
+<p> <lb n="21317"/> He walked on before them with short nervous steps, smiling.
+<lb n="21318"/>They tried to keep up with him, smiling also at his eagerness.
+<lb n="21319"/> <said who="Simon Dedalus">--Take it easy like a good young fellow, said his father. We're
+<lb n="21320"/>not out for the half mile, are we? </said></p>
+<p> <lb n="21321"/> For a swift season of merrymaking the money of his prizes
+<lb n="21322"/>ran through Stephen's  fingers. Great parcels of groceries and
+<lb n="21323"/>delicacies and dried fruits arrived from the city. Every day he
+<lb n="21324"/>drew up a bill of fare for the family and every night led a party
+<lb n="21325"/>of three or four to the theatre to see <emph>Ingomar</emph> or <emph>The Lady of
+<lb n="21326"/>Lyons</emph>. In his coat pockets he carried squares of Vienna choc-
+<lb n="21327"/>olate for his guests while his trousers' pockets bulged with
+<lb n="21328"/>masses of silver and copper coins. He bought presents for
+<lb n="21329"/>everyone, overhauled his room, wrote out resolutions, marshal-
+<lb n="21330"/>led his books up and down their shelves, pored upon all kinds
+<lb n="21331"/>of price lists, drew up a form of commonwealth for the
+<lb n="21332"/>household by which every member of it held some office,
+<lb n="21333"/>opened a loan bank for his family and pressed loans on willing
+<lb n="21334"/>borrowers so that he might have the pleasure of making out
+<lb n="21335"/>receipts and reckoning the interests on the sums lent. When he
+<lb n="21336"/>could do no more he drove up and down the city in trams.
+<lb n="21337"/>Then the season of pleasure came to an end. The pot of pink
+<lb n="21338"/>enamel paint gave out and the wainscot of his bedroom re-
+<lb n="21339"/>mained with its unfinished and illplastered coat.</p>
+<p> <lb n="21340"/> His household returned to its usual way of life. His mother
+<lb n="21341"/>had no further occasion to upbraid him for squandering his
+<lb n="21342"/>money. He too returned to his old life at school and all his
+<lb n="21343"/>novel enterprises fell to pieces. The commonwealth fell, the
+<lb n="21344"/>loan bank closed its coffers and its books on a sensible loss, the
+<lb n="21345"/>rules of life which he had drawn about himself fell into desue-
+<lb n="21346"/>tude.</p>
+<p> <lb n="21347"/> How foolish his aim had been! He had tried to build a
+<lb n="21348"/>breakwater of order and elegance against the sordid tide of life
+<lb n="21349"/>without him and to dam up, by rules of conduct and active
+<lb n="21350"/>interests and new filial relations, the powerful recurrence of the
+<lb n="21351"/>tides within him. Useless. From without as from within the
+<lb n="21352"/>waters@ had flowed over his barriers: their tides began once
+<lb n="21353"/>more to jostle fiercely above the crumbled mole.</p>
+<p> <lb n="21354"/> He saw clearly too his own futile isolation. He had not gone
+<lb n="21355"/>one step nearer the lives he had sought to approach nor bridged
+<lb n="21356"/>the restless shame and rancour that divided him from father
+<lb n="21357"/>and mother and brother and sister. He felt that he was hardly
+<lb n="21358"/>of the one blood with them but stood to them rather in the
+<lb n="21359"/>mystical kinship of fosterage, fosterchild and fosterbrother.</p>
+<p> <lb n="21360"/> He burned to appease the fierce longings of his heart before
+<lb n="21361"/>which everything else was idle and alien. He cared little that he
+<lb n="21362"/>was in mortal sin, that his life had grown to be a tissue of
+<lb n="21363"/>subterfuges and falsehood. Beside the savage desire within him
+<lb n="21364"/>to realise the enormities which he brooded on nothing was
+<lb n="21365"/>sacred. He bore cynically with the shameful details of his secret
+<lb n="21366"/>riots in which he exulted to defile with patience whatever im-
+<lb n="21367"/>age had attracted his eyes. By day and by night he moved
+<lb n="21368"/>among distorted images of the outer world. A figure that had
+<lb n="21369"/>seemed to him by day demure and innocent  came towards him
+<lb n="21370"/>by night through the winding darkness of sleep, her face trans-
+<lb n="21371"/>figured by a lecherous cunning, her eyes bright with brutish
+<lb n="21372"/>joy. Only the morning pained him with its dim memory of dark
+<lb n="21373"/>orgiastic riot, its keen and humiliating sense of transgression.</p>
+<p> <lb n="21374"/> He returned to his wanderings. The veiled autumnal even-
+<lb n="21375"/>ings led him from street to street as they had led him years
+<lb n="21376"/>before along the quiet avenues of Blackrock. But no vision of
+<lb n="21377"/>trim front gardens or of kindly lights in the windows poured a
+<lb n="21378"/>tender influence upon him now. Only at times, in the pauses of
+<lb n="21379"/>his desire, when the luxury that was wasting him gave room to
+<lb n="21380"/>a softer languor, the image of Mercedes traversed the back-
+<lb n="21381"/>ground of his memory. He saw again the small white house and
+<lb n="21382"/>the garden of rosebushes on the road that led to the mountains
+<lb n="21383"/>and he remembered the sadly proud gesture of refusal which he
+<lb n="21384"/>was to make there, standing with her in the moonlit garden
+<lb n="21385"/>after years of estrangement and adventure. At those moments
+<lb n="21386"/>the soft speeches of Claude Melnotte rose to his lips and eased
+<lb n="21387"/>his unrest. A tender premonition touched him of the tryst he
+<lb n="21388"/>had then looked forward to and, in spite of the horrible reality
+<lb n="21389"/>which lay between his hope of then and now, of the holy
+<lb n="21390"/>encounter he had then imagined at which weakness and timid-
+<lb n="21391"/>ity and inexperience were to fall from him.</p>
+<p> <lb n="21392"/> Such moments passed and the wasting fires of lust sprang up
+<lb n="21393"/>again. The verses passed from his lips and the inarticulate cries
+<lb n="21394"/>and the unspoken brutal words rushed forth from his brain to
+<lb n="21395"/>force a passage. His blood was in revolt. He wandered up and
+<lb n="21396"/>down the dark slimy streets peering into the gloom of lanes and
+<lb n="21397"/>doorways, listening eagerly for any sound. He moaned to him-
+<lb n="21398"/>self like some baffled prowling beast. He wanted to sin with
+<lb n="21399"/>another of his kind, to force another being to sin with him and
+<lb n="21400"/>to exult with her in sin. He felt some dark presence moving
+<lb n="21401"/>irresistibly upon him from the  darkness, a presence subtle and
+<lb n="21402"/>murmurous as a flood filling him wholly with itself. Its mur-
+<lb n="21403"/>mur besieged his ears like the murmur of some multitude in
+<lb n="21404"/>sleep; its subtle streams penetrated his being. His hands
+<lb n="21405"/>clenched convulsively and his teeth set together as he suffered
+<lb n="21406"/>the agony of its penetration. He stretched out his arms in the
+<lb n="21407"/>street to hold fast the frail swooning form that eluded him and
+<lb n="21408"/>incited him: and the cry that he had strangled for so long in his
+<lb n="21409"/>throat issued from his lips. It broke from him like a wail of
+<lb n="21410"/>despair from a hell of sufferers and died in a wail of furious
+<lb n="21411"/>entreaty, a cry for an iniquitous abandonment, a cry which was
+<lb n="21412"/>but the echo of an obscene scrawl which he had read on the
+<lb n="21413"/>oozing wall of a urinal.</p>
+<p> <lb n="21414"/> He had wandered into a maze of narrow and dirty streets.
+<lb n="21415"/>From the foul laneways he heard bursts of hoarse riot and
+<lb n="21416"/>wrangling and the drawling of drunken singers. He walked
+<lb n="21417"/>onward, undismayed, wondering whether he had strayed into
+<lb n="21418"/>the quarter of the jews. Women and girls dressed in long vivid
+<lb n="21419"/>gowns traversed the street from house to house. They were
+<lb n="21420"/>leisurely and perfumed. A trembling seized him and his eyes
+<lb n="21421"/>grew dim. The yellow gasflames arose before his troubled vi-
+<lb n="21422"/>sion against the vapoury sky, burning as if before an altar.
+<lb n="21423"/>Before the doors and in the lighted halls groups were gathered,@
+<lb n="21424"/>arrayed as for some rite. He was in another world: he had
+<lb n="21425"/>awakened from a slumber of centuries.</p>
+<p> <lb n="21426"/> He stood still in the middle of the roadway, his heart clam-
+<lb n="21427"/>ouring against his bosom in a tumult. A young woman dressed
+<lb n="21428"/>in a long pink gown laid her hand on his arm to detain him and
+<lb n="21429"/>gazed into his face. She said gaily:
+<lb n="21430"/> <said who="prostitute">--Good night, Willie dear! </said></p>
+<p> <lb n="21431"/> Her room was warm and lightsome. A huge doll sat with her
+<lb n="21432"/>legs apart in the copious easychair beside the bed. He tried to
+<lb n="21433"/>bid his tongue speak that he might seem at ease, watching her
+<lb n="21434"/>as she undid her gown, noting the proud conscious movements
+<lb n="21435"/>of her perfumed head.</p>
+<p> <lb n="21436"/> As he stood silent in the middle of the room she came over
+<lb n="21437"/>to him and embraced him gaily and gravely. Her round arms
+<lb n="21438"/>held him firmly to her and he, seeing her face lifted to him in
+<lb n="21439"/>serious calm and feeling the warm calm rise and fall of her
+<lb n="21440"/>breast, all but burst into hysterical weeping. Tears of joy and
+<lb n="21441"/>relief shone in his delighted eyes and his lips parted though they
+<lb n="21442"/>would not speak.</p>
+<p> <lb n="21443"/> She passed her tinkling hand through his hair, calling him a
+<lb n="21444"/>little rascal.
+<lb n="21445"/> <said who="prostitute">--Give me a kiss, she said. </said></p>
+<p> <lb n="21446"/> His lips would not bend to kiss her. He wanted to be held
+<lb n="21447"/>firmly in her arms, to be caressed slowly, slowly, slowly. In her
+<lb n="21448"/>arms he felt that he had suddenly become strong and fearless
+<lb n="21449"/>and sure of himself. But his lips would not bend to kiss her.</p>
+<p> <lb n="21450"/> With a sudden movement she bowed his head and joined her
+<lb n="21451"/>lips to his and he read the meaning of her movements in her
+<lb n="21452"/>frank uplifted eyes. It was too much for him. He closed his
+<lb n="21453"/>eyes, surrendering himself to her, body and mind, conscious of
+<lb n="21454"/>nothing in the world but the dark pressure of her softly parting
+<lb n="21455"/>lips. They pressed upon his brain as upon his lips as though
+<lb n="21456"/>they were the vehicle of a vague speech; and between them he
+<lb n="21457"/>felt an unknown and timid pressure, darker than the swoon of
+<lb n="21458"/>sin, softer than sound or odour.</p>
+</div><!-- 2.5 --> </div><!-- Chapter 2 -->

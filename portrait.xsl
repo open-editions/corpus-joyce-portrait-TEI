@@ -17,7 +17,8 @@
 				Show: <br/>
 				<input type="checkbox" id="dialog" name="dialog" value="" checked="checked"/>Dialog attribution<br/>
 				<input type="checkbox" id="type" name="type" value="" checked="checked"/>Text genre (poem, song, prayer)<br/>
-				<input type="checkbox" id="lang" name="lang" value="" checked="checked"/>Language
+				<input type="checkbox" id="lang" name="lang" value="" checked="checked"/>Language<br/>
+				<input type="checkbox" id="lineNumber" name="lineNumber" value="" checked="checked"/>Line numbers
 			</div> 
 			<xsl:apply-templates/>
 		</body>
@@ -41,14 +42,24 @@
 	<p class="textParagraph"><xsl:apply-templates/></p>
 </xsl:template>
 
+<xsl:template match="lb">
+	<xsl:apply-templates/>
+  <xsl:if test="@n mod 5 = 0" > 
+    <span class="tag lineNumber">
+      <xsl:value-of select="@n" />
+    </span>
+  </xsl:if> 
+  <br/>
+</xsl:template>
+
 <xsl:template match="lg">
 	<p class="lg">
 		<xsl:apply-templates/>
 	</p>
 </xsl:template>
 
-<xsl:template match="l">
-	<xsl:apply-templates/><br/>
+<xsl:template match="geo">
+	<span class="hide"><xsl:apply-templates/></span>
 </xsl:template>
 
 <xsl:template match="emph">
@@ -57,6 +68,11 @@
 
 <xsl:template match="head">
 	<h2 class="heading"><xsl:apply-templates/></h2>
+</xsl:template>
+
+<!-- Match <milestone unit="section" rend="asterixes"/> --> 
+<xsl:template match="milestone">
+  <div class="divider">* * *</div> 
 </xsl:template>
 
 <xsl:template match="said">
@@ -72,7 +88,11 @@
 	</span>
 </xsl:template> 
 
-<xsl:template match="epigraph|seg">
+<xsl:template match="quote/ref">
+  <span class="hide"><xsl:apply-templates/></span>
+</xsl:template>
+
+<xsl:template match="epigraph">
 	<span class="lang">
 		<xsl:apply-templates select="@xml:lang | node()"/>
 	</span>
