@@ -1,0 +1,756 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="https://jonathanreeve.github.io/corpus-joyce-portrait-TEI/portrait.xsl"/ ?>
+<TEI>
+<text>
+<body>
+<div n="1" type="chapter">
+<div n="1.1" type="section">
+<epigraph xml:lang="la">
+<cit>
+<quote> <emph> Et ignotas animum dimittit in artes. </emph> </quote>
+<bibl> - Ovid, <emph> Metamorphoses </emph>, VIII, 188 </bibl>
+</cit>
+</epigraph>
+<head> <l> <emph> I </emph> </l> </head>
+<p><lb n="10001"/> Once upon a time and a very good time it was there was a
+<lb n="10002"/> moocow coming down along the road and this moocow that
+<lb n="10003"/> was coming down along the road met a nicens little boy named
+<lb n="10004"/> baby tuckoo.....^@</p>
+<p><lb n="10005"/> His father told him that story: his father looked at him
+<lb n="10006"/> through a glass: he had a hairy face.</p>
+<p><lb n="10007"/> He was baby tuckoo. The moocow came down the road
+<lb n="10008"/> where <persName> Betty Byrne </persName> lived: she sold lemon platt.</p>
+<lg type="song">
+<lb n="10009"/> <l> <emph> O, the wild rose blossoms </emph> </l>
+<lb n="10010"/> <l> <emph> On the little green place. </emph> </l>
+</lg>
+<p><lb n="10011"/> He sang that song. That was his song.</p>
+<lg type="song">
+<lb n="10012"/> <l> <emph> O, the geen^@ wothe botheth. </emph> </l>
+</lg>
+<p><lb n="10013"/> When you wet the bed first it is warm then it gets cold. His
+<lb n="10014"/> mother put on the oilsheet. That had the queer smell.</p>
+<p><lb n="10015"/> His mother had a nicer smell than his father. She played on
+<lb n="10016"/> the piano the sailor's hornpipe for him to dance. He danced:</p>
+<lg type="song">
+<lb n="10017"/> <l> <emph> Tralala lala </emph> </l>
+<lb n="10018"/> <l> <emph> Tralala tralaladdy </emph> </l>
+<lb n="10019"/> <l> <emph> Tralala lala </emph> </l>
+<lb n="10020"/> <l> <emph> Tralala lala. </emph> </l>
+</lg>
+<p><lb n="10021"/> <persName> Uncle Charles </persName> and <persName> Dante </persName> clapped. They were older than his
+<lb n="10022"/> father and mother but <persName> uncle Charles </persName> was older than <persName> Dante </persName>.</p>
+<p><lb n="10023"/> Dante had two brushes in her press. The brush with the
+<lb n="10024"/> maroon velvet back was for <persName> Michael Davitt </persName> and the brush with
+<lb n="10025"/> the green velvet back was for <persName> Parnell </persName>. <persName> Dante </persName> gave him a cachou
+<lb n="10026"/> every time he brought her a piece of tissue paper.</p>
+<p><lb n="10027"/> The <persName> Vances </persName> lived in number seven. They had a different
+<lb n="10028"/> father and mother. They were <persName> Eileen </persName>'s father and mother.
+<lb n="10029"/> When they were grown up he was going to marry <persName> Eileen </persName>.</p>
+<p><lb n="10030"/> He^@ hid under the table. His mother said:</p>
+<p><lb n="10031"/> <said who="Mary Dedalus"> --O, <persName> Stephen </persName> will apologise. </said></p>
+<p><lb n="10032"/> Dante said:</p>
+<p><lb n="10033"/> <said who="Dante"> --O, if not, the eagles will come and pull out his eyes. </said></p>
+<lg>
+<lb n="10034"/> <l> <emph> Pull out his eyes, </emph> </l>
+<lb n="10035"/> <l> <emph> Apologise, </emph> </l>
+<lb n="10036"/> <l> <emph> Apologise, </emph> </l>
+<lb n="10037"/> <l> <emph> Pull out his eyes. </emph> </l>
+<lb n="10038"/> <l> <emph> Apologise, </emph> </l>
+<lb n="10039"/> <l> <emph> Pull out his eyes, </emph> </l>
+<lb n="10040"/> <l> <emph> Pull out his eyes, </emph> </l>
+<lb n="10041"/> <l> <emph> Apologise. </emph> </l>
+</lg> <milestone unit="section" rend="asterixes"/> </div> <!-- 1.1 --> <div n="1.2" type="section">
+<p><lb n="10042"/> The wide playgrounds were swarming with boys. All were
+<lb n="10043"/> shouting and the prefects urged them on with strong cries. The
+<lb n="10044"/> evening air was pale and chilly and after every charge and thud
+<lb n="10045"/> of the footballers the greasy leather orb flew like a heavy bird
+<lb n="10046"/> through the grey light. He kept on the fringe of his line, out of
+<lb n="10047"/> sight of his prefect, out of the reach of the rude feet, feigning to
+<lb n="10048"/> run now and then. He felt his body small and weak amid the
+<lb n="10049"/> throng of players and his eyes were weak and watery. <persName> Rody
+<lb n="10050"/> Kickham </persName> was not like that: he would be captain of the third
+<lb n="10051"/> line all the fellows said.</p>
+<p><lb n="10052"/> <persName> Rody Kickham </persName> was a decent fellow but <persName> Nasty Roche </persName> was a
+<lb n="10053"/> stink. <persName> Rody Kickham </persName> had greaves in his number and a hamper
+<lb n="10054"/> in the refectory. <persName> Nasty Roche </persName> had big hands. He called the
+<lb n="10055"/> Friday pudding dog-in-the-blanket. And one day he had asked:</p>
+<p><lb n="10056"/> <said who="Nasty Roche"> --What is your name? </said></p>
+<p><lb n="10057"/> Stephen had answered:</p>
+<p><lb n="10058"/> <said who="Stephen"> -- <persName> Stephen Dedalus </persName>. </said></p>
+<p><lb n="10059"/> Then <persName> Nasty Roche </persName> had said:</p>
+<p><lb n="10060"/> <said who="Nasty Roche"> --What kind of a name is that? </said></p>
+<p><lb n="10061"/> And when <persName> Stephen </persName> had not been able to answer <persName> Nasty
+<lb n="10062"/> Roche </persName> had asked:</p>
+<p><lb n="10063"/> <said who="Nasty Roche"> --What is your father? </said></p>
+<p><lb n="10064"/> <persName> Stephen </persName> had answered:</p>
+<p><lb n="10065"/> <said who="Stephen"> --A gentleman. </said></p>
+<p><lb n="10066"/> Then <persName> Nasty Roche </persName> had asked:</p>
+<p><lb n="10067"/> <said who="Nasty Roche"> --Is he a magistrate? </said></p>
+<p><lb n="10068"/> He crept about from point to point on the fringe of his line,
+<lb n="10069"/> making little runs now and then. But his hands were bluish
+<lb n="10070"/> with cold. He kept his hands in the sidepockets of his belted
+<lb n="10071"/> grey suit. That was a belt round his jacket.^@ And belt was also to
+<lb n="10072"/> give a fellow a belt. One day a fellow had said to <persName> Cantwell </persName>:</p>
+<p><lb n="10073"/> <said who="a fellow"> --I'd give you such a belt in a second. </said></p>
+<p><lb n="10074"/> <persName> Cantwell </persName> had answered:</p>
+<p><lb n="10075"/> <said who="Cantwell"> --Go and fight your match. Give <persName> Cecil Thunder </persName> a belt. I'd like
+<lb n="10076"/> to see you. He'd give you a toe in the rump for yourself. </said></p>
+<p><lb n="10077"/> That was not a nice expression. His mother had told him
+<lb n="10078"/> not to speak with the rough boys in the college. Nice mother!
+<lb n="10079"/> The first day in the hall of the castle when she had said good-
+<lb n="10080"/> bye she had put up her veil double to her nose to kiss him: and
+<lb n="10081"/> her nose and eyes were red. But he had pretended not to see
+<lb n="10082"/> that she was going to cry. She was a nice mother but she was
+<lb n="10083"/> not so nice when she cried. And his father had given him two
+<lb n="10084"/> <seg type="neologism"> fiveshilling </seg> pieces for pocket money. And his father had told
+<lb n="10085"/> him if he wanted anything to write home to him and, whatever
+<lb n="10086"/> he did, never to peach on a fellow. Then at the door of the
+<lb n="10087"/> castle the rector had shaken hands with his father and mother,
+<lb n="10088"/> his soutane fluttering in the breeze, and the car had driven off
+<lb n="10089"/> with his father and mother on it. They had cried to him from
+<lb n="10090"/> the car, waving their hands:</p>
+<said who="Mary Dedalus, Simon Dedalus">
+<p><lb n="10091"/> --Goodbye, <persName> Stephen </persName>, goodbye!</p>
+<p><lb n="10092"/> --Goodbye, <persName> Stephen </persName>, goodbye!</p>
+</said>
+<p><lb n="10093"/> He was caught in the whirl of a scrimmage and, fearful of
+<lb n="10094"/> the flashing eyes and muddy boots, bent down to look through
+<lb n="10095"/> the legs. The fellows were struggling and groaning and their
+<lb n="10096"/> legs were rubbing and kicking and stamping. Then <persName> Jack
+<lb n="10097"/> Lawton </persName>'s yellow boots dodged out the ball and all the other
+<lb n="10098"/> boots and legs ran after. He ran after them a little way and then
+<lb n="10099"/> stopped. It was useless to run on. Soon they would be going
+<lb n="10100"/> home for the holidays. After supper in the <seg type="neologism"> studyhall </seg> he would
+<lb n="10101"/> change the number pasted up inside his desk from <seg type="neologism"> seventyseven </seg>
+<lb n="10102"/> to <seg type="neologism"> seventysix </seg>.</p>
+<p><lb n="10103"/> It would be better to be in the <seg type="neologism"> studyhall </seg> than out there in the
+<lb n="10104"/> cold. The sky was pale and cold but there were lights in the
+<lb n="10105"/> castle. He wondered from which window <persName> Hamilton Rowan </persName>
+<lb n="10106"/> had thrown his hat on the haha and had there been flowerbeds
+<lb n="10107"/> at that time under the windows. One day when he had been
+<lb n="10108"/> called to the castle the butler had shown him the marks of the
+<lb n="10109"/> soldiers' slugs in the wood of the door and had given him a
+<lb n="10110"/> piece of shortbread that the community ate. It was nice and
+<lb n="10111"/> warm to see the lights in the castle. It was like something in a
+<lb n="10112"/> book. Perhaps <place> <location> <geo> 52.640379 -1.132563 </geo> </location> <placeName> Leicester Abbey </placeName> </place> was like that. And there were
+<lb n="10113"/> nice sentences in <persName> Doctor Cornwell </persName>'s Spelling Book. They were
+<lb n="10114"/> like poetry but they were only sentences to learn the spelling
+<lb n="10115"/> from.</p>
+<lg>
+<lb n="10116"/> <l> <emph> <persName> Wolsey </persName> died in <place> <location> <geo> 52.640379 -1.132563 </geo> </location> <placeName> Leicester Abbey </placeName> </place> </emph> </l>
+<lb n="10117"/> <l> <emph> Where the abbots buried him. </emph> </l>
+<lb n="10118"/> <l> <emph> Canker is a disease of plants, </emph> </l>
+<lb n="10119"/> <l> <emph> Cancer one of animals. </emph> </l>
+</lg>
+<p><lb n="10120"/> It would be nice to lie on the hearthrug before the fire,
+<lb n="10121"/> leaning his head upon his hands, and think on those sentences.
+<lb n="10122"/> He shivered as if he had cold slimy water next his skin. That
+<lb n="10123"/> was mean of <persName> Wells </persName> to shoulder him into the square ditch be-
+<lb n="10124"/> cause he would not swop his little <seg type="neologism"> snuffbox </seg> for <persName> Wells </persName>'s sea-
+<lb n="10125"/> soned hacking chestnut, the conqueror of forty. How cold and
+<lb n="10126"/> slimy the water had been! A fellow had once seen a big rat
+<lb n="10127"/> jump plop^@ into the scum. He^@ shivered and longed to cry. It
+<lb n="10128"/> would^@ be so nice to be at home. Mother was sitting at the fire
+<lb n="10129"/> with <persName> Dante </persName> waiting for <persName> Brigid </persName> to bring in the tea. She had her
+<lb n="10130"/> feet on the fender and her jewelly slippers were so hot and they
+<lb n="10131"/> had such a lovely warm smell! <persName> Dante </persName> knew a lot of things. She
+<lb n="10132"/> had taught him where the <place> <location> <geo> -18.615949 41.280858 </geo> </location> <placeName> Mozambique Channel </placeName> </place> was and what
+<lb n="10133"/> was <place> <location> <geo> 38.627003 -90.199404 </geo> </location> <placeName> the longest river in America </placeName> </place> and what was the name of the
+<lb n="10134"/> highest mountain in the moon. <persName> Father Arnall </persName> knew more than
+<lb n="10135"/> <persName> Dante </persName> because he was a priest but both his father and <persName> uncle
+<lb n="10136"/> Charles </persName> said that <persName> Dante </persName> was a clever woman and a <seg type="neologism"> wellread </seg>
+<lb n="10137"/> woman. And when <persName> Dante </persName> made that noise after dinner and
+<lb n="10138"/> then put up her hand to her mouth: that was heartburn.</p>
+<p><lb n="10139"/> A voice cried far out on the playground:</p>
+<p><lb n="10140"/> <said who="a voice">--All in! </said></p>
+<p><lb n="10141"/> Then other voices cried from the lower and third lines:</p>
+<p><lb n="10142"/> <said who="other voices from the lower and third lines">--All in! All in! </said> </p>
+<p><lb n="10143"/> The players closed around, flushed and muddy, and he went
+<lb n="10144"/> among them, glad to go in. <persName> Rody Kickham </persName> held the ball by its
+<lb n="10145"/> greasy lace. A fellow asked him to give it one last: but he
+<lb n="10146"/> walked on without even answering the fellow. <persName> Simon Moonan </persName>
+<lb n="10147"/> told him not to because the prefect was looking. The fellow
+<lb n="10148"/> turned to <persName> Simon Moonan </persName> and said:</p>
+<p><lb n="10149"/> <said who="a fellow"> --We all know why you speak. You are <persName> McGlade </persName>'s suck. </said></p>
+<p><lb n="10150"/> Suck was a queer word. The fellow called <persName> Simon Moonan </persName>
+<lb n="10151"/> that name because <persName> Simon Moonan </persName> used to tie the prefect's false
+<lb n="10152"/> sleeves behind his back and the prefect used to let on to be
+<lb n="10153"/> angry. But the sound was ugly. Once he had washed his hands
+<lb n="10154"/> in the lavatory of the <place> <location> <geo> 53.342872 -6.260651 </geo> </location> <placeName> Wicklow Hotel </placeName> </place> and his father pulled the
+<lb n="10155"/> stopper up by the chain after and the dirty water went down
+<lb n="10156"/> through the hole in the basin. And when it had all gone down
+<lb n="10157"/> slowly the hole in the basin had made a sound like that: suck.
+<lb n="10158"/> Only louder.</p>
+<p><lb n="10159"/> To remember that and the white look of the lavatory made
+<lb n="10160"/> him feel cold and then hot. There were two cocks that you
+<lb n="10161"/> turned and water came out: cold and hot. He felt cold and then
+<lb n="10162"/> a little hot: and he could see the names printed on the cocks.
+<lb n="10163"/> That was a very queer thing.</p>
+<p><lb n="10164"/> And the air in the corridor chilled him too. It was queer and
+<lb n="10165"/> wettish. But soon the gas would be lit and in burning it made a
+<lb n="10166"/> light noise like a little song. Always the same: and when the
+<lb n="10167"/> fellows stopped talking in the playroom you could hear it.</p>
+<p><lb n="10168"/> It was the hour for sums. <persName> Father Arnall </persName> wrote a hard sum on
+<lb n="10169"/> the board and then said:</p>
+<p><lb n="10170"/> <said who="Father Arnall"> --Now then, who will win? Go ahead, York! Go ahead, Lan-
+<lb n="10171"/> caster! </said></p>
+<p><lb n="10172"/> <persName> Stephen </persName> tried his best but the sum was too hard and he felt
+<lb n="10173"/> confused. The little silk badge with the white rose on it that
+<lb n="10174"/> was pinned on the breast of his jacket began to flutter. He was
+<lb n="10175"/> no good at sums but he tried his best so that York might not
+<lb n="10176"/> lose. <persName> Father Arnall </persName>'s face looked very black but he was not in a
+<lb n="10177"/> wax: he was laughing. Then <persName> Jack Lawton </persName> cracked his fingers
+<lb n="10178"/> and <persName> Father Arnall </persName> looked at his copybook and said:</p>
+<p><lb n="10179"/> <said who="Father Arnall"> --Right. Bravo Lancaster! The red rose wins. Come on now,
+<lb n="10180"/> York! Forge ahead! </said></p>
+<p><lb n="10181"/> <persName> Jack Lawton </persName> looked over from his side. The little silk badge
+<lb n="10182"/> with the red rose on it looked very rich because he had a blue
+<lb n="10183"/> sailor top on. <persName> Stephen </persName> felt his own face red too, thinking of all
+<lb n="10184"/> the bets about who would get first place in elements, <persName> Jack
+<lb n="10185"/> Lawton </persName> or he. Some weeks <persName> Jack Lawton </persName> got the card for first
+<lb n="10186"/> and some weeks he got the card for first. His white silk badge
+<lb n="10187"/> fluttered and fluttered as he worked at the next sum and heard
+<lb n="10188"/> <persName> Father Arnall </persName>'s voice. Then all his eagerness passed away and
+<lb n="10189"/> he felt his face quite cool. He thought his face must be white
+<lb n="10190"/> because it felt so cool. He could not get out the answer for the
+<lb n="10191"/> sum but it did not matter. White roses and red roses: those
+<lb n="10192"/> were beautiful colours to think of. And the cards for first place
+<lb n="10193"/> and second place and third place were beautiful colours too:
+<lb n="10194"/> pink and cream and lavender. Lavender and cream and pink
+<lb n="10195"/> roses were beautiful to think of. Perhaps a wild rose might be
+<lb n="10196"/> like those colours:^@ and he remembered the song about the wild
+<lb n="10197"/> rose blossoms on the little green place. But you could not have
+<lb n="10198"/> a green rose. But perhaps somewhere in the world you could.</p>
+<p><lb n="10199"/> The bell rang and then the classes began to file out of the
+<lb n="10200"/> rooms and along the corridors towards the refectory. He sat
+<lb n="10201"/> looking at the two prints of butter on his plate but could not
+<lb n="10202"/> eat the damp bread. The tablecloth was damp and limp. But he
+<lb n="10203"/> drank off the hot weak tea which the clumsy scullion, girt with
+<lb n="10204"/> a white apron, poured into his cup. He wondered whether the
+<lb n="10205"/> scullion's apron was damp too or whether all white things were
+<lb n="10206"/> cold and damp. <persName> Nasty Roche </persName> and <persName> Saurin </persName> drank cocoa that their
+<lb n="10207"/> people sent them in tins. They said they could not drink the tea;
+<lb n="10208"/> that it was hogwash. Their fathers were magistrates, the fel-
+<lb n="10209"/> lows said.</p>
+<p><lb n="10210"/> All the boys seemed to him very strange. They had all fa-
+<lb n="10211"/> thers and mothers and different clothes and voices. He longed
+<lb n="10212"/> to be at home and lay his head on his mother's lap. But he
+<lb n="10213"/> could not: and so he longed for the play and study and prayers
+<lb n="10214"/> to be over and to be in bed.</p>
+<p><lb n="10215"/> He drank another cup of hot tea and <persName> Fleming </persName> said:</p>
+<p><lb n="10216"/> <said who="Fleming"> --What's up? Have you a pain or what's up with you? </said></p>
+<p><lb n="10217"/> <said who="Stephen"> --I don't know, <persName> Stephen </persName> said. </said></p>
+<p><lb n="10218"/> <said who="Fleming"> --Sick in your breadbasket, <persName> Fleming </persName> said, because your face
+<lb n="10219"/> looks white. It will go away. </said></p>
+<p><lb n="10220"/> <said who="Stephen"> --O yes, <persName> Stephen </persName> said. </said></p>
+<p><lb n="10221"/> But he was not sick there. He thought that he was sick in his
+<lb n="10222"/> heart if you could be sick in that place. <persName> Fleming </persName> was very
+<lb n="10223"/> decent to ask him. He wanted to cry. He leaned his elbows on
+<lb n="10224"/> the table and shut and opened the flaps of his ears. Then he
+<lb n="10225"/> heard the noise of the refectory every time he opened the flaps
+<lb n="10226"/> of his ears. It made a roar like a train at night. And when he
+<lb n="10227"/> closed the flaps the roar was shut off like a train going into a
+<lb n="10228"/> tunnel. That night at <place> <location> <geo> 53.277911 -6.105844 </geo> </location> <placeName> Dalkey </placeName> </place> the train had roared like that and
+<lb n="10229"/> then, when it went into the tunnel, the roar stopped. He closed
+<lb n="10230"/> his eyes and the train went on, roaring and then stopping;
+<lb n="10231"/> roaring again, stopping. It was nice to hear it roar and stop and
+<lb n="10232"/> then roar out of the tunnel again and then stop.</p>
+<p><lb n="10233"/> Then the higher line fellows began to come down along the
+<lb n="10234"/> matting in the middle of the refectory, <persName> Paddy Rath </persName> and <persName> Jimmy
+<lb n="10235"/> Magee </persName> and the Spaniard who was allowed to smoke cigars and
+<lb n="10236"/> the little Portuguese who wore the woolly cap. And then the
+<lb n="10237"/> lower line tables and the tables of the third line. And every
+<lb n="10238"/> single fellow had a different way of walking.</p>
+<p><lb n="10239"/> He sat in a corner of the playroom pretending to watch a
+<lb n="10240"/> game of dominos and once or twice he was able to hear for an
+<lb n="10241"/> instant the little song of the gas. The prefect was at the door
+<lb n="10242"/> with some boys and <persName> Simon Moonan </persName> was knotting his false
+<lb n="10243"/> sleeves. He was telling them something about <place> <location> <geo> 52.888640 -8.428450 </geo> </location> <placeName> Tullabeg </placeName> </place>.</p>
+<p><lb n="10244"/> Then he went away from the door and <persName> Wells </persName> came over to
+<lb n="10245"/> <persName> Stephen </persName> and said:</p>
+<p><lb n="10246"/> <said who="Wells"> --Tell us, <persName> Dedalus </persName>, do you kiss your mother every^@ night^@ before
+<lb n="10247"/> you go to bed? </said></p>
+<p><lb n="10248"/> <persName> Stephen </persName> answered:</p>
+<p><lb n="10249"/> <said who="Stephen"> --I do. </said></p>
+<p><lb n="10250"/> <persName> Wells </persName> turned to the other fellows and said:</p>
+<p><lb n="10251"/> <said who="Wells"> --O, I say, here's a fellow says he kisses his mother every night
+<lb n="10252"/> before he goes to bed. </said></p>
+<p><lb n="10253"/> The other fellows stopped their game and turned round,
+<lb n="10254"/> laughing. <persName> Stephen </persName> blushed under their eyes and said:</p>
+<p><lb n="10255"/> <said who="Stephen"> --I do not. </said></p>
+<p><lb n="10256"/> <persName> Wells </persName> said:</p>
+<p><lb n="10257"/> <said who="Wells"> --O, I say, here's a fellow says he doesn't kiss his mother
+<lb n="10258"/> before he goes to bed. </said></p>
+<p><lb n="10259"/> They all laughed again. <persName> Stephen </persName> tried to laugh with them.
+<lb n="10260"/> He felt his whole body hot and confused in a moment. What
+<lb n="10261"/> was the right answer to the question? He had given two and
+<lb n="10262"/> still <persName> Wells </persName> laughed. But <persName> Wells </persName> must know the right answer for
+<lb n="10263"/> he was in third of grammar. He tried to think of <persName> Wells </persName>'s mother
+<lb n="10264"/> but he did not dare to raise his eyes to <persName> Wells </persName>'s face. He did not
+<lb n="10265"/> like <persName> Wells </persName>'s face. It was <persName> Wells </persName> who had shouldered him into the
+<lb n="10266"/> square ditch the day before because he would not swop his
+<lb n="10267"/> little <seg type="neologism"> snuffbox </seg> for <persName> Wells </persName>'s seasoned hacking chestnut, the con-
+<lb n="10268"/> queror of forty. It was a mean thing to do; all the fellows said it
+<lb n="10269"/> was. And how cold and slimy the water had been! And a fellow
+<lb n="10270"/> had once seen a big rat jump plop into the scum.</p>
+<p><lb n="10271"/> The cold slime of the ditch covered his whole body; and,
+<lb n="10272"/> when the bell rang for study and the lines filed out of the
+<lb n="10273"/> playrooms, he felt the cold air of the corridor and staircase
+<lb n="10274"/> inside his clothes. He still tried to think what was the right
+<lb n="10275"/> answer. Was it right to kiss his mother or wrong to kiss his
+<lb n="10276"/> mother? What did that mean, to kiss? You put your face up like
+<lb n="10277"/> that to say goodnight and then his mother put her face down.
+<lb n="10278"/> That was to kiss. His mother put her lips on his cheek; her lips
+<lb n="10279"/> were soft and they wetted his cheek; and they made a tiny little
+<lb n="10280"/> noise: kiss. Why did people do that with their two faces?</p>
+<p><lb n="10281"/> Sitting in the <seg type="neologism"> studyhall </seg> he opened the lid of his desk and
+<lb n="10282"/> changed the number pasted up inside from <seg type="neologism"> seventyseven </seg> to
+<lb n="10283"/> <seg type="neologism"> seventysix </seg>. But the Christmas vacation was very far away: but
+<lb n="10284"/> one time it would come because the earth moved round always.</p>
+<p><lb n="10285"/> There was a picture of the earth on the first page of his
+<lb n="10286"/> geography: a big ball in the middle of clouds. <persName> Fleming </persName> had a
+<lb n="10287"/> box of crayons and one night during free study he had coloured
+<lb n="10288"/> the earth green and the clouds maroon. That was like the two
+<lb n="10289"/> brushes in <persName> Dante </persName>'s press, the brush with the green velvet back
+<lb n="10290"/> for <persName> Parnell </persName> and the brush with the maroon velvet back for
+<lb n="10291"/> <persName> Michael Davitt </persName>. But he had not told <persName> Fleming </persName> to colour them
+<lb n="10292"/> those colours. <persName> Fleming </persName> had done it himself.</p>
+<p><lb n="10293"/> He opened the geography to study the lesson; but he could
+<lb n="10294"/> not learn the names of places in <placeName> America </placeName>. Still they were all
+<lb n="10295"/> different places that had those different names. They were all in
+<lb n="10296"/> different countries and the countries were in continents and the
+<lb n="10297"/> continents were in the world and the world was in the universe.</p>
+<p><lb n="10298"/> He turned to the flyleaf of the geography and read what he
+<lb n="10299"/> had written there: himself, his name and where he was.</p>
+<lg>
+<lb n="10300"/> <l> <emph> <persName> Stephen Dedalus </persName> </emph> </l>
+<lb n="10301"/> <l> <emph> Class of Elements </emph> </l>
+<lb n="10302"/> <l> <emph> <place> <location> <geo> 53.310769 -6.684716 </geo> </location> <placeName> Clongowes Wood College </placeName> </place> </emph> </l>
+<lb n="10303"/> <l> <emph> <place> <location> <geo> 53.251067 -6.665231 </geo> </location> <placeName> Sallins </placeName> </place> </emph> </l>
+<lb n="10304"/> <l> <emph> <placeName> County Kildare </placeName> </emph> </l>
+<lb n="10305"/> <l> <emph> <placeName> Ireland </placeName> </emph> </l>
+<lb n="10306"/> <l> <emph> <placeName> Europe </placeName> </emph> </l>
+<lb n="10307"/> <l> <emph> <placeName> The World </placeName> </emph> </l>
+<lb n="10308"/> <l> <emph> <placeName> The Universe </placeName> </emph> </l>
+</lg>
+<p><lb n="10309"/> That was in his writing: and <persName> Fleming </persName> one night for a cod had
+<lb n="10310"/> written on the opposite page:</p>
+<lg>
+<lb n="10311"/> <l> <emph> <persName> Stephen Dedalus </persName> is my name, </emph> </l>
+<lb n="10312"/> <l> <emph> <placeName> Ireland </placeName> is my nation. </emph> </l>
+<lb n="10313"/> <l> <emph> <place> <location> <geo> 53.310769 -6.684716 </geo> </location> <placeName> Clongowes </placeName> </place> is my <seg type="neologism"> dwellingplace </seg> </emph> </l>
+<lb n="10314"/> <l> <emph> And heaven my expectation. </emph> </l>
+</lg>
+<p><lb n="10315"/> He read the verses backwards but then they were not poetry.
+<lb n="10316"/> Then he read the flyleaf from the bottom to the top till he came
+<lb n="10317"/> to his own name. That was he: and he read down the page
+<lb n="10318"/> again. What was after <placeName> the universe </placeName>? Nothing. But was there
+<lb n="10319"/> anything round <placeName> the universe </placeName> to show where it stopped before
+<lb n="10320"/> the nothing place began? It could not be a wall but there could
+<lb n="10321"/> be a thin thin line there all round everything. It was very big to
+<lb n="10322"/> think about everything and everywhere. Only <persName> God </persName> could do
+<lb n="10323"/> that. He tried to think what a big thought that must be but he
+<lb n="10324"/> could think only of <persName> God </persName>. <persName> God </persName> was <persName> God </persName>'s name just as his name
+<lb n="10325"/> was <persName> Stephen </persName>. <persName> <emph> Dieu </emph> </persName> was the French for <persName> God </persName> and that was <persName> God </persName>'s
+<lb n="10326"/> name too; and when anyone prayed to <persName> God </persName> and said <persName> <emph> Dieu </emph> </persName> then
+<lb n="10327"/> <persName> God </persName> knew at once that it was a French person that was pray-
+<lb n="10328"/>  ing. But though there were different names for <persName> God </persName> in all the
+<lb n="10329"/> different languages in the world and <persName> God </persName> understood what all
+<lb n="10330"/> the people who prayed said in their different languages still
+<lb n="10331"/> <persName> God </persName> remained always the same <persName> God </persName> and <persName> God </persName>'s real name was
+<lb n="10332"/> <persName> God </persName>.</p>
+<p><lb n="10333"/> It made him very tired to think that way. It made him feel
+<lb n="10334"/> his head very big. He turned over the flyleaf and looked wearily
+<lb n="10335"/> at the green round earth in the middle of the maroon clouds.
+<lb n="10336"/> He wondered which was right, to be for the green or for the
+<lb n="10337"/> maroon, because <persName> Dante </persName> had ripped the green velvet back off
+<lb n="10338"/> the brush that was for <persName> Parnell </persName> one day with her scissors and
+<lb n="10339"/> had told him that <persName> Parnell </persName> was a bad man. He wondered if they
+<lb n="10340"/> were arguing at home about that. That was called politics.
+<lb n="10341"/> There were two sides in it: <persName> Dante </persName> was on one side and his
+<lb n="10342"/> father and <persName> Mr Casey </persName> were on the other side but his mother and
+<lb n="10343"/> <persName> uncle Charles </persName> were on no side. Every day there was something
+<lb n="10344"/> in the paper about it.</p>
+<p><lb n="10345"/> It pained him that he did not know well what politics meant
+<lb n="10346"/> and that he did not know where the universe ended. He felt
+<lb n="10347"/> small and weak. When would he be like the fellows in poetry
+<lb n="10348"/> and rhetoric? They had big voices and big boots and they
+<lb n="10349"/> studied trigonometry. That was very far away. First came the
+<lb n="10350"/> vacation and then the next term and then vacation again and
+<lb n="10351"/> then again another term and then again the vacation. It was
+<lb n="10352"/> like a train going in and out of tunnels and that was like the
+<lb n="10353"/> noise of the boys eating in the refectory when you opened and
+<lb n="10354"/> closed the flaps of the ears. Term, vacation; tunnel, out; noise,
+<lb n="10355"/> stop. How far away it was! It was better to go to bed to sleep.
+<lb n="10356"/> Only prayers in the chapel and then bed. He shivered and
+<lb n="10357"/> yawned. It would be lovely in bed after the sheets got a bit hot.
+<lb n="10358"/> First they were so cold to get into. He shivered to think how
+<lb n="10359"/> cold they were first. But then they got hot and then he could
+<lb n="10360"/> sleep. It was lovely to be tired. He yawned again. Night prayers
+<lb n="10361"/> and then bed: he shivered and wanted to yawn. It would be
+<lb n="10362"/> lovely in a few minutes. He felt a warm glow creeping up from
+<lb n="10363"/> the cold shivering sheets, warmer and warmer till he felt warm
+<lb n="10364"/> all over, ever so warm; ever so warm and yet he shivered a little
+<lb n="10365"/> and still wanted to yawn.</p>
+<p><lb n="10366"/> The bell rang for night prayers and he filed out of the <seg type="neologism"> study-
+<lb n="10367"/> hall </seg> after the others and down the staircase and along the
+<lb n="10368"/> corridors to the chapel. The corridors were darkly lit and the
+<lb n="10369"/> chapel was darkly lit. Soon all would be dark and sleeping.
+<lb n="10370"/> There was cold night air in the chapel and the marbles were the
+<lb n="10371"/> colour the sea was at night. The sea was cold day and night:
+<lb n="10372"/> but it was colder at night. It was cold and dark under the
+<lb n="10373"/> seawall beside his father's house. But the kettle would be on the
+<lb n="10374"/> hob to make punch.</p>
+<p><lb n="10375"/> The prefect of the chapel prayed above his head and his
+<lb n="10376"/> memory knew the responses:</p>
+<lg type="prayer">
+<lb n="10377"/> <l> <emph> O Lord, open our lips </emph> </l>
+<lb n="10378"/> <l> <emph> And our mouth shall announce Thy praise. </emph> </l>
+<lb n="10379"> <l> <emph> Incline unto our aid, O God! </emph> </l>
+<lb n="10380"/> <l> <emph> O Lord, make haste to help us! </emph> </l>
+</lg>
+<p><lb n="10381"/> There was a cold night smell in the chapel. But it was a holy
+<lb n="10382"/> smell. It was not like the smell of the old peasants who knelt at
+<lb n="10383"/> the back of the chapel at Sunday mass. That was a smell of air
+<lb n="10384"/> and rain and turf and corduroy. But they were very holy peas-
+<lb n="10385"/> ants. They breathed behind him on his neck and sighed as they
+<lb n="10386"/> prayed. They lived in <place> <location> <geo> 53.293785 -6.687040 </geo> </location> <placeName> Clane </placeName>,^@ </place>, a fellow said: there were little
+<lb n="10387"/> cottages there and he had seen a woman standing at the <seg type="neologism"> half-
+<lb n="10388"/> door </seg> of a cottage with a child in her arms, as the cars had come
+<lb n="10389"/> past from <place> <location> <geo> 53.251067 -6.665231 </geo> </location> <placeName> Sallins </placeName> </place>. It would be lovely to sleep for one night in
+<lb n="10390"/> that cottage before the fire of smoking turf, in the dark lit by
+<lb n="10391"/> the fire, in the warm dark, breathing the smell of the peasants,
+<lb n="10392"/> air and rain and turf and corduroy. But, O, the road there
+<lb n="10393"/> between the trees was dark! You would be lost in the dark. It
+<lb n="10394"/> made him afraid to think of how it was.</p>
+<p><lb n="10395"/> He heard the voice of the prefect of the chapel saying the last
+<lb n="10396"/> prayer. He prayed it too against the dark outside under the
+<lb n="10397"/> trees.</p>
+<p><lb n="10398"/> <seg type="prayer"> Visit, we beseech Thee, O Lord, this habitation and
+<lb n="10399"/> <emph> drive away from it all the snares of the enemy. May
+<lb n="10400"/> <emph> Thy holy angels dwell herein to preserve us in peace
+<lb n="10401"/> <emph> and may Thy blessing be always upon us through
+<lb n="10402"/> Christ, Our Lord. Amen. </seg></p>
+<p><lb n="10403"/> His fingers trembled as he undressed himself in the dormi-
+<lb n="10404"/> tory. He told his fingers to hurry up. He had to undress and
+<lb n="10405"/> then kneel and say his own prayers and be in bed before the gas
+<lb n="10406"/> was lowered so that he might not go to hell when he died. He
+<lb n="10407"/> rolled his stockings off and put on his nightshirt quickly and
+<lb n="10408"/> knelt trembling at his bedside and repeated his prayers quickly
+<lb n="10409"/> quickly fearing that the gas would go down. He felt his shoul-
+<lb n="10410"/>ders shaking as he murmured:</p>
+<lg type="prayer">
+<lb n="10411"/> <l> <emph> God bless my father and my mother and spare them to
+<lb n="10412"/> <emph> me! </emph> </emph> </l>
+<lb n="10413"/> <l> <emph> God bless my little brothers and sisters and spare them
+<lb n="10414"/> <emph> to me! </emph> </l>
+<lb n="10415"/> <l> <emph> God bless <persName> Dante </persName> and <persName> uncle Charles </persName> and spare them to </emph>
+<lb n="10416"/> <emph> me! </emph></l>
+</lg>
+<p><lb n="10417"/> He blessed himself and climbed quickly into bed and, tuck-
+<lb n="10418"/> ing the end of the nightshirt under his feet, curled himself to
+<lb n="10419"/> gether under the cold white sheets, shaking and trembling. But
+<lb n="10420"/> he would not go to hell when he died; and the shaking would
+<lb n="10421"/> stop. A voice bade the boys in the dormitory goodnight. He
+<lb n="10422"/> peered out for an instant over the coverlet and saw the yellow
+<lb n="10423"/> curtains round and before his bed that shut him off on all sides.
+<lb n="10424"/> The light was lowered quietly.</p>
+<p><lb n="10425"/> The prefect's shoes went away. Where? Down the staircase
+<lb n="10426"/> and along the corridors or to his room at the end? He saw the
+<lb n="10427"/> dark. Was it true about the black dog that walked there at night
+<lb n="10428"/> with eyes as big as <seg type="neologism"> carriagelamps </seg>? They said it was the ghost of
+<lb n="10429"/> a murderer. A long shiver of fear flowed over his body. He saw
+<lb n="10430"/> the dark entrance hall of the castle. Old servants in old dress
+<lb n="10431"/> were in the <seg type="neologism"> ironingroom </seg> above the staircase. It was long ago.
+<lb n="10432"/> The old servants were quiet. There was a fire there but the hall
+<lb n="10433"/> was still dark. A figure came up the staircase from the hall. He
+<lb n="10434"/> wore the white cloak of a marshal; his face was pale and
+<lb n="10435"/> strange; he held his hand pressed to his side. He looked out of
+<lb n="10436"/> strange eyes at the old servants. They looked at him and saw
+<lb n="10437"/> their master's face and cloak and knew that he had received his
+<lb n="10438"/> <seg type="neologism"> deathwound </seg>. But only the dark was where they looked: only
+<lb n="10439"/> dark silent air. Their master had received his <seg type="neologism"> deathwound </seg> on
+<lb n="10440"/> the battlefield of <place> <location> <geo> 50.075538 14.437800 </geo> </location> <placeName> Prague </placeName> </place> far away over the sea. He was standing
+<lb n="10441"/> on the field; his hand was pressed to his side; his face was pale
+<lb n="10442"/> and strange and he wore the white cloak of a marshal.</p>
+<p><lb n="10443"/> O how cold and strange it was to think of that! All the dark
+<lb n="10444"/> was cold and strange. There were pale strange faces there, great
+<lb n="10445"/> eyes like <seg type="neologism"> carriagelamps </seg>. They were the ghosts of murderers, the
+<lb n="10446"/> figures of marshals who had received their <seg type="neologism"> deathwound </seg> on
+<lb n="10447"/> battlefields far away over the sea. What did they wish to say
+<lb n="10448"/> that their faces were so strange?</p>
+<p><lb n="10449"/> <seg type="prayer"> Visit, we beseech Thee, O Lord, this habitation and drive
+<lb n="10450"/> <emph> away from it all....^@ </seg></p>
+<p><lb n="10451"/> Going home for the holidays! That would be lovely: the
+<lb n="10452"/> fellows had told him. Getting up on the cars in the early wintry
+<lb n="10453"/> morning outside the door of the castle. The cars were rolling
+<lb n="10454"/> on the gravel. Cheers for the rector!</p>
+<p><lb n="10455"/> Hurray! Hurray! Hurray!</p>
+<p><lb n="10456"/> The cars drove past the chapel and all caps were raised.
+<lb n="10457"/> They drove merrily along the country roads. The drivers
+<lb n="10458"/> pointed with their whips to <place> <location> <geo> 53.262617 -6.666295 </geo> </location> <placeName> Bodenstown </placeName> </place>. The fellows cheered.
+<lb n="10459"/> They passed the farmhouse of the Jolly Farmer. Cheer after
+The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
+<lb n="10460"/> cheer after cheer. Through <place> <location> <geo> 53.293785 -6.687040 </geo> </location> <placeName> Clane </placeName> </place> they drove, cheering and
+<lb n="10461"/> cheered. The peasant women stood at the <seg type="neologism"> halfdoors </seg>, the men
+<lb n="10462"/> stood here and there. The lovely smell there was in the wintry
+<lb n="10463"/> air: the smell of Clane: rain and wintry air and turf smoul-
+<lb n="10464"/> dering and corduroy.</p>
+<p><lb n="10465"/> The train was full of fellows: a long long chocolate train
+<lb n="10466"/> with cream facings. The guards went to and fro opening,
+<lb n="10467"/> closing, locking, unlocking the doors. They were men in dark
+<lb n="10468"/> blue and silver; they had silvery whistles and their keys made a
+<lb n="10469"/> quick music: click, click: click, click.</p>
+<p><lb n="10470"/> And the train raced on over the flat lands and past the <place> <location> <geo> 53.230556 -6.866389 </geo> </location> <placeName> Hill
+<lb n="10471"/> of Allen </placeName> </place>. The <seg type="neologism"> telegraphpoles </seg> were passing, passing. The train
+<lb n="10472"/> went on and on. It knew. There were coloured lanterns in the
+<lb n="10473"/> hall of his father's house and ropes of green branches. There
+<lb n="10474"/> were holly and ivy round the <seg type="neologism"> pierglass </seg> and holly and ivy, green
+<lb n="10475"/> and red, twined round the chandeliers. There were red holly
+<lb n="10476"/> and green ivy round the old portraits on the walls. Holly and
+<lb n="10477"/> ivy for him and for Christmas.</p>
+<p><lb n="10478"/> Lovely......^@</p>
+<p><lb n="10479"/> All the people. Welcome home, <persName> Stephen </persName>! Noises of welcome.
+<lb n="10480"/> His mother kissed him. Was that right? His father was a mar-
+<lb n="10481"/> shal now: higher than a magistrate. Welcome home, <persName> Stephen </persName>!</p>
+<p><lb n="10482"/> Noises...</p>
+<p><lb n="10483"/> There was a noise of <seg type="neologism"> curtainrings </seg> running back along the
+<lb n="10484"/> rods, of water being splashed in the basins. There was a noise
+<lb n="10485"/> of rising and dressing and washing in the dormitory: a noise of
+<lb n="10486"/> clapping of hands as the prefect went up and down telling the
+<lb n="10487"/> fellows to look sharp. A pale sunlight showed the yellow cur-
+<lb n="10488"/> tains drawn back, the tossed beds. His bed was very hot and his
+<lb n="10489"/> face and body were very hot.</p>
+<p><lb n="10490"/> He got up and sat on the side of his bed. He was weak. He
+<lb n="10491"/> tried to pull on his stocking. It had a horrid rough feel. The
+<lb n="10492"/> sunlight was queer and cold.</p>
+<p><lb n="10493"/> <persName> Fleming </persName> said:</p>
+<p><lb n="10494"/> <said who="Fleming"> --Are you not well? </said></p>
+<p><lb n="10495"/> He did not know; and <persName> Fleming </persName> said:</p>
+<p><lb n="10496"/> <said who="Fleming"> --Get back into bed. I'll tell <persName> McGlade </persName> you're not well. </said></p>
+<p><lb n="10497"/> <said who="Fleming"> --He's sick. </said></p>
+<p><lb n="10498"/> <said who=""> --Who is? </said></p>
+<p><lb n="10499"/> <said who="Fleming"> --Tell <persName> McGlade </persName>. </said></p>
+<p><lb n="10500"/> <said who=""> --Get back into bed. </said></p>
+<p><lb n="10501"/> <said who=""> --Is he sick? </said></p>
+<p><lb n="10502"/> A fellow held his arms while he loosened the stocking cling-
+<lb n="10503"/> ing to his foot and climbed back into the hot bed.</p>
+<p><lb n="10504"/> He crouched down between the sheets, glad of their tepid
+<lb n="10505"/> glow. He heard the fellows talk among themselves about him
+<lb n="10506"/> as they dressed for mass. It was a mean thing to do, to shoulder
+<lb n="10507"/> him into the square ditch, they were saying.</p>
+<p><lb n="10508"/> Then their voices ceased; they had gone. A voice at his bed
+<lb n="10509"/> said:</p>
+<p><lb n="10510"/> <said who="Wells"> -- <persName> Dedalus </persName>, don't spy on us, sure you won't? </said></p>
+<p><lb n="10511"/> <persName> Wells </persName>'s face was there. He looked at it and saw that <persName> Wells </persName>
+<lb n="10512"/> was afraid.</p>
+<p><lb n="10513"/> <said who="Wells"> --I didn't mean to. Sure you won't? </said></p>
+<p><lb n="10514"/> His father had told him, whatever he did, never to peach on
+<lb n="10515"/> a fellow. He shook his head and answered no and felt glad.
+<lb n="10516"/> <persName> Wells </persName> said:</p>
+<p><lb n="10517"/> <said who="Wells"> --I didn't mean to, honour bright. It was only for cod. I'm
+<lb n="10518"/> sorry. </said></p>
+<p><lb n="10519"/> The face and the voice went away. Sorry because he was
+<lb n="10520"/> afraid. Afraid that it was some disease. Canker was a disease of
+<lb n="10521"/> plants and cancer one of animals: or another different. That
+<lb n="10522"/> was a long time ago then out on the playgrounds in the evening
+<lb n="10523"/> light, creeping from point to point on the fringe of his line, a
+<lb n="10524"/> heavy bird flying low through the grey light. <placeName> Leicester Abbey </placeName> lit
+<lb n="10525"/> up. <persName> Wolsey </persName> died there. The abbots buried him themselves.</p>
+<p><lb n="10526"/> It was not <persName> Wells </persName>'s face, it was the prefect's. He was not
+<lb n="10527"/> foxing. No, no: he was sick really. He was not foxing. And he
+<lb n="10528"/> felt the prefect's hand on his forehead; and he felt his forehead
+<lb n="10529"/> warm and damp against the prefect's cold damp hand. That
+<lb n="10530"/> was the way a rat felt, slimy and damp and cold. Every rat had
+<lb n="10531"/> two eyes to look out of. Sleek slimy coats, little little feet
+<lb n="10532"/> tucked up to jump, black shiny eyes to look out of. They could
+<lb n="10533"/> understand how to jump. But the minds of rats could not
+<lb n="10534"/> understand trigonometry. When they were dead they lay on
+<lb n="10535"/> their sides. Their coats dried then. They were only dead things.</p>
+<p><lb n="10536"/> The prefect was there again and it was his voice that was
+<lb n="10537"/> saying that he was to get up, that <persName> Father Minister </persName> had said he
+<lb n="10538"/> was to get up and dress and go to the infirmary. And while he
+<lb n="10539"/> was dressing himself as quickly as he could the prefect said:</p>
+<p><lb n="10540"/> <said who="the prefect"> --We must pack off to <persName> Brother Michael </persName> because we have the
+<lb n="10541"/> collywobbles. Terrible thing to have the collywobbles! How we
+<lb n="10542"/> wobble when we have the collywobbles! </said></p>
+<p><lb n="10543"/> He was very decent to say that. That was all to make him
+<lb n="10544"/> laugh. But he could not laugh because his cheeks and lips were
+<lb n="10545"/> all shivery: and then the prefect had to laugh by himself.</p>
+<p><lb n="10546"/> The prefect cried:</p>
+<p><lb n="10547"/> <said who="the prefect"> --Quick march! Hayfoot! Strawfoot! </said></p>
+<p><lb n="10548"/> They went together down the staircase and along the corri-
+<lb n="10549"/> dor and past the bath. As he passed the door he remembered
+<lb n="10550"/> with a vague fear the warm <seg type="neologism"> turfcoloured </seg> bogwater, the warm
+<lb n="10551"/> moist air, the noise of plunges, the smell of the towels, like
+<lb n="10552"/> medicine.</p>
+<p><lb n="10553"/> <persName> Brother Michael </persName> was standing at the door of the infirmary
+<lb n="10554"/> and from the door of the dark cabinet on his right came a smell
+<lb n="10555"/> like medicine. That came from the bottles on the shelves. The
+<lb n="10556"/> prefect spoke to <persName> Brother Michael </persName> and <persName> Brother Michael </persName>
+<lb n="10557"/> answered and called the prefect sir. He had reddish hair mixed
+<lb n="10558"/> with grey and a queer look. It was queer that he would always
+<lb n="10559"/> be a brother. It was queer too that you could not call him sir
+<lb n="10560"/> because he was a brother and had a different kind of look. Was
+<lb n="10561"/> he not holy enough or why could he not catch up on the others?</p>
+<p><lb n="10562"/> There were two beds in the room and in one bed there was a
+<lb n="10563"/> fellow: and when they went in he called out:</p>
+<p><lb n="10564"/> <said who="Athy"> --Hello! It's young <persName> Dedalus </persName>! What's up? </said></p>
+<p><lb n="10565"/> <said who="Brother Michael"> --The sky is up, <persName> Brother Michael </persName> said. </said></p>
+<p><lb n="10566"/> He was a fellow out of the third of grammar and, while <persName> Stephen </persName>
+<lb n="10567"/> was undressing, he asked <persName> Brother Michael </persName> to bring him a round
+<lb n="10568"/> of buttered toast.</p>
+<p><lb n="10569"/> <said who="Athy"> --Ah, do! he said. </said></p>
+<p><lb n="10570"/> <said who="Brother Michael"> --Butter you up! said <persName> Brother Michael </persName>. You'll get your walking
+<lb n="10571"/> papers in the morning when the doctor comes. </said></p>
+<p><lb n="10572"/> <said who="Athy"> --Will I? the fellow said. I'm not well yet. </said></p>
+<p><lb n="10573"/> <persName> Brother Michael </persName> repeated:</p>
+<p><lb n="10574"/> <said who="Athy"> --You'll get your walking papers, I tell you. </said></p>
+<p><lb n="10575"/> He bent down to rake the fire. He had a long back like the
+<lb n="10576"/> long back of a <seg type="neologism"> tramhorse </seg>. He shook the poker gravely and
+<lb n="10577"/> nodded his head at the fellow out of third of grammar.</p>
+<p><lb n="10578"/> Then <persName> Brother Michael </persName> went away and after a while the fel-
+<lb n="10579"/> low out of third of grammar turned in towards the wall and fell
+<lb n="10580"/> asleep.</p>
+<p><lb n="10581"/> That was the infirmary. He was sick then. Had they written
+<lb n="10582"/> home to tell his mother and father? But it would be quicker for
+<lb n="10583"/> one of the priests to go himself to tell them. Or he would write
+<lb n="10584"/> a letter for the priest to bring.</p>
+<lg type="letter">
+<lb n="10585"/> <l> <emph> Dear Mother </emph> </l>
+<lb n="10586"/> <l> <emph> I am sick. I want to go home. Please come and take
+<lb n="10587"/> me home. I am in the infirmary. </emph> </l>
+<lb n="10588"/> <l> <emph> Your fond son, </emph> </l>
+<lb n="10589"/> <l> <emph> <persName> Stephen </persName> </emph> </l>
+</lg>
+<p><lb n="10590"/> How far away they were! There was cold sunlight outside
+<lb n="10591"/> the window. He wondered if he would die. You could die just
+<lb n="10592"/> the same on a sunny day. He might die before his mother came.
+<lb n="10593"/> Then he would have a dead mass in the chapel like the way the
+<lb n="10594"/> fellows had told him it was when <persName> Little </persName> had died. All the fellows would be at the mass, dressed in black, all with sad faces.
+<lb n="10596"/> <persName> Wells </persName> too would be there but no fellow would look at him. The
+<lb n="10597"/> rector would be there in a cope of black and gold and there
+<lb n="10598"/> would be tall yellow candles on the altar and round the cata-
+<lb n="10599"/> falque. And they would carry the coffin out of the chapel
+<lb n="10600"/> slowly and he would be buried in the little graveyard of the
+<lb n="10601"/> community off the main avenue of limes. And <persName> Wells </persName> would be
+<lb n="10602"/> sorry then for what he had done. And the bell would toll
+<lb n="10603"/> slowly.</p>
+<p><lb n="10604"/> He could hear the tolling. He said over to himself the song
+<lb n="10605"/> that <persName> Brigid </persName> had taught him.</p>
+<lg type="song">
+<lb n="10606"/> <l> <emph> Dingdong! The castle bell! </emph> </l>
+<lb n="10607"/> <l> <emph> Farewell, my mother! </emph> </l>
+<lb n="10608"/> <l> <emph> Bury me in the old churchyard </emph> </l>
+<lb n="10609"/> <l> <emph> Beside my eldest brother. </emph> </l>
+<lb n="10610"/> <l> <emph> My coffin shall be black, </emph> </l>
+<lb n="10611"/> <l> <emph> Six angels at my back, </emph> </l>
+<lb n="10612"/> <l> <emph> Two to sing and two to pray </emph> </l>
+<lb n="10613"/> <l> <emph> And two to carry my soul away. </emph> </l>
+</lg>
+<p><lb n="10614"/> How beautiful and sad that was! How beautiful the words
+<lb n="10615"/> were where they said <emph> Bury me in the old churchyard </emph>! A tremor
+<lb n="10616"/> passed over his body. How sad and how beautiful! He wanted
+<lb n="10617"/> to cry quietly but not for himself: for the words, so beautiful
+<lb n="10618"/> and sad, like music. The bell! The bell! Farewell! O farewell!</p>
+<p><lb n="10619"/> The cold sunlight was weaker and <persName> Brother Michael </persName> was
+<lb n="10620"/> standing at his bedside with a bowl of <seg type="neologism"> beeftea </seg>. He was glad for
+<lb n="10621"/> his mouth was hot and dry. He could hear them playing on the
+<lb n="10622"/> playgrounds. It was after lunchtime.^@ And the day was going on
+<lb n="10623"/> in the college just as if he were there.</p>
+<p><lb n="10624"/> Then <persName> Brother Michael </persName> was going away and the fellow out of
+<lb n="10625"/> third of grammar told him to be sure and come back and tell
+<lb n="10626"/> him all the news in the paper. He told <persName> Stephen </persName> that his name
+<lb n="10627"/> was <persName> Athy </persName> and that his father kept a lot of racehorses that were
+<lb n="10628"/> spiffing jumpers and that his father would give a good tip to
+<lb n="10629"/> <persName> Brother Mi-
+<lb n="10630"/> chael </persName> any time he wanted it because <persName> Brother Michael </persName> was very decent and always told him the news out of the
+<lb n="10631"/> paper they got every day up in the castle. There was every kind
+<lb n="10632"/> of news in the paper: accidents, shipwrecks, sports and politics.</p>
+<p><lb n="10633"/> <said who="Athy"> --Now it is all about politics in the paper, he said. Do your
+<lb n="10634"/> people talk about that too? </said></p>
+<p><lb n="10635"/> <said who="Stephen"> --Yes, <persName> Stephen </persName> said. </said></p>
+<p><lb n="10636"/> <said who="Athy"> --Mine too, he said. </said></p>
+<p><lb n="10637"/> Then he thought for a moment and said:</p>
+<p><lb n="10638"/> <said who="Athy"> --You have a queer name, <persName> Dedalus </persName>, and I have a queer name
+<lb n="10639"/> too, <place> <location> <geo> 52.991834 -6.985728 </geo> </location> <placeName> <persName> Athy </persName> </placeName> </place>. My name is the name of a town. Your name is like
+<lb n="10640"/> Latin. </said></p>
+<p><lb n="10641"/> Then he asked:</p>
+<p><lb n="10642"/> <said who="Athy"> --Are you good at riddles? </said></p>
+<p><lb n="10643"/> <persName> Stephen </persName> answered:</p>
+<p><lb n="10644"/> <said who="Stephen"> --Not very good. </said></p>
+<p><lb n="10645"/> Then he said:</p>
+<p><lb n="10646"/> <said who="Athy"> --Can you answer me this one? Why is the county <placeName> Kildare </placeName> like
+<lb n="10647"/> the leg of a fellow's breeches? </said></p>
+<p><lb n="10648"/> <persName> Stephen </persName> thought what could be the answer and then said:</p>
+<p><lb n="10649"/> <said who="Stephen"> --I give it up. </said></p>
+<p><lb n="10650"/> <said who="Athy"> --Because there is a thigh in it, he said. Do you see the joke?
+<lb n="10651"/> <placeName> <persName> Athy </persName> </placeName> is the town in the county <placeName> Kildare </placeName> and a thigh is the other
+<lb n="10652"/> thigh. </said></p>
+<p><lb n="10653"/> <said who="Stephen"> --O, I see, <persName> Stephen </persName> said. </said></p>
+<p><lb n="10654"/> <said who="Athy"> --That's an old riddle, he said. </said></p>
+<p><lb n="10655"/> After a moment he said:</p>
+<p><lb n="10656"/> <said who="Athy"> --I say! </said></p>
+<p><lb n="10657"/> <said who="Stephen"> --What? asked <persName> Stephen </persName>. </said></p>
+<p><lb n="10658"/> <said who="Athy"> --You know, he said, you can ask that riddle another way? </said></p>
+<p><lb n="10659"/> <said who="Stephen"> --Can you? said <persName> Stephen </persName>. </said></p>
+<p><lb n="10660"/> <said who="Athy"> --The same riddle, he said. Do you know the other way to ask
+<lb n="10661"/> it?</p>
+<p><lb n="10662"/> <said who="Stephen"> --No, said <persName> Stephen </persName>. </said></p>
+<p><lb n="10663"/> <said who="Athy"> --Can you not think of the other way? he said. </said></p>
+<p><lb n="10664"/> He looked at <persName> Stephen </persName> over the bedclothes as he spoke. Then
+<lb n="10665"/> he lay back on the pillow and said:</p>
+<p><lb n="10666"/> <said who="Athy"> --There is another way but I won't tell you what it is. </said></p>
+<p><lb n="10667"/> Why did he not tell it? His father, who kept the racehorses,
+<lb n="10668"/> must be a magistrate too like <persName> Saurin </persName>'s father and <persName> Nasty Roche </persName>'s
+<lb n="10669"/> father. He thought of his own father, of how he sang songs
+<lb n="10670"/> while his mother played and of how he always gave him a
+<lb n="10671"/> shilling when he asked for sixpence and he felt sorry for him
+<lb n="10672"/> that he was not a magistrate like the other boys' fathers. Then
+<lb n="10673"/> why was he sent to that place with them? But his father had
+<lb n="10674"/> told him that he would be no stranger there because his grand-
+<lb n="10675"/> uncle had presented an address to the liberator there fifty years
+<lb n="10676"/> before. You could know the people of that time by their old
+<lb n="10677"/> dress. It seemed to him a solemn time: and he wondered if that
+<lb n="10678"/> was the time when the fellows in <placeName> Clongowes </placeName> wore blue coats
+<lb n="10679"/> with brass buttons and yellow waistcoats and caps of <seg type="neologism"> rabbit-
+<lb n="10680"/>skin </seg> and drank beer like grownup people and kept greyhounds
+<lb n="10681"/> of their own to course the hares with.</p>
+<p><lb n="10682"/> He looked at the window and saw that the daylight had
+<lb n="10683"/> grown weaker. There would be cloudy grey light over the play-
+<lb n="10684"/> grounds. There was no noise on the playgrounds. The class
+<lb n="10685"/> must be doing the themes or perhaps <persName> Father Arnall </persName> was reading
+<lb n="10686"/> a legend out of the book.</p>
+<p><lb n="10687"/> It was queer that they had not given him any medicine.
+<lb n="10688"/> Perhaps <persName> Brother Michael </persName> would bring it back when he came.
+<lb n="10689"/> They said you got stinking stuff to drink when you were in the
+<lb n="10690"/> infirmary. But he felt better now than before. It would be nice
+<lb n="10691"/> getting better slowly. You could get a book then. There was a
+<lb n="10692"/> book in the library about <placeName> Holland </placeName>. There were lovely foreign
+<lb n="10693"/> names in it and pictures of <seg type="neologism"> strangelooking </seg> cities and ships. It
+<lb n="10694"/> made you feel so happy.</p>
+<p><lb n="10695"/> How pale the light was at the window! But that was nice.
+<lb n="10696"/> The fire rose and fell on the wall. It was like waves. Someone
+<lb n="10697"/> had put coal on and he heard voices. They were talking. It was
+<lb n="10698"/> the noise of the waves. Or the waves were talking among them-
+<lb n="10699"/>selves as they rose and fell.</p>
+<p><lb n="10700"/> He saw the sea of waves, long dark waves rising and falling,
+<lb n="10701"/> dark under the moonless night. A tiny light twinkled at the
+<lb n="10702"/> pierhead where the ship was entering: and he saw a multitude
+<lb n="10703"/> of people gathered by the waters' edge to see the ship that was
+<lb n="10704"/> entering their harbour. A tall man stood on the deck, looking
+<lb n="10705"/> out towards the flat dark land: and by the light at the pierhead
+<lb n="10706"/> he saw his face, the sorrowful face of <persName> Brother Michael </persName>.</p>
+<p><lb n="10707"/> He saw him lift his hand towards the people and heard him
+<lb n="10708"/> say in a loud voice of sorrow over the waters:</p>
+<p><lb n="10709"/> <said who="Brother Michael"> --He is dead. We saw him lying upon the catafalque. </said></p>
+<p><lb n="10710"/> A wail of sorrow went up from the people.</p>
+<p><lb n="10711"/> <said who="the people"> -- <persName> Parnell </persName>! <persName> Parnell </persName>! He is dead! </said></p>
+<p><lb n="10712"/> They fell upon their knees, moaning in sorrow.</p>
+<p><lb n="10713"/> And he saw <persName> Dante </persName> in a maroon velvet dress and with a green
+<lb n="10714"/> velvet mantle hanging from her shoulders walking proudly and
+<lb n="10715"/> silently past the people who knelt by the waters' edge.</p>
+</body>
+</text>
+</TEI>

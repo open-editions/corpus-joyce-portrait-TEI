@@ -1,0 +1,1150 @@
+﻿<body>
+<text>
+<div n="1.3" type="section"> 
+<p> <lb n="10716"/> A great fire, banked high and red, flamed in the grate and
+<lb n="10717"/> under the <seg type="neologism">ivytwined</seg> branches of the chandelier the Christmas
+<lb n="10718"/> table was spread. They had come home a little late and still
+<lb n="10719"/> dinner was not ready: but it would be ready in a jiffy, his
+<lb n="10720"/> mother had said. They were waiting for the door to open and
+<lb n="10721"/> for the servants to come in, holding the big dishes covered with
+<lb n="10722"/> their heavy metal covers.</p>
+<p> <lb n="10723"/> All were waiting: <persName>uncle Charles</persName>, who sat far away in the
+<lb n="10724"/> shadow of the window, <persName>Dante</persName> and <persName>Mr Casey</persName>, who sat in the
+<lb n="10725"/> <seg type="neologism">easychairs</seg> at either side of the hearth, <persName>Stephen</persName>, seated on a
+<lb n="10726"/> chair between them, his feet resting on the toasted boss. <persName>Mr
+<lb n="10727"/> Dedalus</persName> looked at himself in the <seg type="neologism">pierglass</seg> above the mantel-
+<lb n="10728"/> piece, waxed out his moustache ends@ and then, parting his
+<lb n="10729"/> coattails, stood with his back to the glowing fire: and still, from
+<lb n="10730"/> time to time, he withdrew a hand from his coattail to wax out
+<lb n="10731"/> one of his moustache ends.@ <persName>Mr Casey</persName> leaned his head to one
+<lb n="10732"/> side and, smiling, tapped the gland of his neck with his fingers.
+<lb n="10733"/> And <persName>Stephen</persName> smiled too for he knew now that it was not true
+<lb n="10734"/> that <persName>Mr Casey</persName> had a purse of silver in his throat. He smiled to
+<lb n="10735"/> think how the silvery noise which <persName>Mr Casey</persName> used to make had
+<lb n="10736"/> deceived him. And when he had tried to open <persName>Mr Casey</persName>'s hand
+<lb n="10737"/> to see if the purse of silver was hidden there he had seen that
+<lb n="10738"/> the fingers could not be straightened out: and <persName>Mr Casey</persName> had
+<lb n="10739"/> told him that he had got those three cramped fingers making a
+<lb n="10740"/> birthday present for <persName>Queen Victoria</persName>.</p>
+<p> <lb n="10741"/> <persName>Mr Casey</persName> tapped the gland of his neck and smiled at <persName>Stephen</persName>Ste-
+<lb n="10742"/> phen with sleepy eyes: and <persName>Mr Dedalus</persName> said to him:
+<lb n="10743"/> <said who="Simon Dedalus">--Yes. Well now, that's all right. O, we had a good walk,
+<lb n="10744"/> hadn't we, <persName>John</persName>? Yes ......^@ I wonder if there's any likelihood of
+<lb n="10745"/> dinner this evening. Yes ..... O, well now, we got a good breath
+<lb n="10746"/> of ozone round <place><location><geo>53.190760 -6.089490</geo></location><placeName>the Head</placeName></place> today. Ay, bedad. </said></p>
+<p> <lb n="10747"/> He turned to <persName>Dante</persName> and said:
+<lb n="10748"/> <said who="John Casey">--You didn't stir out at all, <persName>Mrs Riordan</persName>? </said></p>
+<p> <lb n="10749"/> <persName>Dante</persName> frowned and said shortly:
+<lb n="10750"/> <said who="Dante">--No. </said></p>
+<p> <lb n="10751"/> <persName>Mr Dedalus</persName> dropped his coattails and went over to the side-
+<lb n="10752"/> sideboard. He brought forth a great stone jar of whisky from the
+<lb n="10753"/> locker and filled the decanter slowly, bending now and then to
+<lb n="10754"/> see how much he had poured in. Then replacing the jar in the
+<lb n="10755"/> locker he poured out^@ a little of the whisky into two glasses,
+<lb n="10756"/> added a little water and came with them back^@ to the fireplace.
+<lb n="10757"/> <said who="Simon Dedalus">--A thimbleful, <persName>John</persName>, he said.^@ Just^@ to whet your appetite. </said></p>
+<p> <lb n="10758"/> <persName>Mr Casey</persName> took the glass, drank, and placed it near him on
+<lb n="10759"/> the mantelpiece. Then he said:
+<lb n="10760"/> <said who="John Casey">--Well, I can't help thinking of our friend <persName>Christopher</persName> manu-
+<lb n="10761"/> facturing ....^@ </said></p>
+<p> <lb n="10762"/> He broke into a fit of laughter and coughing and added:
+<lb n="10763"/> <said who="John Casey">--... manufacturing that champagne for those fellows. </said></p>
+<p> <lb n="10764"/> <persName>Mr Dedalus</persName> laughed loudly.
+<lb n="10765"/> <said who="Simon Dedalus">--Is it <persName>Christy</persName>? he said. There's more cunning in one of those
+<lb n="10766"/> warts on his bald head than in a pack of jack foxes. </said></p>
+<p> <lb n="10767"/> He inclined his head, closed his eyes, and, licking his lips
+<lb n="10768"/> profusely, began to speak with the voice of the hotel keeper.^@
+<lb n="10769"/> <said who="Simon Dedalus">--And he has such a soft mouth when he's speaking to you,
+<lb n="10770"/> don't you know. He's very moist and watery about the dew-
+<lb n="10771"/> dewlaps, God bless him. </said></p>
+<p> <lb n="10772"/> <persName>Mr Casey</persName> was still struggling through his fit of coughing and
+<lb n="10773"/> laughter. <persName>Stephen</persName>, seeing and hearing the hotel keeper^@ through
+<lb n="10774"/> his father's face and voice, laughed.</p>
+<p> <lb n="10775"/> <persName>Mr Dedalus</persName> put up his eyeglass and, staring down at him,
+<lb n="10776"/> said quietly and kindly:
+<lb n="10777"/> <said who="Simon Dedalus">--What are you laughing at, you little puppy, you? </said></p>
+<p> <lb n="10778"/> The servants entered and placed the dishes on the table. <persName>Mrs
+<lb n="10779"/> Dedalus</persName> followed and the places were arranged.
+<lb n="10780"/> <said who="Mary Dedalus">--Sit over, she said. </said></p>
+<p> <lb n="10781"/> <persName>Mr Dedalus</persName> went to the end of the table and said:
+<lb n="10782"/> <said who="Simon Dedalus">--Now, <persName>Mrs Riordan</persName>, sit over. <persName>John</persName>, sit you down, my hearty. </said></p>
+<p> <lb n="10783"/> He looked round to where <persName>uncle Charles</persName> sat and said:
+<lb n="10784"/> <said who="Simon Dedalus">--Now then, sir, there's a bird here waiting for you. </said></p>
+<p> <lb n="10785"/> When all had taken their seats he laid his hand on the cover
+<lb n="10786"/> and then said quickly, withdrawing it:
+<lb n="10787"/> <said who="Simon Dedalus">--Now, <persName>Stephen</persName>. </said></p>
+<p> <lb n="10788"/> <persName>Stephen</persName> stood up in his place to say the grace before meals:</p>
+<p> <lb n="10789"/> <seg type="prayer"> <said who="Stephen"> <emph> <l>Bless us, O Lord, and these Thy gifts which through
+<lb n="10790"/> Thy bounty we are about to receive through Christ
+<lb n="10791"/> Our Lord.^@ Amen.^@ </emph> </said> </seg> </p>
+<p> <lb n="10792"/> All blessed themselves and <persName>Mr Dedalus</persName> with a sigh of pleas-
+<lb n="10793"/> ure lifted from the dish the heavy cover pearled around the
+<lb n="10794"/> edge with glistening drops.</p>
+<p> <lb n="10795"/> <persName>Stephen</persName> looked at the plump turkey which had lain, trussed
+<lb n="10796"/> and skewered, on the kitchen table. He knew that his father
+<lb n="10797"/> had paid a guinea for it in <place><location><geo>53.346308 -6.257925</geo></location><placeName>Dunn's of D'Olier Street</placeName></place> and that the
+<lb n="10798"/> man had prodded it often at the breastbone to show how good
+<lb n="10799"/> it was: and he remembered the man's voice when he had said:
+<lb n="10800"/> <said who="the butcher">--Take that one, sir. That's the real Ally Daly. </said></p>
+<p> <lb n="10801"/> Why did <persName>Mr Barrett</persName> in Clongowes call his pandybat a tur-
+<lb n="10802"/> key? It was not like a^@ turkey.^@ But Clongowes was far away: and
+<lb n="10803"/> the warm heavy smell of turkey and ham and celery rose from
+<lb n="10804"/> the plates and dishes and the great fire was banked high and
+<lb n="10805"/> red in the grate and the green ivy and red holly made you feel
+<lb n="10806"/> so happy and when dinner was ended the big plumpudding
+<lb n="10807"/> would be carried in, studded with peeled almonds and sprigs of
+<lb n="10808"/> holly, with bluish fire running around it and a little green flag
+<lb n="10809"/> flying from the top.</p>
+<p> <lb n="10810"/> It was his first Christmas dinner and he thought of his little
+<lb n="10811"/> brothers and sisters who were waiting in the nursery, as he had
+<lb n="10812"/> often waited, till the pudding came. The deep low collar and
+<lb n="10813"/> the <place><location><geo>51.487402 -0.607942</geo></location><placeName>Eton</placeName></place> jacket made him feel queer and oldish: and that morn-
+<lb n="10814"/> ing when his mother had brought him down to the parlour,
+<lb n="10815"/> dressed for mass, his father had cried. That was because he was
+<lb n="10816"/> thinking of his own father. And <persName>uncle Charles</persName> had said so too.</p>
+<p> <lb n="10817"/> <persName>Mr Dedalus</persName> covered the dish and began to eat hungrily.
+<lb n="10818"/> Then he said:
+<lb n="10819"/> <said who="Simon Dedalus">--Poor old Christy, he's nearly lopsided now with roguery. </said>
+<lb n="10820"/> <said who="Mary Dedalus">--<persName>Simon</persName>, said <persName>Mrs Dedalus</persName>, you haven't given <persName>Mrs Riordan</persName>
+<lb n="10821"/> any sauce. </said></p>
+<p> <lb n="10822"/> <persName>Mr Dedalus</persName> seized the sauceboat.
+<lb n="10823"/> <said who="Simon Dedalus">--Haven't I?  he cried. <persName>Mrs Riordan</persName>, pity the poor blind. </said></p>
+<p> <lb n="10824"/> <persName>Dante</persName> covered her plate with her hands and said:
+<lb n="10825"/> <said who="Dante">--No, thanks. </said></p>
+<p> <lb n="10826"/> <persName>Mr Dedalus</persName> turned to <persName>uncle Charles</persName>.
+<lb n="10827"/> <said who="Simon Dedalus">--How are you off, sir? </said>
+<lb n="10828"/> <said who="Uncle Charles">--Right as the mail, <persName>Simon</persName>. </said>
+<lb n="10829"/> <said who="Simon Dedalus">--You, <persName>John</persName>? </said>
+<lb n="10830"/> <said who="John Casey">--I'm all right. Go on yourself. </said>
+<lb n="10831"/> <said who="Simon Dedalus">--Mary? Here, <persName>Stephen</persName>, here's something to make your hair
+<lb n="10832"/> curl. </said></p>
+<p> <lb n="10833"/> He poured sauce freely over <persName>Stephen</persName>'s plate and set the boat
+<lb n="10834"/> again on the table. Then he asked <persName>uncle Charles</persName> was it tender.
+<lb n="10835"/> <persName>Uncle Charles</persName> could not speak because his mouth was full but
+<lb n="10836"/> he nodded that it was.
+<lb n="10837"/> <said who="Simon Dedalus">--That was a good answer our friend made to the canon.
+<lb n="10838"/> What? said <persName>Mr Dedalus</persName>. </said>
+<lb n="10839"/> <said who="John Casey">--I didn't think he had that much in him, said <persName>Mr Casey</persName>. </said>
+<lb n="10840"/> <said who="Simon Dedalus">--<quote>I'll pay you your dues, father, when you cease turning the
+<lb n="10841"/> house of God into a <seg type="neologism">pollingbooth</seg>.</quote></said>
+<lb n="10842"/> <said who="Dante">--A nice answer, said <persName>Dante</persName>, for any man calling himself a
+<lb n="10843"/> catholic to give to his priest. </said>
+<lb n="10844"/> <said who="Simon Dedalus">--They have only themselves to blame, said <persName>Mr Dedalus</persName>
+<lb n="10845"/> suavely. If they took a fool's advice they would confine their
+<lb n="10846"/> attention to religion. </said>
+<lb n="10847"/> <said who="Dante">--It is religion, Dante said. They are doing their duty in warn-
+<lb n="10848"/> ing the people. </said>
+<lb n="10849"/> <said who="John Casey">--We go to the house of God, <persName>Mr Casey</persName> said, in all humility to
+<lb n="10850"/> pray to our Maker and not to hear election addresses. </said>
+<lb n="10851"/> <said who="Dante">--It is religion, <persName>Dante</persName> said again. They are right. They must
+<lb n="10852"/> direct their flocks. </said>
+<lb n="10853"/> <said who="Simon Dedalus">--And preach politics from the altar, is it? asked <persName>Mr Dedalus</persName>. </said>
+<lb n="10854"/> <said who="Dante">--Certainly, said <persName>Dante</persName>. It is a question of public morality. A
+<lb n="10855"/> priest would not be a priest if he did not tell his flock what is
+<lb n="10856"/> right and what is wrong. </said></p>
+<p> <lb n="10857"/> <persName>Mrs Dedalus</persName> laid down her knife and fork, saying:
+<lb n="10858"/> <said who="Mary Dedalus">--For pity's sake and for pity'^@ sake let us have no political
+<lb n="10859"/> discussion on this day of all days in the year. </said>
+<lb n="10860"/> <said who="Uncle Charles">--Quite right, ma'am, said <persName>uncle Charles</persName>. Now, <persName>Simon</persName>, that's
+<lb n="10861"/> quite enough now. Not another word now. </said>
+<lb n="10862"/> <said who="Simon Dedalus">--Yes, yes, said <persName>Mr Dedalus</persName> quickly. </said></p>
+<p> <lb n="10863"/> He uncovered the dish boldly and said:
+<lb n="10864"/> <said who="Simon Dedalus">--Now then, who's for more turkey? </said></p>
+<p> <lb n="10865"/> Nobody answered. <persName>Dante</persName> said:
+<lb n="10866"/> <said who="Dante">--Nice language for any catholic to use! </said>
+<lb n="10867"/> <said who="Mary Dedalus">--<persName>Mrs Riordan</persName>, I appeal to you, said <persName>Mrs Dedalus</persName>, to let the
+<lb n="10868"/> matter drop now. </said></p>
+<p> <lb n="10869"/> <persName>Dante</persName> turned on her and said:
+<lb n="10870"/> <said who="Dante">--And am I to sit here and listen to the pastors of my church
+<lb n="10871"/> being flouted? </said>
+<lb n="10872"/> <said who="Simon Dedalus">--Nobody is saying a word against them, said <persName>Mr Dedalus</persName>, so
+<lb n="10873"/> long as they don't meddle in politics. </said>
+<lb n="10874"/> <said who="Dante">--The bishops and priests of Ireland have spoken, said <persName>Dante</persName>,
+<lb n="10875"/> and they must be obeyed. </said>
+<lb n="10876"/> <said who="John Casey">--Let them leave politics alone, said <persName>Mr Casey</persName>, or the people
+<lb n="10877"/> may leave their church alone. </said>
+<lb n="10878"/> <said who="Dante">--You hear? said <persName>Dante</persName> turning to <persName>Mrs Dedalus</persName>. </said>
+<lb n="10879"/> <said who="Mary Dedalus">--<persName>Mr Casey</persName>! <persName>Simon</persName>! said <persName>Mrs Dedalus</persName>. Let it end now. </said>
+<lb n="10880"/> <said who="Uncle Charles">--Too bad! Too bad! said <persName>uncle Charles</persName>. </said>
+<lb n="10881"/> <said who="Simon Dedalus">--What? cried <persName>Mr Dedalus</persName>. Were we to desert him at the bid-
+<lb n="10882"/> ding of the English people? </said>
+<lb n="10883"/> <said who="Dante">--He was no longer worthy to lead, said <persName>Dante</persName>. He was a
+<lb n="10884"/> public sinner. </said>
+<lb n="10885"/> <said who="John Casey">--We are all sinners and black sinners, said <persName>Mr Casey</persName> coldly. </said>
+<lb n="10886"/> <said who="Dante">--<quote><ref>Matthew 18.7</ref>>Woe be to the man by whom the scandal cometh!</quote> said <persName>Mrs
+<lb n="10887"/> Riordan</persName>. <quote><ref>Luke 17.1-2</ref><emph>It would be better for him that a millstone were tied
+<lb n="10888"/> about his neck and that he were cast into the depths^@ of the sea
+<lb n="10889"/> rather than that he should scandalise one of these, my least
+<lb n="10890"/> little ones.</quote> That is the language of the Holy Ghost.</said>
+<lb n="10891"/> <said who="Simon Dedalus">--And very bad language,^@ if you ask me, said <persName>Mr Dedalus</persName>
+<lb n="10892"/> coolly. </said>
+<lb n="10893"/> <said who="Uncle Charles">--Simon! Simon! said uncle Charles. The boy. </said>
+<lb n="10894"/> <said who="Simon Dedalus">--Yes, yes, said Mr Dedalus. I meant about the ... I was think-
+<lb n="10895"/> ing about the bad language of that railway porter. Well now,
+<lb n="10896"/> that's all right. Here, Stephen, show me your plate, old chap.
+<lb n="10897"/> Eat away now. Here. </said></p>
+<p> <lb n="10898"/> He heaped up the food on Stephen's plate and served uncle
+<lb n="10899"/> Charles and Mr Casey to large pieces of turkey and splashes of
+<lb n="10900"/> sauce. Mrs Dedalus was eating little and Dante sat with her
+<lb n="10901"/> hands in her lap. She was red in the face. Mr Dedalus rooted
+<lb n="10902"/> with the carvers at the end of the dish and said:
+<lb n="10903"/> <said who="Simon Dedalus">--There's a tasty bit here we call the pope's nose. If any lady
+<lb n="10904"/> or gentleman .....^@</p>
+<p> <lb n="10905"/> He held a piece of fowl up on the prong of the <seg type="neologism">carvingfork</seg>.
+<lb n="10906"/> Nobody spoke. He put it on his own plate, saying:
+<lb n="10907"/> <said who="Simon Dedalus">--Well, you can't say but you were asked. I think I had better
+<lb n="10908"/> eat it myself because I'm not well in my health lately. </said></p>
+<p> <lb n="10909"/> He winked at Stephen and, replacing the dishcover, began to
+<lb n="10910"/> eat again.</p>
+<p> <lb n="10911"/> There was a silence while he ate. Then he said:
+<lb n="10912"/> <said who="Simon Dedalus">--Well now, the day kept up fine after all. There were plenty
+<lb n="10913"/> of strangers down too. </said></p>
+<p> <lb n="10914"/> Nobody spoke. He said again:
+<lb n="10915"/> <said who="Simon Dedalus">--I think there were more strangers down than last Christmas. </said></p>
+<p> <lb n="10916"/> He looked round at the others whose faces were bent to-
+<lb n="10917"/> towards their plates and, receiving no reply, waited for a moment
+<lb n="10918"/> and said bitterly:
+<lb n="10919"/> <said who="Simon Dedalus">--Well, my Christmas dinner has been spoiled anyhow. </said>
+<lb n="10920"/> <said who="Dante">--There could be neither luck nor grace, Dante said, in a house
+<lb n="10921"/> where there is no respect for the pastors of the church. </said></p>
+<p> <lb n="10922"/> Mr Dedalus threw his knife and fork noisily on his plate.
+<lb n="10923"/> <said who="Simon Dedalus">--Respect! he said. Is it for Billy with the lip or for the tub of
+<lb n="10924"/> guts up in <place><location><geo>54.350280 -6.652792</geo></location><placeName>Armagh</placeName></place>? Respect! </said>
+<lb n="10925"/> <said who="John Casey">--Princes of the church, said Mr Casey with slow scorn. </said>
+<lb n="10926"/> <said who="Simon Dedalus">--Lord Leitrim's coachman, yes, said Mr Dedalus. </said>
+<lb n="10927"/> <said who="Dante">--They are the Lord's anointed, Dante said. They are an hon-
+<lb n="10928"/> our to their country. </said>
+<lb n="10929"/> <said who="Simon Dedalus">--Tub of guts, said Mr Dedalus coarsely. He has a handsome
+<lb n="10930"/> face, mind you, in repose. You should see that fellow lapping
+<lb n="10931"/> up his bacon and cabbage of a cold winter's day. O Johnny! </said></p>
+<p> <lb n="10932"/> He twisted his features into a grimace of heavy bestiality and
+<lb n="10933"/> made a lapping noise with his lips.
+<lb n="10934"/> <said who="Mary Dedalus">--Really, Simon, said Mrs Dedalus, you should not speak that
+<lb n="10935"/> way before Stephen. It's not right. </said>
+<lb n="10936"/> <said who="Dante">--O, he'll remember all this when he grows up, said Dante
+<lb n="10937"/> hotly,^@ - the language he heard against God and religion and
+<lb n="10938"/> priests in his own home. </said>
+<lb n="10939"/> <said who="John Casey">--Let him remember too, cried Mr Casey to her from across
+<lb n="10940"/> the table, the language with which the priests and the priests'
+<lb n="10941"/> pawns broke Parnell's heart and hounded him into his grave.
+<lb n="10942"/> Let him remember that too when he grows up. </said>
+<lb n="10943"/> <said who="Simon Dedalus">--Sons of bitches! cried Mr Dedalus. When he was down they
+<lb n="10944"/> turned on him to betray him and rend him like rats in a sewer.
+<lb n="10945"/> <seg type="neologism">Lowlived</seg> dogs! And they look it! By Christ, they look it! </said>
+<lb n="10946"/> <said who="Dante">--They behaved rightly, cried Dante. They obeyed their
+<lb n="10947"/> bishops and their priests. Honour to them! </said>
+<lb n="10948"/> <said who="Mary Dedalus">--Well, it is perfectly dreadful to say that not even for one day
+<lb n="10949"/> of^@ the year, said Mrs Dedalus, can we be free from these dread-
+<lb n="10950"/> ful disputes! </said></p>
+<p> <lb n="10951"/> Uncle Charles raised his hands mildly and said:
+<lb n="10952"/> <said who="Uncle Charles">--Come now, come now, come now! Can we not have our
+<lb n="10953"/> opinions whatever they are without this bad temper and this
+<lb n="10954"/> bad language? It is too bad surely. </said></p>
+<p> <lb n="10955"/> Mrs Dedalus spoke to Dante in a low voice but Dante said
+<lb n="10956"/> loudly:
+<lb n="10957"/> <said who="Dante">--I will not say nothing. I will defend my church and my
+<lb n="10958"/> religion when it is insulted and spit on by renegade catholics. </said></p>
+<p> <lb n="10959"/> Mr Casey pushed his plate rudely into the middle of the
+<lb n="10960"/> table and, resting his elbows before him, said in a harsh^@ voice
+<lb n="10961"/> to his host:
+<lb n="10962"/> <said who="John Casey">--Tell me, did I tell you that story about a very famous spit? </said>
+<lb n="10963"/> <said who="Simon Dedalus">--You did not, John, said Mr Dedalus. </said>
+<lb n="10964"/> <said who="John Casey">--Why then, said Mr Casey, it is a most instructive story. It
+<lb n="10965"/> happened not long ago in the <place><location><geo> 52.986231 -6.367254</geo></location><placeName>county Wicklow</placeName></place> where we are
+<lb n="10966"/> now. </said></p>
+<p> <lb n="10967"/> He broke off and, turning towards Dante, said with quiet
+<lb n="10968"/> indignation:
+<lb n="10969"/> <said who="John Casey">--And I may tell you, ma'am, that I, if you mean me, am no
+<lb n="10970"/> renegade catholic. I am a catholic as my father was and his
+<lb n="10971"/> father before him and his father before him again when we
+<lb n="10972"/> gave up our lives rather than sell our faith. </said>
+<lb n="10973"/> <said who="Dante">--The more shame to you now, Dante said, to speak as you
+<lb n="10974"/> do. </said>
+<lb n="10975"/> <said who="Simon Dedalus">--The story, John, said Mr Dedalus smiling. Let us have the
+<lb n="10976"/> story anyhow. </said>
+<lb n="10977"/> <said who="Dante">--Catholic indeed! repeated Dante ironically. The blackest
+<lb n="10978"/> protestant in the land would not speak the language I have
+<lb n="10979"/> heard this evening. </said></p>
+<p> <lb n="10980"/> Mr Dedalus began to sway his head to and fro, crooning like
+<lb n="10981"/> a country singer.
+<lb n="10982"/> <said who="John Casey">--I am no protestant, I tell you again, said Mr Casey flushing. </said></p>
+<p> <lb n="10983"/> Mr Dedalus, still crooning and swaying his head, began to
+<lb n="10984"/> sing in a grunting nasal tone:
+<said who="Simon Dedalus"> <seg type="song">
+<lg>
+<lb n="10985"/> <l>O, come all you Roman catholics</l>
+<lb n="10986"/> <l>That never went to mass.</l>
+</lg>
+</seg> </said></p>
+<p> <lb n="10987"/> He took up his knife and fork again in good humour and set
+<lb n="10988"/> to eating, saying to Mr Casey:
+<lb n="10989"/> <said who="Simon Dedalus">--Let us have the story, John. It will help us to digest. </said></p>
+<p> <lb n="10990"/> Stephen looked with affection at Mr Casey's face which
+<lb n="10991"/> stared across the table over his joined hands. He liked to sit
+<lb n="10992"/> near him at the fire, looking up at his dark fierce face. But his
+<lb n="10993"/> dark eyes were never fierce and his slow voice was good to
+<lb n="10994"/> listen to. But why was he then against the priests? Because
+<lb n="10995"/> Dante must be right then. But he had heard his father say that
+<lb n="10996"/> she was a spoiled nun and that she had come out of the convent
+<lb n="10997"/> in the Alleghanies when her brothers^@ had got the money from
+<lb n="10998"/> the savages for the trinkets and ^@ <seg type="neologism">chainies</seg>. Perhaps that made her
+<lb n="10999"/> severe against Parnell. And she did not like him to play with
+<lb n="11000"/> Eileen because Eileen was a protestant and when she was
+<lb n="11001"/> young she knew children that used to play with protestants and
+<lb n="11002"/> the protestants used to make fun of the litany of the Blessed
+<lb n="11003"/> Virgin. <emph>Tower of Ivory</emph>, they used to say, <emph>House of Gold!</emph> How
+<lb n="11004"/> could a woman be a tower of ivory or a house of gold? Who
+<lb n="11005"/> was right then? And he remembered the evening in the infirm-
+<lb n="11006"/> ary in Clongowes, the dark waters, the light at the pierhead
+<lb n="11007"/> and the moan of sorrow from the people when they had heard.</p>
+<p> <lb n="11008"/> Eileen had long white hands. One evening when playing tig
+<lb n="11009"/> she had put her hands over his eyes: long and white and thin
+<lb n="11010"/> and cold and soft. That was ivory: a cold white thing. That
+<lb n="11011"/> was the meaning of <emph>Tower of Ivory</emph>.
+<lb n="11012"/> <said who="John Casey">--The story is very short and sweet, Mr Casey said. It was one
+<lb n="11013"/> day down in <place><location><geo>52.797693 -6.159929</geo></location><placeName>Arklow</placeName></place>, a cold bitter day, not long before the
+<lb n="11014"/> chief died. May God have mercy on him! </said></p>
+<p> <lb n="11015"/> He closed his eyes wearily and paused. Mr Dedalus took a
+<lb n="11016"/> bone from his plate and tore some meat from it with his teeth,
+<lb n="11017"/> saying:
+<lb n="11018"/> <said who="Simon Dedalus">--Before he was killed, you mean. </said></p>
+<p> <lb n="11019"/> Mr Casey opened his eyes, sighed and went on:
+<lb n="11020"/> <said who="John Casey">--It was down in Arklow one day. We were down there at a
+<lb n="11021"/> meeting and after the meeting was over we had to make our
+<lb n="11022"/> way to the railway station through the crowd. Such booing and
+<lb n="11023"/> baaing, man, you never heard. They called us all the names in
+<lb n="11024"/> the world. Well there was one old lady, and a drunken old
+<lb n="11025"/> harridan she was surely, that paid all her attention to me. She
+<lb n="11026"/> kept dancing along beside me in the mud bawling and scream-
+<lb n="11027"/> ing into my face: <emph>Priesthunter! The <place><location><geo>48.856614 2.352222</geo></location><placeName>Paris</placeName></place> Funds! Mr Fox! Kitty
+<lb n="11028"/> O'Shea!</emph> </said>
+<lb n="11029"/> <said who="Simon Dedalus">--And what did you do, John? asked Mr Dedalus. </said>
+<lb n="11030"/> <said who="John Casey">--I let her bawl away, said Mr Casey. It was a cold day and to
+<lb n="11031"/> keep up my heart I had (saving your presence, ma'am) a quid of
+<lb n="11032"/> <place><location><geo>53.275526 -7.493385</geo></location><placeName>Tullamore</placeName></place> in my mouth and sure I couldn't say a word in any
+<lb n="11033"/> case because my mouth was full of tobacco juice. </said>
+<lb n="11034"/> <said who="Simon Dedalus">--Well, John? </said>
+<lb n="11035"/> <said who="John Casey">--Well. I let her bawl away^@ to her heart's content^@ <emph>Kitty O'Shea</emph>
+<lb n="11036"/> and the rest of it till at last she called that lady a name that I
+<lb n="11037"/> won't sully this Christmas board nor your ears, ma'am, nor my
+<lb n="11038"/> own lips by repeating. </said></p>
+<p> <lb n="11039"/> He paused. Mr Dedalus, lifting his head from the bone,
+<lb n="11040"/> asked:
+<lb n="11041"/> <said who="Simon Dedalus">--And what did you do, John? </said>
+<lb n="11042"/> <said who="John Casey">--Do! said Mr Casey. She stuck her ugly old face up at me
+<lb n="11043"/> when she said it and I had my mouth full of tobacco juice. I
+<lb n="11044"/> bent down to her and <emph>Phth!</emph> says I to her like that. </said></p>
+<p> <lb n="11045"/> He turned aside and made the act of spitting.
+<lb n="11046"/> <said who="John Casey">--<emph>Phth!</emph> says I to her like that, right into her eye. </said></p>
+<p> <lb n="11047"/> He clapped a hand to his eye and gave a hoarse scream of
+<lb n="11048"/> pain.
+<lb n="11049"/> <said who="John Casey">--<emph>O Jesus, Mary and Joseph!</emph> says she. <emph>I'm blinded! I'm
+<lb n="11050"/> blinded and drownded!</emph> </said></p>
+<p> <lb n="11051"/> He stopped in a fit of coughing and laughter, repeating:
+<lb n="11052"/> <said who="John Casey">--<emph>I'm blinded entirely!^@</emph></p>
+</said></p>
+<p> <lb n="11053"/> Mr Dedalus laughed loudly and lay back in his chair while
+<lb n="11054"/> uncle Charles swayed his head to and fro.</p>
+<p> <lb n="11055"/> Dante looked terribly angry and repeated while they
+<lb n="11056"/> laughed:
+<lb n="11057"/> <said who="Dante">--Very nice! Ha! Very nice! </said></p>
+<p> <lb n="11058"/> It was not nice about the spit in the woman's eye. But what
+<lb n="11059"/> was the name the woman had called Kitty O'Shea that Mr
+<lb n="11060"/> Casey would not repeat? He thought of Mr Casey walking
+<lb n="11061"/> through the crowds of people and making speeches from a
+<lb n="11062"/> wagonette. That was what he had been in prison for and he
+<lb n="11063"/> remembered that one night Sergeant O'Neill had come to the
+<lb n="11064"/> house and had stood in the hall, talking in a low voice with his
+<lb n="11065"/> father and chewing nervously at the chinstrap of his cap. And
+<lb n="11066"/> that night Mr Casey had not gone to <place><location><geo>53.349805 -6.260310 </geo></location><placeName>Dublin</placeName></place> by train but a car
+<lb n="11067"/> had come to the door and he had heard his father say some-
+<lb n="11068"/> something about <place><location><geo>53.265647 -6.156109</geo></location><placeName>the Cabinteely road</placeName></place>.</p>
+<p> <lb n="11069"/> He was for Ireland and Parnell and so was his father: and so
+<lb n="11070"/> was Dante too for one night at the band on the esplanade she
+<lb n="11071"/> had hit a gentleman on the head with her umbrella because he
+<lb n="11072"/> had taken off his hat when the band played <emph>God save the
+<lb n="11073"/> Queen</emph> at the end.</p>
+<p> <lb n="11074"/> Mr Dedalus gave a snort of contempt.
+<lb n="11075"/> <said who="Simon Dedalus">--Ah, John, he said. It is true for them. We are an unfortunate
+<lb n="11076"/> <seg type="neologism">priestridden</seg> race and always were and always will be till the
+<lb n="11077"/> end of the chapter. </said></p>
+<p> <lb n="11078"/> Uncle Charles shook his head, saying:
+<lb n="11079"/> <said who="Uncle Charles">--A bad business! A bad business! </said></p>
+<p> <lb n="11080"/> Mr Dedalus repeated:
+<lb n="11081"/> <said who="Simon Dedalus">--A <seg type="neologism">priestridden</seg> Godforsaken race! </said></p>
+<p> <lb n="11082"/> He pointed to the portrait of his grandfather on the wall to
+<lb n="11083"/> his right.
+<lb n="11084"/> <said who="Simon Dedalus">--Do you see that old chap up there, John? he said. He was a
+<lb n="11085"/> good Irishman when there was no money in the job. He was
+<lb n="11086"/> condemned to death as a whiteboy. But he had a saying about
+<lb n="11087"/> our clerical friends, that he would never let one of them put his
+<lb n="11088"/> two feet under his mahogany. </said></p>
+<p> <lb n="11089"/> Dante broke in angrily:
+<lb n="11090"/> <said who="Dante">--If we are a <seg type="neologism">priestridden</seg> race we ought to be proud of it!
+<lb n="11091"/> They are the apple of God's eye. <quote><ref>Zacharia 2:8</ref> <emph>Touch them not, says Christ,
+<lb n="11092"/> for they are the apple of My eye.</emph></quote></said>
+<lb n="11093"/> <said who="John Casey">--And can we not love our country then? asked Mr Casey. Are
+<lb n="11094"/> we not to follow the man that was born to lead us? </said>
+<lb n="11095"/> <said who="Dante">--A traitor to his country! replied Dante. A traitor, an adul-
+<lb n="11096"/> adulterer! The priests were right to abandon him. The priests were
+<lb n="11097"/> always the true friends of Ireland. </said>
+<lb n="11098"/> <said who="John Casey">--Were they, faith? said Mr Casey. </said></p>
+<p> <lb n="11099"/> He threw his fist on the table and, frowning angrily, pro-
+<lb n="11100"/> protruded one finger after another.
+<lb n="11101"/> <said who="John Casey">--Didn't the bishops of Ireland betray us in the time of the
+<lb n="11102"/> union when bishop Lanigan presented an address of loyalty to
+<lb n="11103"/> the marquess^@ Cornwallis? Didn't the bishops and priests sell
+<lb n="11104"/> the aspirations of this^@ country in 1829 in return for catholic
+<lb n="11105"/> emancipation? Didn't they denounce the fenian movement
+<lb n="11106"/> from the pulpit and in the <seg type="neologism">confession box^@</seg>? And didn't they
+<lb n="11107"/> dishonour the ashes of Terence Bellew MacManus? </said></p>
+<p> <lb n="11108"/> His face was glowing with anger and Stephen felt the glow
+<lb n="11109"/> rise to his own cheek as the spoken words thrilled him. Mr
+<lb n="11110"/> Dedalus uttered a guffaw of coarse scorn.
+<lb n="11111"/> <said who="John Casey">--O, by God, he cried, I forgot little old Paul Cullen! Another
+<lb n="11112"/> apple of God's eye! </said></p>
+<p> <lb n="11113"/> Dante bent across the table and cried to Mr Casey:
+<lb n="11114"/> <said who="Dante">--Right! Right! They were always right! God and morality and
+<lb n="11115"/> religion come first. </said></p>
+<p> <lb n="11116"/> Mrs Dedalus, seeing her excitement, said to her:
+<lb n="11117"/> <said who="Mary Dedalus">--Mrs Riordan, don't excite yourself answering them. </said>
+<lb n="11118"/> <said who="Dante">--God and religion before everything! Dante cried. God and
+<lb n="11119"/> religion before the world! </said></p>
+<p> <lb n="11120"/> Mr Casey raised his clenched fist and brought it down on
+<lb n="11121"/> the table with a crash.
+<lb n="11122"/> <said who="John Casey">--Very well, then, he shouted hoarsely, if it comes to that, no
+<lb n="11123"/> God for Ireland! </said>
+<lb n="11124"/> <said who="Simon Dedalus">--John! John! cried Mr Dedalus, seizing his guest by the coat
+<lb n="11125"/> <seg type="neologism">coatsleeve</seg>. </said></p>
+<p> <lb n="11126"/> Dante stared across the table, her cheeks shaking. Mr Casey
+<lb n="11127"/> struggled up from his chair and bent across the table towards
+<lb n="11128"/> her, scraping the air from before his eyes with one hand as
+<lb n="11129"/> though he were tearing aside a cobweb.
+<lb n="11130"/> <said who="John Casey">--No God for Ireland! he cried. We have had too much God in
+<lb n="11131"/> Ireland. Away with God! </said>
+<lb n="11132"/> <said who="Dante">--Blasphemer! Devil! screamed Dante, starting to her feet and
+<lb n="11133"/> almost spitting in his face. </said></p>
+<p> <lb n="11134"/> Uncle Charles and Mr Dedalus pulled Mr Casey back into
+<lb n="11135"/> his chair again, talking to him from both sides reasonably. He
+<lb n="11136"/> stared before him out of his dark flaming eyes, repeating:
+<lb n="11137"/> <said who="John Casey">--Away with God, I say! </said></p>
+<p> <lb n="11138"/> Dante shoved her chair violently aside and left the table,
+<lb n="11139"/> upsetting her <seg type="neologism">napkinring</seg> which rolled slowly along the carpet
+<lb n="11140"/> and came to rest against the foot of an easychair. Mrs Dedalus
+<lb n="11141"/> rose quickly and followed her towards the door. At the door
+<lb n="11142"/> Dante turned round violently and shouted down the room, her
+<lb n="11143"/> cheeks flushed and quivering with rage:
+<lb n="11144"/> <said who="Dante">--Devil out of hell! We won! We crushed him to death! Fiend! </said></p>
+<p> <lb n="11145"/> The door slammed behind her.</p>
+<p> <lb n="11146"/> Mr Casey, freeing his arms from his holders, suddenly
+<lb n="11147"/> bowed his head on his hands with a sob of pain.
+<lb n="11148"/> <said who="John Casey">--Poor Parnell! he cried loudly. My dead king! </said></p>
+<p> <lb n="11149"/> He sobbed loudly and bitterly.</p>
+<p> <lb n="11150"/> Stephen, raising his <seg type="neologism">terrorstricken</seg> face, saw that his father's
+<lb n="11151"/> eyes were full of tears.</p>
+<milestone unit="section" rend="asterixes"/> </div> <!-- 1.3 --> <div n="1.4" type="section">
+<p> <lb n="11152"/> The fellows talked together in little groups.</p>
+<p> <lb n="11153"/> One fellow said:
+<lb n="11154"/> <said who="a fellow">--They were caught near the <place><location><geo>53.290670 -6.535060</geo></location><placeName>Hill of Lyons</placeName></place>. </said>
+<lb n="11155"/> <said who="a fellow">--Who caught them? </said>
+<lb n="11156"/> <said who="a fellow">--Mr Gleeson and the minister. They were on a car. </said></p>
+<p> <lb n="11157"/> The same fellow added:
+<lb n="11158"/> <said who="a fellow">--A fellow in the higher line told me. </said>
+<lb n="11159"/> <said who="Fleming">Fleming asked: </said>
+<lb n="11160"/> <said who="a fellow">--But why did they run away, tell us? </said>
+<lb n="11161"/> <said who="Cecil Thunder">--I know why, Cecil Thunder said. Because they had fecked
+<lb n="11162"/> cash out of the rector's room. </said>
+<lb n="11163"/> <said who="a fellow">--Who fecked it? </said>
+<lb n="11164"/> <said who="John Casey">--Kickham's brother. And they all went shares in it. </said></p>
+<p> <lb n="11165"/> But that was stealing. How could they have done that?
+<lb n="11166"/> <said who="Wells">--A fat lot you know about it, Thunder! Wells said. I know
+<lb n="11167"/> why they scut. </said>
+<lb n="11168"/> <said who="a fellow">--Tell us why. </said>
+<lb n="11169"/> <said who="Wells">--I was told not to, Wells said. </said>
+<lb n="11170"/> <said who="all">--O, go on, Wells, all said. You might tell us. We won't let it
+<lb n="11171"/> out. </said></p>
+<p> <lb n="11172"/> Stephen bent forward his head to hear. Wells looked round
+<lb n="11173"/> to see if anyone was coming. Then he said secretly:
+<lb n="11174"/> <said who="Wells">--You know the altar wine they keep in the press in the sac-
+<lb n="11175"/> risty? </said>
+<lb n="11176"/> <said who="all">--Yes. </said>
+<lb n="11177"/> <said who="Wells">--Well, they drank that and it was found out who did it by the
+<lb n="11178"/> smell. And that's why they ran away, if you want to know. </said></p>
+<p> <lb n="11179"/> And the fellow who had spoken first said:
+<lb n="11180"/> <said who="a fellow">--Yes, that's what I heard too from the fellow in the higher
+<lb n="11181"/> line. </said></p>
+<p> <lb n="11182"/> The fellows were all silent. Stephen stood among them,
+<lb n="11183"/> afraid to speak, listening. A faint sickness of awe made him feel
+<lb n="11184"/> weak. How could they have done that? He thought of the dark
+<lb n="11185"/> silent sacristy. There were dark wooden presses there where the
+<lb n="11186"/> crimped surplices lay quietly folded. It was not the chapel but
+<lb n="11187"/> still you had to speak under your breath. It was a holy place.
+<lb n="11188"/> He remembered the summer evening he had been there to be
+<lb n="11189"/> dressed as <seg type="neologism">boatbearer</seg>, the evening of the procession to the little
+<lb n="11190"/> altar in the wood. A strange and holy place. The boy that held
+<lb n="11191"/> the censer had swung it gently to and fro near the door with the
+<lb n="11192"/> silvery cap lifted by the middle chain to keep the coals lighting.
+<lb n="11193"/> That was called charcoal: and it had burned quietly as the
+<lb n="11194"/> fellow had swung it gently and had given off a weak sour smell.
+<lb n="11195"/> And then when all were vested he had stood holding out the
+<lb n="11196"/> boat to the rector and the rector had put a spoonful of incense
+<lb n="11197"/> in ^@ and it had hissed on the red coals.</p>
+<p> <lb n="11198"/> The fellows were talking together in little groups here and
+<lb n="11199"/> there on the playground. The fellows seemed to him to have
+<lb n="11200"/> grown smaller: that was because a sprinter had knocked him
+<lb n="11201"/> down the day before, a fellow out of second of grammar. He
+<lb n="11202"/> had been thrown by the fellow's machine lightly on the cinder-
+<lb n="11203"/> path and his spectacles had been broken in three pieces and
+<lb n="11204"/> some of the grit of the cinders had gone into his mouth.</p>
+<p> <lb n="11205"/> That was why the fellows seemed to him smaller and farther
+<lb n="11206"/> away and the goalposts so thin and far and the soft grey sky so
+<lb n="11207"/> high up. But there was no play on the football grounds for
+<lb n="11208"/> cricket was coming: and some said that Barnes would be the
+<lb n="11209"/> prof and some said it would be Flowers. And all over the play-
+<lb n="11210"/> playgrounds they were playing rounders and bowling twisters and
+<lb n="11211"/> lobs. And from here and from there came the sounds of the
+<lb n="11212"/> <seg type="neologism">cricket bats^@</seg> through the soft grey air. They said: pick, pack,
+<lb n="11213"/> pock, puck: like drops of water in a fountain slowly falling in
+<lb n="11214"/> the brimming bowl.</p>
+<p> <lb n="11215"/> Athy, who had been silent, said quietly:
+<lb n="11216"/> <said who="Athy">--You are all wrong. </said></p>
+<p> <lb n="11217"/> All turned towards him eagerly.
+<lb n="11218"/> <said who="a fellow">--Why? </said>
+<lb n="11219"/> <said who="a fellow">--Do you know? </said>
+<lb n="11220"/> <said who="a fellow">--Who told you? </said>
+<lb n="11221"/> <said who="a fellow">--Tell us, Athy. </said></p>
+<p> <lb n="11222"/> Athy pointed across the playground to where Simon
+<lb n="11223"/> Moonan was walking by himself kicking a stone before him.
+<lb n="11224"/> <said who="Athy">--Ask him, he said. </said></p>
+<p> <lb n="11225"/> The fellows looked there and then said:
+<lb n="11226"/> <said who="a fellow">--Why him? </said>
+<lb n="11227"/> <said who="a fellow">--Is he in it? </said>
+<lb n="11228"/> <said who="a fellow">--Tell us, Athy. Go on. You might if you know. </said></p>
+<p> <lb n="11229"/> Athy lowered his voice and said:
+<lb n="11230"/> <said who="Athy">--Do you know why those fellows scut? I will tell you but you
+<lb n="11231"/> must not let on you know. </said></p>
+<p> <lb n="11232"/> He paused for a moment and then said mysteriously:
+<lb n="11233"/> <said who="Athy">--They were caught with Simon Moonan and Tusker Boyle in
+<lb n="11234"/> the square one night. </said></p>
+<p> <lb n="11235"/> The fellows looked at him and asked:
+<lb n="11236"/> <said who="a fellow">--Caught? </said>
+<lb n="11237"/> <said who="a fellow">--What doing? </said></p>
+<p> <lb n="11238"/> Athy said:
+<lb n="11239"/> <said who="Athy">--Smugging. </said></p>
+<p> <lb n="11240"/> All the fellows were silent: and Athy said:
+<lb n="11241"/> <said who="Athy">--And that's why. </said></p>
+<p> <lb n="11242"/> Stephen looked at the faces of the fellows but they were all
+<lb n="11243"/> looking across the playground. He wanted to ask somebody
+<lb n="11244"/> about it. What did that mean about the smugging in the
+<lb n="11245"/> square? Why did the five fellows out of the higher line run
+<lb n="11246"/> away for that? It was a joke, he thought. Simon Moonan had
+<lb n="11247"/> nice clothes and one night he had shown him a ball of creamy
+<lb n="11248"/> sweets that the fellows of the football fifteen had rolled down
+<lb n="11249"/> to him along the carpet in the middle of the refectory when he
+<lb n="11250"/> was at the door. It was the night of the match against the
+<lb n="11251"/> Bective Rangers and the ball was made just like a red and green
+<lb n="11252"/> apple only it opened and it was full of the creamy sweets. And
+<lb n="11253"/> one day Boyle had said that an elephant had two tuskers in-
+<lb n="11254"/> instead of two tusks and that was why he was called Tusker
+<lb n="11255"/> Boyle but some fellows called him Lady Boyle because he was
+<lb n="11256"/> always at his nails, paring them.</p>
+<p> <lb n="11257"/> Eileen had long thin cool white hands too because she was a
+<lb n="11258"/> girl. They were like ivory; only soft. That was the meaning of
+<lb n="11259"/> <emph>Tower of Ivory</emph> but protestants could not understand it and
+<lb n="11260"/> made fun of it. One day he had stood beside her looking into
+<lb n="11261"/> the hotel grounds. A waiter was running up a trail of bunting
+<lb n="11262"/> on the flagstaff and a fox terrier was scampering to and fro on
+<lb n="11263"/> the sunny lawn. She had put her hand into his pocket where his
+<lb n="11264"/> hand was and he had felt how cool and thin and soft her hand
+<lb n="11265"/> was. She had said that pockets were funny things to have: and
+<lb n="11266"/> then all of a sudden she had broken away and had run laughing
+<lb n="11267"/> down the sloping curve of the path. Her fair hair had streamed
+<lb n="11268"/> out behind her like gold in the sun. <emph>Tower of Ivory. House of
+<lb n="11269"/> Gold.</emph> By thinking about^@ things you could understand them.</p>
+<p> <lb n="11270"/> But why in the square? You went there when you wanted to
+<lb n="11271"/> do something. It was all thick slabs of slate and water trickled
+<lb n="11272"/> all day out of tiny pinholes and there was a queer smell of stale
+<lb n="11273"/> water there. And behind the door of one of the  closets there
+<lb n="11274"/> was a drawing in red pencil of a bearded man in a Roman dress
+<lb n="11275"/> with a brick in each hand and underneath was the name of the
+<lb n="11276"/> drawing:</p>
+<p> <lb n="11277"/> <l><emph>Balbus was building a wall.</emph> </l> </p>
+<p> <lb n="11278"/> Some fellow^@ had drawn it there for a cod. It had a funny
+<lb n="11279"/> face but it was very like a man with a beard. And on the wall of
+<lb n="11280"/> another closet there was written in backhand  in beautiful writ-
+<lb n="11281"/> ing:^@</p>
+<p> <lb n="11282"/> <l>Julius Caesar wrote The Calico Belly. </l>
+<p> <lb n="11283"/> Perhaps that was why they were there  because it was a place
+<lb n="11284"/> where some fellows wrote things for cod. But all the same it
+<lb n="11285"/> was queer what Athy said and the way he said it. It was not a
+<lb n="11286"/> cod because they had run away. He looked with the others in
+<lb n="11287"/> silence across the playground and began to feel afraid.</p>
+<p> <lb n="11288"/> At last Fleming said:
+<lb n="11289"/> <said who="Fleming">--And we are all to be punished for what other fellows did? </said>
+<lb n="11290"/> <said who="Cecil Thunder">--I won't come back, see if I do, Cecil Thunder said. Three
+<lb n="11291"/> days' silence in the refectory and sending us up for six and eight
+<lb n="11292"/> every minute. </said>
+<lb n="11293"/> <said who="Wells">--Yes, said Wells. And old Barrett has a new way of twisting
+<lb n="11294"/> the note so that you can't open it and fold it again to see how
+<lb n="11295"/> many ferul#.ä  you are to get. I won't come back too. </said>
+<lb n="11296"/> <said who="Cecil Thunder">--Yes, said Cecil Thunder, and the prefect of studies was in
+<lb n="11297"/> second of grammar this morning. </said>
+<lb n="11298"/> <said who="Fleming">--Let us get up a rebellion, Fleming said. Will we? </said></p>
+<p> <lb n="11299"/> All the fellows were silent. The air was very silent and you
+<lb n="11300"/> could hear the cricket bats^@ but more slowly than before: pick,
+<lb n="11301"/> pock.</p>
+<p> <lb n="11302"/> Wells asked:
+<lb n="11303"/> <said who="Wells">--What is going to be done to them? </said>
+<lb n="11304"/> <said who="Athy">--Simon Moonan and Tusker are going to be flogged, Athy
+<lb n="11305"/> said, and the fellows in the higher line got their choice of
+<lb n="11306"/> flogging or being expelled. </said>
+<lb n="11307"/> <said who="a fellow">--And which are they taking? asked the fellow who had
+<lb n="11308"/> spoken first. </said>
+<lb n="11309"/> <said who="Athy">--All are taking expulsion except Corrigan, Athy answered.
+<lb n="11310"/> He's going to be flogged by Mr Gleeson. </said>
+<lb n="11311"/> <said who="Fleming">--Is it Corrigan that big fellow? said Fleming. Why, he'd be
+<lb n="11312"/> able for two of Gleeson! </said>
+<lb n="11313"/> <said who="Cecil Thunder">--I know why, Cecil Thunder said. He is right and the other
+<lb n="11314"/> fellows are wrong because a flogging wears off after a bit but a
+<lb n="11315"/> fellow that has been expelled from college is known all his life
+<lb n="11316"/> on  account of it. Besides Gleeson won't flog him hard. </said>
+<lb n="11317"/> <said who="Fleming">--It's best of his play not to, Fleming said. </said>
+<lb n="11318"/> <said who="Cecil Thunder">--I wouldn't like to be Simon Moonan and Tusker,  Cecil
+<lb n="11319"/> Thunder said. But I don't believe they will be flogged. Perhaps
+<lb n="11320"/> they will be sent up for twice nine. </said>
+<lb n="11321"/> <said who="Athy">--No, no, said Athy. They'll both get it on the vital spot. </said></p>
+<p> <lb n="11322"/> Wells rubbed himself and said in a crying voice:
+<lb n="11323"/> <said who="Wells">--Please, sir, let me off! </said></p>
+<p> <lb n="11324"/> Athy grinned and turned up the sleeves of his jacket, saying:
+<said who="Athy"> <seg type="chant">
+<lg>
+<lb n="11325"/> <l>It can't be helped;</l>
+<lb n="11326"/> <l>It must be done.</l>
+<lb n="11327"/> <l>So down with your breeches</l>
+<lb n="11328"/> <l>And out with your bum.</l>
+</lg>
+</seg> </said></p>
+<p> <lb n="11329"/> The fellows laughed; but he felt that they were a little afraid.
+<lb n="11330"/> In the silence of the soft grey air he heard the cricket bats^@ from
+<lb n="11331"/> here and from there: pock. That was a sound to hear but if you
+<lb n="11332"/> were hit then you would feel a pain. The pandybat made a
+<lb n="11333"/> sound too but not like that. The fellows said it was made of
+<lb n="11334"/> whalebone and leather with lead inside: and he wondered what
+<lb n="11335"/> was the pain like. There were different kinds of pains  for all the
+<lb n="11336"/> different kinds of sounds. A long thin cane would have a high
+<lb n="11337"/> whistling sound and he wondered what was that pain like. It
+<lb n="11338"/> made him shivery to think of it and cold: and what Athy said
+<lb n="11339"/> too. But what was there to laugh at in it? It made him shivery:
+<lb n="11340"/> but that was because you always felt like a shiver when you let
+<lb n="11341"/> down your trousers. It was the same in the bath when you
+<lb n="11342"/> undressed yourself. He wondered who had to let them down,
+<lb n="11343"/> the master or the boy himself. O how could they laugh about it
+<lb n="11344"/> that way?</p>
+<p> <lb n="11345"/> He looked at Athy's <seg type="neologism">rolledup</seg> sleeves and knuckly inky
+<lb n="11346"/> hands. He had rolled up his sleeves to show how Mr Gleeson
+<lb n="11347"/> would roll up his sleeves. But Mr Gleeson had round shiny
+<lb n="11348"/> cuffs and clean white wrists and fattish white hands and the
+<lb n="11349"/> nails of them were long and pointed. Perhaps he pared them
+<lb n="11350"/> too like Lady Boyle. But they were terribly long and pointed
+<lb n="11351"/> nails. So long and cruel they were though the white fattish
+<lb n="11352"/> hands were not cruel but gentle. And though he trembled with
+<lb n="11353"/> cold and fright to think of the cruel long nails and of the high
+<lb n="11354"/> whistling sound of the cane and of the chill you felt at the end
+<lb n="11355"/> of your shirt when you undressed yourself yet he felt a feeling
+<lb n="11356"/> of queer quiet pleasure inside him to think of the white fattish
+<lb n="11357"/> hands, clean and strong  and gentle. And he thought of what
+<lb n="11358"/> Cecil Thunder had said; that Mr Gleeson would not flog Cor-
+<lb n="11359"/> Corrigan hard. And Fleming had said he would not because it was
+<lb n="11360"/> best of his play not to. But that was not why.</p>
+<p> <lb n="11361"/> A voice from far out on the playgrounds^@ cried:
+<lb n="11362"/> <said who="a fellow">--All in! </said></p>
+<p> <lb n="11363"/> And other voices cried:
+<lb n="11364"/> <said who="other voices">--All in! All in! </said></p>
+<p> <lb n="11365"/> During the writing lesson he sat with his arms folded, listen-
+<lb n="11366"/> ing to the slow scraping of the pens. Mr Harford went to and
+<lb n="11367"/> fro making little signs in red pencil and sometimes sitting
+<lb n="11368"/> beside the boy to show him how to hold the pen. He had tried
+<lb n="11369"/> to spell out the headline for himself though he knew already
+<lb n="11370"/> what it was for it was the last in^@ the book. <emph>Zeal without
+<lb n="11371"/> prudence is like a ship adrift.</emph> But the lines of the letters were
+<lb n="11372"/> like fine invisible threads and it was only by closing his right
+<lb n="11373"/> eye tight tight and staring out of the left eye that he could make
+<lb n="11374"/> out the full curves of the capital.</p>
+<p> <lb n="11375"/> But Mr Harford was very decent and never got into a wax.
+<lb n="11376"/> All the other masters got into dreadful waxes. But why were
+<lb n="11377"/> they to suffer for what fellows in the higher line did? Wells had
+<lb n="11378"/> said that they had drunk some of the altar wine out of the press
+<lb n="11379"/> in the sacristy and that it had been found out who had done it
+<lb n="11380"/> by the smell. Perhaps they had stolen a monstrance to run away
+<lb n="11381"/> with it and sell it somewhere. That must have been a terrible
+<lb n="11382"/> sin, to go in ^@ quietly there^@ at night, to open the dark press and
+<lb n="11383"/> steal the flashing gold thing into which God was put on the
+<lb n="11384"/> altar in the middle of flowers and candles at benediction while
+<lb n="11385"/> the incense went up in clouds at both sides as the fellow swung
+<lb n="11386"/> the censer and Dominic Kelly sang the first part by himself in
+<lb n="11387"/> the choir. But God was not in it of course when they stole it.
+<lb n="11388"/> But still it was a strange and a great sin even to touch it. He
+<lb n="11389"/> thought of it with deep awe; a terrible and strange sin: it
+<lb n="11390"/> thrilled him to think of it in the silence when the pens scraped
+<lb n="11391"/> lightly. But to drink the altar wine out of the press and be
+<lb n="11392"/> found out by the smell was a sin too: but it was not terrible
+<lb n="11393"/> and strange. It only made you feel a little sickish on account
+<lb n="11394"/> of the smell of the wine. Because on the day when he had
+<lb n="11395"/> made his first holy communion in  the chapel he had shut his
+<lb n="11396"/> eyes and opened his mouth and put out his tongue a little: and
+<lb n="11397"/> when the rector had stooped down to give him the holy com-
+<lb n="11398"/> communion he had smelt a faint winy smell off the rector's breath
+<lb n="11399"/> after the wine of the mass. The word was beautiful: wine. It
+<lb n="11400"/> made you think of dark purple because the grapes were dark
+<lb n="11401"/> purple that grew in Greece outside houses like white temples.
+<lb n="11402"/> But the faint smell off the rector's breath had made him feel
+<lb n="11403"/> a sick feeling on the morning of his first communion. The day
+<lb n="11404"/> of your first communion was the happiest day of your life.
+<lb n="11405"/> And once a lot of generals had asked Napoleon what was the
+<lb n="11406"/> happiest day of his life. They thought he would say the day
+<lb n="11407"/> he won some great battle or the day he was made an emperor.
+<lb n="11408"/> But he said:
+<lb n="11409"/> <said who="Napoleon">--Gentlemen, the happiest day of my life was the day on which
+<lb n="11410"/> I made my first holy communion. </said></p>
+<p> <lb n="11411"/> Father Arnall came in and the Latin lesson began and he
+<lb n="11412"/> remained still, leaning on the desk with his arms folded. Father
+<lb n="11413"/> Arnall gave out the <seg type="neologism">themebooks</seg> and he said that they were
+<lb n="11414"/> scandalous and that they were all to be written out again with
+<lb n="11415"/> the corrections at once. But the worst of all was Fleming's
+<lb n="11416"/> theme because the pages were stuck together by a blot: and
+<lb n="11417"/> Father Arnall held it up by a corner and said it was an insult to
+<lb n="11418"/> any master to send him up such a theme. Then he asked Jack
+<lb n="11419"/> Lawton to decline the noun <emph>mare</emph> and Jack Lawton stopped at
+<lb n="11420"/> the ablative singular and could not go on with the plural.
+<lb n="11421"/> <said who="Father Arnall">--You should be ashamed of yourself, said Father Arnall
+<lb n="11422"/> sternly. You, the leader of the class! </said></p>
+<p> <lb n="11423"/> Then he asked the next boy and the next and the next.
+<lb n="11424"/> Nobody knew. Father Arnall became very quiet, more and
+<lb n="11425"/> more quiet as each boy tried to answer and could not. But his
+<lb n="11426"/> face was <seg type="neologism">blacklooking</seg> and his eyes were staring though his
+<lb n="11427"/> voice was so quiet. Then he asked Fleming and Fleming said
+<lb n="11428"/> that that word had no plural. Father Arnall suddenly shut the
+<lb n="11429"/> book and shouted at him:
+<lb n="11430"/> <said who="Father Arnall">--Kneel out there in the middle of the class. You are one of the
+<lb n="11431"/> idlest boys I ever met. Copy out your themes again the rest of
+<lb n="11432"/> you. </said></p>
+<p> <lb n="11433"/> Fleming moved heavily out of his place and knelt between
+<lb n="11434"/> the two last benches. The other^@ boys bent over their theme-
+<lb n="11435"/> books and began to write. A silence filled the classroom and
+<lb n="11436"/> Stephen, glancing timidly at Father Arnall's dark face, saw that
+<lb n="11437"/> it was a little red from the wax he was in.</p>
+<p> <lb n="11438"/> Was that a sin for Father Arnall to be in a wax or was he
+<lb n="11439"/> allowed to get into a wax when the boys were idle because that
+<lb n="11440"/> made them study better or was he only letting on to be in a
+<lb n="11441"/> wax? It was because he was allowed because a priest would
+<lb n="11442"/> know what a sin was and would not do it. But if he did it one
+<lb n="11443"/> time by mistake what would he do to go to confession? Perhaps
+<lb n="11444"/> he would go to confession to the minister. And if the minister
+<lb n="11445"/> did it he would go to the rector: and the rector to the provin-
+<lb n="11446"/> cial: and the provincial to the general of the jesuits. That was
+<lb n="11447"/> called the order: and he had heard his father say that they were
+<lb n="11448"/> all clever men. They could all have become <seg type="neologism">highup</seg> people in
+<lb n="11449"/> the world if they had not become jesuits. And he wondered
+<lb n="11450"/> what Father Arnall and Paddy Barrett would have become and
+<lb n="11451"/> what Mr McGlade and Mr Gleeson would have become if they
+<lb n="11452"/> had not become jesuits. It was hard to think what because you
+<lb n="11453"/> would have to think of them in a different way with different
+<lb n="11454"/> coloured coats and trousers and with beards and moustaches
+<lb n="11455"/> and different kinds of hats.</p>
+<p> <lb n="11456"/> The door opened quietly and closed. A quick whisper ran
+<lb n="11457"/> through the class: the prefect of studies. There was an instant
+<lb n="11458"/> of dead silence and then the loud crack of a pandybat on the
+<lb n="11459"/> last desk. Stephen's heart leapt up in fear.
+<lb n="11460"/> <said who="Father Dolan">--Any boys want flogging here, Father Arnall? cried the pre-
+<lb n="11461"/> fect of studies. Any lazy idle loafers that want flogging in this
+<lb n="11462"/> class? </said></p>
+<p> <lb n="11463"/> He came to the middle of the class and saw Fleming on his
+<lb n="11464"/> knees.
+<lb n="11465"/> <said who="Father Dolan">--Hoho! he cried. Who is this boy? Why is he on his knees?
+<lb n="11466"/> What is your name, boy? </said>
+<lb n="11467"/> <said who="Fleming">--Fleming, sir. </said>
+<lb n="11468"/> <said who="Father Dolan">--Hoho, Fleming! An idler of course. I can see it in your eye.
+<lb n="11469"/> Why is he on his knees, Father Arnall? </said>
+<lb n="11470"/> <said who="Father Arnall">--He wrote a bad Latin theme, Father Arnall said, and he
+<lb n="11471"/> missed all the questions in grammar. </said>
+<lb n="11472"/> <said who="Father Dolan">--Of course he did! cried the prefect of studies. Of course he
+<lb n="11473"/> did! A born idler! I can see it in the corner of his eye. </said></p>
+<p> <lb n="11474"/> He banged his pandybat down on the desk and cried:
+<lb n="11475"/> <said who="Father Dolan">--Up, Fleming! Up, my boy! </said></p>
+<p> <lb n="11476"/> Fleming stood up slowly.
+<lb n="11477"/> <said who="Father Dolan">--Hold out! cried the prefect of studies. </said></p>
+<p> <lb n="11478"/> Fleming held out his hand. The pandybat came down on it
+<lb n="11479"/> with a loud smacking sound: one, two, three, four, five, six.
+<lb n="11480"/> <said who="Father Dolan">--Other hand! </said></p>
+<p> <lb n="11481"/> The pandybat came down again in six loud quick smacks.
+<lb n="11482"/> <said who="Father Dolan">--Kneel down! cried the prefect of studies. </said></p>
+<p> <lb n="11483"/> Fleming knelt down squeezing his hands under his armpits,
+<lb n="11484"/> his face contorted with pain, but Stephen knew how hard his
+<lb n="11485"/> hands were because Fleming was always rubbing rosin into
+<lb n="11486"/> them. But perhaps he was in great pain for the noise of the
+<lb n="11487"/> pandies was terrible. Stephen's heart was beating and flutter-
+<lb n="11488"/> ing.
+<lb n="11489"/> <said who="Father Dolan">--At your work, all of you! shouted the prefect of studies. We
+<lb n="11490"/> want no lazy idle loafers here, lazy idle little schemers. At your
+<lb n="11491"/> work, I tell you. Father Dolan will be in to see you every day.
+<lb n="11492"/> Father Dolan will be in tomorrow. </said></p>
+<p> <lb n="11493"/> He poked one of the boys in the side with the pandybat,
+<lb n="11494"/> saying:
+<lb n="11495"/> <said who="Father Dolan">--You, boy! When will Father Dolan be in again? </said>
+<lb n="11496"/> <said who="Tom Furlong">--Tomorrow, sir, said Tom Furlong's voice. </said>
+<lb n="11497"/> <said who="Father Dolan">--Tomorrow and tomorrow and tomorrow, said the prefect of
+<lb n="11498"/> studies. Make up your minds for that. Every day Father Dolan.
+<lb n="11499"/> Write away. You, boy, who are you? </said></p>
+<p> <lb n="11500"/> Stephen's heart jumped suddenly.
+<lb n="11501"/> <said who="Stephen">--Dedalus, sir. </said>
+<lb n="11502"/> <said who="Father Dolan">--Why are you not writing like the others? </said>
+<lb n="11503"/> <said who="Stephen">--I .....^@ my ... </said></p>
+<p> <lb n="11504"/> He could not speak with fright.
+<lb n="11505"/> <said who="Father Dolan">--Why is he not writing, Father Arnall? </said>
+<lb n="11506"/> <said who="Father Arnall">--He broke his glasses, said Father Arnall, and I exempted him
+<lb n="11507"/> from work. </said>
+<lb n="11508"/> <said who="Father Dolan">--Broke? What is this I hear? What is this your name is? said
+<lb n="11509"/> the prefect of studies. </said>
+<lb n="11510"/> <said who="Stephen">--Dedalus, sir. </said>
+<lb n="11511"/> <said who="Father Dolan">--Out here, Dedalus. Lazy little schemer. I see schemer in your
+<lb n="11512"/> face. Where did you break your glasses? </said></p>
+<p> <lb n="11513"/> Stephen stumbled into the middle of the class, blinded by
+<lb n="11514"/> fear and haste.
+<lb n="11515"/> <said who="Father Dolan">--Where did you break your glasses? repeated the prefect of
+<lb n="11516"/> studies. </said>
+<lb n="11517"/> <said who="Stephen">--The <seg type="neologism">cinderpath</seg>, sir. </said>
+<lb n="11518"/> <said who="Father Dolan">--Hoho! The <seg type="neologism">cinderpath</seg>! cried the prefect of studies. I know
+<lb n="11519"/> that trick. </said></p>
+<p> <lb n="11520"/> Stephen lifted his eyes in wonder and saw for a moment
+<lb n="11521"/> Father Dolan's <seg type="neologism">whitegrey</seg> not young face, his baldy <seg type="neologism">whitegrey</seg>
+<lb n="11522"/> head with fluff at the sides of it, the steel rims of his spectacles
+<lb n="11523"/> and his <seg type="neologism">nocoloured</seg> eyes looking through the glasses. Why did
+<lb n="11524"/> he say that^@ he knew that trick?
+<lb n="11525"/> <said who="Father Dolan">--Lazy idle little loafer! cried the prefect of studies. Broke my
+<lb n="11526"/> glasses! An old schoolboy trick! Out with your hand this mo-
+<lb n="11527"/> moment! </said></p>
+<p> <lb n="11528"/> Stephen closed his eyes and held out in the air his trembling
+<lb n="11529"/> hand with the palm upwards. He felt the prefect of studies
+<lb n="11530"/> touch it for a moment at the fingers to straighten it and then
+<lb n="11531"/> the swish of the sleeve of the soutane as the pandybat was lifted
+<lb n="11532"/> to strike. A hot burning stinging tingling blow like the loud
+<lb n="11533"/> crack of a broken stick made his trembling hand crumple to-
+<lb n="11534"/> together like a leaf in the fire: and at the sound and the pain
+<lb n="11535"/> scalding tears were driven into his eyes. His whole body was
+<lb n="11536"/> shaking with fright, his arm was shaking and his crumpled
+<lb n="11537"/> burning livid hand shook like a loose leaf in the air. A cry
+<lb n="11538"/> sprang to his lips, a prayer to be let off. But though the tears
+<lb n="11539"/> scalded his eyes and his limbs quivered with pain and fright he
+<lb n="11540"/> held back the hot tears and the cry that scalded his throat.
+<lb n="11541"/> <said who="Father Dolan">--Other hand! shouted the prefect of studies. </said></p>
+<p> <lb n="11542"/> Stephen drew back his maimed and quivering right arm and
+<lb n="11543"/> held out his left hand. The soutane sleeve swished again as the
+<lb n="11544"/> pandybat was lifted and a loud crashing sound and a fierce
+<lb n="11545"/> maddening tingling burning pain made his hand shrink to-
+<lb n="11546"/> together with the palms and fingers in a livid quivering mass. The
+<lb n="11547"/> scalding water burst forth from his eyes and, burning with
+<lb n="11548"/> shame and agony and fear, he drew back his shaking arm in
+<lb n="11549"/> terror and burst out into a whine of pain. His body shook with
+<lb n="11550"/> a palsy of fright and in shame and rage he felt the scalding cry
+<lb n="11551"/> come from his throat and the scalding tears falling out of his
+<lb n="11552"/> eyes and down his flaming cheeks.
+<lb n="11553"/> <said who="Father Dolan">--Kneel down! cried the prefect of studies. </said></p>
+<p> <lb n="11554"/> Stephen knelt down quickly pressing his beaten hands to his
+<lb n="11555"/> sides. To think of them  beaten and swollen with pain all in a
+<lb n="11556"/> moment made him feel so sorry for them as if they were not his
+<lb n="11557"/> own but someone else's that he felt so^@ sorry for. And as he
+<lb n="11558"/> knelt, calming the last sobs in his throat and feeling the burning
+<lb n="11559"/> tingling pain pressed in to his sides, he thought of the hands
+<lb n="11560"/> which he had held out in the air with the palms up and of the
+<lb n="11561"/> firm touch of the prefect of studies when he had steadied the
+<lb n="11562"/> shaking fingers and of the beaten swollen reddened mass of
+<lb n="11563"/> palm and fingers that shook helplessly  in the air.
+<lb n="11564"/> <said who="Father Dolan">--Get at your work, all of you, cried the prefect of studies
+<lb n="11565"/> from the door. Father Dolan will be in every day to see if any
+<lb n="11566"/> boy, any lazy idle little loafer wants flogging. Every day. Every
+<lb n="11567"/> day. </said></p>
+<p> <lb n="11568"/> The door closed behind him.</p>
+<p> <lb n="11569"/> The hushed class continued to copy out the themes. Father
+<lb n="11570"/> Arnall rose from his seat and went among them, helping the
+<lb n="11571"/> boys with gentle words and telling them the mistakes they had
+<lb n="11572"/> made. His voice was very gentle and soft. Then he returned to
+<lb n="11573"/> his seat and said to Fleming and Stephen:
+<lb n="11574"/> <said who="Father Arnall">--You may return to your places, you two. </said></p>
+<p> <lb n="11575"/> Fleming and Stephen rose and, walking to their seats, sat
+<lb n="11576"/> down. Stephen, scarlet with shame, opened a book quickly
+<lb n="11577"/> with one weak hand and bent down upon it, his face close to
+<lb n="11578"/> the page.</p>
+<p> <lb n="11579"/> It was unfair and cruel:^@ because the doctor had told him not
+<lb n="11580"/> to read without glasses and he had written home to his father
+<lb n="11581"/> that morning to send him a new pair. And Father Arnall had
+<lb n="11582"/> said that he need not study till the new glasses came. Then to
+<lb n="11583"/> be called a schemer before the class and to be pandied when he
+<lb n="11584"/> always got the card for first or second and was the leader of the
+<lb n="11585"/> Yorkists! How could the prefect of studies know that it was a
+<lb n="11586"/> trick? He felt the touch of the prefect's fingers as they had
+<lb n="11587"/> steadied his hand and at first he had thought that^@ he was going
+<lb n="11588"/> to shake hands with him because the fingers were soft and firm:
+<lb n="11589"/> but then in an instant he had heard the swish of the soutane
+<lb n="11590"/> sleeve and the crash. It was cruel and unfair to make him kneel
+<lb n="11591"/> in the middle of the class then: and Father Arnall had told them
+<lb n="11592"/> both that they might return to their places without making any
+<lb n="11593"/> difference between them. He listened to Father Arnall's low
+<lb n="11594"/> and gentle voice as he corrected the themes. Perhaps he was
+<lb n="11595"/> sorry now and wanted to be decent. But it was unfair and cruel.
+<lb n="11596"/> The prefect of studies was a priest but that was cruel and
+<lb n="11597"/> unfair. And his <seg type="neologism">whitegrey</seg> face and the <seg type="neologism">nocoloured</seg> eyes behind
+<lb n="11598"/> the <seg type="neologism">steelrimmed</seg> spectacles were cruel looking because he had
+<lb n="11599"/> steadied the hand first with his firm soft fingers and that was to
+<lb n="11600"/> hit it better and louder.
+<lb n="11601"/> <said who="Fleming">--It's a stinking mean thing, that's what it is, said Fleming in
+<lb n="11602"/> the corridor as the classes were passing out in file to the refec-
+<lb n="11603"/> tory, to pandy a fellow for what is not his fault. </said>
+<lb n="11604"/> <said who="Nasty Roche">--You really broke your glasses by accident, didn't you? Nasty
+<lb n="11605"/> Roche asked. </said></p>
+<p> <lb n="11606"/> Stephen felt his heart filled by Fleming's words and did not
+<lb n="11607"/> answer.
+<lb n="11608"/> <said who="Fleming">--Of course he did! said Fleming. I wouldn't stand it. I'd go up
+<lb n="11609"/> and tell the rector on him. </said>
+<lb n="11610"/> <said who="Cecil Thunder">--Yes, said Cecil Thunder eagerly, and I saw him lift the
+<lb n="11611"/> pandybat over his shoulder and he's not allowed to do that. </said>
+<lb n="11612"/> <said who="Nasty Roche">--Did they hurt much? Nasty Roche asked. </said>
+<lb n="11613"/> <said who="Stephen">--Very much, Stephen said. </said>
+<lb n="11614"/> <said who="Fleming">--I wouldn't stand it, Fleming repeated, from Baldyhead or
+<lb n="11615"/> any other Baldyhead. It's a stinking mean low trick, that's what
+<lb n="11616"/> it is. I'd go up^@ straight up to the rector and tell him about it
+<lb n="11617"/> after dinner. </said>
+<lb n="11618"/> <said who="Cecil Thunder">--Yes, do. Yes, do, said Cecil Thunder. </said>
+<lb n="11619"/> <said who="Nasty Roche">--Yes, do. Yes, go up and tell the rector on him, Dedalus, said
+<lb n="11620"/> Nasty Roche, because he said that he'd come in tomorrow
+<lb n="11621"/> again to pandy you. </said>
+<lb n="11622"/> <said who="all">--Yes, yes. Tell the rector, all said. </said></p>
+<p> <lb n="11623"/> And there were some fellows out of second of grammar lis-
+<lb n="11624"/> listening and one of them said:
+<lb n="11625"/> <said who="some fellows out of second of grammar">--The senate and the Roman people declared that Dedalus had
+<lb n="11626"/> been wrongly punished. </said></p>
+<p> <lb n="11627"/> It was wrong; it was unfair and cruel: and, as he sat in the
+<lb n="11628"/> refectory, he suffered time after time in memory the same hu-
+<lb n="11629"/> humiliation until he began to wonder whether it might not really
+<lb n="11630"/> be that there was something in his face which made him look
+<lb n="11631"/> like a schemer and he wished he had a little mirror to see. But
+<lb n="11632"/> there could not be; and it was unjust and cruel and unfair.</p>
+<p> <lb n="11633"/> He could not eat the blackish fish fritters they got on
+<lb n="11634"/> Wednesdays in lent^@ and one of his potatoes had the mark of the
+<lb n="11635"/> spade in it. Yes, he would do what the fellows had told him. He
+<lb n="11636"/> would go up and tell the rector that he had been wrongly
+<lb n="11637"/> punished. A thing like that had been done before by somebody
+<lb n="11638"/> in history, by some great person whose head was in the books
+<lb n="11639"/> of history. And the rector would declare that he had been
+<lb n="11640"/> wrongly punished because the senate and the Roman people
+<lb n="11641"/> always declared that the man^@ who did that had been wrongly
+<lb n="11642"/> punished. Those were the great men whose names were in
+<lb n="11643"/> Richmal Magnall's Questions. History was all about those men
+<lb n="11644"/> and what they did and that was what Peter Parley's Tales about
+<lb n="11645"/> Greece and Rome were all about. Peter Parley himself was on
+<lb n="11646"/> the first page in a picture. There was a road over a heath with
+<lb n="11647"/> grass at the side and little bushes: and Peter Parley had a broad
+<lb n="11648"/> hat like a protestant minister and a big stick and he was walk-
+<lb n="11649"/> ing fast along the road to <place><location><geo>39.074208 21.824312</geo></location><placeName>Greece</placeName></place> and
+<place><location><geo>41.902783 12.496366</geo></location><placeName>Rome</placeName></place>.</p>
+<p> <lb n="11650"/> It was easy what he had to do. All he had to do  was when
+<lb n="11651"/> the dinner was over and he came out in his turn to go on
+<lb n="11652"/> walking but not out to the corridor but up the staircase on the
+<lb n="11653"/> right that led to the castle. He had nothing to do but that: to
+<lb n="11654"/> turn to the right and walk fast up the staircase and in half a
+<lb n="11655"/> minute he would be in the low dark narrow corridor that led
+<lb n="11656"/> through the castle to the rector's room. And every fellow had
+<lb n="11657"/> said that it was unfair, even the fellow out of second of gram-
+<lb n="11658"/> mar who had said that about the senate and the Roman people.</p>
+<p> <lb n="11659"/> What would happen? He heard the fellows of the higher line
+<lb n="11660"/> stand up at the top of the refectory and heard their steps as
+<lb n="11661"/> they came down the matting: Paddy Rath and Jimmy Magee
+<lb n="11662"/> and the Spaniard and the Portuguese and the fifth was big
+<lb n="11663"/> Corrigan who was going to be flogged by Mr Gleeson. That
+<lb n="11664"/> was why the prefect of studies had called him a schemer and
+<lb n="11665"/> pandied him for nothing: and, straining his weak eyes, tired
+<lb n="11666"/> with the tears, he watched big Corrigan's broad shoulders and
+<lb n="11667"/> big hanging black head passing in the file. But he had done
+<lb n="11668"/> something and besides Mr Gleeson would not flog him hard:
+<lb n="11669"/> and he remembered how big Corrigan looked in the bath. He
+<lb n="11670"/> had skin the same colour as the <seg type="neologism">turfcoloured</seg> bogwater in the
+<lb n="11671"/> shallow end of the bath and when he walked along the side his
+<lb n="11672"/> feet slapped loudly on the wet tiles and at every step his thighs
+<lb n="11673"/> shook a little because he was fat.</p>
+<p> <lb n="11674"/> The refectory was half empty and the fellows were still
+<lb n="11675"/> passing out in file. He could go up the staircase because there
+<lb n="11676"/> was never a priest or a prefect outside the refectory door. But
+<lb n="11677"/> he could not go. The rector would side with the prefect of
+<lb n="11678"/> studies and think it was a schoolboy trick and then the prefect
+<lb n="11679"/> of studies would come in every day the same only it would be
+<lb n="11680"/> worse because he would be dreadfully waxy at any fellow
+<lb n="11681"/> going up to the rector about him. The fellows had told him to
+<lb n="11682"/> go but they would not go themselves. They had forgotten all
+<lb n="11683"/> about it. No, it was best to forget all about it:^@ and perhaps the
+<lb n="11684"/> prefect of studies had only said he would come in. No, it was
+<lb n="11685"/> best to hide out of the way because when you were small and
+<lb n="11686"/> young you could often escape that way.</p>
+<p> <lb n="11687"/> The fellows at his table stood up. He stood up and passed
+<lb n="11688"/> out among them in the file. He had to decide. He was coming
+<lb n="11689"/> near the door. If he went on with the fellows he could never go
+<lb n="11690"/> up to the rector because he could not leave the playground for
+<lb n="11691"/> that. And if he went and was pandied all the same all the
+<lb n="11692"/> fellows would make fun and talk about young Dedalus going
+<lb n="11693"/> up to the rector to tell on the prefect of studies.</p>
+<p> <lb n="11694"/> He was walking down along the matting and he saw the
+<lb n="11695"/> door before him. It was impossible: he could not. He thought
+<lb n="11696"/> of the baldy head of the prefect of studies with the cruel no-
+<lb n="11697"/> <seg type="neologism">nocoloured</seg> eyes looking at him and he heard the voice of the
+<lb n="11698"/> prefect of studies asking him twice what his name was. Why
+<lb n="11699"/> could he not remember the name when he was told the first
+<lb n="11700"/> time? Was he not listening the first time or was it to make fun
+<lb n="11701"/> out of the name? The great men in the history had names like
+<lb n="11702"/> that and nobody made fun of them. It was his own name that
+<lb n="11703"/> he should have made fun of if he wanted to make fun. Dolan: it
+<lb n="11704"/> was like the name of a woman that washed clothes.</p>
+<p> <lb n="11705"/> He had reached the door and, turning quickly ^@ to the right,
+<lb n="11706"/> walked up the stairs:^@ and, before he could make up his mind to
+<lb n="11707"/> come back, he had entered the low dark narrow corridor that
+<lb n="11708"/> led to the castle. And as he crossed the threshold of the door of
+<lb n="11709"/> the corridor  he saw, without turning his head to look, that all
+<lb n="11710"/> the fellows were looking after him as they went filing by.</p>
+<p> <lb n="11711"/> He passed along the narrow dark corridor, passing little
+<lb n="11712"/> doors that were the doors of the rooms of the community. He
+<lb n="11713"/> peered in front of him and right and left through the gloom and
+<lb n="11714"/> thought that those must be portraits. It was dark and silent and
+<lb n="11715"/> his eyes were weak and tired with tears so that he could not
+<lb n="11716"/> see. But he thought they were the portraits of the saints and
+<lb n="11717"/> great men of the order who were looking down on him silently
+<lb n="11718"/> as he passed: saint Ignatius Loyola holding an open book and
+<lb n="11719"/> pointing to the words <seg xml:lang="la">Ad Majorem Dei Gloriam</seg> in it, saint
+<lb n="11720"/> Francis Xavier pointing to his chest, Lorenzo Ricci with his
+<lb n="11721"/> berretta on his head like one of the prefects of the lines, the
+<lb n="11722"/> three patrons of holy youth, saint Stanislaus Kostka, saint
+<lb n="11723"/> Aloysius Gonzaga and blessed John Berchmans, all with young
+<lb n="11724"/> faces because they died when they were young, and Father
+<lb n="11725"/> Peter Kenny sitting in a chair wrapped in a big cloak.</p>
+<p> <lb n="11726"/> He came out on the landing above the entrance hall and
+<lb n="11727"/> looked about him. That was where Hamilton Rowan had
+<lb n="11728"/> passed and the marks of the soldiers' slugs were there. And it
+<lb n="11729"/> was there that the old servants had seen the ghost in the white
+<lb n="11730"/> cloak of a marshal.</p>
+<p> <lb n="11731"/> An old servant was sweeping at the end of the landing. He
+<lb n="11732"/> asked him where was the rector's room and the old servant
+<lb n="11733"/> pointed to the door at the far end and looked after him as he
+<lb n="11734"/> went on to it and knocked.</p>
+<p> <lb n="11735"/> There was no answer. He knocked again more loudly and
+<lb n="11736"/> his heart jumped when he heard a muffled voice say:
+<lb n="11737"/> <said who="the rector">--Come in! </said></p>
+<p> <lb n="11738"/> He turned the handle and opened the door and fumbled for
+<lb n="11739"/> the handle of the green baize door inside. He found it and
+<lb n="11740"/> pushed it open and went in.</p>
+<p> <lb n="11741"/> He saw the rector sitting at a desk writing. There was a skull
+<lb n="11742"/> on the desk and a strange solemn smell in the room like the old
+<lb n="11743"/> leather of chairs.</p>
+<p> <lb n="11744"/> His heart was beating fast on account of the solemn place he
+<lb n="11745"/> was in and the silence of the room:  and he looked at the skull
+<lb n="11746"/> and at the rector's <seg type="neologism">kindlooking</seg> face.
+<lb n="11747"/> <said who="the rector">--Well, my little man, said the rector.^@ What^@ is it? </said></p>
+<p> <lb n="11748"/> Stephen swallowed down the thing in his throat and said:
+<lb n="11749"/> <said who="Stephen">--I broke my glasses, sir. </said></p>
+<p> <lb n="11750"/> The rector opened his mouth and said:
+<lb n="11751"/> <said who="the rector">--O! </said></p>
+<p> <lb n="11752"/> Then he smiled and said:
+<lb n="11753"/> <said who="the rector">--Well, if we broke our glasses we must write home for a new
+<lb n="11754"/> pair. </said>
+<lb n="11755"/> <said who="Stephen">--I wrote home, sir, said Stephen, and Father Arnall said I am
+<lb n="11756"/> not to study till they come. </said>
+<lb n="11757"/> <said who="the rector">--Quite right! said the rector. </said></p>
+<p> <lb n="11758"/> Stephen swallowed down the thing again  and tried to keep
+<lb n="11759"/> his legs and his voice from shaking.
+<lb n="11760"/> <said who="Stephen">--But, sir ....^@ </said>
+<lb n="11761"/> <said who="the rector">--Yes? </said>
+<lb n="11762"/> <said who="Stephen">--Father Dolan came in today and pandied me because I was
+<lb n="11763"/> not writing my theme. </said></p>
+<p> <lb n="11764"/> The rector looked at him in silence and he could feel the
+<lb n="11765"/> blood rising to his face and the tears about to rise to his eyes.</p>
+<p> <lb n="11766"/> The rector said:
+<lb n="11767"/> <said who="the rector">--Your name is Dedalus, isn't it? </said>
+<lb n="11768"/> <said who="Stephen">--Yes, sir. </said>
+<lb n="11769"/> <said who="the rector">--And where did you break your glasses? </said>
+<lb n="11770"/> <said who="Stephen">--On the <seg type="neologism">cinderpath</seg>, sir. A fellow was coming out of the
+<lb n="11771"/> bicycle house and I fell and they got broken. I don't know the
+<lb n="11772"/> fellow's name. </said></p>
+<p> <lb n="11773"/> The rector looked at him again in silence. Then he smiled
+<lb n="11774"/> and said:
+<lb n="11775"/> <said who="the rector">--O, well, it was a mistake.^@ I am sure Father Dolan did not
+<lb n="11776"/> know. </said>
+<lb n="11777"/> <said who="Stephen">--But I told him I broke them, sir, and he pandied me. </said>
+<lb n="11778"/> <said who="the rector">--Did you tell him that you had written home for a new pair?
+<lb n="11779"/> the rector asked. </said>
+<lb n="11780"/> <said who="Stephen">--No, sir. </said>
+<lb n="11781"/> <said who="the rector">--O well then, said the rector, Father Dolan did not under-
+<lb n="11782"/> stand. You can say that I excuse you from your lessons for a
+<lb n="11783"/> few days. </said></p>
+<p> <lb n="11784"/> Stephen said quickly for fear his trembling would prevent
+<lb n="11785"/> him:
+<lb n="11786"/> <said who="Stephen">--Yes, sir, but Father Dolan said he will come in tomorrow to
+<lb n="11787"/> pandy me again for it. </said>
+<lb n="11788"/> <said who="the rector">--Very well, the rector said.^@ It^@ is a mistake and I shall speak to
+<lb n="11789"/> Father Dolan myself. Will that do now? </said></p>
+<p> <lb n="11790"/> Stephen felt the tears wetting his eyes and murmured:
+<lb n="11791"/> <said who="Stephen">--O yes,^@ sir, thanks. </said></p>
+<p> <lb n="11792"/> The rector held his hand across the side of the desk where
+<lb n="11793"/> the skull was and Stephen, placing his hand in it for a moment,
+<lb n="11794"/> felt a cool moist palm.
+<lb n="11795"/> <said who="the rector">--Good day now, said the rector, withdrawing his hand and
+<lb n="11796"/> bowing. </said>
+<lb n="11797"/> <said who="Stephen">--Good day, sir, said Stephen. </said></p>
+<p> <lb n="11798"/> He bowed and walked quietly out of the room, closing the
+<lb n="11799"/> doors carefully and slowly.</p>
+<p> <lb n="11800"/> But when he had passed the old servant on the landing and
+<lb n="11801"/> was again in the low narrow dark corridor he began to walk
+<lb n="11802"/> faster and faster. Faster and faster he hurried on through the
+<lb n="11803"/> gloom,^@ excitedly. He bumped his elbow against the door at the
+<lb n="11804"/> end and, hurrying down the staircase, walked quickly through
+<lb n="11805"/> the two corridors and out into the air.</p>
+<p> <lb n="11806"/> He could hear the cries of the fellows on the playgrounds.
+<lb n="11807"/> He broke into a run and, running quicker and quicker, ran
+<lb n="11808"/> across the <seg type="neologism">cinderpath</seg> and reached the third line playground,
+<lb n="11809"/> panting.</p>
+<p> <lb n="11810"/> The fellows had seen him running. They closed round him in
+<lb n="11811"/> a ring, pushing one against another to hear.
+<lb n="11812"/> <said who="the fellows">--Tell us! Tell us! </said>
+<lb n="11813"/> <said who="the fellows">--What did he say? </said>
+<lb n="11814"/> <said who="the fellows">--Did you go in? </said>
+<lb n="11815"/> <said who="the fellows">--What did he say? </said>
+<lb n="11816"/> <said who="the fellows">--Tell us! Tell us! </said></p>
+<p> <lb n="11817"/> He told them what he had said and what the rector had said
+<lb n="11818"/> and, when he had told them, all the fellows flung their caps
+<lb n="11819"/> spinning up into the air and cried:
+<lb n="11820"/> <said who="the fellows">--Hurroo! </said></p>
+<p> <lb n="11821"/> They caught their caps and sent them up again spinning
+<lb n="11822"/> <seg type="neologism">skyhigh</seg> and cried again:
+<lb n="11823"/> <said who="the fellows">--Hurroo! Hurroo! </said></p>
+<p> <lb n="11824"/> They made a cradle of their locked hands and hoisted him
+<lb n="11825"/> up among them and carried him along till he struggled to get
+<lb n="11826"/> free. And when he had escaped from them they broke away in
+<lb n="11827"/> all directions, flinging their caps again into the air and whis-
+<lb n="11828"/> tling as they went spinning up and crying:
+<lb n="11829"/> <said who="the fellows">--Hurroo! </said></p>
+<p> <lb n="11830"/> And they gave three groans for Baldyhead Dolan and three
+<lb n="11831"/> cheers for Conmee and they said he was the decentest rector
+<lb n="11832"/> that was ever in Clongowes.</p>
+<p> <lb n="11833"/> The cheers died away in the soft grey air. He was alone. He
+<lb n="11834"/> was happy and free: but he would not be anyway proud with
+<lb n="11835"/> Father Dolan. He would be very quiet and obedient: and he
+<lb n="11836"/> wished that he could do something kind for him to show him
+<lb n="11837"/> that he was not proud.</p>
+<p> <lb n="11838"/> The air was soft and grey and mild and evening was coming.
+<lb n="11839"/> There was the smell of evening in the air, the smell of the fields
+<lb n="11840"/> in the country where they digged up turnips to peel them and
+<lb n="11841"/> eat them when they went out for a walk to <place><location><geo>53.257926 -6.585225</geo></location><placeName>Major Barton's</placeName></place>, the
+<lb n="11842"/> smell there was in the little wood beyond the pavilion where
+<lb n="11843"/> the gallnuts were.</p>
+<p> <lb n="11844"/> The fellows were practising long shies and bowling^@ lobs and
+<lb n="11845"/> slow twisters. In the soft grey silence he could hear the bump of
+<lb n="11846"/> the balls: and from here and from there through the quiet air
+<lb n="11847"/> the sound of the cricket bats: pick, pack, pock, puck: like drops
+<lb n="11848"/> of water in a fountain falling softly in the brimming bowl.</p>
+</div><!-- 1.4 --> </div><!-- Chapter 1 -->
+</text>
+</body>
