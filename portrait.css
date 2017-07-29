@@ -3,7 +3,7 @@ div#metadata { display: none; }
 
 /* Container */
 body { 
-	width: 45em; 
+	width: 33em; 
 	max-width: 65%; 
 	margin: 0 auto; 
 	position: relative; /* makes absolutely positioned items below relative to this one */ 
@@ -60,6 +60,13 @@ span.tag {
 	border-radius: 4px; 
 	padding: 3px; 
 	max-width: 15%; 
+  text-indent: 0;
+} 
+
+span.tag.lineNumber {
+    right: -10%; 
+	  border: 1px solid #91709D; 
+	  background-color: #D3A5E0; 
 } 
 
 span.tag.type, span.tag.lang { 

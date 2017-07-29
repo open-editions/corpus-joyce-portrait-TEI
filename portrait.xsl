@@ -17,7 +17,8 @@
 				Show: <br/>
 				<input type="checkbox" id="dialog" name="dialog" value="" checked="checked"/>Dialog attribution<br/>
 				<input type="checkbox" id="type" name="type" value="" checked="checked"/>Text genre (poem, song, prayer)<br/>
-				<input type="checkbox" id="lang" name="lang" value="" checked="checked"/>Language
+				<input type="checkbox" id="lang" name="lang" value="" checked="checked"/>Language<br/>
+				<input type="checkbox" id="lineNumber" name="lineNumber" value="" checked="checked"/>Line numbers
 			</div> 
 			<xsl:apply-templates/>
 		</body>
@@ -41,14 +42,20 @@
 	<p class="textParagraph"><xsl:apply-templates/></p>
 </xsl:template>
 
+<xsl:template match="lb">
+	<xsl:apply-templates/>
+  <xsl:if test="@n mod 5 = 0" > 
+    <span class="tag lineNumber">
+      <xsl:value-of select="@n" />
+    </span>
+  </xsl:if> 
+  <br/>
+</xsl:template>
+
 <xsl:template match="lg">
 	<p class="lg">
 		<xsl:apply-templates/>
 	</p>
-</xsl:template>
-
-<xsl:template match="l">
-	<xsl:apply-templates/><br/>
 </xsl:template>
 
 <xsl:template match="geo">
