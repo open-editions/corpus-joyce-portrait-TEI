@@ -70,6 +70,11 @@
 	<h2 class="heading"><xsl:apply-templates/></h2>
 </xsl:template>
 
+<!-- Match <milestone unit="section" rend="asterixes"/> --> 
+<xsl:template match="milestone">
+  <div class="divider">* * *</div> 
+</xsl:template>
+
 <xsl:template match="said">
 	<p>
 		<xsl:apply-templates select="@who | node()"/>

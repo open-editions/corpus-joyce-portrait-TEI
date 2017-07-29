@@ -92,3 +92,8 @@ span.tag.dialog {
 span.hide {
     display: none;
 }
+
+div.divider {
+    margin: 1em;
+    text-align: center;
+}
