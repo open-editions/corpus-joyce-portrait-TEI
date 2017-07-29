@@ -6847,7 +6847,7 @@
             <said who="???">―Three cheers for universal brotherhood!<lb n="50810"/> </said>
             <said who="???">―Go on, Temple, said a stout ruddy student near him. I'll <lb n="50811"/>
             stand you a pint after.<lb n="50812"/> </said>
-            <said who="???">―I'm a believer in universal brotherhood, said Temple, <lb n="50813"/>
+            <said who="Temple">―I'm a believer in universal brotherhood, said Temple, <lb n="50813"/>
             glancing about him out of his dark oval eyes. Marx is only a <lb n="50814"/>
             bloody cod.<lb n="50815"/></said> </p>
             <p> Cranly gripped his arm tightly to check his tongue, smiling <lb n="50816"/>
@@ -6984,7 +6984,7 @@
             do you know, to anybody on any subject I'll kill you <seg xml:lang="la">super <lb n="50944"/>
             spottum</seg>.<lb n="50945"/> </said>
             <said who="Stephen Dedalus">―He was like you, I fancy, said Stephen, an emotional man.<lb n="50946"/> </said>
-            <said who="???">―Blast him, curse him! said Cranly broadly. Don't talk to him <lb n="50947"/>
+            <said who="Cranly">―Blast him, curse him! said Cranly broadly. Don't talk to him <lb n="50947"/>
             at all. Sure you might as well be talking, do you know, to a <lb n="50948"/>
             flaming chamberpot as talking to Temple. Go home, Temple. <lb n="50949"/>
             For God' sake go home.<lb n="50950"/> </said>
@@ -6994,7 +6994,7 @@
             individual mind.<lb n="50954"/> </said>
             <said who="???">―Institution! Individual! cried Cranly. Go home, blast you, for <lb n="50955"/>
             you're a hopeless bloody man.<lb n="50956"/> </said>
-            <said who="???">―I'm an emotional man, said Temple. That's quite rightly <lb n="50957"/>
+            <said who="Temple">―I'm an emotional man, said Temple. That's quite rightly <lb n="50957"/>
             expressed. And I'm proud that I'm an emotionalist.<lb n="50958"/></said> </p>
             <p> He sidled out of the alley, smiling slily. Cranly watched him <lb n="50959"/>
             with a blank expressionless face. <lb n="50960"/>
@@ -7006,7 +7006,7 @@
             lar frame, seemed like the whinny of an elephant. The student's <lb n="50966"/>
             body shook all over and, to ease his mirth, he rubbed both his <lb n="50967"/>
             hands delightedly over  his groins. <lb n="50968"/>
-            <said who="???">―Lynch is awake, said Cranly.<lb n="50969"/></said> </p>
+            <said who="Cranly">―Lynch is awake, said Cranly.<lb n="50969"/></said> </p>
             <p> Lynch, for answer, straightened himself and thrust forward <lb n="50970"/>
             his chest. <lb n="50971"/>
             <said who="???">―Lynch puts out his chest, said Stephen, as a criticism of life.<lb n="50972"/></said> </p>
@@ -7130,7 +7130,7 @@
             arrests the mind in the presence of whatsoever is grave and <lb n="51090"/>
             constant in human sufferings and unites it with the secret <lb n="51091"/>
             cause.<lb n="51092"/> </said>
-            <said who="???">―Repeat, said Lynch.<lb n="51093"/></said> </p>
+            <said who="Lynch">―Repeat, said Lynch.<lb n="51093"/></said> </p>
             <p> Stephen repeated the definitions slowly. <lb n="51094"/>
             <said who="Stephen Dedalus">―A girl got into a hansom a few days ago, he went on, in <place><location><geo>51.507351 -0.127758</geo></location> <lb n="51095"/>
             <placeName>London</placeName></place>. She was on her way to meet her mother whom she <lb n="51096"/>
@@ -7151,7 +7151,7 @@
             therefore improper arts. The esthetic emotion (I use the general <lb n="51111"/>
             term) is therefore static. The mind is arrested and raised above <lb n="51112"/>
             desire and loathing.<lb n="51113"/> </said>
-            <said who="???">―You say that art must not excite desire, said Lynch. I told <lb n="51114"/>
+            <said who="Lynch">―You say that art must not excite desire, said Lynch. I told <lb n="51114"/>
             you that one day I wrote my name in pencil on the backside of <lb n="51115"/>
             the Venus of Praxiteles in the <place><location><geo>53.339706 -6.252188</geo></location><placeName>Museum</placeName></place>. Was that not desire?<lb n="51116"/> </said>
             <said who="???">―I speak of normal natures, said Stephen. You also told me <lb n="51117"/>
@@ -7172,7 +7172,7 @@
             selfembittered. <lb n="51132"/>
             <said who="???">―As for that, Stephen said in polite parenthesis, we are all <lb n="51133"/>
             animals. I also am an animal.<lb n="51134"/> </said>
-            <said who="???">―You are, said Lynch.<lb n="51135"/> </said>
+            <said who="Lynch">―You are, said Lynch.<lb n="51135"/> </said>
             <said who="Stephen Dedalus">―But we are just now in a mental world, Stephen continued. <lb n="51136"/>
             The desire and loathing excited by improper esthetic means are <lb n="51137"/>
             really not esthetic emotions not only because they are kinetic <lb n="51138"/>
@@ -7181,7 +7181,7 @@
             stimulus of what it desires by a purely reflex action of the nerv- <lb n="51141"/>
             ous system. Our eyelid closes before we are aware that the fly is <lb n="51142"/>
             about to enter our eye.<lb n="51143"/> </said>
-            <said who="???">―Not always, said Lynch critically.<lb n="51144"/> </said>
+            <said who="Lynch">―Not always, said Lynch critically.<lb n="51144"/> </said>
             <said who="Stephen Dedalus">―In the same way, said Stephen, your flesh responded to the <lb n="51145"/>
             stimulus of a naked statue but it was, I say, simply a reflex <lb n="51146"/>
             action of the nerves. Beauty expressed by the artist cannot <lb n="51147"/>
@@ -7195,7 +7195,7 @@
             part to part in any esthetic whole or of an esthetic whole to its <lb n="51155"/>
             part or parts or of any part to the esthetic whole of which it is a <lb n="51156"/>
             part.<lb n="51157"/> </said>
-            <said who="???">―If that is rhythm, said Lynch, let me hear what you call <lb n="51158"/>
+            <said who="Lynch">―If that is rhythm, said Lynch, let me hear what you call <lb n="51158"/>
             beauty: and, please remember, though I did eat a cake of cow- <lb n="51159"/>
             dung once, that I admire only beauty.<lb n="51160"/></said> </p>
             <p> Stephen raised his cap as if in greeting. Then,  blushing <lb n="51161"/>
@@ -7211,13 +7211,13 @@
             course, went on by the trees. A crude grey light, mirrored in the <lb n="51171"/>
             sluggish water, and a smell of wet branches over their heads <lb n="51172"/>
             seemed to war against the course of Stephen's thought. <lb n="51173"/>
-            <said who="???">―But you have not answered my question, said Lynch. What <lb n="51174"/>
+            <said who="Lynch">―But you have not answered my question, said Lynch. What <lb n="51174"/>
             is art? What is the beauty it expresses?<lb n="51175"/> </said>
             <said who="Stephen Dedalus">―That was the first definition I gave you, you sleepyheaded <lb n="51176"/>
             wretch, said Stephen, when I began to try to think out the <lb n="51177"/>
             matter for myself. Do you remember the night? Cranly lost his <lb n="51178"/>
             temper and began to talk about Wicklow bacon.<lb n="51179"/> </said>
-            <said who="???">―I remember, said Lynch. He told us about them flaming fat <lb n="51180"/>
+            <said who="Lynch">―I remember, said Lynch. He told us about them flaming fat <lb n="51180"/>
             devils of pigs.<lb n="51181"/> </said>
             <said who="Stephen Dedalus">―Art, said Stephen, is the human disposition of sensible or <lb n="51182"/>
             intelligible matter for an esthetic end. You remember the pigs <lb n="51183"/>
@@ -7242,7 +7242,7 @@
             kinesis. How about the true? It produces also a stasis of the <lb n="51202"/>
             mind. You would not write your name in pencil across the <lb n="51203"/>
             hypothenuse of a rightangled triangle.<lb n="51204"/> </said>
-            <said who="???">―No, said Lynch. Give me the hypothenuse of the Venus of <lb n="51205"/>
+            <said who="Lynch">―No, said Lynch. Give me the hypothenuse of the Venus of <lb n="51205"/>
             Praxiteles.<lb n="51206"/> </said>
             <said who="Stephen Dedalus">―Static therefore, said Stephen. Plato, I believe, said that <lb n="51207"/>
             beauty is the splendour of truth. I don't think that it has a <lb n="51208"/>
@@ -7263,7 +7263,7 @@
             other definition. Something we see and like! Is that the best you <lb n="51223"/>
             and Aquinas can do?<lb n="51224"/> </said>
             <said who="Stephen Dedalus">―Let us take woman, said Stephen.<lb n="51225"/> </said>
-            <said who="???">―Let us take her! said Lynch fervently.<lb n="51226"/> </said>
+            <said who="Lynch">―Let us take her! said Lynch fervently.<lb n="51226"/> </said>
             <said who="Stephen Dedalus">―The Greek, the Turk, the Chinese, the Copt, the Hottentot,<lb n="51227"/> </said>
             said Stephen, <said who="Stephen Dedalus">all admire a different type of female beauty. That <lb n="51228"/>
             seems to be a maze out of which we cannot escape. I see <lb n="51229"/>
@@ -7279,10 +7279,10 @@
             Venus because you felt that she would bear you burly offspring <lb n="51239"/>
             and admired her great breasts because you felt that she would <lb n="51240"/>
             give good milk to her children and yours.<lb n="51241"/> </said>
-            <said who="???">―Then MacCann is a sulphuryellow liar, said Lynch energeti- <lb n="51242"/>
+            <said who="Lynch">―Then MacCann is a sulphuryellow liar, said Lynch energeti- <lb n="51242"/>
             cally.<lb n="51243"/> </said>
             <said who="Stephen Dedalus">―There remains another way out, said Stephen laughing.<lb n="51244"/> </said>
-            <said who="???">―To wit? said Lynch.<lb n="51245"/> </said>
+            <said who="Lynch">―To wit? said Lynch.<lb n="51245"/> </said>
             <said who="Stephen Dedalus">―This hypothesis, Stephen began.<lb n="51246"/></said> </p>
             <p> A long dray laden with old iron came round the corner of <lb n="51247"/>
             <place><location><geo>53.339029 -6.241523</geo></location><placeName>sir Patrick Dun's</placeName></place> hospital covering the end of Stephen's speech <lb n="51248"/>
@@ -7356,7 +7356,7 @@
             <p> The fat student laughed indulgently and said: <lb n="51314"/>
             <said who="???">―We are all  highly respectable people in the field club. Last <lb n="51315"/>
             Saturday we went out to <place><location><geo>52.957720 -6.354370</geo></location><placeName>Glenmalure</placeName></place>, seven of us.<lb n="51316"/> </said>
-            <said who="???">―With women, Donovan? said Lynch.<lb n="51317"/></said> </p>
+            <said who="Lynch">―With women, Donovan? said Lynch.<lb n="51317"/></said> </p>
             <p> Donovan again laid his hand on his chest and said: <lb n="51318"/>
             <said who="???">―Our end is the acquisition of knowledge.<lb n="51319"/></said> </p>
             <p> Then he said quickly: <lb n="51320"/>
@@ -7389,13 +7389,13 @@
             claritas</seg>. I translate it so: <emph>Three things are needed for beauty, <lb n="51347"/>
             wholeness, harmony and radiance</emph>. Do these correspond to the <lb n="51348"/>
             phases of apprehension? Are you following?<lb n="51349"/> </said>
-            <said who="???">―Of course, I am, said Lynch. If you think I have an excre- <lb n="51350"/>
+            <said who="Lynch">―Of course, I am, said Lynch. If you think I have an excre- <lb n="51350"/>
             mentitious intelligence run after Donovan and ask him to listen <lb n="51351"/>
             to you.<lb n="51352"/></said> </p>
             <p> Stephen pointed to a basket which a butcher's boy had slung <lb n="51353"/>
             inverted on his head. <lb n="51354"/>
             <said who="Stephen Dedalus">―Look at that basket, he said.<lb n="51355"/> </said>
-            <said who="???">―I see it, said Lynch.<lb n="51356"/> </said>
+            <said who="Lynch">―I see it, said Lynch.<lb n="51356"/> </said>
             <said who="Stephen Dedalus">―In order to see that basket, said Stephen, your mind first of <lb n="51357"/>
             all separates the basket from the rest of the visible universe <lb n="51358"/>
             which is not the basket. The first phase of apprehension is a <lb n="51359"/>
@@ -7407,7 +7407,7 @@
             upon the immeasurable background of space or time which is <lb n="51365"/>
             not it. You apprehend it as <emph>one</emph> thing. You see it as one whole. <lb n="51366"/>
             You apprehend its wholeness. That is <seg xml:lang="la">integritas</seg>.<lb n="51367"/> </said>
-            <said who="???">―Bull's eye! said Lynch laughing. Go on.<lb n="51368"/> </said>
+            <said who="Lynch">―Bull's eye! said Lynch laughing. Go on.<lb n="51368"/> </said>
             <said who="Stephen Dedalus">―Then, said Stephen, you pass from point to point, led by its <lb n="51369"/>
             formal lines; you apprehend it as balanced part against part <lb n="51370"/>
             within its limits; you feel the rhythm of its structure. In other <lb n="51371"/>
@@ -7416,7 +7416,7 @@
             you feel now that it is a <emph>thing</emph>. You apprehend it as complex, <lb n="51374"/>
             multiple, divisible, separable, made up of its parts, the result of <lb n="51375"/>
             its parts and their sum, harmonious. That is <seg xml:lang="la">consonantia</seg>.<lb n="51376"/> </said>
-            <said who="???">―Bull's eye again! said Lynch wittily. Tell me now what is <lb n="51377"/>
+            <said who="Lynch">―Bull's eye again! said Lynch wittily. Tell me now what is <lb n="51377"/>
             <seg xml:lang="la">claritas</seg> and you win the cigar.<lb n="51378"/> </said>
             <said who="Stephen Dedalus">―The connotation of the word, Stephen said, is rather vague. <lb n="51379"/>
             Aquinas uses a term which seems to be inexact. It baffled me <lb n="51380"/>
@@ -7463,7 +7463,7 @@
             mediate relation to himself and to others; the dramatic form, <lb n="51421"/>
             the form wherein he presents his image in immediate relation to <lb n="51422"/>
             others.<lb n="51423"/> </said>
-            <said who="???">―That you told me a few nights ago, said Lynch, and we <lb n="51424"/>
+            <said who="Lynch">―That you told me a few nights ago, said Lynch, and we <lb n="51424"/>
             began the famous discussion.<lb n="51425"/> </said>
             <said who="Stephen Dedalus">―I have a book at home, said Stephen, in which I have written <lb n="51426"/>
             down questions which are more amusing than yours were. In <lb n="51427"/>
@@ -7473,7 +7473,7 @@
             Mona Lisa good if I desire to see it? Is the bust of sir Philip <lb n="51431"/>
             Crampton lyrical, epical or dramatic? Can excrement or a child <lb n="51432"/>
             or a louse be a work of art? If not, why not?</emph><lb n="51433"/> </said>
-            <said who="???">―Why not, indeed? said Lynch laughing.<lb n="51434"/> </said>
+            <said who="Lynch">―Why not, indeed? said Lynch laughing.<lb n="51434"/> </said>
             <said who="Stephen Dedalus"><emph>If a man hacking in fury at a block of wood</emph>, Stephen con- <lb n="51435"/>
             tinued, <emph>make there an image >of a cow is that image a work of <lb n="51436"/>
             >art? If not, why not?</emph><lb n="51437"/> </said>
@@ -7509,7 +7509,7 @@
             plished. The artist, like the God of the creation, remains within <lb n="51467"/>
             or behind or beyond or above his handiwork, invisible, refined <lb n="51468"/>
             out of existence, indifferent, paring his fingernails.<lb n="51469"/> </said>
-            <said who="???">―Trying to refine them also out of existence, said Lynch.<lb n="51470"/></said> </p>
+            <said who="Lynch">―Trying to refine them also out of existence, said Lynch.<lb n="51470"/></said> </p>
             <p> A fine rain began to fall from the high veiled sky and they <lb n="51471"/>
             turned into the duke's lawn to reach <place><location><geo>53.341522 -6.254893</geo></location><placeName>the national library</placeName></place> before <lb n="51472"/>
             the shower came. <lb n="51473"/>
@@ -7953,10 +7953,10 @@
               towards them. Under the dome of his tiny hat his unshaven <lb n="51894"/>
               face began to smile with pleasure and he was heard to murmur. <lb n="51895"/>
               The eyes were melancholy as those of a monkey. <lb n="51896"/>
-              <said who="???">―Good evening, captain, said Cranly, halting.<lb n="51897"/> </said>
+              <said who="Cranly">―Good evening, captain, said Cranly, halting.<lb n="51897"/> </said>
               <said who="???">―Good evening, gentlemen, said the stubblegrown monkeyish <lb n="51898"/>
               face.<lb n="51899"/> </said>
-              <said who="???">―Warm weather for March, said Cranly. They have the win- <lb n="51900"/>
+              <said who="Cranly">―Warm weather for March, said Cranly. They have the win- <lb n="51900"/>
               dows open upstairs.<lb n="51901"/></said> </p>
               <p> Dixon smiled and turned his ring. The blackish monkey- <lb n="51902"/>
               puckered face pursed its human mouth with gentle pleasure <lb n="51903"/>
@@ -8010,7 +8010,7 @@
               <p> A stout student who stood below them on the steps said: <lb n="51951"/>
               <said who="???">―Come back to the mistress, Temple. We want to hear about <lb n="51952"/>
               that.<lb n="51953"/> </said>
-              <said who="???">―He had, faith, Temple said. And he was a married man too. <lb n="51954"/>
+              <said who="Temple">―He had, faith, Temple said. And he was a married man too. <lb n="51954"/>
               And all the priests used to be dining there. By hell, I think they <lb n="51955"/>
               all had a touch.<lb n="51956"/> </said>
               <said who="???">―We shall call it riding a hack to spare the hunter, said Dixon.<lb n="51957"/> </said>
@@ -8025,12 +8025,12 @@
               <p> Cranly came out through the door of the entrance hall, his <lb n="51966"/>
               hat thrust back on the nape of his neck and picking his teeth <lb n="51967"/>
               with care. <lb n="51968"/>
-              <said who="???">―And here's the wiseacre, said Temple. Do you know that <lb n="51969"/>
+              <said who="Temple">―And here's the wiseacre, said Temple. Do you know that <lb n="51969"/>
               about the Forsters?<lb n="51970"/></said> </p>
               <p> He paused for an answer. Cranly dislodged a figseed from <lb n="51971"/>
               his teeth on the point of his rude toothpick and gazed at it <lb n="51972"/>
               intently. <lb n="51973"/>
-              <said who="???">―The Forster  family, Temple said, is descended from Baldwin <lb n="51974"/>
+              <said who="Temple">―The Forster  family, Temple said, is descended from Baldwin <lb n="51974"/>
               the First, king of Flanders. He was called the Forester. Forester <lb n="51975"/>
               and Forster are the same name. A descendant of Baldwin the <lb n="51976"/>
               First, captain Francis Forster, settled in Ireland and married <lb n="51977"/>
@@ -8039,13 +8039,13 @@
               <said who="???">―From Baldhead, king of Flanders, Cranly repeated, rooting <lb n="51980"/>
               again deliberately at his gleaming uncovered teeth.<lb n="51981"/> </said>
               <said who="???">―Where did you pick up all that history? O'Keeffe asked.<lb n="51982"/> </said>
-              <said who="???">―I know all the history of your family too, Temple said, <lb n="51983"/>
+              <said who="Temple">―I know all the history of your family too, Temple said, <lb n="51983"/>
               turning to Stephen. Do you know what Giraldus Cambrensis <lb n="51984"/>
               says about your family?<lb n="51985"/> </said>
               <said who="???">―Is he descended from Baldwin too? asked a tall consumptive <lb n="51986"/>
               student with dark eyes.<lb n="51987"/> </said>
               <said who="???">―Baldhead, Cranly repeated, sucking at a crevice in his teeth.<lb n="51988"/> </said>
-              <said who="???">―<seg xml:lang="la">Pernobilis et pervetusta familia</seg>, Temple said to Stephen.<lb n="51989"/></said> </p>
+              <said who="Temple">―<seg xml:lang="la">Pernobilis et pervetusta familia</seg>, Temple said to Stephen.<lb n="51989"/></said> </p>
               <p> The stout student who stood below them on the steps farted <lb n="51990"/>
               briefly. Dixon turned towards him saying in a soft voice: <lb n="51991"/>
               <said who="???">―Did an angel speak?<lb n="51992"/></said> </p>
@@ -8056,7 +8056,7 @@
               did no-one any harm, did it?<lb n="51997"/> </said>
               <said who="???">―We hope, Dixon said suavely, that it was not of the kind <lb n="51998"/>
               known to science as a <seg xml:lang="la">paulo post futurum</seg>.<lb n="51999"/> </said>
-              <said who="???">―Didn't I tell you he was a smiler? said Temple, turning right <lb n="52000"/>
+              <said who="Temple">―Didn't I tell you he was a smiler? said Temple, turning right <lb n="52000"/>
               and left. Didn't I give him that name?<lb n="52001"/> </said>
               <said who="???">―You did. We're not deaf, said the tall consumptive.<lb n="52002"/></said> </p>
               <p> Cranly still frowned at the stout student below him. Then, <lb n="52003"/>
@@ -8070,7 +8070,7 @@
               <said who="???">―Are you drunk or what are you or what are you trying to <lb n="52011"/>
               say? asked Cranly, facing round on him with an expression of <lb n="52012"/>
               wonder.<lb n="52013"/> </said>
-              <said who="???">―The most profound sentence ever written, Temple said with <lb n="52014"/>
+              <said who="Temple">―The most profound sentence ever written, Temple said with <lb n="52014"/>
               enthusiasm, is the sentence at the end of the zoology. Repro- <lb n="52015"/>
               duction is the beginning of death.<lb n="52016"/></said> </p>
               <p> He touched Stephen timidly at the elbow and said eagerly: <lb n="52017"/>
@@ -8080,27 +8080,27 @@
               Ireland's hope!<lb n="52021"/></said> </p>
               <p> They laughed at his words and gesture. Temple turned on <lb n="52022"/>
               him bravely, saying: <lb n="52023"/>
-              <said who="???">―Cranly, you're always sneering at me. I can see that. But I <lb n="52024"/>
+              <said who="Temple">―Cranly, you're always sneering at me. I can see that. But I <lb n="52024"/>
               am as good as you are any day. Do you know what I think <lb n="52025"/>
               about you now as compared with myself?<lb n="52026"/> </said>
-              <said who="???">―My dear man, said Cranly urbanely, you are incapable, do <lb n="52027"/>
+              <said who="Cranly">―My dear man, said Cranly urbanely, you are incapable, do <lb n="52027"/>
               you know, absolutely incapable of thinking.<lb n="52028"/> </said>
-              <said who="???">―But do you know, Temple went on, what I think of you and <lb n="52029"/>
+              <said who="Temple">―But do you know, Temple went on, what I think of you and <lb n="52029"/>
               of myself compared together?<lb n="52030"/> </said>
               <said who="???">―Out with it, Temple! the stout student cried from the steps. <lb n="52031"/>
               Get it out in bits!<lb n="52032"/></said> </p>
               <p> Temple turned right and left, making sudden feeble gestures <lb n="52033"/>
               as he spoke. <lb n="52034"/>
-              <said who="???">―I'm a ballocks, he said, shaking his head in despair. I am. <lb n="52035"/>
+              <said who="Temple">―I'm a ballocks, he said, shaking his head in despair. I am. <lb n="52035"/>
               And I know I am. And I admit it that I am.<lb n="52036"/></said> </p>
               <p> Dixon patted him lightly on the shoulder and said mildly: <lb n="52037"/>
-              <said who="???">―And it does you every credit, Temple.<lb n="52038"/> </said>
-              <said who="???">―But he, Temple said, pointing to Cranly. He is a ballocks too <lb n="52039"/>
+              <said who="Dixon">―And it does you every credit, Temple.<lb n="52038"/> </said>
+              <said who="Temple">―But he, Temple said, pointing to Cranly. He is a ballocks too <lb n="52039"/>
               like me. Only he doesn't know it. And that's the only difference <lb n="52040"/>
               I see.<lb n="52041"/></said> </p>
               <p> A burst of laughter covered his words. But he turned again <lb n="52042"/>
               to Stephen and said with a sudden eagerness: <lb n="52043"/>
-              <said who="???">―That word is a most interesting word. That's the only Eng- <lb n="52044"/>
+              <said who="Temple">―That word is a most interesting word. That's the only Eng- <lb n="52044"/>
               lish dual number. Did you know?<lb n="52045"/> </said>
               <said who="Stephen Dedalus">―Is it? Stephen said vaguely.<lb n="52046"/></said> </p>
               <p> He was watching Cranly's firmfeatured suffering face, lit up <lb n="52047"/>
@@ -8221,7 +8221,7 @@
               <p> He broke off, pointed bluntly to the munched pulp of the fig <lb n="52162"/>
               and said loudly: <lb n="52163"/>
               <said who="???">―I allude to that.<lb n="52164"/> </said>
-              <said who="???">―Um, Cranly said as before.<lb n="52165"/> </said>
+              <said who="Cranly">―Um, Cranly said as before.<lb n="52165"/> </said>
               <said who="???">―Do you intend that now, the squat student said, as <emph>ipso facto</emph> <lb n="52166"/>
               or, let us say, as so to speak?<lb n="52167"/></said> </p>
               <p> Dixon turned aside from his group, saying: <lb n="52168"/>
@@ -8231,7 +8231,7 @@
               <p> <said who="???">―Examination papers, Glynn answered. I give them monthly <lb n="52172"/>
               examinations to see that they are profiting by my tuition.<lb n="52173"/></said> </p>
               <p> He also tapped the portfolio and coughed gently and smiled. <lb n="52174"/>
-              <said who="???">―Tuition! said Cranly rudely. I suppose you mean the bare- <lb n="52175"/>
+              <said who="Cranly">―Tuition! said Cranly rudely. I suppose you mean the bare- <lb n="52175"/>
               footed children that are taught by a bloody ape like you. God <lb n="52176"/>
               help them!<lb n="52177"/></said> </p>
               <p> He bit off the rest of the fig and flung away the butt. <lb n="52178"/>
@@ -8255,14 +8255,14 @@
               word: <lb n="52196"/>
               <said who="???">―And, as you remark, if it is thus I ask emphatically whence <lb n="52197"/>
               comes this thusness.<lb n="52198"/> </said>
-              <said who="???">―Because the church is cruel like all old sinners, Temple said.<lb n="52199"/> </said>
+              <said who="Temple">―Because the church is cruel like all old sinners, Temple said.<lb n="52199"/> </said>
               <said who="???">―Are you quite orthodox on that point, Temple? Dixon said <lb n="52200"/>
               suavely.<lb n="52201"/> </said>
               <said who="???">―Saint Augustine says that about unbaptised children going to <lb n="52202"/>
               hell, Temple answered, because he was a cruel old sinner too.<lb n="52203"/> </said>
               <said who="???">―I bow to you, Dixon said, but I had the impression that <lb n="52204"/>
               limbo existed for such cases.<lb n="52205"/> </said>
-              <said who="???">―Don't argue with him, Dixon, Cranly said brutally. Don't <lb n="52206"/>
+              <said who="Cranly">―Don't argue with him, Dixon, Cranly said brutally. Don't <lb n="52206"/>
               talk to him or look at him. Lead him home with a sugan the <lb n="52207"/>
               way you'd lead a bleating goat.<lb n="52208"/> </said>
               <said who="???">―Limbo! Temple cried. That's a fine invention too. Like hell.<lb n="52209"/> </said>
@@ -8274,7 +8274,7 @@
               united.<lb n="52215"/></said> </p>
               <p> He struck the ferrule of his umbrella on the stone floor of <lb n="52216"/>
               the colonnade. <lb n="52217"/>
-              <said who="???">―Hell, Temple said. I can respect that invention of the grey <lb n="52218"/>
+              <said who="Temple">―Hell, Temple said. I can respect that invention of the grey <lb n="52218"/>
               spouse of Satan. Hell is Roman, like the walls of the Romans, <lb n="52219"/>
               strong and ugly. But what is limbo?<lb n="52220"/> </said>
               <said who="???">―Put him back into  the perambulator, Cranly, O'Keeffe called <lb n="52221"/>
@@ -8352,9 +8352,9 @@
               duty.<lb n="52293"/> </said>
               <said who="???">―And will you?<lb n="52294"/> </said>
               <said who="Stephen Dedalus">―I will not, Stephen said.<lb n="52295"/> </said>
-              <said who="???">―Why not? Cranly said.<lb n="52296"/> </said>
+              <said who="Cranly">―Why not? Cranly said.<lb n="52296"/> </said>
               <said who="Stephen Dedalus">―I will not serve, answered Stephen.<lb n="52297"/> </said>
-              <said who="???">―That remark was made before, Cranly said calmly.<lb n="52298"/> </said>
+              <said who="Cranly">―That remark was made before, Cranly said calmly.<lb n="52298"/> </said>
               <said who="Stephen Dedalus">―It is made behind now, said Stephen hotly.<lb n="52299"/></said> </p>
               <p> Cranly pressed Stephen's arm, saying: <lb n="52300"/>
               <said who="???">―Go easy, my dear man. You're an excitable bloody man, do <lb n="52301"/>
@@ -8387,10 +8387,10 @@
               the day of judgment?<lb n="52328"/> </said>
               <said who="Stephen Dedalus">―What is offered me on the other hand? Stephen asked. An <lb n="52329"/>
               eternity of bliss in the company of the dean of studies?<lb n="52330"/> </said>
-              <said who="???">―Remember, Cranly said, that he would be glorified.<lb n="52331"/> </said>
+              <said who="Cranly">―Remember, Cranly said, that he would be glorified.<lb n="52331"/> </said>
               <said who="Stephen Dedalus">―Ay, Stephen said somewhat bitterly. Bright, agile, impassible <lb n="52332"/>
               and, above all, subtle.<lb n="52333"/> </said>
-              <said who="???">―It is a curious thing, do you know, Cranly said dispassion- <lb n="52334"/>
+              <said who="Cranly">―It is a curious thing, do you know, Cranly said dispassion- <lb n="52334"/>
               ately, how your mind is supersaturated with the religion in <lb n="52335"/>
               which you say you disbelieve. Did you believe in it when you <lb n="52336"/>
               were at school? I bet you did.<lb n="52337"/> </said>
@@ -8408,7 +8408,7 @@
               <said who="Stephen Dedalus">―I don't know what your words mean, he said simply.<lb n="52349"/> </said>
               <said who="???">―Have you never loved anyone? Cranly asked.<lb n="52350"/> </said>
               <said who="Stephen Dedalus">―Do you mean women?<lb n="52351"/> </said>
-              <said who="???">―I am not speaking of that, Cranly said in a colder tone. I ask <lb n="52352"/>
+              <said who="Cranly">―I am not speaking of that, Cranly said in a colder tone. I ask <lb n="52352"/>
               you if you ever felt love towards anyone or anything.<lb n="52353"/></said> </p>
               <p> Stephen walked on beside his friend, staring gloomily at the <lb n="52354"/>
               footpath. <lb n="52355"/>
@@ -8448,7 +8448,7 @@
               ing, he said then. Would you not try to save her from suffering <lb n="52389"/>
               more even if .... or would you?<lb n="52390"/> </said>
               <said who="Stephen Dedalus">―If I could, Stephen said. That would cost me very little.<lb n="52391"/> </said>
-              <said who="???">―Then do so, Cranly said. Do as she wishes you to do. What <lb n="52392"/>
+              <said who="Cranly">―Then do so, Cranly said. Do as she wishes you to do. What <lb n="52392"/>
               is it for you? You disbelieve in it. It is a form: nothing else. And <lb n="52393"/>
               you will set her mind at rest.<lb n="52394"/></said> </p>
               <p> He ceased and, as Stephen did not reply, remained silent. <lb n="52395"/>
@@ -8465,10 +8465,10 @@
               behind the words, said with  assumed carelessness: <lb n="52406"/>
               <p> <said who="Stephen Dedalus">―Pascal, if I remember rightly, would not suffer his mother to <lb n="52407"/>
               kiss him as he feared the contact of her sex.<lb n="52408"/> </said>
-              <said who="???">―Pascal was a pig, said Cranly.<lb n="52409"/> </said>
+              <said who="Cranly">―Pascal was a pig, said Cranly.<lb n="52409"/> </said>
               <said who="Stephen Dedalus">―Aloysius Gonzaga, I think, was of the same mind, Stephen <lb n="52410"/>
               said.<lb n="52411"/> </said>
-              <said who="???">―And he was another pig then, said Cranly.<lb n="52412"/> </said>
+              <said who="Cranly">―And he was another pig then, said Cranly.<lb n="52412"/> </said>
               <said who="Stephen Dedalus">―The church calls him a saint, Stephen objected.<lb n="52413"/> </said>
               <said who="???">―I don't care a flaming damn what anyone calls him, Cranly <lb n="52414"/>
               said rudely and flatly. I call him a pig.<lb n="52415"/></said> </p>
@@ -8480,7 +8480,7 @@
               not what he pretended to be?<lb n="52421"/> </said>
               <said who="Stephen Dedalus">―The first person to whom that idea occurred,  Stephen <lb n="52422"/>
               answered, was Jesus himself.<lb n="52423"/> </said>
-              <said who="???">―I mean, Cranly said,  hardening in his speech, did the idea <lb n="52424"/>
+              <said who="Cranly">―I mean, Cranly said,  hardening in his speech, did the idea <lb n="52424"/>
               ever occur to you that he was himself a conscious hypocrite, <lb n="52425"/>
               what he called the jews of his time, a whited sepulchre? Or, to <lb n="52426"/>
               put it more plainly, that he was a blackguard?<lb n="52427"/> </said>
@@ -8502,7 +8502,7 @@
               host too may be the body and blood of the son of God and not <lb n="52443"/>
               a wafer of bread? And because you fear that it may be?<lb n="52444"/> </said>
               <said who="Stephen Dedalus">―Yes, Stephen said quietly. I feel that and I also fear it.<lb n="52445"/> </said>
-              <said who="???">―I see, Cranly said.<lb n="52446"/></said> </p>
+              <said who="Cranly">―I see, Cranly said.<lb n="52446"/></said> </p>
               <p> Stephen, struck by his tone of closure, reopened the dis- <lb n="52447"/>
               cussion at once by saying: <lb n="52448"/>
               <said who="Stephen Dedalus">―I fear many things: dogs, horses, firearms, the sea, thunder- <lb n="52449"/>
@@ -8520,7 +8520,7 @@
               <said who="???">―Would you, Cranly asked, in extreme danger commit that <lb n="52461"/>
               particular sacrilege? For instance, if you lived in the penal days?<lb n="52462"/> </said>
               <said who="Stephen Dedalus">―I cannot answer for the past, Stephen replied. Possibly not.<lb n="52463"/> </said>
-              <said who="???">―Then, said Cranly, you do not intend to become a protes- <lb n="52464"/>
+              <said who="Cranly">―Then, said Cranly, you do not intend to become a protes- <lb n="52464"/>
               tant?<lb n="52465"/> </said>
               <said who="Stephen Dedalus">―I said that I had lost the faith, Stephen answered, but not <lb n="52466"/>
               that I had lost selfrespect. What kind of liberation would that <lb n="52467"/>
@@ -8564,7 +8564,7 @@
               <said who="???">―Do you consider that poetry? Or do you know what the <lb n="52503"/>
               words mean?<lb n="52504"/> </said>
               <said who="Stephen Dedalus">―I want to see Rosie first, said Stephen.<lb n="52505"/> </said>
-              <said who="???">―She's easy to find, Cranly said.<lb n="52506"/></said> </p>
+              <said who="Cranly">―She's easy to find, Cranly said.<lb n="52506"/></said> </p>
               <p> His hat had come down on his forehead. He shoved it back: <lb n="52507"/>
               and in the shadow of the trees Stephen saw his pale face, <lb n="52508"/>
               framed by the dark, and his large dark eyes. Yes. His face was <lb n="52509"/>
@@ -8579,7 +8579,7 @@
               <said who="Stephen Dedalus">―Probably I shall go away, he said.<lb n="52518"/> </said>
               <said who="???">―Where? Cranly asked.<lb n="52519"/> </said>
               <said who="Stephen Dedalus">―Where I can, Stephen said.<lb n="52520"/> </said>
-              <said who="???">―Yes, Cranly said. It might be difficult for you to live here <lb n="52521"/>
+              <said who="Cranly">―Yes, Cranly said. It might be difficult for you to live here <lb n="52521"/>
               now. But is it that that makes you go?<lb n="52522"/> </said>
               <said who="Stephen Dedalus">―I have to go, Stephen answered.<lb n="52523"/></said> </p>
               <said who="???">―Because, Cranly continued, you need not look upon yourself <lb n="52524"/>
@@ -8594,7 +8594,7 @@
               of remembering thoughts in connection with places. The night <lb n="52533"/>
               you spent half an hour wrangling with Doherty about the <lb n="52534"/>
               shortest way from <place><location><geo>53.136900 -6.310000</geo></location><placeName>Sallygap</placeName></place> to Larras.<lb n="52535"/> </said>
-              <said who="???">―Pothead! Cranly said with calm contempt. What does he <lb n="52536"/>
+              <said who="Cranly">―Pothead! Cranly said with calm contempt. What does he <lb n="52536"/>
               know about the way from Sallygap to Larras? Or what does he <lb n="52537"/>
               know about anything for that matter? And the big slobbering <lb n="52538"/>
               washingpot head of him!<lb n="52539"/></said> </p>
@@ -8621,7 +8621,7 @@
               <said who="???">―And would you?<lb n="52560"/> </said>
               <said who="Stephen Dedalus">―I think, Stephen said, it would pain me as much to do so as <lb n="52561"/>
               to be robbed.<lb n="52562"/> </said>
-              <said who="???">―I see, Cranly said.<lb n="52563"/></said> </p>
+              <said who="Cranly">―I see, Cranly said.<lb n="52563"/></said> </p>
               <p> He produced his match and began to clean the crevice be- <lb n="52564"/>
               tween two teeth. Then he said carelessly: <lb n="52565"/>
               <said who="???">―Tell me, for example, would you deflower a virgin?<lb n="52566"/> </said>
@@ -8646,7 +8646,7 @@
               <said who="Stephen Dedalus">―And you made me confess to you, Stephen said, thrilled by <lb n="52585"/>
               his touch, as I have confessed to you so  many other things, <lb n="52586"/>
               have I not?<lb n="52587"/> </said>
-              <said who="???">―Yes, my child, Cranly said, still gaily.<lb n="52588"/> </said>
+              <said who="Cranly">―Yes, my child, Cranly said, still gaily.<lb n="52588"/> </said>
               <said who="Stephen Dedalus">―You made me confess the fears that I have. But I will tell you <lb n="52589"/>
               also what I do not fear. I do not fear to be alone or to be <lb n="52590"/>
               spurned for another or to leave whatever I have to leave. And I <lb n="52591"/>
@@ -8657,7 +8657,7 @@
               what that word means? Not only to be separate from all others <lb n="52596"/>
               but to have not even one friend.<lb n="52597"/> </said>
               <said who="Stephen Dedalus">―I will take the risk, said Stephen.<lb n="52598"/> </said>
-              <said who="???">―And not to have any one person, Cranly said, who would be <lb n="52599"/>
+              <said who="Cranly">―And not to have any one person, Cranly said, who would be <lb n="52599"/>
               more than a friend, more even than the noblest and truest <lb n="52600"/>
               friend a man ever had.<lb n="52601"/></said> </p>
               <p> His words seemed to have struck some deep chord in his <lb n="52602"/>
