@@ -88,6 +88,10 @@
 	</span>
 </xsl:template> 
 
+<xsl:template match="quote/ref">
+  <span class="hide"><xsl:apply-templates/></span>
+</xsl:template>
+
 <xsl:template match="epigraph">
 	<span class="lang">
 		<xsl:apply-templates select="@xml:lang | node()"/>
