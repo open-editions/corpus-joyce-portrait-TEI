@@ -5289,7 +5289,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="40184"/>telling her names and glories, bidding her arise as for espousal
 <lb n="40185"/>and come away, bidding her look forth, a spouse, from Amana
 <lb n="40186"/>and from the mountains of the leopards; and the soul seemed to
-<lb n="40187"/>answer with the same inaudible voice, surrendering herself:
+<lb n="40187"/>answer with the same inaudible voice, surrendering herself:</p>
 <p> <lb n="40188"/><seg xml:lang="la">Inter ubera mea commorabitur</seg>.</p>
 <p> <lb n="40189"/>This idea of surrender had a perilous attraction for his mind
 <lb n="40190"/>now that he felt his soul beset once again by the insistent voices
@@ -5338,7 +5338,10 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="40233"/>sincere sorrow for his sin was, he knew, the amendment of his
 <lb n="40234"/>life.
 <lb n="40235"/><said who="Stephen Dedalus">―I have amended  my life, have I not? he asked himself.</said></p>
-<milestone unit="section" rend="asterixes"/> </div> <!-- 4.1 --> <div n="4.2" type="section">
+<milestone unit="section" rend="asterixes"/>
+</div> <!-- 4.1 -->
+
+<div n="4.2" type="section">
 <p> <lb n="40236"/>The director stood in the embrasure of the window, his back
 <lb n="40237"/>to the light, leaning an elbow on the brown crossblind and, as
 <lb n="40238"/>he spoke and smiled, slowly dangling and looping the cord of
@@ -5383,7 +5386,7 @@ The fellows cheered. They passed the farmhouse of the Jolly Farmer. Cheer after
 <lb n="40277"/><said who="Priest">―Of course it is, of course. Just imagine when I was in Bel-
 <lb n="40278"/>gium I used to see them out cycling in all kinds of weather with
 <lb n="40279"/>this thing up about their knees! It was really ridiculous. <seg xml:lang="fr">Les
-<lb n="40280"/>jupes</seg>, they call them in Belgium.</p>
+<lb n="40280"/>jupes</seg>, they call them in Belgium.</said></p>
 <p> <lb n="40281"/>The vowel was so modified as to be indistinct.
 <lb n="40282"/><said who="Stephen Dedalus">―What do they call them?</said>
 <lb n="40283"/><said who="Priest">―<seg xml:lang="fr">Les jupes.</seg></said>
@@ -5448,7 +5451,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="40341"/>catholic.
 <lb n="40342"/><said who="Priest">―But there are many eminent French critics, said the priest,
 <lb n="40343"/>who consider that even Victor Hugo, great as he certainly was,
-<lb n="40344"/>had not so pure a French style as Louis Veuillot.</p>
+<lb n="40344"/>had not so pure a French style as Louis Veuillot.</said></p>
 <p> <lb n="40345"/>The tiny flame which the priest's allusion had kindled upon
 <lb n="40346"/>Stephen's cheek had sunk down again and his eyes were still
 <lb n="40347"/>fixed calmly on the colorless sky. But an unresting doubt flew
@@ -5482,7 +5485,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="40375"/>them; he is chosen perhaps as prefect by his fellow sodalists.
 <lb n="40376"/>And you, Stephen, have been such a boy in this college, prefect
 <lb n="40377"/>of Our Blessed Lady's sodality. Perhaps you are the boy in this
-<lb n="40378"/>college whom God designs to call to Himself.</p>
+<lb n="40378"/>college whom God designs to call to Himself.</said></p>
 <p> <lb n="40379"/>A strong note of pride reinforcing the gravity of the priest's
 <lb n="40380"/>voice made Stephen's heart quicken in response.</p>
 <p> <lb n="40381"/>―To receive that call, Stephen, said the priest, is the greatest
@@ -5708,8 +5711,8 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="40601"/>of life even before entering upon it. And he remembered that
 <lb n="40602"/>Newman had heard this note also in the broken lines of Virgil
 <lb n="40603"/><emph>giving utterance, like the voice of Nature herself, to that pain
-<lb n="40604"/><emph>and weariness yet hope of better things which has been the
-<lb n="40605"/><emph>experience of her children in every time.</emph></p>
+<lb n="40604"/>and weariness yet hope of better things which has been the
+<lb n="40605"/>experience of her children in every time.</emph></p>
 <milestone unit="section" rend="asterixes"/> </div> <!-- 4.2 --> <div n="4.3" type="section">
 <p> <lb n="40606"/>He could wait no longer.</p>
 <p> <lb n="40607"/>From the door of Byron's publichouse to the gate of Clontarf
@@ -5754,7 +5757,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="40646"/>feet of hares and rabbits, the feet of harts and hinds and ante-
 <lb n="40647"/>lopes, until he heard them no more and remembered only a
 <lb n="40648"/>proud cadence from Newman: <emph>Whose feet are as the feet of
-<lb n="40649"/><emph>harts and underneath the everlasting arms.</emph></p>
+<lb n="40649"/>harts and underneath the everlasting arms.</emph></p>
 <p> <lb n="40650"/>The pride of that dim image brought back to his mind the
 <lb n="40651"/>dignity of the office he had refused. All through his boyhood he
 <lb n="40652"/>had mused upon that which he had so often thought to be his
@@ -5776,7 +5779,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="40668"/>the bridge but he still saw a reflection therein of their topheavy
 <lb n="40669"/>silk hats, and humble tapelike collars and loosely hanging cleri-
 <lb n="40670"/>cal clothes.
-<lb n="40671"/><said who:"Stephen Dedalus"/>―Brother Hickey.
+<lb n="40671"/><said who="Stephen Dedalus">―Brother Hickey.
 <lb n="40672"/>Brother Quaid.
 <lb n="40673"/>Brother MacArdle.
 <lb n="40674"/>Brother Keogh.</said></p>
@@ -5843,7 +5846,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="40735"/><said who="a voice">―Here comes The Dedalus!</said>
 <lb n="40736"/><said who="a voice">―Ao! ... Eh, give it over, Dwyer, I'm telling you or I'll give you
 <lb n="40737"/>a stuff in the kisser for yourself .... Ao!</said>
-<lb n="40738"/><said who="a voice">―Good man, Towser! Duck him!</said
+<lb n="40738"/><said who="a voice">―Good man, Towser! Duck him!</said>
 <lb n="40739"/><said who="a voice">―Come along, Dedalus! Bous Stephanoumenos! Bous Steph-
 <lb n="40740"/>aneforos!</said>
 <lb n="40741"/><said who="a voice">―Duck him! Guzzle him now, Towser!</said>
@@ -5869,7 +5872,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="40761"/>uge in number and noise from the secret dread in their souls.
 <lb n="40762"/>But he, apart from them and in silence, remembered in what
 <lb n="40763"/>dread he stood of the mystery of his own body.</p>
-<p> <lb n="40764"/>―Stephanos Dedalos! Bous Stephanoumenos! Bous Stephaneforos!</p>
+<p> <lb n="40764"/>―Stephanos Dedalos! Bous Stephanoumenos! Bous Stephane-
 <lb n="40765"/>foros!</p>
 <p> <lb n="40766"/>Their banter was not new to him and now it
 <lb n="40767"/>flattered his mild proud sovereignty. Now, as never before, his
@@ -6073,7 +6076,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="50037"/><said who="Mary Dedalus">―Dry yourself and hurry out for the love of goodness. </said></p>
 <p> <lb n="50038"/>A second shrill whistle, prolonged angrily, brought one of
 <lb n="50039"/>the girls to the foot of the staircase.
-<p> <lb n="50040"/><said who="one of the girls">―Yes, father?</said>
+<lb n="50040"/><said who="one of the girls">―Yes, father?</said>
 <lb n="50041"/><said who="Simon Dedalus">―Is your lazy bitch of a brother gone out yet? </said>
 <lb n="50042"/><said who="one of the girls">―Yes, father.</said>
 <lb n="50043"/><said who="Simon Dedalus">―Sure? </said>
@@ -6119,7 +6122,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="50083"/>beauty, and that passing a grimy marine dealer's@ shop beyond
 <lb n="50084"/>the <placeName>Liffey</placeName> he would repeat the song by <persName>Ben Jonson</persName> which
 <lb n="50085"/>begins:</p>
-<p> <lb n="50086"/><l><emph>I was not wearier where I lay.</emph></l>
+<lg> <lb n="50086"/><l><emph>I was not wearier where I lay.</emph></l></lg>
 <p> <lb n="50087"/>His mind@ when wearied of its search for the essence of
 <lb n="50088"/>beauty amid the spectral words of <persName>Aristotle</persName> or <persName>Aquinas@</persName> turned
 <lb n="50089"/>often for its pleasure to the dainty songs of the Elizabethans.
@@ -6228,7 +6231,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="50190"/>chines of bacon. He had learnt what little he knew of the laws
 <lb n="50191"/>of Latin verse from a ragged book written by a Portuguese
 <lb n="50192"/>priest:</p>
-<p> <lb n="50193"/><l><seg xml:lang="la">Contrahit orator, variant in carmine vates.</seg></l>
+<p><lg><lb n="50193"/><l><seg xml:lang="la">Contrahit orator, variant in carmine vates.</seg></l></lg></p>
 <p> <lb n="50194"/>The crises and victories and secessions in Roman history
 <lb n="50195"/>were handed on to him in the trite words <seg xml:lang="la">in tanto discrimine</seg>
 <lb n="50196"/>and he had tried to peer into the social life of the city of cities
@@ -6614,7 +6617,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="50576"/><said who="Stephen Dedalus">―I may not have his talent, said Stephen quietly.</said>
 <lb n="50577"/><said who="???">―You never know, said the dean brightly. We never can say
 <lb n="50578"/>what is in us. I most certainly should not be despondent. <seg xml:lang="la">Per
-<lb n="50579"/><emph>aspera ad astra.</seg></said></p>
+<lb n="50579"/>aspera ad astra.</seg></said></p>
 <p> <lb n="50580"/>He left the hearth quickly and went towards the landing to
 <lb n="50581"/>oversee the arrival of the first arts' class.</p>
 <p> <lb n="50582"/>Leaning against the fireplace Stephen heard him greet briskly
@@ -6778,12 +6781,12 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="50738"/><said who="Stephen Dedalus">―He has the face of a besotted Christ.</said></p>
 <p> <lb n="50739"/>The scorn and anger in his voice brought Cranly's eyes back
 <lb n="50740"/>from a calm survey of the walls of the hall.
-<lb n="50741"/><said who="Cranly">―Are you annoyed? he asked.</p>
+<lb n="50741"/><said who="Cranly">―Are you annoyed? he asked.</said>
 <lb n="50742"/><said who="Stephen Dedalus">―No, answered Stephen.</said>
 <lb n="50743"/><said who="Cranly">―Are you in bad humour?</said>
-<lb n="50744"/><said who="Stephen Dedalus">―No.</said>
+<lb n="50744"/><said who="Stephen Dedalus">―No.</said></p>
 <p> <lb n="50745"/><said who="Cranly">―<seg xml:lang="la">Credo ut vos sanguinarius mendax estis</seg>, said Cranly, <seg xml:lang="la">quia
-<lb n="50746"/><emph>facies vostra monstrat ut vos in damno malo humore estis.</seg></said></p>
+<lb n="50746"/>facies vostra monstrat ut vos in damno malo humore estis.</seg></said></p>
 <p> <lb n="50747"/>Moynihan, on his way to the table, said in Stephen's ear:
 <lb n="50748"/><said who="Moynihan">―MacCann is in tiptop form. Ready to shed the last drop.
 <lb n="50749"/>Brandnew world. No stimulants and votes for the bitches.</said></p>
@@ -6865,11 +6868,12 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <p> <lb n="50825"/>A thin voice from the verge of the ring replied:
 <lb n="50826"/><said who="???">―Pip! pip!</said></p>
 <p> <lb n="50827"/>Moynihan murmured beside Stephen's ear:
-<lb n="50828"/><said who="???">―And what about John Anthony's poor little sister:</p>
+<lb n="50828"/><said who="???">―And what about John Anthony's poor little sister:
 <lg>
 <lb n="50829"/><l>Lottie Collins lost her drawers;</l>
-<lb n="50830"/>><l>Won't you kindly lend her yours?</l></said>
+<lb n="50830"/><l>Won't you kindly lend her yours?</l>
 </lg>
+</said></p>
 <p> <lb n="50831"/>Stephen laughed and Moynihan, pleased with the result,
 <lb n="50832"/>murmured again:
 <lb n="50833"/><said who="???">―We'll have five bob each way on John Anthony Collins.</said>
@@ -7266,8 +7270,8 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="51224"/>and Aquinas can do?</said>
 <lb n="51225"/><said who="Stephen Dedalus">―Let us take woman, said Stephen.</said>
 <lb n="51226"/><said who="???">―Let us take her! said Lynch fervently.</said>
-<lb n="51227"/><said who="Stephen Dedalus">―The Greek, the Turk, the Chinese, the Copt, the Hottentot,
-<lb n="51228"/>said Stephen, all admire a different type of female beauty. That
+<lb n="51227"/><said who="Stephen Dedalus">―The Greek, the Turk, the Chinese, the Copt, the Hottentot,</said>
+<lb n="51228"/>said Stephen, <said who="Stephen Dedalus">all admire a different type of female beauty. That
 <lb n="51229"/>seems to be a maze out of which we cannot escape. I see
 <lb n="51230"/>however two ways out. One is this hypothesis: that every physi-
 <lb n="51231"/>cal quality admired by men in women is in direct connection
@@ -7283,7 +7287,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="51241"/>give good milk to her children and yours.</said>
 <lb n="51242"/><said who="???">―Then MacCann is a sulphuryellow liar, said Lynch energeti-
 <lb n="51243"/>cally.</said>
-<lb n="51244"/><said who="Stephen Dedalus">―There remains another way out, said Stephen@ laughing.
+<lb n="51244"/><said who="Stephen Dedalus">―There remains another way out, said Stephen@ laughing.</said>
 <lb n="51245"/><said who="???">―To wit? said Lynch.</said>
 <lb n="51246"/><said who="Stephen Dedalus">―This hypothesis, Stephen began.</said></p>
 <p> <lb n="51247"/>A long dray laden with old iron came round the corner of
@@ -7312,7 +7316,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="51270"/>come to the phenomenon@ of artistic conception, artistic gesta-
 <lb n="51271"/>tion and artistic reproduction I require a new terminology and
 <lb n="51272"/>a new personal experience.</said>
-<lb n="51273"/><said who="???">―Of course, said Lynch. After all Aquinas, in spite of his
+<lb n="51273"/><said who="Lynch">Of course, said Lynch. After all Aquinas, in spite of his
 <lb n="51274"/>intellect, was exactly a good round  friar. But you will tell me
 <lb n="51275"/>about the new personal experience and new terminology some
 <lb n="51276"/>other day. Hurry up and finish the first part.</said>
@@ -7474,7 +7478,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="51430"/>myself: <emph>Is a chair finely made tragic or comic? Is the portrait of
 <lb n="51431"/>Mona Lisa good if I desire to see it? Is the bust of sir@ Philip
 <lb n="51432"/>Crampton lyrical, epical or dramatic? Can excrement or a child
-<lb n="51433"/><emph>or a louse be a work of art? If not, why not?</emph></said>
+<lb n="51433"/>or a louse be a work of art? If not, why not?</emph></said>
 <lb n="51434"/><said who="???">―Why not, indeed? said Lynch@ laughing.</said>
 <lb n="51435"/><said who="Stephen Dedalus"><emph>If@ a man hacking in fury at a block of wood</emph>, Stephen con-
 <lb n="51436"/>tinued, <emph>make there an image >of a cow is@ that@ image a work of
@@ -7619,7 +7623,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lg>
 <lb n="51567"/><l>Above the flame the smoke of praise</l>
 <lb n="51568"/><l>Goes up from ocean rim to rim.</l>
-<lb n="51569"/<<l>Tell no more of enchanted days.</l>
+<lb n="51569"/><l>Tell no more of enchanted days.</l>
 </lg>
 <p> <lb n="51570"/>Smoke went up from the whole earth, from the vapoury
 <lb n="51571"/>oceans, smoke of her praise. The earth was like a swinging
@@ -7704,7 +7708,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="51650"/>called herself his own girl and begged his handsel, the kitchen-
 <lb n="51651"/>girl in the next house who sang over the clatter of her plates
 <lb n="51652"/>with the drawl of a country singer the first bars of <emph>By
-<lb n="51653"/><emph>Killarney's Lakes and Fells</emph>, a girl who had laughed gaily to see
+<lb n="51653"/>Killarney's Lakes and Fells</emph>, a girl who had laughed gaily to see
 <lb n="51654"/>him stumble when the iron grating in the footpath near <place><location><geo>53.343835 -6.267562</geo></location><placeName>Cork
 <lb n="51655"/>Hill</placeName></place> had caught the broken sole of his shoe, a girl he had
 <lb n="51656"/>glanced at, attracted by her small ripe mouth@ as she passed out
@@ -7821,11 +7825,11 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="51764"/><l>And still you hold our longing gaze</l>
 <lb n="51765"/><l>With languorous look and lavish limb.</l>
 <lb n="51766"/><l>Are you not weary of ardent ways?</l>
-<lb n="51767"/><l>Tell no more of enchanted days.
+<lb n="51767"/><l>Tell no more of enchanted days.</l>
 </lg> <milestone unit="section" rend="asterixes"/>
 </div> <!-- 5.2 --> <div n="5.3" type="section">
-<p> <lb n="51768"/>What birds were they?
-<p> <lb n="51769"/>He stood on the steps of the library to look at them, leaning
+<p><lb n="51768"/>What birds were they?</p>
+<p><lb n="51769"/>He stood on the steps of the library to look at them, leaning
 <lb n="51770"/>wearily on his ashplant. They flew round and round the jutting
 <lb n="51771"/>shoulder of a house in <place><location><geo>53.340809 -6.257636</geo></location><placeName>Molesworth</placeName></place> Street. The air of the late
 <lb n="51772"/>March evening made clear their flight, their dark darting
@@ -8003,8 +8007,8 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="51942"/>take leave elaborately of the dwarf.</p>
 <p> <lb n="51943"/>Under the colonnade Temple was standing in the midst of a
 <lb n="51944"/>little group of students. One of them cried:
-<lb n="51945"/><said who="???">―Dixon, come over till you hear. Temple is in grand form.</p>
-<p> <lb n="51946"/>Temple turned on him his dark gipsy eyes.</said>
+<lb n="51945"/><said who="???">―Dixon, come over till you hear. Temple is in grand form.</said></p>
+<p> <lb n="51946"/>Temple turned on him his dark gipsy eyes.
 <lb n="51947"/><said who="???">―You're a hypocrite, O'Keeffe, he said.@ And@ Dixon's a smiler.
 <lb n="51948"/>By hell, I think that's a good literary expression.</said></p>
 <p> <lb n="51949"/>He laughed slily, looking in Stephen's face, repeating:
@@ -8136,7 +8140,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <p> <lb n="52075"/>She had passed through the dusk. And therefore the air was
 <lb n="52076"/>silent save for one soft hiss that fell. And therefore the tongues
 <lb n="52077"/>about him had ceased their babble. Darkness  was falling.</p>
-<p> <lb n="52078"/><l><emph>Darkness falls from the air.</emph></l>
+<p> <lb n="52078"/><l><emph>Darkness falls from the air.</emph></l></p>
 <p> <lb n="52079"/>A trembling joy, lambent as a faint light, played like a fairy
 <lb n="52080"/>host around him. But why? Her passage through the darkening
 <lb n="52081"/>air or the verse with its black vowels and its opening sound,
@@ -8268,7 +8272,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="52207"/>talk to him or look at him. Lead him home with a sugan the
 <lb n="52208"/>way you'd lead a bleating goat.</said>
 <lb n="52209"/><said who="???">―Limbo! Temple cried. That's a fine invention too. Like hell.</said>
-<lb n="52210"/><said who="???">―But with the unpleasantness left out, Dixon said.</said>
+<lb n="52210"/><said who="???">―But with the unpleasantness left out, Dixon said.</said></p>
 <p> <lb n="52211"/>He turned smiling to the others and said:
 <lb n="52212"/><said who="???">―I think I am voicing the opinions of all present in saying so
 <lb n="52213"/>much.</said>
@@ -8281,10 +8285,10 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="52220"/>strong and ugly. But what is limbo?</said>
 <lb n="52221"/><said who="???">―Put him back into  the perambulator, Cranly, O'Keeffe called
 <lb n="52222"/>out.</said></p>
-<p> <lb n="52223"/>Cranly made a swift step towards Temple, halted, stamping
+<lb n="52223"/>Cranly made a swift step towards Temple, halted, stamping
 <lb n="52224"/>his foot@ and@ crying as if to a fowl:
 <lb n="52225"/><said who="Cranly">―Hoosh!</said></p>
-<p> <lb n="52226"/>Temple moved away nimbly.
+<lb n="52226"/>Temple moved away nimbly.
 <lb n="52227"/><said who="Temple">―Do you know what limbo is? he cried. Do you know what
 <lb n="52228"/>we call a notion like that in Roscommon?</said>
 <lb n="52229"/><said who="Cranly">―Hoosh! Blast you! Cranly cried, clapping his hands.</said>
@@ -8301,7 +8305,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="52240"/>thrust the stick back into Stephen's hand. Stephen felt that his
 <lb n="52241"/>anger had another cause but, feigning patience, touched his
 <lb n="52242"/>arm slightly and said quietly:
-<p> <lb n="52243"/><said who="Stephen Dedalus">―Cranly, I told you I wanted to speak to you. Come away.</said></p>
+<lb n="52243"/><said who="Stephen Dedalus">―Cranly, I told you I wanted to speak to you. Come away.</said></p>
 <p> <lb n="52244"/>Cranly looked at him for a few moments and asked:
 <lb n="52245"/><said who="???">―Now?</said>
 <lb n="52246"/><said who="Stephen Dedalus">―Yes, now, Stephen said. We can't speak here. Come away.</said></p>
@@ -8430,7 +8434,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="52369"/><said who="Stephen Dedalus">―Yes, Stephen said.</said>
 <lb n="52370"/><said who="???">―What was he? Cranly asked after a pause.</said></p>
 <p> <lb n="52371"/>Stephen began to enumerate glibly his father's attributes.
-<p> <lb n="52372"/><said who="Stephen Dedalus">―A medical student, an oarsman, a tenor, an amateur actor, a
+<lb n="52372"/><said who="Stephen Dedalus">―A medical student, an oarsman, a tenor, an amateur actor, a
 <lb n="52373"/>shouting politician, a small landlord, a small investor, a
 <lb n="52374"/>drinker, a good fellow, a storyteller, somebody's secretary,
 <lb n="52375"/>something in a distillery, a taxgatherer, a bankrupt and at
@@ -8583,7 +8587,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="52520"/><said who="Stephen Dedalus">―Where I can, Stephen said.</said>
 <lb n="52521"/><said who="???">―Yes, Cranly said. It might be difficult for you to live here
 <lb n="52522"/>now. But is it that that makes you go?</said>
-<lb n="52523"/><said who="Stephen Dedalus">―I have to go, Stephen answered.</p>
+<lb n="52523"/><said who="Stephen Dedalus">―I have to go, Stephen answered.</said></p>
 <lb n="52524"/><said who="???">―Because, Cranly continued, you need not look upon yourself
 <lb n="52525"/>as driven away if you do not wish to go or as a heretic or an
 <lb n="52526"/>outlaw. There are many good believers who think as you do.
@@ -8658,7 +8662,7 @@ and in <place><location><geo>52.207800 -8.211070</geo></location><placeName>Bel-
 <lb n="52595"/><said who="???">―Alone, quite alone. You have no fear of that. And you know
 <lb n="52596"/>what that word means? Not only to be separate from all others
 <lb n="52597"/>but to have not even one friend.</said>
-<p> <lb n="52598"/><said who="Stephen Dedalus">―I will take the risk, said Stephen.</said>
+<lb n="52598"/><said who="Stephen Dedalus">―I will take the risk, said Stephen.</said>
 <lb n="52599"/><said who="???">―And not to have any one person, Cranly said, who would be
 <lb n="52600"/>more than a friend, more even than the noblest and truest
 <lb n="52601"/>friend a man ever had.</said></p>
