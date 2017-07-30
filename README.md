@@ -67,6 +67,11 @@ examples that he had learnt in Latin had run:
 <seg xml:lang="lat"><hi rend="italic">India mittit ebur</hi></seg>; 
 ```
 
+## Editorial Conventions
+
+ - Use unicode characters instead of XML entity codes, e.g. `–` instead of `&ndash;`. 
+ - Heal typographically-hyphenated (i.e. soft-hyphenated) words, at the expense, in some cases, of line numbering.
+ 
 ## How to contribute:
 
 See [CONTRIBUTING.md](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/CONTRIBUTING.md). 
