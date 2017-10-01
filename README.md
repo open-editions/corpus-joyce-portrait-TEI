@@ -2,8 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/35376693.svg)](https://zenodo.org/badge/latestdoi/35376693)
 
-[![Join the chat at https://gitter.im/corpus-joyce-portrait-TEI/Lobby](https://badges.gitter.im/corpus-joyce-portrait-TEI/Lobby.svg)](https://gitter.im/corpus-joyce-portrait-TEI/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
+[![Join the chat at https://gitter.im/open-editions/Lobby](https://badges.gitter.im/open-editions/Lobby.svg)](https://gitter.im/open-editions/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is the open scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_, richly annotated in semantic markup with TEI XML. 
 
