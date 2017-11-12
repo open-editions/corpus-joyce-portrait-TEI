@@ -2561,13 +2561,13 @@
           became aware of a faint aromatic odour. Two boys were <lb n="20541"/>
           standing in the shelter of the doorway, smoking, and before he <lb n="20542"/>
           reached them he had recognised Heron by his voice. <lb n="20543"/>
-           <said who="Heron">―Here comes the noble Dedalus! cried a high throaty voice. <lb n="20544"/>
-          Welcome to our trusty friend! <lb n="20545"/></said> </p>
+          <said who="Heron">―Here comes the noble Dedalus!</said> cried a high throaty voice. <lb n="20544"/>
+          <said who="heron">Welcome to our trusty friend! <lb n="20545"/></said> </p>
           <p>  This welcome ended in a soft peal of mirthless laughter as <lb n="20546"/>
           Heron salaamed and then began to poke the ground with his <lb n="20547"/>
           cane. <lb n="20548"/>
-           <said who="Stephen Dedalus">―Here I am, said Stephen, halting and glancing from Heron to <lb n="20549"/>
-          his friend. <lb n="20550"/></said> </p>
+          <said who="Stephen Dedalus">―Here I am</said>, said Stephen, halting and glancing from Heron to <lb n="20549"/>
+          his friend. <lb n="20550"/> </p>
           <p>  The latter was a stranger to him but in the darkness, by the <lb n="20551"/>
           aid of the glowing cigarette tips, he could make out a pale <lb n="20552"/>
           dandyish face, over which a smile was travelling slowly, a tall <lb n="20553"/>
@@ -2579,19 +2579,19 @@
           <p>  Heron made a poor attempt to imitate for his friend Wallis <lb n="20559"/>
           the rector's pedantic bass and then, laughing at his failure, <lb n="20560"/>
           asked Stephen to do it. <lb n="20561"/>
-           <said who="Heron">―Go on, Dedalus, he urged. You can take him off rippingly. <lb n="20562"/>
+          <said who="Heron">―Go on, Dedalus</said>, he urged. <said who="Heron">You can take him off rippingly.</said><lb n="20562"/>
           <lg>
-            <l>He that will not hear the churcha let him be to theea as</l> <l>the <lb n="20563"/>
-            heathena and the publicana.</l> <lb n="20564"/>
-          </lg> </said></p>
+          <said who="Stephen Dedalus"><l>He that will not hear the churcha let him be to theea as</l> <l>the <lb n="20563"/>
+          heathena and the publicana.</l></said><lb n="20564"/>
+          </lg></p>
           <p>  The imitation was prevented by a mild expression of anger <lb n="20565"/>
           from Wallis in whose mouthpiece the cigarette had become too <lb n="20566"/>
           tightly wedged. <lb n="20567"/>
-           <said who="Wallis">―Damn this blankety blank holder, he said, taking it from his <lb n="20568"/>
-          mouth and smiling and frowning upon it tolerantly. It's always <lb n="20569"/>
+          <said who="Wallis">―Damn this blankety blank holder</said>, he said, taking it from his <lb n="20568"/>
+          mouth and smiling and frowning upon it tolerantly. <said who="Wallis">It's always <lb n="20569"/>
           getting stuck like that. Do you use a holder? <lb n="20570"/> </said>
            <said who="Stephen Dedalus">―I don't smoke, answered Stephen. <lb n="20571"/> </said>
-           <said who="Heron">―No, said Heron, Dedalus is a model youth. He doesn't <lb n="20572"/>
+           <said who="Heron">―No,</said> said Heron, <said who="Heron">Dedalus is a model youth. He doesn't <lb n="20572"/>
           smoke and he doesn't go to bazaars and he doesn't flirt and he <lb n="20573"/>
           doesn't damn anything or damn all. <lb n="20574"/></said> </p>
           <p>  Stephen shook his head and smiled in his rival's flushed and <lb n="20575"/>
@@ -2607,7 +2607,7 @@
           during the year the virtual heads of the school. It was they who <lb n="20585"/>
           went up to the rector together to ask for a free day or to get a <lb n="20586"/>
           fellow off. <lb n="20587"/>
-           <said who="Heron">―O by the way, said Heron suddenly, I saw your governor <lb n="20588"/>
+          <said who="Heron">―O by the way</said>, said Heron suddenly, <said who="Heron">I saw your governor <lb n="20588"/>
           going in. <lb n="20589"/></said> </p>
           <p>  The smile waned on Stephen's face. Any allusion made to his <lb n="20590"/>
           father by a fellow or by a master put his calm to rout in a <lb n="20591"/>
@@ -2615,20 +2615,20 @@
           might say next. Heron, however, nudged him expressively with <lb n="20593"/>
           his elbow and said: <lb n="20594"/>
            <said who="Heron">―You're a sly dog, Dedalus! <lb n="20595"/> </said>
-           <said who="Stephen Dedalus">―Why so? said Stephen. <lb n="20596"/> </said>
-           <said who="Heron">―You'd think butter wouldn't melt in your mouth, said <lb n="20597"/>
-          Heron. But I'm afraid you're a sly dog. <lb n="20598"/> </said>
-           <said who="Stephen Dedalus">―Might I ask you what you are talking about? said Stephen <lb n="20599"/>
-          urbanely.<lb n="20600"/> </said>
-           <said who="Heron">―Indeed  you might, answered Heron. We saw her, Wallis, <lb n="20601"/>
+           <said who="Stephen Dedalus">―Why so?</said> said Stephen. <lb n="20596"/>
+           <said who="Heron">―You'd think butter wouldn't melt in your mouth</said>, said <lb n="20597"/>
+           Heron. <said who="Heron">But I'm afraid you're a sly dog. <lb n="20598"/> </said>
+           <said who="Stephen Dedalus">―Might I ask you what you are talking about?</said> said Stephen <lb n="20599"/>
+          urbanely.<lb n="20600"/>
+          <said who="Heron">―Indeed  you might</said>, answered Heron. <said who="Heron">>We saw her, Wallis, <lb n="20601"/>
           didn't we? And deucedly pretty she is too. And so inquisitive! <lb n="20602"/>
           <emph>And what part does Stephen take, Mr Dedalus? And will <lb n="20603"/>
           Stephen not sing, Mr Dedalus?</emph> Your governor was staring at <lb n="20604"/>
           her through that eyeglass of his for all he was worth so that I <lb n="20605"/>
           think the old man has found you out too. I wouldn't care a bit, <lb n="20606"/>
           by Jove. She's  ripping, isn't she, Wallis? <lb n="20607"/> </said>
-           <said who="Wallis">―Not half bad, answered Wallis quietly as he placed his <lb n="20608"/>
-          holder once more in a corner of his mouth. <lb n="20609"/></said> </p>
+           <said who="Wallis">―Not half bad</said>, answered Wallis quietly as he placed his <lb n="20608"/>
+          holder once more in a corner of his mouth. <lb n="20609"/> </p>
           <p>  A shaft of momentary anger flew through Stephen's mind at <lb n="20610"/>
           these indelicate allusions in the hearing of a stranger. For him <lb n="20611"/>
           there was nothing amusing in a girl's interest and regard. All <lb n="20612"/>
@@ -2645,7 +2645,7 @@
           turned upon itself in dark courses and eddies, wearying him in <lb n="20623"/>
           the end until the pleasantry of the prefect and the painted little <lb n="20624"/>
           boy had drawn from him a movement of impatience. <lb n="20625"/>
-           <said who="Heron">―So you may as well admit, Heron went on, that we've fairly <lb n="20626"/>
+          <said who="Heron">―So you may as well admit</said>, Heron went on, <said who="Heron">that we've fairly <lb n="20626"/>
           found you out this time. You can't play the saint on me any <lb n="20627"/>
           more, that's one sure five. <lb n="20628"/></said> </p>
           <p>  A soft peal of mirthless laughter escaped from his lips and, <lb n="20629"/>
@@ -2657,8 +2657,8 @@
           silly indelicateness for he knew that the adventure in his mind <lb n="20635"/>
           stood in no danger from their words: and his face mirrored his <lb n="20636"/>
           rival's false smile. <lb n="20637"/>
-           <said who="Heron">―Admit! repeated Heron, striking him again with his cane <lb n="20638"/>
-          across the calf of the leg. <lb n="20639"/></said> </p>
+          <said who="Heron">―Admit!</said> repeated Heron, striking him again with his cane <lb n="20638"/>
+          across the calf of the leg. <lb n="20639"/></p>
           <p>  The stroke was playful but not so lightly given as the first <lb n="20640"/>
           one had been. Stephen felt the skin tingle and glow slightly and <lb n="20641"/>
           almost painlessly; and bowing submissively, as if to meet his <lb n="20642"/>
@@ -2704,8 +2704,8 @@
           tion, of the squalor of his own mind and home, and felt against <lb n="20682"/>
           his neck the raw edge of his turned and jagged collar.<lb n="20683"/> </p>
           <p>  A short loud laugh from Mr Tate set the class more at ease. <lb n="20684"/>
-           <said who="Mr Tate">―Perhaps you didn't know that, he said. <lb n="20685"/> </said>
-           <said who="Stephen Dedalus">―Where? asked Stephen. <lb n="20686"/></said> </p>
+           <said who="Mr Tate">―Perhaps you didn't know that</said>, he said. <lb n="20685"/>
+           <said who="Stephen Dedalus">―Where?</said> asked Stephen. <lb n="20686"/> </p>
           <p>  Mr Tate withdrew his delving hand and spread out the es- <lb n="20687"/>
           say. <lb n="20688"/>
            <said who="Mr Tate">―Here. It's about the Creator and the soul. Rrm ... rrm ..... <lb n="20689"/>
@@ -2720,7 +2720,7 @@
           spoke to him of the affair after class he could feel about him a <lb n="20698"/>
           vague general malignant joy.<lb n="20699"/> </p>
           <p>  A few nights after this public chiding  he was walking with a <lb n="20700"/>
-          letter along the Drumcondra Road when he heard a voice cry: <lb n="20701"/>
+          letter along the <place><location><geo>53.36324, -6.25800</geo></location><placeName>Drumcondra Road</placeName></place> when he heard a voice cry: <lb n="20701"/>
            <said who="Heron">―Halt! <lb n="20702"/></said> </p>
           <p>  He turned and saw three boys of his own class coming to- <lb n="20703"/>
           wards him in the dusk. It was Heron who had called out and, <lb n="20704"/>
@@ -2737,37 +2737,37 @@
           of the class. In fact after some talk about their favourite writers <lb n="20715"/>
           Nash declared for Captain Marryat who, he said, was the <lb n="20716"/>
           greatest writer. <lb n="20717"/>
-           <said who="Heron">―Fudge! said Heron. Ask Dedalus. Who is the greatest writer, <lb n="20718"/>
+          <said who="Heron">―Fudge!</said> said Heron. <said who="Heron">Ask Dedalus. Who is the greatest writer, <lb n="20718"/>
           Dedalus?<lb n="20719"/></said> </p>
           <p>  Stephen noted the mockery in the question and said: <lb n="20720"/>
            <said who="Stephen Dedalus">―Of prose, do you mean? <lb n="20721"/> </said>
            <said who="Heron">―Yes.<lb n="20722"/> </said>
            <said who="Stephen Dedalus">―Newman, I think. <lb n="20723"/> </said>
-           <said who="Boland">―Is it Cardinal Newman? asked Boland. <lb n="20724"/> </said>
-           <said who="Stephen Dedalus">―Yes, answered Stephen. <lb n="20725"/></said> </p>
+           <said who="Boland">―Is it Cardinal Newman?</said> asked Boland. <lb n="20724"/> 
+           <said who="Stephen Dedalus">―Yes</said>, answered Stephen. <lb n="20725"/></p>
           <p>  The grin broadened on Nash's freckled face as he turned to <lb n="20726"/>
           Stephen and said: <lb n="20727"/>
            <said who="Nash">―And do you like Cardinal Newman, Dedalus? <lb n="20728"/> </said>
-           <said who="Heron">―O, many people say that Newman has the best prose style, <lb n="20729"/>
-          Heron said to the other two in explanation. Of course, he's not <lb n="20730"/>
+           <said who="Heron">―O, many people say that Newman has the best prose style,</said> <lb n="20729"/>
+          Heron said to the other two in explanation. <said who="Heron">Of course, he's not <lb n="20730"/>
           a poet. <lb n="20731"/> </said>
-           <said who="Boland">―And who is the best poet, Heron? asked Boland. <lb n="20732"/> </said>
-           <said who="Heron">―Lord Tennyson, of course, answered Heron. <lb n="20733"/> </said>
-           <said who="Nash">―O, yes, Lord Tennyson, said Nash. We have all his poetry at <lb n="20734"/>
+           <said who="Boland">―And who is the best poet, Heron?</said> asked Boland. <lb n="20732"/>
+           <said who="Heron">―Lord Tennyson, of course</said>, answered Heron. <lb n="20733"/> 
+           <said who="Nash">―O, yes, Lord Tennyson</said>, said Nash. <said who="Nash">We have all his poetry at <lb n="20734"/>
           home in a book. <lb n="20735"/></said> </p>
           <p>  At this Stephen forgot the silent vows he had been making <lb n="20736"/>
           and burst out: <lb n="20737"/>
            <said who="Stephen Dedalus">―Tennyson a poet! Why, he's only a rhymester! <lb n="20738"/> </said>
-           <said who="Heron">―O, get out! said Heron. Everyone knows that Tennyson is <lb n="20739"/>
+           <said who="Heron">―O, get out!</said> said Heron. <said who="Heron">Everyone knows that Tennyson is <lb n="20739"/>
           the greatest poet. <lb n="20740"/> </said>
-           <said who="Boland">―And who do you think is the greatest poet? asked Boland, <lb n="20741"/>
-          nudging his neighbour. <lb n="20742"/> </said>
-           <said who="Stephen Dedalus">―Byron, of course, answered Stephen. <lb n="20743"/></said> </p>
+           <said who="Boland">―And who do you think is the greatest poet?</said> asked Boland, <lb n="20741"/>
+          nudging his neighbour. <lb n="20742"/>
+           <said who="Stephen Dedalus">―Byron, of course</said>, answered Stephen. <lb n="20743"/> </p>
           <p>  Heron gave the lead and all three joined in a scornful laugh. <lb n="20744"/>
-           <said who="Stephen Dedalus">―What are you laughing at? asked Stephen. <lb n="20745"/> </said>
-           <said who="Heron">―You, said Heron. Byron the greatest poet! He's only a poet <lb n="20746"/>
+           <said who="Stephen Dedalus">―What are you laughing at?</said> asked Stephen. <lb n="20745"/>
+           <said who="Heron">―You</said>, said Heron. <said who="Heron">Byron the greatest poet! He's only a poet <lb n="20746"/>
           for uneducated people. <lb n="20747"/> </said>
-           <said who="Boland">―He must be a fine poet! said Boland. <lb n="20748"/> </said>
+           <said who="Boland">―He must be a fine poet!</said> said Boland. <lb n="20748"/>
            <said who="Stephen Dedalus">―You may keep your mouth shut, said Stephen, turning on <lb n="20749"/>
           him boldly. All you know about poetry is what you wrote up <lb n="20750"/>
           on the slates in the yard and were going to be sent to the loft <lb n="20751"/>
