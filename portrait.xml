@@ -164,8 +164,8 @@
              <l> <emph> Pull out his eyes, </emph> </l> <lb n="10040"/>
              <l> <emph> Apologise. </emph> </l> <lb n="10041"/>
             </lg> <milestone unit="section" rend="asterixes"/>
-          </div> <!-- 1.1 -->
-          <div n="1.2" type="section">
+        </div> <!-- 1.1 -->
+        <div n="1.2" type="section">
             <p> The wide playgrounds were swarming with boys. All were <lb n="10042"/>
              shouting and the prefects urged them on with strong cries. The <lb n="10043"/>
              evening air was pale and chilly and after every charge and thud <lb n="10044"/>
@@ -706,7 +706,7 @@
             <p> He was a fellow out of the third of grammar and, while <persName> Stephen </persName> <lb n="10566"/>
              was undressing, he asked <persName> Brother Michael </persName> to bring him a round <lb n="10567"/>
              of buttered toast.<lb n="10568"/> </p>
-            <p><said who="Athy">―Ah, do!</said> he said. <lb n="10569"></lb>
+         <p><said who="Athy">―Ah, do!</said> he said. <lb n="10569"></lb></p>
             <p> <said who="Brother Michael">―Butter you up! said <persName> Brother Michael </persName>. You'll get your walking <lb n="10570"/>
              papers in the morning when the doctor comes. <lb n="10571"/></said> </p>
             <p> <said who="Athy">―Will I?</said> the fellow said. <said who="Athy">I'm not well yet. <lb n="10572"/></said> </p>
@@ -773,7 +773,7 @@
              chael </persName> any time he wanted it because <persName> Brother Michael </persName> was very decent and always told him the news out of the <lb n="10630"/>
              paper they got every day up in the castle. There was every kind <lb n="10631"/>
              of news in the paper: accidents, shipwrecks, sports and politics.<lb n="10632"/> </p>
-            <p><said who="Athy">―Now it is all about politics in the paper,</said> he said. <said who="Athy">Do your <lb n="10633"></lb></p>
+            <p><said who="Athy">―Now it is all about politics in the paper,</said> he said. <said who="Athy">Do your <lb n="10633"></lb>
              people talk about that too? <lb n="10634"/></said> </p>
             <p> <said who="Stephen">―Yes, <persName> Stephen </persName> said. <lb n="10635"/></said> </p>
             <p><said who="Athy">―Mine too,</said> he said. <lb n="10636"></lb></p>
@@ -858,8 +858,8 @@
              silently past the people who knelt by the waters' edge.<lb n="10715"/> </p>
 
             <milestone unit="section" rend="asterixes"/>
-          </div> <!-- 1.2 --> 
-          <div n="1.3" type="section"> 
+        </div> <!-- 1.2 --> 
+        <div n="1.3" type="section"> 
             <p>  A great fire, banked high and red, flamed in the grate and <lb n="10716"/>
              under the <seg type="neologism">ivytwined</seg> branches of the chandelier the Christmas <lb n="10717"/>
              table was spread. They had come home a little late and still <lb n="10718"/>
@@ -901,16 +901,16 @@
              see how much he had poured in. Then replacing the jar in the <lb n="10754"/>
              locker he poured out a little of the whisky into two glasses, <lb n="10755"/>
              added a little water and came with them back to the fireplace. <lb n="10756"/>
-              <said who="Simon Dedalus">―A thimbleful, <persname>John</persname>,</said> he said. <said who="Simon Dedalus">Just to whet your appetite. <lb n="10757"></lb></said>
+             <said who="Simon Dedalus">―A thimbleful, <persname>John</persname>,</said> he said. <said who="Simon Dedalus">Just to whet your appetite. <lb n="10757"></lb></said></p>
             <p>  <persName>Mr Casey</persName> took the glass, drank, and placed it near him on <lb n="10758"/>
              the mantelpiece. Then he said: <lb n="10759"/>
              <said who="John Casey">―Well, I can't help thinking of our friend <persName>Christopher</persName> manu- <lb n="10760"/>
              facturing .... <lb n="10761"/></said> </p>
             <p>  He broke into a fit of laughter and coughing and added: <lb n="10762"/>
              <said who="John Casey">―... manufacturing that champagne for those fellows. <lb n="10763"/></said> </p>
-            <p>  <persName>Mr Dedalus</persName> laughed loudly. <lb n="10764"/>
+            <p><persName>Mr Dedalus</persName> laughed loudly. <lb n="10764"/>
               <said who="Simon Dedalus">―Is it <persname>Christy</persname>?</said> he said. <said who="Simon Dedalus">There's more cunning in one of those <lb n="10765"></lb>
-             warts on his bald head than in a pack of jack foxes. <lb n="10766"></lb></said>
+            warts on his bald head than in a pack of jack foxes. <lb n="10766"></lb></said></p>
             <p>  He inclined his head, closed his eyes, and, licking his lips <lb n="10767"/>
              profusely, began to speak with the voice of the hotel keeper. <lb n="10768"/>
              <said who="Simon Dedalus">―And he has such a soft mouth when he's speaking to you, <lb n="10769"/>
@@ -923,7 +923,7 @@
              said quietly and kindly: <lb n="10776"/>
              <said who="Simon Dedalus">―What are you laughing at, you little puppy, you? <lb n="10777"/></said> </p>
             <p>  The servants entered and placed the dishes on the table. <persName>Mrs <lb n="10778"/>
-             Dedalus</persName> followed and the places were arranged. <lb n="10779"/>
+            Dedalus</persName> followed and the places were arranged. <lb n="10779"/></p>
               <said who="Mary Dedalus">―Sit over,</said> she said. <lb n="10780"></lb>
             <p>  <persName>Mr Dedalus</persName> went to the end of the table and said: <lb n="10781"/>
              <said who="Simon Dedalus">―Now, <persName>Mrs Riordan</persName>, sit over. <persName>John</persName>, sit you down, my hearty. <lb n="10782"/></said> </p>
@@ -1300,7 +1300,9 @@
             <p>  He sobbed loudly and bitterly.<lb n="11149"/> </p>
             <p>  Stephen, raising his <seg type="neologism">terrorstricken</seg> face, saw that his father's <lb n="11150"/>
              eyes were full of tears.<lb n="11151"/> </p>
-            <milestone unit="section" rend="asterixes"/> </div> <!-- 1.3 --> <div n="1.4" type="section">
+        <milestone unit="section" rend="asterixes"/> 
+        </div> <!-- 1.3 --> 
+        <div n="1.4" type="section">
             <p>  The fellows talked together in little groups.<lb n="11152"/> </p>
             <p>  One fellow said: <lb n="11153"/>
              <said who="a fellow">―They were caught near the <place><location><geo>53.290670 -6.535060</geo></location><placeName>Hill of Lyons</placeName></place>. <lb n="11154"/> </said>
@@ -1372,8 +1374,8 @@
              <said who="a fellow">―Who told you? <lb n="11220"/> </said>
              <said who="a fellow">―Tell us, Athy. <lb n="11221"/></said> </p>
             <p>  Athy pointed across the playground to where Simon <lb n="11222"/>
-             Moonan was walking by himself kicking a stone before him. <lb n="11223"/>
-              <said who="Athy">―Ask him,</said> he said. <lb n="11224"></lb>
+             Moonan was walking by himself kicking a stone before him. <lb n="11223"/></p>
+            <p><said who="Athy">―Ask him,</said> he said. <lb n="11224"></lb></p>
             <p>  The fellows looked there and then said: <lb n="11225"/>
              <said who="a fellow">―Why him? <lb n="11226"/> </said>
              <said who="a fellow">―Is he in it? <lb n="11227"/> </said>
@@ -2004,11 +2006,12 @@
              the sound of the cricket bats: pick, pack, pock, puck: like drops <lb n="11847"/>
              of water in a fountain falling softly in the brimming bowl.<lb n="11848"/> </p>
 
-          </div><!-- 1.4 --> 
+        </div><!-- 1.4 --> 
 
-        </div><!-- Chapter 1 --> 
+      </div><!-- Chapter 1 --> 
 
-        <div n="2" type="chapter"> <div n="2.1" type="section">
+      <div n="2" type="chapter"> 
+        <div n="2.1" type="section">
           <head><l>II</l></head>
           <p>  Uncle Charles smoked such black twist that at last his out- <lb n="20001"/>
           spoken nephew suggested to him to enjoy his morning smoke <lb n="20002"/>
@@ -2444,7 +2447,7 @@
           <p>  Maurice grinned at his father and then at his brother. Mr <lb n="20425"/>
           Dedalus screwed his glass into his eye and stared hard at both <lb n="20426"/>
           his sons. Stephen mumbled his bread without answering his <lb n="20427"/>
-          father's gaze. <lb n="20428"/>
+          father's gaze. <lb n="20428"/></p>
            <said who="Simon Dedalus">―By the bye,</said> said Mr Dedalus at length, <said who="Simon Dedalus">the rector, or provin- <lb n="20429"/>
           cial, rather, was telling me that story about you and Father <lb n="20430"/>
           Dolan. You're an impudent thief, he said. <lb n="20431"/> </said>
@@ -2472,7 +2475,9 @@
           <p>  He reassumed the provincial's voice and repeated: <lb n="20453"/>
            <said who="Simon Dedalus">―<emph>I told them all at dinner about it and Father Dolan and I and <lb n="20454"/>
           all of us we all had a hearty laugh together over it. Ha! Ha! Ha!</emph><lb n="20455"/></said> </p>
-          <milestone unit="section" rend="asterixes"/> </div> <!-- 2.2 --> <div n="2.3" type="section">
+          <milestone unit="section" rend="asterixes"/> 
+        </div> <!-- 2.2 --> 
+        <div n="2.3" type="section">
           <p>  The night of the Whitsuntide play had come and Stephen <lb n="20456"/>
           from the window of the dressingroom looked out on  the small <lb n="20457"/>
           grassplot across which lines of Chinese lanterns were stretched. <lb n="20458"/>
@@ -2946,9 +2951,9 @@
           powdered head left in its wake.<lb n="20922"/> </p>
           <p>  When he came out on the steps he saw his family waiting for <lb n="20923"/>
           him at the first lamp. In a glance he noted that every figure of <lb n="20924"/>
-          the group was familiar and ran down the steps angrily. <lb n="20925"/>
-              <said who="Stephen Dedalus">―I have to leave a message down in George's Street,</said> he said to <lb n="20926"></lb>
-              his father quickly. <said who="Stephen Dedalus">I'll be home after you. <lb n="20927"></lb></said>
+          the group was familiar and ran down the steps angrily. <lb n="20925"/></p>
+          <p><said who="Stephen Dedalus">―I have to leave a message down in George's Street,</said> he said to <lb n="20926"></lb>
+          his father quickly. <said who="Stephen Dedalus">I'll be home after you. <lb n="20927"></lb></said></p>
           <p>  Without waiting for his father's questions  he ran across the <lb n="20928"/>
           road and began to walk at breakneck speed down the hill. He <lb n="20929"/>
           hardly knew where he was walking. Pride and hope and desire <lb n="20930"/>
@@ -2967,7 +2972,9 @@
           <p> ―That is horse piss and rotted straw, he thought. It is a good <lb n="20943"/>
           odour to breathe. It will calm my heart. My heart is quite calm <lb n="20944"/>
           now. I will go back.<lb n="20945"/> </p>
-          <milestone unit="section" rend="asterixes"/> </div> <!-- 2.3 --> <div n="2.4" type="section">
+      <milestone unit="section" rend="asterixes"/> 
+      </div> <!-- 2.3 --> 
+      <div n="2.4" type="section">
           <p>  Stephen was once again seated beside his father in the corner <lb n="20946"/>
           of a railway carriage at Kingsbridge. He was travelling with his <lb n="20947"/>
           father by the night mail to Cork. As the train steamed out of <lb n="20948"/>
@@ -3476,8 +3483,8 @@
           relief shone in his delighted eyes and his lips parted though they <lb n="21441"/>
           would not speak.<lb n="21442"/> </p>
           <p>  She passed her tinkling hand through his hair, calling him a <lb n="21443"/>
-          little rascal. <lb n="21444"/>
-              <said who="prostitute">―Give me a kiss,</said> she said. <lb n="21445"></lb>
+          little rascal. <lb n="21444"/></p>
+          <p><said who="prostitute">―Give me a kiss,</said> she said. <lb n="21445"></lb></p>
           <p>  His lips would not bend to kiss her. He wanted to be held <lb n="21446"/>
           firmly in her arms, to be caressed slowly, slowly, slowly. In her <lb n="21447"/>
           arms he felt that he had suddenly become strong and fearless <lb n="21448"/>
@@ -3728,8 +3735,9 @@
           <p> In the silence their dark fire kindled the dusk into a tawny <lb n="30228"/>
           glow. Stephen's heart had withered up like a flower of the <lb n="30229"/>
           desert that feels the simoom  coming from afar.<lb n="30230"/> </p>
-          <milestone unit="section" rend="asterixes"/> </div>
-          <!-- 3.1 --> <div n="3.2" type="section">
+        <milestone unit="section" rend="asterixes"/> 
+        </div> <!-- 3.1 --> 
+        <div n="3.2" type="section">
             <p> <said who="Father Arnall">―<emph>Remember only thy last things and thou shalt not sin for</emph> <lb n="30231"/>
             <emph>ever</emph> – words taken, my dear little brothers in Christ, from the <lb n="30232"/>
             book of Ecclesiastes, seventh chapter, fortieth verse. In the <lb n="30233"/>
@@ -4705,9 +4713,9 @@
               <l><emph>—and to amend my life</emph>—</l> <lb n="31201"/>
             </lg>
             <milestone unit="section" rend="asterixes"/>
-          </div> <!-- 3.2 -->
+        </div> <!-- 3.2 -->
 
-          <div n="3.3" type="section">
+        <div n="3.3" type="section">
             <p> He  went up to his room after dinner in order to be alone <lb n="31202"/>
             with his soul: and at every step his soul seemed  to sigh: at every <lb n="31203"/>
             step his soul mounted with his feet, sighing in the ascent, <lb n="31204"/>
@@ -5091,11 +5099,11 @@
             was past. <lb n="31582"/>
             <said who="Priest">―<seg xml:lang="la">Corpus Domini nostri.</seg><lb n="31583"/></said> </p>
             <p> The ciborium had come to him.<lb n="31584"/> </p>
-          </div><!-- 3.3 -->
-        </div><!-- Chapter 3 -->
+        </div><!-- 3.3 -->
+    </div><!-- Chapter 3 -->
 
-        <div n="4" type="chapter">
-          <div n="4.1" type="section">
+    <div n="4" type="chapter">
+        <div n="4.1" type="section">
             <head><l>IV</l></head>
             <p> Sunday was dedicated to the mystery of the Holy Trinity, <lb n="40001"/>
             Monday to the Holy Ghost, Tuesday to the Guardian Angels, <lb n="40002"/>
@@ -5333,9 +5341,9 @@
             life. <lb n="40234"/>
             <said who="Stephen Dedalus">―I have amended  my life, have I not? he asked himself.<lb n="40235"/></said> </p>
             <milestone unit="section" rend="asterixes"/>
-          </div> <!-- 4.1 -->
+        </div> <!-- 4.1 -->
 
-          <div n="4.2" type="section">
+        <div n="4.2" type="section">
             <p> The director stood in the embrasure of the window, his back <lb n="40236"/>
             to the light, leaning an elbow on the brown crossblind and, as <lb n="40237"/>
             he spoke and smiled, slowly dangling and looping the cord of <lb n="40238"/>
@@ -5707,7 +5715,9 @@
             <emph>giving utterance, like the voice of Nature herself, to that pain <lb n="40603"/>
             and weariness yet hope of better things which has been the <lb n="40604"/>
             experience of her children in every time.</emph><lb n="40605"/> </p>
-            <milestone unit="section" rend="asterixes"/> </div> <!-- 4.2 --> <div n="4.3" type="section">
+        <milestone unit="section" rend="asterixes"/> 
+        </div> <!-- 4.2 -->
+        <div n="4.3" type="section">
             <p> He could wait no longer.<lb n="40606"/> </p>
             <p> From the door of Byron's publichouse to the gate of Clontarf <lb n="40607"/>
             tarf Chapel, from the gate of <place><location><geo>53.364179 -6.201478</geo></location><placeName>Clontarf Chapel</placeName></place> to the door of <lb n="40608"/>
@@ -6025,11 +6035,11 @@
             sand: and the tide was flowing in fast to the land with a low <lb n="40920"/>
             whisper of her waves, islanding a few last figures in distant <lb n="40921"/>
             pools.<lb n="40922"/> </p>
-          </div><!-- 4.3 -->
-        </div><!-- Chapter 4 -->
+        </div><!-- 4.3 -->
+    </div><!-- Chapter 4 -->
 
-        <div n="5" type="chapter">
-          <div n="5.1" type="section">
+    <div n="5" type="chapter">
+        <div n="5.1" type="section">
             <head><l>V</l></head>
             <p> He drained his third cup of watery tea to the dregs and set to <lb n="50001"/>
             chewing the crusts of fried bread that were scattered near him, <lb n="50002"/>
@@ -6735,8 +6745,8 @@
             thing on the trainfare by so doing.<lb n="50698"/> </p>
             <p> The oblong skull beneath did not turn to meet this shaft of <lb n="50699"/>
             thought and yet the shaft came back to its bowstring: for he <lb n="50700"/>
-            saw in a moment the student's wheypale face. <lb n="50701"/>
-            <said who="Stephen Dedalus">―That thought is not mine,</said> he said to himself quickly. <a name="Stephen Dedalus">It came <lb n="50702"/>
+            saw in a moment the student's wheypale face. <lb n="50701"/></p>
+            <p><said who="Stephen Dedalus">―That thought is not mine,</said> he said to himself quickly. <said who="Stephen Dedalus">It came <lb n="50702"/>
             from the comic Irishman in the bench behind. Patience. Can <lb n="50703"/>
             you say with certitude by whom the soul of your race was <lb n="50704"/>
             bartered and its elect betrayed – by the questioner or  by the <lb n="50705"/>
@@ -6997,9 +7007,9 @@
             <said who="???">―I'm an emotional man, said Temple. That's quite rightly <lb n="50957"/>
             expressed. And I'm proud that I'm an emotionalist.<lb n="50958"/></said> </p>
             <p> He sidled out of the alley, smiling slily. Cranly watched him <lb n="50959"/>
-            with a blank expressionless face. <lb n="50960"/>
-              <said who="???">―Look at him!</said> he said. <said who="???">Did you ever see such a go-by-the- <lb n="50961"></lb>
-            wall?<lb n="50962"></lb></said>
+            with a blank expressionless face. <lb n="50960"/></p>
+            <p><said who="???">―Look at him!</said> he said. <said who="???">Did you ever see such a go-by-the- <lb n="50961"></lb>
+            wall?<lb n="50962"></lb></said></p>
             <p> His phrase was greeted by a strange laugh from a student <lb n="50963"/>
             who lounged against the wall, his peaked cap down on his eyes. <lb n="50964"/>
             The laugh, pitched in a high key and coming from a so muscu- <lb n="50965"/>
@@ -7043,10 +7053,10 @@
             <said who="???">―Then be one of us, said Davin. Why don't you learn Irish? <lb n="51003"/>
             Why did you drop out of the league class after the first lesson?<lb n="51004"/> </said>
             <said who="Stephen Dedalus">―You know one reason why, answered Stephen.<lb n="51005"/></said> </p>
-            <p> Davin tossed his head and laughed. <lb n="51006"/>
-              <said who="???">―O, come now,</said> he said. <said who="???">Is it on account of that certain young <lb n="51007"></lb>
+            <p> Davin tossed his head and laughed. <lb n="51006"/></p>
+            <p><said who="???">―O, come now,</said> he said. <said who="???">Is it on account of that certain young <lb n="51007"></lb>
             lady and Father Moran? But that's all in your own mind, <lb n="51008"></lb>
-            Stevie. They were only talking and laughing.<lb n="51009"></lb></said>
+            Stevie. They were only talking and laughing.<lb n="51009"></lb></said></p>
             <p> Stephen paused and laid a friendly hand upon Davin's <lb n="51010"/>
             shoulder. <lb n="51011"/>
               <said who="Stephen Dedalus">―Do you remember,</said> he said, <said who="Stephen Dedalus">when we knew each other first. <lb n="51012"></lb>
@@ -7081,13 +7091,13 @@
             <said who="???">―They died for their ideals, Stevie, said Davin. Our day will <lb n="51041"/>
             come yet, believe me.<lb n="51042"/></said> </p>
             <p> Stephen, following his own thought, was silent for an in- <lb n="51043"/>
-            stant. <lb n="51044"/>
-              <said who="Stephen Dedalus">―The soul is born,</said> he said vaguely, <said who="Stephen Dedalus">first in those moments I <lb n="51045"></lb>
+                stant. <lb n="51044"/></p>
+            <p><said who="Stephen Dedalus">―The soul is born,</said> he said vaguely, <said who="Stephen Dedalus">first in those moments I <lb n="51045"></lb>
             told you of. It has a slow and dark birth, more mysterious than <lb n="51046"></lb>
             the birth of the body. When the soul of a man is born in this <lb n="51047"></lb>
             country there are nets flung at it to hold it back from flight. <lb n="51048"></lb>
             You talk to me of nationality, language, religion. I shall try to <lb n="51049"></lb>
-            fly by those nets.<lb n="51050"></lb></said>
+            fly by those nets.<lb n="51050"></lb></said></p>
             <p> Davin knocked the ashes from his pipe. <lb n="51051"/>
               <said who="Davin">―Too deep for me, Stevie,</said> he said. <said who="Davin">But a man's country comes <lb n="51052"></lb>
             first. Ireland first, Stevie. You can be a poet or a mystic after.<lb n="51053"></lb> </said>
@@ -7114,9 +7124,9 @@
             <said who="Stephen Dedalus">―I know you are poor, he said.<lb n="51074"/> </said>
             <said who="???">―Damn your yellow insolence, answered Lynch.<lb n="51075"/></said> </p>
             <p> This second proof of Lynch's culture made Stephen smile <lb n="51076"/>
-            again. <lb n="51077"/>
-              <said who="Stephen Dedalus">―It was a great day for European culture,</said> he said, <said who="Stephen Dedalus">when you <lb n="51078"></lb>
-            made up your mind to swear in yellow.<lb n="51079"></lb></said>
+            again. <lb n="51077"/></p>
+            <p><said who="Stephen Dedalus">―It was a great day for European culture,</said> he said, <said who="Stephen Dedalus">when you <lb n="51078"></lb>
+                    made up your mind to swear in yellow.<lb n="51079"></lb></said></p>
             <p> They lit their cigarettes and turned to the right. After a <lb n="51080"/>
             pause Stephen began: <lb n="51081"/>
             <said who="Stephen Dedalus">―Aristotle has not defined pity and terror. I have. I say ...<lb n="51082"/></said> </p>
@@ -7199,14 +7209,14 @@
             beauty: and, please remember, though I did eat a cake of cow- <lb n="51159"/>
             dung once, that I admire only beauty.<lb n="51160"/></said> </p>
             <p> Stephen raised his cap as if in greeting. Then,  blushing <lb n="51161"/>
-            slightly, he laid his hand on Lynch's thick tweed sleeve. <lb n="51162"/>
-              <said who="Stephen Dedalus">―We are right,</said> he said, <said who="Stephen Dedalus">and the others are wrong. To speak of <lb n="51163"></lb>
+            slightly, he laid his hand on Lynch's thick tweed sleeve. <lb n="51162"/></p>
+            <p><said who="Stephen Dedalus">―We are right,</said> he said, <said who="Stephen Dedalus">and the others are wrong. To speak of <lb n="51163"></lb>
             these things and to try to understand their nature and, having <lb n="51164"></lb>
             understood it, to try slowly and humbly and constantly to <lb n="51165"></lb>
             express, to press out again, from the gross earth or what it <lb n="51166"></lb>
             brings forth, from sound and shape and colour which are the <lb n="51167"></lb>
             prison gates of our soul, an image of the beauty we have come <lb n="51168"></lb>
-            to understand – that is art.<lb n="51169"></lb></said>
+            to understand – that is art.<lb n="51169"></lb></said></p>
             <p> They had reached the <place><location><geo>53.342399 -6.238434</geo></location><placeName>canal bridge</placeName></place> and, turning from their <lb n="51170"/>
             course, went on by the trees. A crude grey light, mirrored in the <lb n="51171"/>
             sluggish water, and a smell of wet branches over their heads <lb n="51172"/>
@@ -7329,7 +7339,8 @@
               <l>Dicendo nationibus</l> <lb n="51288"/>
               <l>Regnavit a ligno Deus.</l> <lb n="51289"/>
             </lg>
-              <said who="???">―That's great!</said> he said, well pleased. <said who="???">Great music!<lb n="51290"></lb></said>
+            <said who="???">―That's great!</said> he said, well pleased. <said who="???">Great music!<lb n="51290"></lb></said>
+            </p>
             <p> They turned into <place><location><geo>53.338573 -6.243389</geo></location><placeName>Lower Mount Street</placeName></place>. A few steps from the <lb n="51291"/>
             corner a fat young man, wearing a silk neckcloth, saluted them <lb n="51292"/>
             and stopped. <lb n="51293"/>
@@ -7343,11 +7354,11 @@
             fatencircled eyes vanished out of sight and his weak wheezing <lb n="51301"/>
             voice out of hearing.<lb n="51302"/> </p>
             <p> In reply to a question of Stephen's his eyes and his voice <lb n="51303"/>
-            came forth again from their lurkingplaces. <lb n="51304"/>
-              <said who="???">―Yes, MacCullagh and I,</said> he said. <said who="???">He's taking pure mathemat- <lb n="51305"></lb>
+                came forth again from their lurkingplaces. <lb n="51304"/></p>
+            <p><said who="???">―Yes, MacCullagh and I,</said> he said. <said who="???">He's taking pure mathemat- <lb n="51305"></lb>
             ics and I'm taking constitutional history. There are twenty <lb n="51306"></lb>
             subjects. I'm taking botany too. You know I'm a member of the <lb n="51307"></lb>
-            field club.<lb n="51308"></lb></said>
+            field club.<lb n="51308"></lb></said></p>
             <p> He drew back from the other two in a stately fashion and <lb n="51309"/>
             placed a plump woollengloved hand on his breast from which <lb n="51310"/>
             muttered wheezing laughter at once broke forth. <lb n="51311"/>
@@ -7367,11 +7378,11 @@
             all that. The <emph>Laocoon</emph> interested me very much when I read it. <lb n="51325"/>
             Of course it is idealistic, German, ultraprofound.<lb n="51326"/></said> </p>
             <p> Neither of the others spoke. Donovan took leave of them <lb n="51327"/>
-            urbanely. <lb n="51328"/>
-              <said who="???">―I must go,</said> he said softly and benevolently. <said who="???">I have a strong <lb n="51329"></lb>
+            urbanely. <lb n="51328"/></p>
+            <p><said who="???">―I must go,</said> he said softly and benevolently. <said who="???">I have a strong <lb n="51329"></lb>
             suspicion, amounting almost to a conviction, that my sister <lb n="51330"></lb>
             intended to make pancakes today for the dinner of the Don- <lb n="51331"></lb>
-            ovan family.<lb n="51332"></lb> </said>
+            ovan family.<lb n="51332"></lb> </said></p>
             <said who="Stephen Dedalus">―Goodbye,</said> Stephen said in his wake. <said who="Stephen Dedalus">Don't forget the turnips <lb n="51333"></lb>
             for me and my mate.<lb n="51334"></lb></said>
             <p> Lynch gazed after him, his lip curling in slow scorn till his <lb n="51335"/>
@@ -7563,9 +7574,9 @@
             in the morning, restless all day, tired at sundown? Her heart <lb n="51521"/>
             simple and wilful  as a bird's heart?<lb n="51522"/> </p>
             <milestone unit="section" rend="asterixes"/>
-          </div> <!-- 5.1 -->
+        </div> <!-- 5.1 -->
 
-          <div n="5.2" type="section">
+        <div n="5.2" type="section">
             <p> Towards dawn he awoke. O what sweet music! His soul was <lb n="51523"/>
             all dewy wet. Over his limbs in sleep pale cool waves of light <lb n="51524"/>
             had passed. He lay still, as if his soul lay amid cool waters, <lb n="51525"/>
@@ -7820,8 +7831,10 @@
               <l>With languorous look and lavish limb.</l> <lb n="51765"/>
               <l>Are you not weary of ardent ways?</l> <lb n="51766"/>
               <l>Tell no more of enchanted days.</l> <lb n="51767"/>
-              </lg> <milestone unit="section" rend="asterixes"/>
-              </div> <!-- 5.2 --> <div n="5.3" type="section">
+          </lg> 
+        <milestone unit="section" rend="asterixes"/>
+        </div> <!-- 5.2 --> 
+        <div n="5.3" type="section">
               <p>What birds were they?<lb n="51768"/> </p>
               <p>He stood on the steps of the library to look at them, leaning <lb n="51769"/>
               wearily on his ashplant. They flew round and round the jutting <lb n="51770"/>
@@ -8181,7 +8194,7 @@
               bright bodies of lice falling from the air and turning often as <lb n="52122"/>
               they fell. Yes: and it was not darkness that fell from the air. It <lb n="52123"/>
               was brightness.<lb n="52124"/> </p>
-              <p> <l><emph>Brightness falls from the air.</emph></l> <lb n="52125"/>
+              <p> <l><emph>Brightness falls from the air.</emph></l> <lb n="52125"/></p>
               <p> He had not even remembered rightly Nash's line. All the <lb n="52126"/>
               images it  had awakened were false. His mind bred vermin. His <lb n="52127"/>
               thoughts were lice born of the sweat of sloth.<lb n="52128"/> </p>
@@ -8223,11 +8236,11 @@
               <said who="???">―I allude to that.<lb n="52164"/> </said>
               <said who="???">―Um, Cranly said as before.<lb n="52165"/> </said>
               <said who="???">―Do you intend that now, the squat student said, as <emph>ipso facto</emph> <lb n="52166"/>
-              or, let us say, as so to speak?<lb n="52167"/></said> </p>
+              or, let us say, as so to speak?<lb n="52167"/></said></p>
               <p> Dixon turned aside from his group, saying: <lb n="52168"/>
               <said who="???">―Goggins was waiting for you, Glynn. He has gone round to <lb n="52169"/>
               the Adelphi to look for you and Moynihan. What have you <lb n="52170"/>
-              there? he asked, tapping the portfolio under Glynn's arm.<lb n="52171"/> </said>
+              there? he asked, tapping the portfolio under Glynn's arm.<lb n="52171"/> </said></p>
               <p> <said who="???">―Examination papers, Glynn answered. I give them monthly <lb n="52172"/>
               examinations to see that they are profiting by my tuition.<lb n="52173"/></said> </p>
               <p> He also tapped the portfolio and coughed gently and smiled. <lb n="52174"/>
@@ -8252,21 +8265,21 @@
               come?</said> Temple said, his eyes searching in Glynn's eyes.<lb n="52193"/> </p>
               <p> Glynn coughed and said gently, holding back with difficulty <lb n="52194"/>
               the nervous titter in his voice and moving his umbrella at every <lb n="52195"/>
-              word: <lb n="52196"/>
-              <said who="Glynn">―And, as you remark, if it is thus I ask emphatically whence <lb n="52197"/>
-              comes this thusness.<lb n="52198"/> </said>
+              word: <lb n="52196"/></p>
+              <p><said who="Glynn">―And, as you remark, if it is thus I ask emphatically whence <lb n="52197"/>
+              comes this thusness.<lb n="52198"/> </said></p>
               <said who="Temple">―Because the church is cruel like all old sinners,</said> Temple said.<lb n="52199"/>
               <said who="Dixon">―Are you quite orthodox on that point, Temple?</said> Dixon said <lb n="52200"/>
-              suavely.<lb n="52201"/> </said>
-              <said who="???">―Saint Augustine says that about unbaptised children going to <lb n="52202"/>
-              hell, Temple answered, because he was a cruel old sinner too.<lb n="52203"/> </said>
+              suavely.<lb n="52201"/>
+              <said who="Temple">―Saint Augustine says that about unbaptised children going to <lb n="52202"/>
+              hell,</said> Temple answered, <said who="Temple">because he was a cruel old sinner too.<lb n="52203"/> </said>
               <said who="Dixon">―I bow to you,</said> Dixon said, <said who="Dixon">but I had the impression that <lb n="52204"/>
               limbo existed for such cases.<lb n="52205"/> </said>
               <said who="Cranly">―Don't argue with him, Dixon,</said> Cranly said brutally. <said who="Cranly">Don't <lb n="52206"/>
               talk to him or look at him. Lead him home with a sugan the <lb n="52207"/>
               way you'd lead a bleating goat.<lb n="52208"/> </said>
               <said who="Temple">―Limbo!</said> Temple cried. <said who="Temple">That's a fine invention too. Like hell.<lb n="52209"/> </said>
-              <said who="???">―But with the unpleasantness left out,</said> Dixon said.<lb n="52210"/></p>
+              <said who="???">―But with the unpleasantness left out,</said> Dixon said.<lb n="52210"/>
               <p> He turned smiling to the others and said: <lb n="52211"/>
               <said who="???">―I think I am voicing the opinions of all present in saying so <lb n="52212"/>
               much.<lb n="52213"/> </said>
@@ -8281,14 +8294,14 @@
               out.<lb n="52222"/></p>
               Cranly made a swift step towards Temple, halted, stamping <lb n="52223"/>
               his foot and crying as if to a fowl: <lb n="52224"/>
-              <said who="Cranly">―Hoosh!<lb n="52225"/></said> </p>
+              <said who="Cranly">―Hoosh!<lb n="52225"/></said>
               Temple moved away nimbly. <lb n="52226"/>
               <said who="Temple">―Do you know what limbo is?</said> he cried. <said who="Temple">Do you know what <lb n="52227"/>
               we call a notion like that in Roscommon?<lb n="52228"/> </said>
               <said who="Cranly">―Hoosh! Blast you!</said> Cranly cried, clapping his hands.<lb n="52229"/>
               <said who="Temple">―Neither my arse nor my elbow!</said> Temple cried out scornfully. <lb n="52230"/>
               <said who="Temple">And that's what I call limbo.<lb n="52231"/> </said>
-              <said who="Cranly">―Give us that stick here,</said> Cranly said.<lb n="52232"/> </p>
+              <said who="Cranly">―Give us that stick here,</said> Cranly said.<lb n="52232"/>
               <p> He snatched the ashplant roughly from Stephen's hand and <lb n="52233"/>
               sprang down the steps: but Temple, hearing him move in pur- <lb n="52234"/>
               suit, fled through the dusk like a wild creature, nimble and <lb n="52235"/>
@@ -8667,8 +8680,9 @@
               his own loneliness which he feared. <lb n="52606"/>
               <said who="Stephen Dedalus">―Of whom are you speaking?</said> Stephen asked at length.<lb n="52607"/></p>
               <p> Cranly did not answer.<lb n="52608"/> </p>
-              <milestone unit="section" rend="asterixes"/>
-              </div> <!-- 5.3 --> <div n="5.4" type="section">
+            <milestone unit="section" rend="asterixes"/>
+        </div> <!-- 5.3 --> 
+        <div n="5.4" type="section">
               <p> <emph>20 March:</emph> Long talk with Cranly on the subject of my re- <lb n="52609"/>
               volt. He had his grand manner on. I supple and suave. Attacked <lb n="52610"/>
               me on the score of love for one's mother. Tried to imagine his <lb n="52611"/>
@@ -8858,9 +8872,9 @@
               good stead.<lb n="52792"/> </p>
               <p> <place><location><geo>53.342556 -6.259573</geo></location><placeName>Dublin</placeName></place>1904<lb n="52793"/> </p>
               <p> <place><location><geo>45.649526 13.776818</geo></location><placeName>Trieste</placeName></place> 1914<lb n="52794"/> </p>
-            </div><!-- 5.4 -->
-          </div><!-- Chapter 5 -->
+        </div><!-- 5.4 -->
+    </div><!-- Chapter 5 -->
 
-        </body>
-      </text>
-    </TEI>
+    </body>
+  </text>
+</TEI>
