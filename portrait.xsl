@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"> 
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-<xsl:template match="/"> 
+<xsl:template match="/">
 	<html>
-		<head> 
+		<head>
 		<link rel="stylesheet" href="portrait.css" />
 		<link href='https://fonts.googleapis.com/css?family=Droid+Serif' rel='stylesheet' type='text/css'/>
 		<script src="vendor/jquery-2.1.4.min.js"></script>
 		<script src="portrait.js"></script>
-		</head> 
+		</head>
 		<body>
 			<h1 class="mainTitle"><em>A Portrait of the Artist as a Young Man</em></h1>
 			<h2 class="mainTitle">James Joyce</h2>
@@ -19,11 +19,11 @@
 				<input type="checkbox" id="type" name="type" value="" checked="checked"/>Text genre (poem, song, prayer)<br/>
 				<input type="checkbox" id="lang" name="lang" value="" checked="checked"/>Language<br/>
 				<input type="checkbox" id="lineNumber" name="lineNumber" value="" checked="checked"/>Line numbers
-			</div> 
+			</div>
 			<xsl:apply-templates/>
 		</body>
 	</html>
-</xsl:template> 
+</xsl:template>
 
 <xsl:template match="TEI/teiHeader">
 	<div id="metadata">
@@ -44,11 +44,11 @@
 
 <xsl:template match="lb">
 	<xsl:apply-templates/>
-  <xsl:if test="@n mod 5 = 0" > 
+  <xsl:if test="@n mod 10 = 0" >
     <span class="tag lineNumber">
-      <xsl:value-of select="@n" />
+      <xsl:value-of select="number(substring(@n, 2))" />
     </span>
-  </xsl:if> 
+  </xsl:if>
   <br/>
 </xsl:template>
 
@@ -70,9 +70,9 @@
 	<h2 class="heading"><xsl:apply-templates/></h2>
 </xsl:template>
 
-<!-- Match <milestone unit="section" rend="asterixes"/> --> 
+<!-- Match <milestone unit="section" rend="asterixes"/> -->
 <xsl:template match="milestone">
-  <div class="divider">* * *</div> 
+  <div class="divider">* * *</div>
 </xsl:template>
 
 <xsl:template match="said">
@@ -86,7 +86,7 @@
 	<span class="tag dialog">
 		<xsl:value-of select="."/>
 	</span>
-</xsl:template> 
+</xsl:template>
 
 <xsl:template match="quote/ref">
   <span class="hide"><xsl:apply-templates/></span>
@@ -101,18 +101,18 @@
 <xsl:template match="@xml:lang">
 	<span class="tag lang">
 		<xsl:choose>
-			<xsl:when test=".='la'"> 
+			<xsl:when test=".='la'">
 				Latin
 			</xsl:when>
-			<xsl:when test=".='fr'"> 
+			<xsl:when test=".='fr'">
 				French
 			</xsl:when>
 			<xsl:otherwise>
 				<xsl:value-of select="."/>
 			</xsl:otherwise>
-		</xsl:choose> 
+		</xsl:choose>
 	</span>
-</xsl:template> 
+</xsl:template>
 
 <xsl:template match="lg[@type]">
 	<p class="lg">
@@ -124,7 +124,7 @@
 	<span class="tag type">
 		<xsl:value-of select="."/>
 	</span>
-</xsl:template> 
+</xsl:template>
 
 <!--<xsl:template match="TEI/teiHeader/fileDesc/titleStmt">-->
 	<!--<h1 id="bookTitle">-->
@@ -170,4 +170,4 @@
 	<!--</div>-->
 <!--</xsl:template>-->
 
-</xsl:stylesheet> 
+</xsl:stylesheet>
