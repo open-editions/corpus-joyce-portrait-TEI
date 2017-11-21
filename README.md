@@ -1,5 +1,9 @@
 # The Open Scholarly Edition of James Joyce’s _A Portrait of the Artist as a Young Man_
 
+[![DOI](https://zenodo.org/badge/35376693.svg)](https://zenodo.org/badge/latestdoi/35376693)
+
+[![Join the chat at https://gitter.im/open-editions/Lobby](https://badges.gitter.im/open-editions/Lobby.svg)](https://gitter.im/open-editions/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is the open scholarly edition of James Joyce's novel _A Portrait of the Artist as a Young Man_, richly annotated in semantic markup with TEI XML. 
 
 See a short presentation about it [here](http://jonreeve.com/presentations/portrait-xml/), and test a XSL-transformed prototype, containing a few of the text’s features, [here on netlify](https://joyce-portrait.netlify.com). The transformed prototype is not meant to be a canonical representation of the features of the edition—the main text of the edition is [portrait.xml](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/portrait.xml) in this repository.
@@ -19,10 +23,10 @@ These questions are easily answerable with very simple computational analyses, b
 When we see an epigraph, we mark it up as such. When we see dialog, we mark it as such and indicate who is speaking. When we correct an OCR or typographical error in the text, we document the reasons why. One error that appears in most print editions is the word "green"--Joyce meant for it to read "geen," indicating infantile pronunciation of the color word. We correct errors like this by referring to manuscripts.
 
 We also mark up:  
- * languages other than English
- * literary allusions
- * songs and prayers
- * latitude and longitude of locations 
+ - languages other than English
+ - literary allusions
+ - songs and prayers
+ - latitude and longitude of locations 
  - personal names
  - Joycean compound words
 
@@ -62,8 +66,12 @@ examples that he had learnt in Latin had run:
 <seg xml:lang="lat"><hi rend="italic">India mittit ebur</hi></seg>; 
 ```
 
+## Editorial Conventions
+
+ - Use unicode characters instead of XML entity codes, e.g. `–` instead of `&ndash;`. 
+ - Heal typographically-hyphenated (i.e. soft-hyphenated) words, at the expense, in some cases, of line numbering.
+ 
 ## How to contribute:
 
 See [CONTRIBUTING.md](https://github.com/JonathanReeve/corpus-joyce-portrait-TEI/blob/gh-pages/CONTRIBUTING.md). 
 
-[![Join the chat at https://gitter.im/corpus-joyce-portrait-TEI/Lobby](https://badges.gitter.im/corpus-joyce-portrait-TEI/Lobby.svg)](https://gitter.im/corpus-joyce-portrait-TEI/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
